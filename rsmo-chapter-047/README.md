@@ -2,4 +2,4 @@
 
 Current text source date: 1986-08-28.
 
-Labelled date correction: rsmo-chapter-047 1986-08-28..2026-11-01.
+Labelled date correction: rsmo-chapter-047 2026-11-02...
