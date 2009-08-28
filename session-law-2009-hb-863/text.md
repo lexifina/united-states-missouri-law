@@ -1,0 +1,94 @@
+HB 863   [HCS HB 863]
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+Establishes the Child Witness Protection Act that applies to certain children seventeen
+years of age or younger who are testifying in any judicial proceeding
+AN ACT to amend chapter 491, RSMo, by adding thereto one new section relating to the child
+witness protection act. 
+SECTION
+A.
+Enacting clause.
+491.725.
+Citation of law — definitions — applicability.
+House Bill 863
+855
+Be it enacted by the General Assembly of the state of Missouri, as follows: 
+SECTION A.  ENACTING CLAUSE. — Chapter 491, RSMo, is amended by adding thereto
+one new section, to be known as section 491.725, to read as follows: 
+491.725.  CITATION OF LAW — DEFINITIONS — APPLICABILITY. — 1.  This section shall
+be known and may be cited as the "Child Witness Protection Act". 
+2.  As used in this section, the following terms shall mean: 
+(1)  "Child", a person fourteen years of age or under, or at the discretion of the court,
+a person fifteen to seventeen years of age, who is a witness in any judicial proceeding
+under chapter 452 or 453, RSMo, or the alleged victim or witness in any judicial
+proceeding under chapter 455, 565, 566, or 568, RSMo. The court shall make written
+findings on the record when a child fifteen to seventeen years of age is included under this
+subdivision.  "Victim" or "witness" shall not include any child accused of committing a
+felony; however, these terms may, in the court's discretion, include: 
+(a)  A child where such child's participation in a felony appears to have been induced,
+coerced, or unwilling; or 
+(b)  A child who has participated in the felony, but who has subsequently and
+voluntarily agreed to testify on behalf of the state; 
+(2)  "Support person", an adult, designated by the court to serve as a support person,
+who is known to the child victim or witness and who has no direct legal or pecuniary
+interest in the outcome of the judicial proceeding. 
+3.  In order to facilitate testimony that is fair and accurate, for the benefit of all
+parties, and in order to protect all parties from the risks of a child becoming confused
+while testifying in a judicial proceeding, the following child witness protection act shall
+apply to all children testifying in court: 
+(1)  Whether at a competency hearing or trial itself, the judge shall ensure that any
+oath that is required of a child shall be administered in such a manner that the child may
+fully understand his or her duty to tell the truth; 
+(2)  The court shall take care to ensure that questions are stated in a form which is
+appropriate to the age of the child.  The court shall explain to the child that if he or she
+does not understand a question, the child has the right to say that he or she does not
+understand the question and to have the question restated in a form that the child does
+understand; 
+(3)  In the court's discretion, the taking of testimony from a child victim or witness
+may be limited in duration or limited to normal school hours.  The court may order a
+recess when the energy, comfort, or attention span of the child warrants; 
+(4)  Upon motion made by the child, his or her representative, or any party to the
+judicial proceeding, at least thirty days in advance of the judicial proceeding, the court
+may allow the child to have a toy, blanket, or similar item in his or her possession while
+testifying, but such item shall only be allowed if: 
+(a)  All parties agree; or 
+(b)  If the movant shows the court by a preponderance of evidence that: 
+a.  The child in question cannot reliably testify without the item in his or her
+possession; and 
+b.  Allowing the item is not likely to prejudice the trier of fact in hearing and
+evaluating the child's testimony; 
+(5)  Upon motion made by the child, his or her representative, or any party to the
+judicial proceeding, at least thirty days in advance of the judicial proceeding, the court
+may designate a support person, who shall be present in the courtroom, in view of the
+child witness.  The court may allow the support person to remain in close proximity to the
+child during the child's testimony, but such action shall only be allowed if:
+856
+Laws of Missouri, 2009
+(a)  All parties agree; or 
+(b)  If the movant shows the court by a preponderance of the evidence that: 
+a.  The child in question cannot reliably testify without the support person in close
+proximity during the testimony; and 
+b.  Allowing the support person to be in close proximity to the child during testimony
+is not likely to prejudice the trier of fact in hearing and evaluating the child's testimony.
+The support person shall not obscure the child from the view of the defendant or the trier
+of fact.  A support person shall not provide the child with an answer to any question
+directed to the child during the course of the child's testimony or otherwise prompt the
+child or otherwise influence the testimony of the child.  If the support person attempts to
+influence or affect in any manner the testimony of the child victim or witness during the
+giving of testimony or at any other time, the court shall exclude that support person, refer
+the matter of misconduct of the support person to the prosecuting attorney, and designate
+an alternative support person; 
+(6)  The court shall prevent intimidation or harassment of the child witness by the
+parties or their attorneys.  Insofar as it is consistent with the constitutional rights of the
+parties to confront and cross-examine adverse witnesses, the judge may rephrase any
+questions in order to prevent any such intimidation or harassment; and 
+(7)  Upon its own motion or the motion of any party to the judicial proceeding, at least
+thirty days in advance of the judicial proceeding, the court may order such
+accommodations as are appropriate under the circumstances to ensure the comfort of the
+child victim or witness, including the following measures: 
+(a)  Adjusting the layout of the courtroom; 
+(b)  Conducting the proceedings outside the normal courtroom; or 
+(c)  Relaxing the formalities of the proceedings; provided that, such measures are
+consistent with the rights of all parties under the constitution and laws of the United States
+and the State of Missouri. 
+Approved July 9, 2009
