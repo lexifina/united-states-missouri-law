@@ -1,0 +1,89 @@
+HB 432   [HB 432]
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+Authorizes the Missouri Public Service Commission to appear, participate, and intervene
+in any federal, state, or other administrative, regulatory, or judicial proceeding
+House Bill 432
+761
+AN ACT to repeal section 386.210, RSMo, and to enact in lieu thereof one new section relating
+to the public service commission.
+SECTION
+A. Enacting clause.
+386.210. Conferences, limitation on communications — cooperative agreements, investigations authorized —
+funds may be received and distributed, how — regulatory and judicial proceedings, intervening
+permitted.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+SECTION A.  ENACTING CLAUSE. — Section 386.210, RSMo, is repealed and one new
+section enacted in lieu thereof, to be known as section 386.210, to read as follows:
+386.210.  CONFERENCES, LIMITATION ON COMMUNICATIONS — COOPERATIVE
+AGREEMENTS, INVESTIGATIONS AUTHORIZED — FUNDS MAY BE RECEIVED AND
+DISTRIBUTED, HOW — REGULATORY AND JUDICIAL PROCEEDINGS, INTERVENING
+PERMITTED. — 1.  The commission may confer in person, or by correspondence, by attending
+conventions, or in any other way, with the members of the public, any public utility or similar
+commission of this and other states and the United States of America, or any official, agency or
+instrumentality thereof, on any matter relating to the performance of its duties.
+2.
+Such communications may address any issue that at the time of such communication
+is not the subject of a case that has been filed with the commission.
+3.
+Such communications may also address substantive or procedural matters that are the
+subject of a pending filing or case in which no evidentiary hearing has been scheduled, provided
+that the communication:
+(1) Is made at a public agenda meeting of the commission where such matter has been
+posted in advance as an item for discussion or decision;
+(2) Is made at a forum where representatives of the public utility affected thereby, the
+office of public counsel, and any other party to the case are present; or 
+(3) If made outside such agenda meeting or forum, is subsequently disclosed to the public
+utility, the office of the public counsel, and any other party to the case in accordance with the
+following procedure:
+(a) If the communication is written, the person or party making the communication shall
+no later than the next business day following the communication file a copy of the written
+communication in the official case file of the pending filing or case and serve it upon all parties
+of record;
+(b) If the communication is oral, the party making the oral communication shall no later
+than the next business day following the communication file a memorandum in the official case
+file of the pending case disclosing the communication and serve such memorandum on all parties
+of record.  The memorandum must contain a summary of the substance of the communication
+and not merely a listing of the subjects covered.
+4.
+Nothing in this section or any other provision of law shall be construed as imposing
+any limitation on the free exchange of ideas, views, and information between any person and the
+commission or any commissioner, provided that such communications relate to matters of
+general regulatory policy and do not address the merits of the specific facts, evidence, claims, or
+positions presented or taken in a pending case unless such communications comply with the
+provisions of subsection 3 of this section.
+5.
+The commission and any commissioner may also advise any member of the general
+assembly or other governmental official of the issues or factual allegations that are the subject
+of a pending case, provided that the commission or commissioner does not express an opinion
+as to the merits of such issues or allegations, and may discuss in a public agenda meeting with
+parties to a case in which an evidentiary hearing has been scheduled, any procedural matter in
+762
+Laws of Missouri, 2013
+such case or any matter relating to a unanimous stipulation or agreement resolving all of the
+issues in such case.
+6.
+The commission may enter into and establish fair and equitable cooperative agreements
+or contracts with or act as an agent or licensee for the United States of America, or any official,
+agency or instrumentality thereof, or any public utility or similar commission of other states, that
+are proper, expedient, fair and equitable and in the interest of the state of Missouri and the
+citizens thereof, for the purpose of carrying out its duties pursuant to section 386.250 as limited
+and supplemented by section 386.030 and to that end the commission may receive and disburse
+any contributions, grants or other financial assistance as a result of or pursuant to such
+agreements or contracts.  Any contributions, grants or other financial assistance so received shall
+be deposited in the public service commission utility fund or the state highway commission fund
+depending upon the purposes for which they are received.
+7.
+The commission may make joint investigations, hold joint hearings within or without
+the state, and issue joint or concurrent orders in conjunction or concurrence with any railroad,
+public utility or similar commission, of other states or the United States of America, or any
+official, agency or any instrumentality thereof, except that in the holding of such investigations
+or hearings, or in the making of such orders, the commission shall function under agreements
+or contracts between states or under the concurrent power of states to regulate interstate
+commerce, or as an agent of the United States of America, or any official, agency or
+instrumentality thereof, or otherwise.
+8.
+The commission may appear, participate, and intervene in any federal, state, or
+other administrative, regulatory, or judicial proceeding.  This subsection applies to all
+proceedings now pending or commenced after August 28, 2013.
+Approved July 3, 2013
