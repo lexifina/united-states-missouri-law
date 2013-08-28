@@ -1,0 +1,100 @@
+Senate Bill 376
+1317
+conveyance of such property to a third person.  For claims involving the rental of machinery or
+equipment [to others who use the rental machinery or equipment], the lien shall be for the
+reasonable rental value of the machinery or equipment during the period of actual use and any
+periods of nonuse taken into account in the rental contract, while the machinery or equipment
+is on the property in question.
+2.
+There shall be no lien involving the rental of machinery or equipment unless:
+(1) The improvements are made on commercial property;
+(2) The amount of the claim exceeds five thousand dollars; and
+(3) The party claiming the lien provides written notice within [five] fifteen business days
+of the commencement of the use of the rental machinery or equipment to the property owner that
+rental machinery or equipment is being used upon their property.  Such notice shall identify the
+name of the entity that rented the machinery or equipment[,] and the machinery or equipment
+being rented[, and the rental rate].
+Nothing contained in this subsection shall apply to persons who use rented machinery or
+equipment in performing the work or labor described in subsection 1 of this section.
+Approved June 28, 2013
+SB 376   [SCS SB 376]
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in this bill is not enacted and is intended
+to be omitted in the law.
+Allows hospital districts to permit higher education institutions to use space for health care
+education or training
+AN ACT to repeal section 206.110, RSMo, and to enact in lieu thereof one new section relating
+to the powers of hospital districts.
+SECTION
+A. Enacting clause.
+206.110. Powers of hospital district.
+Be it enacted by the General Assembly of the State of Missouri, as follows:
+SECTION A.  ENACTING CLAUSE. — Section 206.110, RSMo, is repealed and one new
+section enacted in lieu thereof, to be known as section 206.110, to read as follows:
+206.110.  POWERS OF HOSPITAL DISTRICT. — 1.  A hospital district, both within and
+outside such district, except in counties of the third or fourth classification (other than within the
+district boundaries) where there already exists a hospital organized pursuant to chapters 96, 205
+or this chapter; provided, however, that this exception shall not prohibit the continuation or
+expansion of existing activities otherwise allowed by law, shall have and exercise the following
+governmental powers, and all other powers incidental, necessary, convenient or desirable to carry
+out and effectuate the express powers:
+(1) To establish and maintain a hospital or hospitals and hospital facilities, and to construct,
+acquire, develop, expand, extend and improve any such hospital or hospital facility including
+medical office buildings to provide offices for rental to physicians and dentists on the district
+hospital's medical or dental staff, and the providing of sites therefor, including offstreet parking
+space for motor vehicles;
+(2) To acquire land in fee simple, rights in land and easements upon, over or across land
+and leasehold interest in land and tangible and intangible personal property used or useful for the
+1318
+Laws of Missouri, 2013
+location, establishment, maintenance, development, expansion, extension or improvement of any
+hospital or hospital facility.  The acquisition may be by dedication, purchase, gift, agreement,
+lease, use or adverse possession or by condemnation;
+(3) To operate, maintain and manage a hospital and hospital facilities, and to make and
+enter into contracts, for the use, operation or management of a hospital or hospital facilities; to
+engage in health care activities; and to make and enter into leases of equipment and real property,
+a hospital or hospital facilities, as lessor or lessee, regardless of the duration of such lease; and
+to provide rules and regulations for the operation, management or use of a hospital or hospital
+facilities.  Any agreement entered into pursuant to this subsection pertaining to the lease of the
+hospital shall have a definite termination date as negotiated by the parties, but this shall not
+preclude the trustees from entering into a renewal of the agreement with the same or other parties
+pertaining to the same or other subjects upon such terms and conditions as the parties may agree;
+(4) To fix, charge and collect reasonable fees and compensation for the use or occupancy
+of the hospital or any part thereof, or any hospital facility, and for nursing care, medicine,
+attendance, or other services furnished by the hospital or hospital facilities, according to the rules
+and regulations prescribed by the board from time to time;
+(5) To borrow money and to issue bonds, notes, certificates, or other evidences of
+indebtedness for the purpose of accomplishing any of its corporate purposes, subject to
+compliance with any condition or limitation set forth in this chapter or otherwise provided by the
+Constitution of the state of Missouri;
+(6) To employ or enter into contracts for the employment of any person, firm, or
+corporation, and for professional services, necessary or desirable for the accomplishment of the
+corporate objects of the district or the proper administration, management, protection or control
+of its property;
+(7) To maintain the hospital for the benefit of the inhabitants of the area comprising the
+district who are sick, injured, or maimed regardless of race, creed or color, and to adopt such
+reasonable rules and regulations as may be necessary to render the use of the hospital of the
+greatest benefit to the greatest number; to exclude from the use of the hospital all persons who
+willfully disregard any of the rules and regulations so established; to extend the privileges and
+use of the hospital to persons residing outside the area of the district upon such terms and
+conditions as the board of directors prescribes by its rules and regulations;
+(8) To police its property and to exercise police powers in respect thereto or in respect to
+the enforcement of any rule or regulation provided by the ordinances of the district and to
+employ and commission police officers and other qualified persons to enforce the same;
+(9) To lease to or allow for any institution of higher education to use or occupy the
+hospital, any real estate or facility owned or leased by the district or any part thereof for
+the purpose of health care related and general education or training.
+2.
+The use of any hospital or hospital facility of a district shall be subject to the reasonable
+regulation and control of the district and upon such reasonable terms and conditions as shall be
+established by its board of directors.
+3.
+A regulatory ordinance of a district adopted under any provision of this section may
+provide for a suspension or revocation of any rights or privileges within the control of the district
+for a violation of any such regulatory ordinance.
+4.
+Nothing in this section or in other provisions of this chapter shall be construed to
+authorize the district or board to establish or enforce any regulation or rule in respect to
+hospitalization or the operation or maintenance of such hospital or any hospital facilities within
+its jurisdiction which is in conflict with any federal or state law or regulation applicable to the
+same subject matter.
+Approved May 16, 2013
