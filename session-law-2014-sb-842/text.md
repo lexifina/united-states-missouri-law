@@ -1,0 +1,57 @@
+SB 842 [SB 842]
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in this bill is not enacted and is intended
+to be omitted in the law.
+Modifies the authority of the Director of the Department of Revenue to conduct diesel fuel
+inspections
+AN ACT to repeal section 142.941, RSMo, and to enact in lieu thereof one new section
+relating to diesel fuel inspections.
+SECTION
+A. Enacting clause.
+142.941. Inspections, requirements, limitations.
+Be it enacted by the General Assembly of the State of Missouri, as follows:
+SECTION A.  ENACTING CLAUSE. — Section 142.941, RSMo, is repealed and one new
+section enacted in lieu thereof, to be known as section 142.941, to read as follows:
+142.941.  INSPECTIONS, REQUIREMENTS, LIMITATIONS. — 1.  The director, his or her
+agents or appointees, including federal government employees or persons operating under
+Senate Bill 844
+1753
+contract with this state, upon presenting appropriate credentials may conduct inspections and
+remove samples of fuel to determine the coloration of diesel fuel, or to identify shipping paper
+violations at any place where motor fuel is or may be produced, stored or loaded into transport
+vehicles.  Inspections shall be performed in a reasonable manner consistent with the
+circumstances, but in no event is prior notice required.  Inspectors may physically inspect,
+examine or otherwise search any tank, reservoir, or other container that can or might be used for
+the production, storage, or transportation of fuel.  Inspections may be made of any equipment
+used for, or in connection with, the production, storage, or transportation of fuel.  Upon demand
+by the inspectors all shipping papers, documents and records required to be kept by a person
+transporting fuel shall be produced for immediate inspection.  The places where inspections may
+occur include, but are not limited to:
+(1)  A terminal;
+(2)  A fuel storage facility that is not a terminal;
+(3)  A retail fuel facility;
+(4)  Highway rest stops; or
+(5)  A designated inspection site.  For purposes of this section, a "designated inspection site"
+means any state highway or waterway inspection station, weigh station, agricultural inspection
+station, mobile station, or other location designated by the director, either fixed or mobile.
+2.  Notwithstanding the provisions of subsection 1 of this section to the contrary, in
+no event shall the director, his agents or appointees, including federal government
+employees or persons operating under contract with this state, conduct inspections and
+remove samples of fuel to determine the coloration of diesel fuel from any individual who
+is not holding the fuel for wholesale or retail sale, and who is not located at a terminal, a
+fuel storage facility that is not a terminal, a retail fuel facility, a highway rest stop, or a
+designated inspection site, unless the director, his or her agents or appointees, including
+federal government employees or persons operating under contract with this state, have
+reasonable suspicion to believe that violations under this chapter are being committed at
+a location not listed in this subsection.
+3.  Inspections to determine violations under this chapter may be conducted by the agents
+and appointees of the director, the Missouri department of public safety, the Missouri
+department of agriculture, and motor carrier inspectors in this state in addition to their duties
+otherwise defined, and any other law enforcement officer through procedures established by the
+director.  Agents and appointees of the director have the same power and authority provided to
+authorized personnel under the applicable statute.
+[3.]  4.  Inspectors may reasonably detain any person or equipment transporting fuel in or
+through this state for the purpose of determining whether the person is operating in compliance
+with the provisions of this chapter and any rules and regulations promulgated pursuant to this
+chapter. Detainment may continue for such time only as is necessary to determine whether the
+person is in compliance.
+Approved June 30, 2014
