@@ -1,0 +1,37 @@
+SB 504   [HCS SB 504]
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in this bill is not enacted and is intended
+to be omitted in the law.
+Requires state agencies to post proposed rules, summaries, and fiscal notes on their
+websites
+AN ACT to repeal section 536.016, RSMo, and to enact in lieu thereof one new section
+relating to the availability of proposed rules on the internet.
+SECTION
+A. Enacting clause.
+536.016. Requirements for rulemaking — proposed rules to be made available on agency website.
+Be it enacted by the General Assembly of the State of Missouri, as follows:
+SECTION A.  ENACTING CLAUSE. — Section 536.016, RSMo, is repealed and one new
+section enacted in lieu thereof, to be known as section 536.016, to read as follows:
+536.016.  REQUIREMENTS FOR RULEMAKING — PROPOSED RULES TO BE MADE
+AVAILABLE ON AGENCY WEBSITE. — 1.  Any state agency shall propose rules based upon
+substantial evidence on the record and a finding by the agency that the rule is necessary to carry
+out the purposes of the statute that granted such rulemaking authority.
+2.  Each state agency shall adopt procedures by which it will determine whether a rule is
+necessary to carry out the purposes of the statute authorizing the rule.  Such criteria and
+rulemaking shall be based upon reasonably available empirical data and shall include an
+assessment of the effectiveness and the cost of rules both to the state and to any private or public
+person or entity affected by such rules.
+1414
+Laws of Missouri, 2014
+3.  Each state agency shall make publicly available proposed rules on the home page
+of its official internet website by providing a hyperlink entitled "proposed rules".  This
+hyperlink shall grant access to an internet page which shall provide the following
+information for each proposed rule within one business day of when such rule is
+published in the Missouri register:
+(1)  The text of the proposed rule as filed with the secretary of state pursuant to
+section 536.021, including any fiscal notes;
+(2)  A summary which shall be a concise statement not exceeding one hundred words
+using language neither intentionally argumentative nor likely to create prejudice either for
+or against the proposed rule; and
+(3)  A direct hyperlink to the full text of the proposed rule located in the Missouri
+register and all material incorporated by reference on the secretary of state's website.
+Approved July 2, 2014
