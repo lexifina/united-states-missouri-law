@@ -1,0 +1,82 @@
+HB 1685   [CCS#2 SS HCS HB 1685]
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+Allows physicians to prescribe certain investigational drugs, biological products, or devices
+to certain eligible terminally ill patients
+AN ACT to amend chapter 191, RSMo, by adding thereto one new section relating to the use
+of investigational drugs.
+SECTION
+A. Enacting clause.
+191.480. Manufacturers may make investigational drugs and devices available to eligible patients, when —
+definitions — requirements.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+SECTION A.  ENACTING CLAUSE. — Chapter 191, RSMo, is amended by adding thereto
+one new section, to be known as section 191.480, to read as follows:
+834
+Laws of Missouri, 2014
+191.480.  MANUFACTURERS MAY MAKE INVESTIGATIONAL DRUGS AND DEVICES
+AVAILABLE TO ELIGIBLE PATIENTS, WHEN — DEFINITIONS — REQUIREMENTS. — 1.  For
+purposes of this section, the following terms shall mean:
+(1)  "Eligible patient", a person who meets all of the following:
+(a)  Has a terminal illness;
+(b)  Has considered all other treatment options currently approved by the United
+States Food and Drug Administration and all relevant clinical trials conducted in this
+state;
+(c)  Has received a prescription or recommendation from the person's physician for
+an investigational drug, biological product, or device;
+(d)  Has given written informed consent which shall be at least as comprehensive as
+the consent used in clinical trials for the use of the investigational drug, biological product,
+or device or, if the patient is a minor or lacks the mental capacity to provide informed
+consent, a parent or legal guardian has given written informed consent on the patient's
+behalf; and
+(e)  Has documentation from the person's physician that the person has met the
+requirements of this subdivision;
+(2)  "Investigational drug, biological product, or device", a drug, biological product,
+or device, any of which are used to treat the patient's terminal illness, that has successfully
+completed phase one of a clinical trial but has not been approved for general use by the
+United States Food and Drug Administration and remains under investigation in a clinical
+trial.  The term shall not include Schedule I controlled substances;
+(3)  "Terminal illness", a disease that without life-sustaining procedures will result in
+death in the near future or a state of permanent unconsciousness from which recovery is
+unlikely.
+2.  A manufacturer of an investigational drug, biological product, or device may make
+available the manufacturer's investigational drug, biological product, or device to eligible
+patients under this section.  This section does not require that a manufacturer make
+available an investigational drug, biological product, or device to an eligible patient.  A
+manufacturer may:
+(1)  Provide an investigational drug, biological product, or device to an eligible patient
+without receiving compensation; or
+(2)  Require an eligible patient to pay the costs of or associated with the manufacture
+of the investigational drug, biological product, or device.
+3.  This section does not require a health care insurer to provide coverage for the cost
+of any investigational drug, biological product, or device.  A health care insurer may
+provide coverage for an investigational drug, biological product, or device.
+4.  This section does not require the department of corrections to provide coverage
+for the cost of any investigational drug, biological product, or device.
+5.  Notwithstanding any other provision of law to the contrary, no state agency or
+regulatory board shall revoke, fail to renew, or take any other action against a physician's
+license issued under chapter 334 based solely on the physician's recommendation to an
+eligible patient regarding prescription for or treatment with an investigational drug,
+biological product, or device. Action against a health care provider's Medicare certification
+based solely on the health care provider's recommendation that a patient have access to
+an investigational drug, biological product, or device is prohibited.
+6.  If a provision of this section or its application to any person or circumstance is held
+invalid, the invalidity does not affect other provisions or applications of this section that
+can be given effect without the invalid provision or application, and to this end the
+provisions of this section are severable.
+7.  If the clinical trial is closed due to lack of efficacy or toxicity, the drug shall not be
+offered.  If notice is given on a drug, product, or device taken by a patient outside of a
+House Bill 1689
+835
+clinical trial, the pharmaceutical company or patient's physician shall notify the patient
+of the information from the safety committee of the clinical trial.
+8.  Except in the case of gross negligence or willful misconduct, any person who
+manufactures, imports, distributes, prescribes, dispenses, or administers an investigational
+drug or device to an eligible patient with a terminal illness in accordance with this section
+shall not be liable in any action under state law for any loss, damage, or injury arising out
+of, relating to, or resulting from:
+(1)  The design, development, clinical testing and investigation, manufacturing,
+labeling, distribution, sale, purchase, donation, dispensing, prescription, administration,
+or use of the drug or device; or
+(2)  The safety or effectiveness of the drug or device.
+Approved July 14, 2014
