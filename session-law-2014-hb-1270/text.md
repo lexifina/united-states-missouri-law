@@ -1,0 +1,47 @@
+HB 1270   [SS SCS HB 1270]
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+Requires specified disclosures on new credit card processing service contracts
+House Bill 1298
+385
+AN ACT to amend chapter 407, RSMo, by adding thereto one new section relating to credit
+card processing services.
+SECTION
+A. Enacting clause.
+407.1400. Processing services agreements, required disclosures — inapplicability, when.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+SECTION A.  ENACTING CLAUSE. — Chapter 407, RSMo, is amended by adding thereto
+one new section, to be known as section 407.1400, to read as follows:
+407.1400.  PROCESSING SERVICES AGREEMENTS, REQUIRED DISCLOSURES —
+INAPPLICABILITY, WHEN. — 1.  Any person or entity that offers a credit card processing
+service in this state shall disclose the following information on any contract or agreement
+to render a credit card processing service:
+(1)  The effective date of the contract;
+(2)  The term of the contract;
+(3)  The amount of any monthly minimum fee or charge for the credit card processing
+service; and
+(4)  The amount of any fee or charge for terminating the contract or agreement.
+2.  The disclosures required in subsection 1 of this section and any other terms and
+conditions pertaining to the use of the credit card processing service shall be printed in
+eight-point font at a minimum.
+3.  Nothing in this section shall limit the rights or remedies that are otherwise available
+to a person or an entity that has contracted with a credit card processing service.
+4.  The obligations of this section are cumulative and do not limit the obligations
+imposed under any other state or federal law.
+5.  The provisions of this section shall not apply to:
+(1)  A state bank or a state savings association that offers a credit card processing
+service or is a party to a contract that offers a credit card processing service; or
+(2)  A national bank or a national savings association that offers a credit card
+processing service or a party to a contract that offers a credit card processing service in
+connection with a national bank or national savings association; or
+(3)  The parent, affiliate, or subsidiary of any bank or savings association that offers
+a credit card processing service; or
+(4)  A credit union that offers a credit card processing service or is a party to a
+contract that offers a credit card processing service; or
+(5)  The parent, affiliate, or subsidiary of any credit union that offers a credit card
+processing service; or
+(6)  A trade or business organization or association that offers a credit card processing
+service or is a party to a contract that offers a credit card processing service.
+6.  The provisions of this section shall only apply to new contracts entered into after
+August 28, 2014.
+Approved June 27, 2014
