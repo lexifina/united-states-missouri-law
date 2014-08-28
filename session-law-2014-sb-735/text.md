@@ -1,0 +1,52 @@
+SB 735 [SCS SB 735]
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in this bill is not enacted and is intended
+to be omitted in the law.
+Establishes Duty to inform campground guests of campground policies and establishes
+causes for which a campground owner can remove a person from a campground
+and a penalty for failure to leave
+AN ACT to amend chapter 419, RSMo, by adding thereto one new section relating to
+campgrounds, with penalty provisions.
+SECTION
+A. Enacting clause.
+419.090. Campground curfew, alcohol and tobacco use, and pet policies to be posted in high traffic area — owner
+may eject persons, when — person guilty of trespass, when — refund, when — inapplicability to state
+parks.
+Be it enacted by the General Assembly of the State of Missouri, as follows:
+SECTION A.  ENACTING CLAUSE. — Chapter 419, RSMo, is amended by adding thereto
+one new section, to be known as section 419.090, to read as follows:
+1642
+Laws of Missouri, 2014
+419.090.  CAMPGROUND CURFEW, ALCOHOL AND TOBACCO USE, AND PET POLICIES TO
+BE POSTED IN HIGH TRAFFIC AREA — OWNER MAY EJECT PERSONS, WHEN — PERSON
+GUILTY OF TRESPASS, WHEN — REFUND, WHEN — INAPPLICABILITY TO STATE PARKS. —
+1.  For purposes of this section, the following terms shall mean:
+(1)  "Campground", any parcel or tract of land, including buildings and other
+structures, where five or more campsites are made available for use as temporary living
+quarters for recreational, camping, travel, or seasonal use.  The term "campground" shall
+also include recreational vehicle parks;
+(2)  "Campground owner", the owner or operator of a campground or an agent of
+such owner or operator.
+2.  A campground owner shall post in a high traffic area on the campground or
+distribute to registered guests or visitors of the campground a written policy on
+campground curfew, alcohol use, tobacco use, and pet policy.
+3.  A campground owner may eject a person from the campground and notify the
+appropriate local law enforcement authorities of any person who:
+(1)  Is not a registered guest or visitor of the campground;
+(2)  Remains on the campground beyond an agreed-upon departure time and date;
+(3)  Defaults in the payment of any lawfully imposed registration or visitor fee or
+charge;
+(4)  Creates a disturbance that denies other persons their right to quiet enjoyment of
+the campground necessary for the preservation of public peace, health, and safety; or
+(5)  Violates any federal, state, or local law.
+4.  A person who remains on a campground after having been asked to leave by a
+campground owner for violating any of the provisions of subsection 3 of this section shall
+be guilty of trespass in the first degree under section 569.140 and subject to the penalties
+therein and may be removed summarily by the campground owner or a law
+enforcement officer.
+5.  A person who is removed from a campground under subsection 4 of this section
+shall be entitled to a refund of the unused portion of any prepaid fees, less any amount
+otherwise owed to the campground owner or deducted for damages, which unused
+portion of prepaid fees may be prorated at a rate that is based upon the daily rate charged
+by the campground owner.
+6.  The provisions of this section shall not apply to any Missouri state park.
+Approved July 8, 2014
