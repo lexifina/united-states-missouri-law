@@ -1,0 +1,114 @@
+SB 818 [SB 818]
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in this bill is not enacted and is intended
+to be omitted in the law.
+Expands allowable uses for aviation trust fund moneys and modifies requirements for
+specified limited uses
+AN ACT to repeal section 305.230, RSMo, and to enact in lieu thereof one new section
+relating to the state aviation trust fund.
+SECTION
+A. Enacting clause.
+305.230. Aeronautics program, highways and transportation commission to administer — purposes — aviation
+trust fund, administration, uses — appropriation — immediate availability of funds in the event of a
+disaster.
+Be it enacted by the General Assembly of the State of Missouri, as follows:
+SECTION A.  ENACTING CLAUSE. — Section 305.230, RSMo, is repealed and one new
+section enacted in lieu thereof, to be known as section 305.230, to read as follows:
+305.230.  AERONAUTICS PROGRAM, HIGHWAYS AND TRANSPORTATION COMMISSION
+TO ADMINISTER — PURPOSES — AVIATION TRUST FUND, ADMINISTRATION, USES —
+APPROPRIATION — IMMEDIATE AVAILABILITY OF FUNDS IN THE EVENT OF A DISASTER. —
+1.  The state highways and transportation commission shall administer an aeronautics program
+within this state.  The commission shall encourage, foster and participate with the political
+subdivisions of this state in the promotion and development of aeronautics.  The commission
+may provide financial assistance in the form of grants from funds appropriated for such purpose
+to any political subdivision or instrumentality of this state acting independently or jointly or to
+the owner or owners of any privately owned airport designated as a reliever by the Federal
+Aviation Administration for the planning, acquisition, construction, improvement or maintenance
+of airports, or for other aeronautical purposes.
+2.  Any political subdivision or instrumentality of this state or the owner or owners of any
+privately owned airport designated as a reliever by the Federal Aviation Administration
+receiving state funds for the purchase, construction, or improvement, except maintenance, of an
+airport shall agree before any funds are paid to it to control by ownership or lease the airport for
+Senate Bill 818
+1751
+a period equal to the useful life of the project as determined by the commission following the last
+payment of state or federal funds to it.  In the event an airport authority ceases to exist for any
+reason, this obligation shall be carried out by the governing body which created the authority.
+3.  Unless otherwise provided, grants to political subdivisions, instrumentalities or to the
+owner or owners of any privately owned airport designated as a reliever by the Federal Aviation
+Administration shall be made from the aviation trust fund.  In making grants, the commission
+shall consider whether the local community has given financial support to the airport in the past. 
+Priority shall be given to airports with local funding for the past five years with no reduction in
+such funding.  The aviation trust fund is a revolving trust fund exempt from the provisions of
+section 33.080 relating to the transfer of funds to the general revenue funds of the state by the
+state treasurer.  All interest earned upon the balance in the aviation trust fund shall be deposited
+to the credit of the same fund.
+4.  The moneys in the aviation trust fund shall be administered by the commission and,
+when appropriated, shall be used for the following purposes:
+(1)  As matching funds on an up to ninety percent state/ten percent local basis, except in the
+case where federal funds are being matched, when the ratio of state and local funds used to
+match the federal funds shall be fifty percent state/fifty percent local:
+(a)  For preventive maintenance of runways, taxiways and aircraft parking areas, and for
+emergency repairs of the same;
+(b)  For the acquisition of land for the development and improvement of airports;
+(c)  For the earthwork and drainage necessary for the construction, reconstruction or repair
+of runways, taxiways, and aircraft parking areas;
+(d)  For the construction, or restoration of runways, taxiways, or aircraft parking areas;
+(e)  For the acquisition of land or easements necessary to satisfy Federal Aviation
+Administration safety requirements;
+(f)  For the identification, marking or removal of natural or manmade obstructions to airport
+control zone surfaces and safety areas;
+(g)  For the installation of runway, taxiway, boundary, ramp, or obstruction lights, together
+with any work directly related to the electrical equipment;
+(h)  For the erection of fencing on or around the perimeter of an airport;
+(i)  For purchase, installation or repair of air navigational and landing aid facilities and
+communication equipment;
+(j)  For engineering related to a project funded under the provisions of this section and
+technical studies or consultation related to aeronautics;
+(k)  For airport planning projects including master plans and site selection for development
+of new airports, for updating or establishing master plans [and], airport layout plans, airport
+business plans, and strategic plans at existing airports;
+(l)  For the purchase, installation, or repair of safety equipment and such other capital
+improvements and equipment as may be required for the safe and efficient operation of the
+airport;
+(m)  If at least [six] four million five hundred thousand dollars is deposited into the
+aviation trust fund in the previous calendar year, [up to two million dollars may be expended
+annually upon] funds may be spent for the study or promotion of expanded domestic or
+international scheduled commercial service, the study or promotion of intrastate scheduled
+commercial service, the promotion of aviation in the state, or to assist airport sponsors
+participating in a federally funded air service program supporting intrastate scheduled
+commercial service, subject to the following provisions:
+a.  No more than two million dollars may be spent from the aviation trust fund for
+the purposes provided in this paragraph in any calendar year; and
+b.  The commission shall be required to expend at least four million dollars of the
+annual, calendar year deposits into the aviation trust fund for purposes other than the
+purposes described in this paragraph;
+1752
+Laws of Missouri, 2014
+(2)  As total funds, with no local match:
+(a)  For providing air markers, windsocks, and other items determined to be in the interest
+of the safety of the general flying public;
+(b)  For the printing and distribution of state aeronautical charts and state airport directories
+on an annual basis, and a newsletter on a quarterly basis or the publishing and distribution of any
+public interest information deemed necessary by the commission;
+(c)  For the conducting of aviation safety workshops;
+(d)  For the promotion of aerospace education;
+(3)  As total funds with no local match, up to five hundred thousand dollars per year may
+be used for the cost of operating existing air traffic control towers that do not receive funding
+from the Federal Aviation Administration or the United States Department of Defense, except
+no more than one hundred sixty-seven thousand dollars per year may be used for any individual
+control tower;
+(4)  As total funds with a local match, up to five hundred thousand dollars per year may be
+used for air traffic control towers partially funded by the federal government under a cost-share
+program.  Any expenditures under this program require a nonfederal match, comprised of a ratio
+of fifty percent state and fifty percent local funds.  No more than one hundred thousand dollars
+per year may be expended for any individual control tower.
+5.  In the event of a natural or manmade disaster which closes any runway or renders
+inoperative any electronic or visual landing aid at an airport, any funds appropriated for the
+purpose of capital improvements or maintenance of airports may be made immediately available
+for necessary repairs once they are approved by the commission.  For projects designated as
+emergencies by the commission, all requirements relating to normal procurement of engineering
+and construction services are waived.
+6.  As used in this section, the term "instrumentality of the state" shall mean any state
+educational institution as defined in section 176.010 or any state agency which owned or
+operated an airport on January 1, 1997, and continues to own or operate such airport.
+Approved June 30, 2014
