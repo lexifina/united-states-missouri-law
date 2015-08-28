@@ -1,0 +1,49 @@
+SB 93   [SCS SB 93]
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in this bill is not enacted and is intended
+to be omitted in the law.
+Creates the Campus Free Expression Act to protect free expression on the campuses of
+public institutions of higher education
+AN ACT to amend chapter 173, RSMo, by adding thereto one new section relating to free
+speech at public institutions of higher education. 
+SECTION
+A. Enacting clause.
+173.1550. Citation of law — expressive activities protected — outdoor areas deemed traditional public forums,
+reasonable restrictions — court action authorized, when. 
+Be it enacted by the General Assembly of the state of Missouri, as follows: 
+SECTION A.  ENACTING CLAUSE. — Chapter 173, RSMo, is amended by adding thereto
+one new section, to be known as section 173.1550, to read as follows:
+173.1550.  CITATION OF LAW — EXPRESSIVE ACTIVITIES PROTECTED — OUTDOOR
+AREAS DEEMED TRADITIONAL PUBLIC FORUMS, REASONABLE RESTRICTIONS — COURT
+ACTION AUTHORIZED, WHEN. — 1.  The provisions of this section shall be known and cited
+as the "Campus Free Expression Act".  Expressive activities protected under the
+provisions of this section include, but are not limited to, all forms of peaceful assembly,
+protests, speeches, distribution of literature, carrying signs, and circulating petitions.
+2.  The outdoor areas of campuses of public institutions of higher education in this
+state shall be deemed traditional public forums.  Public institutions of higher education
+may maintain and enforce reasonable time, place, and manner restrictions in service of
+a significant institutional interest only when such restrictions employ clear, published,
+content, and viewpoint-neutral criteria, and provide for ample alternative means of
+expression.  Any such restrictions shall allow for members of the university community
+to spontaneously and contemporaneously assemble.
+3.  Any person who wishes to engage in noncommercial expressive activity on campus
+shall be permitted to do so freely, as long as the person's conduct is not unlawful and does
+532
+Laws of Missouri, 2015
+not materially and substantially disrupt the functioning of the institution subject to the
+requirements of subsection 2 of this section.
+4.  Nothing in this section shall be interpreted as limiting the right of student
+expression elsewhere on campus.
+5.  The following persons may bring an action in a court of competent jurisdiction to
+enjoin any violation of this section or to recover compensatory damages, reasonable court
+costs, and attorney fees:
+(1)  The attorney general;
+(2)  Persons whose expressive rights were violated through the violation of this section.
+6.  In an action brought under subsection 5 of this section, if the court finds a
+violation, the court shall award the aggrieved persons no less than five hundred dollars
+for the initial violation, plus fifty dollars for each day the violation remains ongoing.
+7.  A person shall be required to bring suit for violation of this section not later than
+one year after the day the cause of action accrues.  For purposes of calculating the one-
+year limitation period, each day that the violation persists, and each day that a policy in
+violation of this section remains in effect, shall constitute a new violation of this section
+and, therefore, a new day that the cause of action has accrued.
+Approved July 14, 2015
