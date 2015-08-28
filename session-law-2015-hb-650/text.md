@@ -1,0 +1,60 @@
+HB 650   [HB 650]
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in this bill is not enacted and is intended
+to be omitted in the law.
+Allows auxiliary lighting on motorcycles, with certain restrictions
+AN ACT to repeal section 307.128, RSMo, and to enact in lieu thereof one new section relating
+to auxiliary lighting on motorcycles. 
+SECTION
+A. Enacting clause.
+307.128. Motorcycle headlamp modulation permitted, when — labeling requirements — auxiliary lighting. 
+Be it enacted by the General Assembly of the state of Missouri, as follows: 
+SECTION A.  ENACTING CLAUSE. — Section 307.128, RSMo, is repealed and one new
+section enacted in lieu thereof, to be known as section 307.128, to read as follows:
+307.128.  MOTORCYCLE HEADLAMP MODULATION PERMITTED, WHEN — LABELING
+REQUIREMENTS — AUXILIARY LIGHTING. — 1.  A headlamp on a motorcycle may be wired
+to modulate either the upper beam or the lower beam from its maximum intensity to a lesser
+intensity provided that:
+(1)  The rate of modulation shall be two hundred forty plus or minus forty cycles per
+minute;
+(2)  The headlamp shall be operated at a maximum power for fifty to seventy percent of
+each cycle;
+(3)  The lowest intensity at any test point shall not be less than seventeen percent of the
+maximum intensity measured at the same point;
+(4)  The modulator switch shall be wired in the power lead of the beam filament being
+modulated and not in the ground side of the circuit;
+(5)  Means shall be provided so that both the lower beam and the upper beam remain
+operable in the event of a modulation failure;
+(6)  The system shall include a sensor mounted with the axis of its sensing element
+perpendicular to a horizontal plane.  Headlamp modulation shall cease whenever the level of
+light emitted by a tungsten filament operating at three thousand degrees kelvin is either less than
+two hundred seventy lux of direct light for upward pointing sensors or less than sixty lux of
+reflected light for downward pointing sensors.  The light is measured by a silicon cell type light
+meter that is located at the sensor and pointing in the same direction as the sensor.  A photo gray
+card is placed at ground level to simulate the road surface in testing downward pointing sensors;
+(7)  Means shall be provided so that both the lower and upper beam function at design
+voltage when the headlamp control switch is in either the lower or upper beam position when
+the modulator is off.
+2.  Each motorcycle headlamp modulator not intended as original equipment, or its
+container, shall be labeled with the maximum wattage, and the minimum wattage appropriate
+for its use.  Additionally, each such modulator shall comply with the provisions of subdivisions
+(1) to (7) of subsection 1 of this section when connected to a headlamp of the maximum-rated
+power and headlamp of the minimum-rated power, and shall provide means so that the
+modulated beam functions at design voltage when the modulator is off.  Instructions, with a
+diagram, shall be provided for mounting the light sensor including location on the motorcycle,
+distance above the road surface, and orientation with respect to the light.
+3.  Notwithstanding any other provision of law, subject to the requirements of
+subsection 4 of this section, a motorcycle may be equipped with, and an operator of a
+motorcycle may use, the following auxiliary lighting:
+House Bill 686
+405
+(1)  Amber and white illumination;
+(2)  Standard bulb running lights; or
+(3)  Light-emitting diode pods and strips.
+4.  Lighting under subsection 3 of this section shall be:
+(1)  Nonblinking;
+(2)  Nonflashing;
+(3)  Nonoscillating; and
+(4)  Directed toward the engine and the drive train of the motorcycle to prevent
+interference with the driver's operation of the vehicle.
+ 
+Approved June 12, 2015
