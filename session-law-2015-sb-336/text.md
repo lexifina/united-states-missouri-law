@@ -1,0 +1,99 @@
+Senate Bill 336
+683
+be a nonvoting member.  Not more than four voting members shall belong to any one political
+party.  Not more than two voting members shall be residents of the same county.  The appointed
+members of the board serving on August 28, 2008, shall continue to serve until the expiration
+of the terms for which the appointed members were appointed and until such time a successor
+is duly appointed.
+2.  The board of regents shall be appointed as follows:
+(1)  Six voting members shall be residents of the university's historic statutory service region,
+[as described in section 174.010 and modified by section 174.250,] provided at least one member
+shall be a resident of Nodaway County.  For the sole purpose of determining the composition
+of the board of regents, the university's historic statutory service region shall consist of the
+counties of Atchison, Andrew, Caldwell, Carroll, Clay, Clinton, Daviess, DeKalb, Gentry,
+Grundy, Harrison, Holt, Livingston, Mercer, Nodaway, Ray, and Worth;
+(2)  Two voting members shall be residents of a county in the state that is outside the
+university's historic statutory service region, as described in [section 174.010 and modified by
+section 174.250] subdivision (1) of this subsection, provided these two members shall not be
+appointed from the same congressional district; and
+(3)  One nonvoting member shall be a full-time student of the university, a United States
+citizen, and a resident of Missouri.
+3.  A majority of the voting members of the board shall constitute a quorum for the
+transaction of business; however, no appropriation of money nor any contract that shall require
+any appropriation or disbursement of money shall be made, nor teacher employed or dismissed,
+unless a majority of the voting members of the board vote for the same.
+4.  Except as specifically provided in this section, the appointments and terms of office for
+the voting and nonvoting members of the board, and all other duties and responsibilities of the
+board, shall comply with the provisions of state law regarding boards of regents.
+Approved July 14, 2015
+SB 336   [HCS SCS SB 336]
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in this bill is not enacted and is intended
+to be omitted in the law.
+Modifies provision relating to income tax withholdings on employee's tips
+AN ACT to repeal section 143.191, RSMo, and to enact in lieu thereof one new section relating
+to income tax withholding on tips. 
+SECTION
+A. Enacting clause.
+143.191. Employer to withhold tax from wages — armed services, withholding from wages or retirement —
+federal civil service retirement, withholding authorized, when — inapplicable to out-of-state businesses,
+when. 
+Be it enacted by the General Assembly of the state of Missouri, as follows: 
+SECTION A.  ENACTING CLAUSE. — Section 143.191, RSMo, is repealed and one new
+section enacted in lieu thereof, to be known as section 143.191, to read as follows:
+143.191.  EMPLOYER TO WITHHOLD TAX FROM WAGES — ARMED SERVICES,
+WITHHOLDING FROM WAGES OR RETIREMENT — FEDERAL CIVIL SERVICE RETIREMENT,
+WITHHOLDING AUTHORIZED, WHEN — INAPPLICABLE TO OUT-OF-STATE BUSINESSES, WHEN.
+684
+Laws of Missouri, 2015
+— 1.  Every employer maintaining an office or transacting any business within this state and
+making payment of any wages taxable under [sections 143.011 to 143.998] this chapter to a
+resident or nonresident individual shall deduct and withhold from such wages for each payroll
+period the amount provided in subsection 3 of this section.
+2.  The term "wages" referred to in subsection 1 of this section means wages as defined by
+section 3401(a) of the Internal Revenue Code of 1986, as amended.  The term "employer" means
+any person, firm, corporation, association, fiduciary of any kind, or other type of organization for
+whom an individual performs service as an employee, except that if the person or organization
+for whom the individual performs service does not have control of the payment of compensation
+for such service, the term "employer" means the person having control of the payment of the
+compensation.  The term includes the United States, this state, other states, and all agencies,
+instrumentalities, and subdivisions of any of them.
+3.  (1)  The method of determining the amount to be withheld shall be prescribed by
+regulations of the director of revenue.  The prescribed table, percentages, or other method shall
+result, so far as practicable, in withholding from the employee's wages during each calendar year
+an amount substantially equivalent to the tax reasonably estimated to be due from the employee
+under [sections 143.011 to 143.998] this chapter with respect to the amount of such wages
+included in his Missouri adjusted gross income during the calendar year.
+(2)  The amount to be withheld by an employer with respect to tips received by an
+employee in the course of the employee's employment shall be calculated based solely upon
+the amount of tips reported by the employee in a written statement furnished to the
+employer as required by subsection (a) of section 6053 of the Internal Revenue Code of
+1986, as amended, or, if greater, the amount of tips received by the employer and remitted
+to the employee. If an employee shares tips, the employer shall withhold only from the
+employee who actually received the shared tips.  The employer's Missouri income tax
+withholding obligation with respect to an employee's tip income shall be limited to the
+portion of the employee's wages under the control of the employer against which the
+employer is required, pursuant to federal law, to withhold federal income taxes on the
+employee's tips.  Such withholding obligation shall be calculated after making reductions
+for all required federal tax withholding, Missouri income tax withholding on non-tip
+income, and other amounts which have higher legal priority.
+4.  For purposes of this section an employee shall be entitled to the same number of personal
+and dependency withholding exemptions as the number of exemptions to which he is entitled
+for federal income tax withholding purposes. An employer may rely upon the number of federal
+withholding exemptions claimed by the employee, except where the employee provides the
+employer with a form claiming a different number of withholding exemptions in this state.
+5.  The director of revenue may enter into agreements with the tax departments of other
+states (which require income tax to be withheld from the payment of wages) so as to govern the
+amounts to be withheld from the wages of residents of such states under this section.  Such
+agreements may provide for recognition of anticipated tax credits in determining the amounts to
+be withheld and, under regulations prescribed by the director of revenue, may relieve employers
+in this state from withholding income tax on wages paid to nonresident employees. The
+agreements authorized by this subsection are subject to the condition that the tax department of
+such other states grant similar treatment to residents of this state.
+6.  The director of revenue shall enter into agreements with the Secretary of the Treasury
+of the United States or with the appropriate secretaries of the respective branches of the Armed
+Forces of the United States for the withholding, as required by subsections 1 and 2 of this
+section, of income taxes due the state of Missouri on wages or other payments for service in the
+armed services of the United States or on payments received as retirement or retainer pay of any
+member or former member of the Armed Forces entitled to such pay.
+7.  Subject to appropriations for the purpose of implementing this section, the director of
+revenue shall comply with provisions of the laws of the United States as amended and the
