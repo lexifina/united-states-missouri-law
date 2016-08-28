@@ -1,0 +1,33 @@
+SB 1002   [SB 1002]
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in this bill is not enacted and is intended
+to be omitted in the law.
+Allows the State Auditor to audit community improvement districts  
+AN ACT to repeal section 67.1471, RSMo, and to enact in lieu thereof one new section relating
+to community improvement districts.
+SECTION
+A. Enacting clause.
+67.1471. Fiscal year — budget — meeting — report — audit.
+Be it enacted by the General Assembly of the state of Missouri, as follows: 
+SECTION A.  ENACTING CLAUSE. — Section 67.1471, RSMo, is repealed and one new
+section enacted in lieu thereof, to be known as section 67.1471, to read as follows:
+67.1471.  FISCAL YEAR — BUDGET — MEETING — REPORT — AUDIT. — 1.  The fiscal
+year for the district shall be the same as the fiscal year of the municipality.
+2.  No earlier than one hundred eighty days and no later than ninety days prior to the first
+day of each fiscal year, the board shall submit to the governing body of the city a proposed
+annual budget, setting forth expected expenditures, revenues, and rates of assessments and taxes,
+if any, for such fiscal year.  The governing body may review and comment to the board on this
+proposed budget, but if such comments are given, the governing body of the municipality shall
+provide such written comments to the board no later than sixty days prior to the first day of the
+relevant fiscal year; such comments shall not constitute requirements but shall only be
+recommendations.
+3.  The board shall hold an annual meeting and adopt an annual budget no later than thirty
+days prior to the first day of each fiscal year.
+4.  Within one hundred twenty days after the end of each fiscal year, the district shall submit
+a report to the municipal clerk and the Missouri department of economic development stating
+the services provided, revenues collected and expenditures made by the district during such fiscal
+year, and copies of written resolutions approved by the board during the fiscal year.  The
+municipal clerk shall retain this report as part of the official records of the municipality and shall
+also cause this report to be spread upon the records of the governing body.
+5.  The state auditor may audit a district in the same manner as the auditor may audit
+any agency of the state.
+Approved June 29, 2016
