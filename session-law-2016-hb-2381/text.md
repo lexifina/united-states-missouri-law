@@ -1,0 +1,208 @@
+House Bill 2381
+609
+shall make necessary rules and regulations for the enforcement of this section, and shall
+design all necessary forms required by this section.
+4.  Prior to the issuance of a Missouri Boys State or Missouri Girls State specialty
+personalized plate authorized under this section the department of revenue shall be in
+receipt of an application, as prescribed by the director, which shall be accompanied by a
+list of at least two hundred potential applicants who plan to purchase the specialty
+personalized plate, the proposed art design for the specialty license plate, and an
+application fee, not to exceed five thousand dollars, to defray the department's cost for
+issuing, developing, and programming the implementation of the specialty plate. Once the
+plate design is approved, the director of revenue shall not authorize the manufacture of
+the material to produce such specialized license plates with the individual seal, logo, or
+emblem until such time as the director has received two hundred applications, the fifteen
+dollar specialty plate fee per application, and emblem use statements, if applicable, and
+other required documents or fees for such plates.
+5.  The specialty personalized plate shall not be redesigned unless either organization
+pays the director in advance for all redesigned plate fees for the plate established in this
+section.  If a member chooses to replace the specialty personalized plate for the new
+design, the member shall pay the replacement fees prescribed in section 301.300 for the
+replacement of the existing specialty personalized plate.  All other applicable license plates
+fees in accordance with this chapter shall be required.   
+Approved July 1, 2016
+HB 2381   [SS HCS HB 2381]
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in this bill is not enacted and is intended
+to be omitted in the law.
+Changes the laws regarding mine property
+AN ACT to repeal section 137.115, RSMo, and to enact in lieu thereof one new section relating
+to mine property. 
+SECTION
+A. Enacting clause.
+137.115. Real and personal property, assessment — maintenance plan — assessor may mail forms for personal
+property — classes of property, assessment — physical inspection required, when, procedure — mine
+property assessment. 
+Be it enacted by the General Assembly of the state of Missouri, as follows: 
+SECTION A.  ENACTING CLAUSE. — Section 137.115, RSMo, is repealed and one new
+section enacted in lieu thereof, to be known as section 137.115, to read as follows: 
+ 
+137.115.  REAL AND PERSONAL PROPERTY, ASSESSMENT — MAINTENANCE PLAN —
+ASSESSOR MAY MAIL FORMS FOR PERSONAL PROPERTY — CLASSES OF PROPERTY,
+ASSESSMENT — PHYSICAL INSPECTION REQUIRED, WHEN, PROCEDURE — MINE PROPERTY
+ASSESSMENT. — 1.  All other laws to the contrary notwithstanding, the assessor or the assessor's
+deputies in all counties of this state including the city of St. Louis shall annually make a list of
+all real and tangible personal property taxable in the assessor's city, county, town or district. 
+Except as otherwise provided in subsection 3 of this section and section 137.078, the assessor
+shall annually assess all personal property at thirty-three and one-third percent of its true value
+in money as of January first of each calendar year.  The assessor shall annually assess all real
+610
+Laws of Missouri, 2016
+property, including any new construction and improvements to real property, and possessory
+interests in real property at the percent of its true value in money set in subsection 5 of this
+section.  The true value in money of any possessory interest in real property in subclass (3),
+where such real property is on or lies within the ultimate airport boundary as shown by a federal
+airport layout plan, as defined by 14 CFR 151.5, of a commercial airport having a FAR Part 139
+certification and owned by a political subdivision, shall be the otherwise applicable true value
+in money of any such possessory interest in real property, less the total dollar amount of costs
+paid by a party, other than the political subdivision, towards any new construction or
+improvements on such real property completed after January 1, 2008, and which are included
+in the above-mentioned possessory interest, regardless of the year in which such costs were
+incurred or whether such costs were considered in any prior year.  The assessor shall annually
+assess all real property in the following manner:  new assessed values shall be determined as of
+January first of each odd-numbered year and shall be entered in the assessor's books; those same
+assessed values shall apply in the following even-numbered year, except for new construction
+and property improvements which shall be valued as though they had been completed as of
+January first of the preceding odd-numbered year.  The assessor may call at the office, place of
+doing business, or residence of each person required by this chapter to list property, and require
+the person to make a correct statement of all taxable tangible personal property owned by the
+person or under his or her care, charge or management, taxable in the county.  On or before
+January first of each even-numbered year, the assessor shall prepare and submit a two-year
+assessment maintenance plan to the county governing body and the state tax commission for
+their respective approval or modification.  The county governing body shall approve and forward
+such plan or its alternative to the plan to the state tax commission by February first.  If the county
+governing body fails to forward the plan or its alternative to the plan to the state tax commission
+by February first, the assessor's plan shall be considered approved by the county governing body. 
+If the state tax commission fails to approve a plan and if the state tax commission and the
+assessor and the governing body of the county involved are unable to resolve the differences, in
+order to receive state cost-share funds outlined in section 137.750, the county or the assessor shall
+petition the administrative hearing commission, by May first, to decide all matters in dispute
+regarding the assessment maintenance plan.  Upon agreement of the parties, the matter may be
+stayed while the parties proceed with mediation or arbitration upon terms agreed to by the parties. 
+The final decision of the administrative hearing commission shall be subject to judicial review
+in the circuit court of the county involved.  In the event a valuation of subclass (1) real property
+within any county with a charter form of government, or within a city not within a county, is
+made by a computer, computer-assisted method or a computer program, the burden of proof,
+supported by clear, convincing and cogent evidence to sustain such valuation, shall be on the
+assessor at any hearing or appeal.  In any such county, unless the assessor proves otherwise, there
+shall be a presumption that the assessment was made by a computer, computer-assisted method
+or a computer program.  Such evidence shall include, but shall not be limited to, the following:
+(1)  The findings of the assessor based on an appraisal of the property by generally accepted
+appraisal techniques; and
+(2)  The purchase prices from sales of at least three comparable properties and the address
+or location thereof.  As used in this subdivision, the word "comparable" means that:
+(a)  Such sale was closed at a date relevant to the property valuation; and
+(b)  Such properties are not more than one mile from the site of the disputed property,
+except where no similar properties exist within one mile of the disputed property, the nearest
+comparable property shall be used. Such property shall be within five hundred square feet in size
+of the disputed property, and resemble the disputed property in age, floor plan, number of rooms,
+and other relevant characteristics.
+2.  Assessors in each county of this state and the city of St. Louis may send personal
+property assessment forms through the mail.
+House Bill 2381
+611
+3.  The following items of personal property shall each constitute separate subclasses of
+tangible personal property and shall be assessed and valued for the purposes of taxation at the
+following percentages of their true value in money:
+(1)  Grain and other agricultural crops in an unmanufactured condition, one-half of one
+percent;
+(2)  Livestock, twelve percent;
+(3)  Farm machinery, twelve percent;
+(4)  Motor vehicles which are eligible for registration as and are registered as historic motor
+vehicles pursuant to section 301.131 and aircraft which are at least twenty-five years old and
+which are used solely for noncommercial purposes and are operated less than fifty hours per year
+or aircraft that are home built from a kit, five percent;
+(5)  Poultry, twelve percent; and
+(6)  Tools and equipment used for pollution control and tools and equipment used in
+retooling for the purpose of introducing new product lines or used for making improvements to
+existing products by any company which is located in a state enterprise zone and which is
+identified by any standard industrial classification number cited in subdivision [(6)] (5) of section
+135.200, twenty-five percent.
+4.  The person listing the property shall enter a true and correct statement of the property,
+in a printed blank prepared for that purpose.  The statement, after being filled out, shall be signed
+and either affirmed or sworn to as provided in section 137.155.  The list shall then be delivered
+to the assessor.
+5.  All subclasses of real property, as such subclasses are established in Section 4(b) of
+Article X of the Missouri Constitution and defined in section 137.016, shall be assessed at the
+following percentages of true value:
+(1)  For real property in subclass (1), nineteen percent;
+(2)  For real property in subclass (2), twelve percent; and
+(3)  For real property in subclass (3), thirty-two percent.
+6.  Manufactured homes, as defined in section 700.010, which are actually used as dwelling
+units shall be assessed at the same percentage of true value as residential real property for the
+purpose of taxation. The percentage of assessment of true value for such manufactured homes
+shall be the same as for residential real property.  If the county collector cannot identify or find
+the manufactured home when attempting to attach the manufactured home for payment of taxes
+owed by the manufactured home owner, the county collector may request the county
+commission to have the manufactured home removed from the tax books, and such request shall
+be granted within thirty days after the request is made; however, the removal from the tax books
+does not remove the tax lien on the manufactured home if it is later identified or found.  For
+purposes of this section, a manufactured home located in a manufactured home rental park, rental
+community or on real estate not owned by the manufactured home owner shall be considered
+personal property.  For purposes of this section, a manufactured home located on real estate
+owned by the manufactured home owner may be considered real property.
+7.  Each manufactured home assessed shall be considered a parcel for the purpose of
+reimbursement pursuant to section 137.750, unless the manufactured home is real estate as
+defined in subsection 7 of section 442.015 and assessed as a realty improvement to the existing
+real estate parcel.
+8.  Any amount of tax due and owing based on the assessment of a manufactured home
+shall be included on the personal property tax statement of the manufactured home owner unless
+the manufactured home is real estate as defined in subsection 7 of section 442.015, in which case
+the amount of tax due and owing on the assessment of the manufactured home as a realty
+improvement to the existing real estate parcel shall be included on the real property tax statement
+of the real estate owner.
+9.  The assessor of each county and each city not within a county shall use the trade-in value
+published in the October issue of the National Automobile Dealers' Association Official Used
+612
+Laws of Missouri, 2016
+Car Guide, or its successor publication, as the recommended guide of information for
+determining the true value of motor vehicles described in such publication.  The assessor shall
+not use a value that is greater than the average trade-in value in determining the true value of the
+motor vehicle without performing a physical inspection of the motor vehicle. For vehicles two
+years old or newer from a vehicle's model year, the assessor may use a value other than average
+without performing a physical inspection of the motor vehicle.  In the absence of a listing for a
+particular motor vehicle in such publication, the assessor shall use such information or
+publications which in the assessor's judgment will fairly estimate the true value in money of the
+motor vehicle.
+10.  Before the assessor may increase the assessed valuation of any parcel of subclass (1)
+real property by more than fifteen percent since the last assessment, excluding increases due to
+new construction or improvements, the assessor shall conduct a physical inspection of such
+property.
+11.  If a physical inspection is required, pursuant to subsection 10 of this section, the
+assessor shall notify the property owner of that fact in writing and shall provide the owner clear
+written notice of the owner's rights relating to the physical inspection.  If a physical inspection
+is required, the property owner may request that an interior inspection be performed during the
+physical inspection.  The owner shall have no less than thirty days to notify the assessor of a
+request for an interior physical inspection.
+12.  A physical inspection, as required by subsection 10 of this section, shall include, but
+not be limited to, an on-site personal observation and review of all exterior portions of the land
+and any buildings and improvements to which the inspector has or may reasonably and lawfully
+gain external access, and shall include an observation and review of the interior of any buildings
+or improvements on the property upon the timely request of the owner pursuant to subsection
+11 of this section. Mere observation of the property via a drive-by inspection or the like shall not
+be considered sufficient to constitute a physical inspection as required by this section.
+13.  The provisions of subsections 11 and 12 of this section shall only apply in any county
+with a charter form of government with more than one million inhabitants.
+14.  A county or city collector may accept credit cards as proper form of payment of
+outstanding property tax or license due.  No county or city collector may charge surcharge for
+payment by credit card which exceeds the fee or surcharge charged by the credit card bank,
+processor, or issuer for its service.  A county or city collector may accept payment by electronic
+transfers of funds in payment of any tax or license and charge the person making such payment
+a fee equal to the fee charged the county by the bank, processor, or issuer of such electronic
+payment.
+15.  Any county or city not within a county in this state may, by an affirmative vote of the
+governing body of such county, opt out of the provisions of this section and sections 137.073,
+138.060, and 138.100 as enacted by house bill no. 1150 of the ninety-first general assembly,
+second regular session and section 137.073 as modified by house committee substitute for senate
+substitute for senate committee substitute for senate bill no. 960, ninety-second general assembly,
+second regular session, for the next year of the general reassessment, prior to January first of any
+year.  No county or city not within a county shall exercise this opt-out provision after
+implementing the provisions of this section and sections 137.073, 138.060, and 138.100 as
+enacted by house bill no. 1150 of the ninety-first general assembly, second regular session and
+section 137.073 as modified by house committee substitute for senate substitute for senate
+committee substitute for senate bill no. 960, ninety-second general assembly, second regular
+session, in a year of general reassessment.  For the purposes of applying the provisions of this
+subsection, a political subdivision contained within two or more counties where at least one of
+such counties has opted out and at least one of such counties has not opted out shall calculate a
+single tax rate as in effect prior to the enactment of house bill no. 1150 of the ninety-first general
+assembly, second regular session.  A governing body of a city not within a county or a county
+that has opted out under the provisions of this subsection may choose to implement the
