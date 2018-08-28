@@ -1,0 +1,54 @@
+ 
+Senate Bill 891 
+1659 
+ 
+EXPLANATION--Matter enclosed in bold-faced brackets [thus] is not enacted and is intended to be omitted in the law. 
+Matter in bold-face type is proposed language. 
+meaning provided in subdivision (4) of subsection 2 of section 143.451, and in addition, the 
+following words shall have the following meanings: 
+(1)  "Department", the department of economic development; 
+(2)  "Director", the director of the department of economic development. 
+2.  An investment funds service corporation or S corporation, certified pursuant to this section 
+and sections 620.1355 and 620.1360, may make an annual election to compute the portion of 
+income derived from sources within this state either pursuant to section 143.451 or pursuant to 
+section 32.200 relating to the multistate tax compact.  The annual election shall be made by the 
+filing of a corporate income tax return reflecting the use of such election and by filing a copy of 
+the certificate issued by the director pursuant to the provisions of this section and sections 620.1355 
+and 620.1360.  The annual election may be made regardless of whether the corporation filed its 
+income tax return on a single entity basis or was included in a consolidated income tax return in 
+any year. 
+3.  Notwithstanding the provisions of subsection 2 of this section to the contrary, for all tax 
+years beginning on or after January 1, 2020, an investment funds service corporation or S 
+corporation, certified pursuant to this section and sections 620.1355 and 620.1360, shall compute 
+the portion of income derived from sources within this state pursuant to section 143.455. 
+ 
+Approved June 1, 2018 
+ 
+ 
+SB 891 
+ 
+Enacts provisions relating to buy Missouri week. 
+ 
+AN ACT to amend chapter 9, RSMo, by adding thereto one new section relating to buy Missouri 
+week. 
+ 
+SECTION 
+ 
+A. 
+Enacting clause. 
+ 
+9.277 
+Buy Missouri Week designated for the week beginning the second Saturday in October. 
+ 
+Be it enacted by the General Assembly of the State of Missouri, as follows: 
+ 
+SECTION A.  ENACTING CLAUSE. — Chapter 9, RSMo, is amended by adding thereto one 
+new section, to be known as section 9.277, to read as follows: 
+ 
+9.277.  BUY MISSOURI WEEK DESIGNATED FOR THE WEEK BEGINNING THE SECOND 
+SATURDAY IN OCTOBER. — The week beginning the second Saturday in October is hereby 
+designated as "Buy Missouri Week" in the state of Missouri and citizens are encouraged to 
+observe the week with appropriate activities and events to support the men and women who 
+create, produce, grow, manufacture, distribute, promote and sell goods made in Missouri. 
+ 
+Approved June 1, 2018
