@@ -4,4 +4,5 @@ The general assembly may by general law exempt from taxation all intangible prop
 (2) Labor, agricultural or horticultural organizations; or
 (3) Corporations or associations organized and operated exclusively for religious, charitable, scientific or educational purposes, no part of the net income of which inures to the benefit of any private stockholder or individual; or
 (4) Hospitals which are exempt from payment of Missouri state income tax.
+Any such law may provide for approximate reimbursement to the various political subdivisions, by the state, of revenues lost because of the exemption.
 (Adopted November 7, 1972).
