@@ -1,3 +1,4 @@
 # III Section 39(e). Riverboat gambling authorized on Missouri and Mississippi Rivers - boats in moats authorized.
 The general assembly is authorized to permit upon the Mississippi and Missouri Rivers only, which shall include artificial spaces that contain water and that are within 1000 feet of the closest edge of the main channel of either of those rivers, lotteries, gift enterprises and games of chance to be conducted on excursion gambling boats and floating facilities. Any license issued before or after the adoption date of this amendment for any excursion gambling boat or floating facility located in any such artificial space shall be deemed to be authorized by the General Assembly and to be in compliance with this Section.
+NOTICE: You are advised that the proposed constitutional amendment may be construed to change, repeal, or modify by implication Article III, Sections 39, 39(9), and 39(e).
 (Adopted November 8, 1994) (Amended November 3, 1998).
