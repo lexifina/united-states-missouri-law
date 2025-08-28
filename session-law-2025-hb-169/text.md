@@ -1,0 +1,420 @@
+ 
+House Bill 169 
+593 
+ 
+EXPLANATION--Matter enclosed in bold-faced brackets [thus] is not enacted and is intended to be omitted in the law. 
+Matter in bold-face type is proposed language. 
+[483.088.  CIRCUIT CLERKS TO REPORT TO STATE AUDITOR ANNUALLY ALL FEES 
+COLLECTED. — Each circuit clerk shall prepare a summary of all amounts collected pursuant to 
+section 57.955 during the preceding calendar year and shall annually, by July first of the 
+succeeding year, send a copy of such summary to the state auditor.] 
+ 
+[488.024.  ASSESSMENT OF SURCHARGE, EXCEPTIONS — REMITTANCE TO SHERIFFS' 
+RETIREMENT FUND. — As provided by section 57.955, there shall be assessed and collected a 
+surcharge of three dollars in all civil actions filed in the courts of this state and in all criminal cases 
+including violation of any county ordinance or any violation of criminal or traffic laws of this state, 
+including infractions, but no such surcharge shall be assessed when the costs are waived or are to 
+be paid by the state, county or municipality or when a criminal proceeding or the defendant has 
+been dismissed by the court.  For purposes of this section, the term "county ordinance" shall not 
+include any ordinance of the City of St. Louis.  The clerk responsible for collecting court costs in 
+civil and criminal cases shall collect and disburse such amounts as provided by sections 488.010 
+to 488.020.  Such funds shall be payable to the sheriffs' retirement fund.] 
+ 
+Approved July 14, 2025 
+ 
+ 
+ 
+HCS HB 169  
+ 
+Enacts provisions relating to cotton trailers. 
+ 
+AN ACT to repeal sections 301.010 and 307.010, RSMo, and to enact in lieu thereof two new 
+sections relating to cotton trailers. 
+ 
+SECTION 
+ 
+A. 
+Enacting clause. 
+ 310.010 
+Definitions. 
+ 307.010 
+Loads which might become dislodged to be secured — cotton trailers — failure, penalty. 
+ 
+ 
+Be it enacted by the General Assembly of the state of Missouri, as follows: 
+ 
+SECTION A.  ENACTING CLAUSE. — Sections 301.010 and 307.010, RSMo, are repealed and 
+two new sections enacted in lieu thereof, to be known as sections 301.010 and 307.010, to read as 
+follows: 
+ 
+301.010.  DEFINITIONS. — As used in this chapter and sections 304.010 to 304.040, 304.120 
+to 304.260, and sections 307.010 to 307.175, the following terms mean: 
+(1)  "All-terrain vehicle", any motorized vehicle manufactured and used exclusively for off-
+highway use, with an unladen dry weight of one thousand five hundred pounds or less, traveling 
+on three, four or more nonhighway tires, with either: 
+(a)  A seat designed to be straddled by the operator, and handlebars for steering control, but 
+excluding an electric bicycle; or 
+(b)  A width of fifty inches or less, measured from outside of tire rim to outside of tire rim, 
+regardless of seating or steering arrangement; 
+(2)  "Autocycle", a three-wheeled motor vehicle which the drivers and passengers ride in a 
+partially or completely enclosed nonstraddle seating area, that is designed to be controlled with a
+594 
+Laws of Missouri, 2025 
+ 
+EXPLANATION--Matter enclosed in bold-faced brackets [thus] is not enacted and is intended to be omitted in the law. 
+Matter in bold-face type is proposed language. 
+steering wheel and pedals, and that has met applicable Department of Transportation National 
+Highway Traffic Safety Administration requirements or federal motorcycle safety standards; 
+(3)  "Automobile transporter", any vehicle combination capable of carrying cargo on the power 
+unit and designed and used for the transport of assembled motor vehicles, including truck camper units; 
+(4)  "Axle load", the total load transmitted to the road by all wheels whose centers are included 
+between two parallel transverse vertical planes forty inches apart, extending across the full width 
+of the vehicle; 
+(5)  "Backhaul", the return trip of a vehicle transporting cargo or general freight, especially 
+when carrying goods back over all or part of the same route; 
+(6)  "Boat transporter", any vehicle combination capable of carrying cargo on the power unit 
+and designed and used specifically to transport assembled boats and boat hulls.  Boats may be 
+partially disassembled to facilitate transporting; 
+(7)  "Body shop", a business that repairs physical damage on motor vehicles that are not owned 
+by the shop or its officers or employees by mending, straightening, replacing body parts, or painting; 
+(8)  "Bus", a motor vehicle primarily for the transportation of a driver and eight or more 
+passengers but not including shuttle buses; 
+(9)  "Commercial motor vehicle", a motor vehicle designed or regularly used for carrying 
+freight and merchandise, or more than eight passengers but not including vanpools or shuttle buses; 
+(10)  "Cotton trailer", a trailer designed [and used exclusively] for transporting cotton at speeds 
+less than [forty] seventy miles per hour from field to field or from field to market and return; 
+(11)  "Dealer", any person, firm, corporation, association, agent or subagent engaged in the 
+sale or exchange of new, used or reconstructed motor vehicles or trailers; 
+(12)  "Director" or "director of revenue", the director of the department of revenue; 
+(13)  "Driveaway operation": 
+(a)  The movement of a motor vehicle or trailer by any person or motor carrier other than a 
+dealer over any public highway, under its own power singly, or in a fixed combination of two or 
+more vehicles, for the purpose of delivery for sale or for delivery either before or after sale; 
+(b)  The movement of any vehicle or vehicles, not owned by the transporter, constituting the 
+commodity being transported, by a person engaged in the business of furnishing drivers and 
+operators for the purpose of transporting vehicles in transit from one place to another by the 
+driveaway or towaway methods; or 
+(c)  The movement of a motor vehicle by any person who is lawfully engaged in the business 
+of transporting or delivering vehicles that are not the person's own and vehicles of a type otherwise 
+required to be registered, by the driveaway or towaway methods, from a point of manufacture, 
+assembly or distribution or from the owner of the vehicles to a dealer or sales agent of a 
+manufacturer or to any consignee designated by the shipper or consignor; 
+(14)  "Dromedary", a box, deck, or plate mounted behind the cab and forward of the fifth wheel 
+on the frame of the power unit of a truck tractor-semitrailer combination.  A truck tractor equipped 
+with a dromedary may carry part of a load when operating independently or in a combination with 
+a semitrailer; 
+(15)  "Electric bicycle", a bicycle equipped with fully operable pedals, a saddle or seat for the 
+rider, and an electric motor of less than 750 watts that meets the requirements of one of the 
+following three classes: 
+(a)  "Class 1 electric bicycle", an electric bicycle equipped with a motor that provides assistance 
+only when the rider is pedaling and that ceases to provide assistance when the bicycle reaches the 
+speed of twenty miles per hour;
+ 
+House Bill 169 
+595 
+ 
+EXPLANATION--Matter enclosed in bold-faced brackets [thus] is not enacted and is intended to be omitted in the law. 
+Matter in bold-face type is proposed language. 
+(b)  "Class 2 electric bicycle", an electric bicycle equipped with a motor that may be used 
+exclusively to propel the bicycle and that is not capable of providing assistance when the bicycle 
+reaches the speed of twenty miles per hour; or 
+(c)  "Class 3 electric bicycle", an electric bicycle equipped with a motor that provides assistance 
+only when the rider is pedaling and that ceases to provide assistance when the bicycle reaches the 
+speed of twenty-eight miles per hour; 
+(16)  "Farm tractor", a tractor used exclusively for agricultural purposes; 
+(17)  "Fleet", any group of ten or more motor vehicles owned by the same owner; 
+(18)  "Fleet vehicle", a motor vehicle which is included as part of a fleet; 
+(19)  "Fullmount", a vehicle mounted completely on the frame of either the first or last vehicle 
+in a saddlemount combination; 
+(20)  "Gross weight", the weight of vehicle and/or vehicle combination without load, plus the 
+weight of any load thereon; 
+(21)  "Hail-damaged vehicle", any vehicle, the body of which has become dented as the result 
+of the impact of hail; 
+(22)  "Highway", any public thoroughfare for vehicles, including state roads, county roads and 
+public streets, avenues, boulevards, parkways or alleys in any municipality; 
+(23)  "Improved highway", a highway which has been paved with gravel, macadam, concrete, 
+brick or asphalt, or surfaced in such a manner that it shall have a hard, smooth surface; 
+(24)  "Intersecting highway", any highway which joins another, whether or not it crosses the same; 
+(25)  "Junk vehicle", a vehicle which: 
+(a)  Is incapable of operation or use upon the highways and has no resale value except as a 
+source of parts or scrap; or 
+(b)  Has been designated as junk or a substantially equivalent designation by this state or any 
+other state; 
+(26)  "Kit vehicle", a motor vehicle assembled by a person other than a generally recognized 
+manufacturer of motor vehicles by the use of a glider kit or replica purchased from an authorized 
+manufacturer and accompanied by a manufacturer's statement of origin; 
+(27)  "Land improvement contractors' commercial motor vehicle", any not-for-hire 
+commercial motor vehicle the operation of which is confined to: 
+(a)  An area that extends not more than a radius of one hundred fifty miles from its home base 
+of operations when transporting its owner's machinery, equipment, or auxiliary supplies to or from 
+projects involving soil and water conservation, or to and from equipment dealers' maintenance 
+facilities for maintenance purposes; or 
+(b)  An area that extends not more than a radius of fifty miles from its home base of operations 
+when transporting its owner's machinery, equipment, or auxiliary supplies to or from projects not 
+involving soil and water conservation. 
+ 
+Nothing in this subdivision shall be construed to prevent any motor vehicle from being registered 
+as a commercial motor vehicle or local commercial motor vehicle; 
+(28)  "Local commercial motor vehicle", a commercial motor vehicle whose operations are 
+confined to a municipality and that area extending not more than fifty miles therefrom, or a 
+commercial motor vehicle whose property-carrying operations are confined solely to the 
+transportation of property owned by any person who is the owner or operator of such vehicle to or 
+from a farm owned by such person or under the person's control by virtue of a landlord and tenant 
+lease; provided that any such property transported to any such farm is for use in the operation of 
+such farm;
+596 
+Laws of Missouri, 2025 
+ 
+EXPLANATION--Matter enclosed in bold-faced brackets [thus] is not enacted and is intended to be omitted in the law. 
+Matter in bold-face type is proposed language. 
+(29)  "Local log truck", a commercial motor vehicle which is registered pursuant to this chapter 
+to operate as a motor vehicle on the public highways of this state; used exclusively in this state; 
+used to transport harvested forest products; operated solely at a forested site and in an area 
+extending not more than a one hundred fifty mile radius from such site; and when operated on the 
+national system of interstate and defense highways described in 23 U.S.C. Section 103, as 
+amended, or outside the one hundred fifty mile radius from such site with an extended distance 
+local log truck permit, does not have more than four axles, and does not pull a trailer which has 
+more than three axles.  Harvesting equipment which is used specifically for cutting, felling, 
+trimming, delimbing, debarking, chipping, skidding, loading, unloading, and stacking may be 
+transported on a local log truck; 
+(30)  "Local log truck tractor", a commercial motor vehicle which is registered under this chapter 
+to operate as a motor vehicle on the public highways of this state; used exclusively in this state; used 
+to transport harvested forest products, operated at a forested site and in an area extending not more 
+than a one hundred fifty mile radius from such site; and when operated on the national system of 
+interstate and defense highways described in 23 U.S.C. Section 103, as amended, or outside the one 
+hundred fifty mile radius from such site with an extended distance local log truck permit, does not 
+have more than three axles and does not pull a trailer which has more than three axles; 
+(31)  "Local transit bus", a bus whose operations are confined wholly within a municipal 
+corporation, or wholly within a municipal corporation and a commercial zone, as defined in section 
+390.020, adjacent thereto, forming a part of a public transportation system within such municipal 
+corporation and such municipal corporation and adjacent commercial zone; 
+(32)  "Log truck", a vehicle which is not a local log truck or local log truck tractor and is used 
+exclusively to transport harvested forest products to and from forested sites which is registered 
+pursuant to this chapter to operate as a motor vehicle on the public highways of this state for the 
+transportation of harvested forest products; 
+(33)  "Major component parts", the rear clip, cowl, frame, body, cab, front-end assembly, and 
+front clip, as those terms are defined by the director of revenue pursuant to rules and regulations 
+or by illustrations; 
+(34)  "Manufacturer", any person, firm, corporation or association engaged in the business of 
+manufacturing or assembling motor vehicles, trailers or vessels for sale; 
+(35)  "Motor change vehicle", a vehicle manufactured prior to August, 1957, which receives a 
+new, rebuilt or used engine, and which used the number stamped on the original engine as the 
+vehicle identification number; 
+(36)  "Motor vehicle", any self-propelled vehicle not operated exclusively upon tracks, except 
+farm tractors and electric bicycles; 
+(37)  "Motor vehicle primarily for business use", any vehicle other than a recreational motor 
+vehicle, motorcycle, motortricycle, or any commercial motor vehicle licensed for over twelve 
+thousand pounds: 
+(a)  Offered for hire or lease; or 
+(b)  The owner of which also owns ten or more such motor vehicles; 
+(38)  "Motorcycle", a motor vehicle operated on two wheels; 
+(39)  "Motorized bicycle", any two-wheeled or three-wheeled device having an automatic 
+transmission and a motor with a cylinder capacity of not more than fifty cubic centimeters, which 
+produces less than three gross brake horsepower, and is capable of propelling the device at a 
+maximum speed of not more than thirty miles per hour on level ground, but excluding an electric 
+bicycle;
+ 
+House Bill 169 
+597 
+ 
+EXPLANATION--Matter enclosed in bold-faced brackets [thus] is not enacted and is intended to be omitted in the law. 
+Matter in bold-face type is proposed language. 
+(40)  "Motortricycle", a motor vehicle upon which the operator straddles or sits astride that is 
+designed to be controlled by handle bars and is operated on three wheels, including a motorcycle 
+while operated with any conveyance, temporary or otherwise, requiring the use of a third wheel, 
+but excluding an electric bicycle.  A motortricycle shall not be included in the definition of all-
+terrain vehicle; 
+(41)  "Municipality", any city, town or village, whether incorporated or not; 
+(42)  "Nonresident", a resident of a state or country other than the state of Missouri; 
+(43)  "Non-USA-std motor vehicle", a motor vehicle not originally manufactured in 
+compliance with United States emissions or safety standards; 
+(44)  "Operator", any person who operates or drives a motor vehicle; 
+(45)  "Owner", any person, firm, corporation or association, who holds the legal title to a 
+vehicle or who has executed a buyer's order or retail installment sales contract with a motor vehicle 
+dealer licensed under sections 301.550 to 301.580 for the purchase of a vehicle with an immediate 
+right of possession vested in the transferee, or in the event a vehicle is the subject of an agreement 
+for the conditional sale or lease thereof with the right of purchase upon performance of the 
+conditions stated in the agreement and with an immediate right of possession vested in the 
+conditional vendee or lessee, or in the event a mortgagor of a vehicle is entitled to possession, then 
+such conditional vendee or lessee or mortgagor shall be deemed the owner; 
+(46)  "Public garage", a place of business where motor vehicles are housed, stored, repaired, 
+reconstructed or repainted for persons other than the owners or operators of such place of business; 
+(47)  "Rebuilder", a business that repairs or rebuilds motor vehicles owned by the rebuilder, 
+but does not include certificated common or contract carriers of persons or property; 
+(48)  "Reconstructed motor vehicle", a vehicle that is altered from its original construction by 
+the addition or substitution of two or more new or used major component parts, excluding motor 
+vehicles made from all new parts, and new multistage manufactured vehicles; 
+(49)  "Recreational motor vehicle", any motor vehicle designed, constructed or substantially 
+modified so that it may be used and is used for the purposes of temporary housing quarters, 
+including therein sleeping and eating facilities which are either permanently attached to the motor 
+vehicle or attached to a unit which is securely attached to the motor vehicle.  Nothing herein shall 
+prevent any motor vehicle from being registered as a commercial motor vehicle if the motor 
+vehicle could otherwise be so registered; 
+(50)  "Recreational off-highway vehicle", any motorized vehicle manufactured and used 
+exclusively for off-highway use which is more than fifty inches but no more than eighty inches in 
+width, measured from outside of tire rim to outside of tire rim, with an unladen dry weight of three 
+thousand five hundred pounds or less, traveling on four or more nonhighway tires and which may 
+have access to ATV trails; 
+(51)  "Recreational trailer", any trailer designed, constructed, or substantially modified so that 
+it may be used and is used for the purpose of temporary housing quarters, including therein 
+sleeping or eating facilities, which can be temporarily attached to a motor vehicle or attached to a 
+unit which is securely attached to a motor vehicle; 
+(52)  "Rollback or car carrier", any vehicle specifically designed to transport wrecked, disabled 
+or otherwise inoperable vehicles, when the transportation is directly connected to a wrecker or 
+towing service; 
+(53)  "Saddlemount combination", a combination of vehicles in which a truck or truck tractor 
+tows one or more trucks or truck tractors, each connected by a saddle to the frame or fifth wheel 
+of the vehicle in front of it.  The "saddle" is a mechanism that connects the front axle of the towed 
+vehicle to the frame or fifth wheel of the vehicle in front and functions like a fifth wheel kingpin
+598 
+Laws of Missouri, 2025 
+ 
+EXPLANATION--Matter enclosed in bold-faced brackets [thus] is not enacted and is intended to be omitted in the law. 
+Matter in bold-face type is proposed language. 
+connection.  When two vehicles are towed in this manner the combination is called a "double 
+saddlemount combination".  When three vehicles are towed in this manner, the combination is 
+called a "triple saddlemount combination"; 
+(54)  "Salvage dealer and dismantler", a business that dismantles used motor vehicles for the 
+sale of the parts thereof, and buys and sells used motor vehicle parts and accessories; 
+(55)  "Salvage vehicle", a motor vehicle, semitrailer, or house trailer which: 
+(a)  Was damaged during a year that is no more than six years after the manufacturer's model 
+year designation for such vehicle to the extent that the total cost of repairs to rebuild or reconstruct 
+the vehicle to its condition immediately before it was damaged for legal operation on the roads or 
+highways exceeds eighty percent of the fair market value of the vehicle immediately preceding the 
+time it was damaged; 
+(b)  By reason of condition or circumstance, has been declared salvage, either by its owner, or 
+by a person, firm, corporation, or other legal entity exercising the right of security interest in it; 
+(c)  Has been declared salvage by an insurance company as a result of settlement of a claim; 
+(d)  Ownership of which is evidenced by a salvage title; or 
+(e)  Is abandoned property which is titled pursuant to section 304.155 or section 304.157 and 
+designated with the words "salvage/abandoned property".  The total cost of repairs to rebuild or 
+reconstruct the vehicle shall not include the cost of repairing, replacing, or reinstalling inflatable 
+safety restraints, tires, sound systems, or damage as a result of hail, or any sales tax on parts or 
+materials to rebuild or reconstruct the vehicle.  For purposes of this definition, "fair market value" 
+means the retail value of a motor vehicle as: 
+a.  Set forth in a current edition of any nationally recognized compilation of retail values, 
+including automated databases, or from publications commonly used by the automotive and 
+insurance industries to establish the values of motor vehicles; 
+b.  Determined pursuant to a market survey of comparable vehicles with regard to condition 
+and equipment; and 
+c.  Determined by an insurance company using any other procedure recognized by the 
+insurance industry, including market surveys, that is applied by the company in a uniform manner; 
+(56)  "School bus", any motor vehicle used solely to transport students to or from school or to 
+transport students to or from any place for educational purposes; 
+(57)  "Scrap processor", a business that, through the use of fixed or mobile equipment, flattens, 
+crushes, or otherwise accepts motor vehicles and vehicle parts for processing or transportation to 
+a shredder or scrap metal operator for recycling; 
+(58)  "Shuttle bus", a motor vehicle used or maintained by any person, firm, or corporation as 
+an incidental service to transport patrons or customers of the regular business of such person, firm, 
+or corporation to and from the place of business of the person, firm, or corporation providing the 
+service at no fee or charge.  Shuttle buses shall not be registered as buses or as commercial motor 
+vehicles; 
+(59)  "Special mobile equipment", every self-propelled vehicle not designed or used primarily 
+for the transportation of persons or property and incidentally operated or moved over the highways, 
+including farm equipment, implements of husbandry, road construction or maintenance 
+machinery, ditch-digging apparatus, stone crushers, air compressors, power shovels, cranes, 
+graders, rollers, well-drillers and wood-sawing equipment used for hire, asphalt spreaders, 
+bituminous mixers, bucket loaders, ditchers, leveling graders, finished machines, motor graders, 
+road rollers, scarifiers, earth-moving carryalls, scrapers, drag lines, concrete pump trucks, rock-
+drilling and earth-moving equipment.  This enumeration shall be deemed partial and shall not 
+operate to exclude other such vehicles which are within the general terms of this section;
+ 
+House Bill 169 
+599 
+ 
+EXPLANATION--Matter enclosed in bold-faced brackets [thus] is not enacted and is intended to be omitted in the law. 
+Matter in bold-face type is proposed language. 
+(60)  "Specially constructed motor vehicle", a motor vehicle which shall not have been 
+originally constructed under a distinctive name, make, model or type by a manufacturer of motor 
+vehicles.  The term specially constructed motor vehicle includes kit vehicles; 
+(61)  "Stinger-steered combination", a truck tractor-semitrailer wherein the fifth wheel is 
+located on a drop frame located behind and below the rearmost axle of the power unit; 
+(62)  "Tandem axle", a group of two or more axles, arranged one behind another, the distance 
+between the extremes of which is more than forty inches and not more than ninety-six inches apart; 
+(63)  "Towaway trailer transporter combination", a combination of vehicles consisting of a 
+trailer transporter towing unit and two trailers or semitrailers, with a total weight that does not 
+exceed twenty-six thousand pounds; and in which the trailers or semitrailers carry no property and 
+constitute inventory property of a manufacturer, distributer, or dealer of such trailers or 
+semitrailers; 
+(64)  "Tractor", "truck tractor" or "truck-tractor", a self-propelled motor vehicle designed for 
+drawing other vehicles, but not for the carriage of any load when operating independently.  When 
+attached to a semitrailer, it supports a part of the weight thereof; 
+(65)  "Trailer", any vehicle without motive power designed for carrying property or passengers 
+on its own structure and for being drawn by a self-propelled vehicle, except those running 
+exclusively on tracks, including a semitrailer or vehicle of the trailer type so designed and used in 
+conjunction with a self-propelled vehicle that a considerable part of its own weight rests upon and 
+is carried by the towing vehicle.  The term trailer shall not include cotton trailers as defined in this 
+section and shall not include manufactured homes as defined in section 700.010; 
+(66)  "Trailer transporter towing unit", a power unit that is not used to carry property when 
+operating in a towaway trailer transporter combination; 
+(67)  "Truck", a motor vehicle designed, used, or maintained for the transportation of property; 
+(68)  "Truck-tractor semitrailer-semitrailer", a combination vehicle in which the two trailing 
+units are connected with a B-train assembly which is a rigid frame extension attached to the rear 
+frame of a first semitrailer which allows for a fifth-wheel connection point for the second 
+semitrailer and has one less articulation point than the conventional A-dolly connected truck-
+tractor semitrailer-trailer combination; 
+(69)  "Truck-trailer boat transporter combination", a boat transporter combination consisting 
+of a straight truck towing a trailer using typically a ball and socket connection with the trailer axle 
+located substantially at the trailer center of gravity rather than the rear of the trailer but so as to 
+maintain a downward force on the trailer tongue; 
+(70)  "Used parts dealer", a business that buys and sells used motor vehicle parts or accessories, 
+but not including a business that sells only new, remanufactured or rebuilt parts.  Business does 
+not include isolated sales at a swap meet of less than three days; 
+(71)  "Utility vehicle", any motorized vehicle manufactured and used exclusively for off-
+highway use which is more than fifty inches but no more than eighty inches in width, measured 
+from outside of tire rim to outside of tire rim, with an unladen dry weight of three thousand five 
+hundred pounds or less, traveling on four or six wheels, to be used primarily for landscaping, lawn 
+care, or maintenance purposes; 
+(72)  "Vanpool", any van or other motor vehicle used or maintained by any person, group, 
+firm, corporation, association, city, county or state agency, or any member thereof, for the 
+transportation of not less than eight nor more than forty-eight employees, per motor vehicle, to and 
+from their place of employment; however, a vanpool shall not be included in the definition of the 
+term bus or commercial motor vehicle as defined in this section, nor shall a vanpool driver be 
+deemed a chauffeur as that term is defined by section 303.020; nor shall use of a vanpool vehicle
+600 
+Laws of Missouri, 2025 
+ 
+EXPLANATION--Matter enclosed in bold-faced brackets [thus] is not enacted and is intended to be omitted in the law. 
+Matter in bold-face type is proposed language. 
+for ride-sharing arrangements, recreational, personal, or maintenance uses constitute an unlicensed 
+use of the motor vehicle, unless used for monetary profit other than for use in a ride-sharing 
+arrangement; 
+(73)  "Vehicle", any mechanical device on wheels, designed primarily for use, or used, on 
+highways, except motorized bicycles, electric bicycles, vehicles propelled or drawn by horses or 
+human power, or vehicles used exclusively on fixed rails or tracks, or cotton trailers or motorized 
+wheelchairs operated by handicapped persons; 
+(74)  "Wrecker" or "tow truck", any emergency commercial vehicle equipped, designed and 
+used to assist or render aid and transport or tow disabled or wrecked vehicles from a highway, 
+road, street or highway rights-of-way to a point of storage or repair, including towing a replacement 
+vehicle to replace a disabled or wrecked vehicle; 
+(75)  "Wrecker or towing service", the act of transporting, towing or recovering with a wrecker, 
+tow truck, rollback or car carrier any vehicle not owned by the operator of the wrecker, tow truck, 
+rollback or car carrier for which the operator directly or indirectly receives compensation or other 
+personal gain. 
+ 
+307.010.  LOADS WHICH MIGHT BECOME DISLODGED TO BE SECURED — COTTON 
+TRAILERS — FAILURE, PENALTY. — 1.  All motor vehicles, and every trailer and semitrailer 
+operating upon the public highways of this state and carrying goods or material or farm products 
+which may reasonably be expected to become dislodged and fall from the vehicle, trailer or 
+semitrailer as a result of wind pressure or air pressure and/or by the movement of the vehicle, trailer 
+or semitrailer shall have a protective cover or be sufficiently secured so that no portion of such 
+goods or material can become dislodged and fall from the vehicle, trailer or semitrailer while being 
+transported or carried. 
+2.  A cotton trailer, as defined in section 301.010, shall not be in violation of this section, 
+provided it is traveling at speeds less than seventy miles per hour from field to field or from 
+field to market and return, and no portion of such goods or material becomes dislodged and 
+falls from the cotton trailer, and the goods are or material is: 
+(1)  Immobilized, such so that it cannot shift or tip to the extent that the vehicle's stability 
+or maneuverability is adversely affected; 
+(2)  Transported in a sided vehicle that has walls of adequate strength, such that each 
+article of cargo within the vehicle is in contact with, or sufficiently close to a wall or other 
+articles, so that it cannot shift or tip to the extent that the vehicle's stability or 
+maneuverability is adversely affected; 
+(3)  Fully contained within the structure of the vehicle, and firmly immobilized or 
+secured on or within the vehicle by structures of adequate strength, dunnage or dunnage 
+bags, shoring bars, tiedowns, or a combination of these; or 
+(4)  Otherwise secured in accordance with federal law. 
+3.  Operation of a motor vehicle, trailer or semitrailer in violation of this section shall be a class 
+C misdemeanor, and any person convicted thereof shall be punished as provided by law. 
+ 
+Approved July 2, 2025
