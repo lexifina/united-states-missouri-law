@@ -1,0 +1,4 @@
+# V Section 25(a). Nonpartisan selection of judges - courts subject to plan - appointments to fill vacancies.
+Whenever a vacancy shall occur in the office of judge of any of the following courts of this state, to wit: The supreme court, the court of appeals, or in the office of circuit or associate circuit judge within the city of St. Louis and Jackson county, the governor shall fill such vacancy by appointing one of three persons possessing the qualifications for such office, who shall be nominated and whose names shall be submitted to the governor by a nonpartisan judicial commission established and organized as hereinafter provided. If the governor fails to appoint any of the nominees within sixty days after the list of nominees is submitted, the nonpartisan judicial commission making the nomination shall appoint one of the nominees to fill the vacancy.
+(Adopted August 3, 1976).
+(This was § 29(a) of Art. V prior to 1976)
