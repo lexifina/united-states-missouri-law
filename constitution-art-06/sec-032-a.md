@@ -1,0 +1,3 @@
+# VI Section 32(a). Amendment of charter of St. Louis.
+The charter of the city of St. Louis now existing, or as hereafter amended or revised, may be amended or revised for city or county purposes from time to time by proposals therefor submitted by the lawmaking body of the city to the qualified voters thereof, at a general or special election held at least sixty days after the publication of such proposals, and accepted by three-fifths of the qualified electors voting for or against each of said amendments or revisions so submitted.
+Source: Const. of 1875, Art. IX § 22 (Amended November 6, 1934) (Amended November 5, 2002).

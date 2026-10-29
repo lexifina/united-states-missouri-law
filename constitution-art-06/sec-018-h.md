@@ -1,0 +1,3 @@
+# VI Section 18(h). Adoption of charter - special election - manner of submission.
+The charter framed by the commission shall take effect on the day fixed therein and shall supersede any existing charter or government, if approved by vote of a majority of the qualified electors of the county voting thereon at a special election held on a day fixed by the commission and not less than thirty days after the completion of the charter nor more than one year from the day of the selection of the commission. The commission may submit for separate vote any parts of the charter, or any alternative sections or articles, and the alternative sections or articles receiving the larger affirmative vote shall prevail if a charter is adopted.
+Source: Const. of 1945.

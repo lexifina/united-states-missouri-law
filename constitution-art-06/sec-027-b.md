@@ -1,0 +1,4 @@
+# VI Section 27(b). Political subdivision revenue bonds issued for industrial development, restriction.
+Any county, city or incorporated town or village in this state, by a majority vote of the governing body thereof, may issue and sell its negotiable interest bearing revenue bonds for the purpose of paying all or part of the cost of purchasing, constructing, extending or improving any facility to be leased or otherwise disposed of pursuant to law to private persons or corporations for manufacturing, commercial, warehousing and industrial development purposes, including the real estate, buildings, fixtures and machinery. The cost of operation and maintenance and the principal and interest of the bonds shall be payable solely from the revenues derived by the county, city, or incorporated town or village from the lease or other disposal of the facility.
+(Adopted November 7, 1978).
+See Revisor's note following Art. VI, § 27(a).

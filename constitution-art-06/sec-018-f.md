@@ -1,0 +1,3 @@
+# VI Section 18(f). Petitions for charter commissions - signatures required - procedure.
+Whenever a petition for a commission, signed by qualified electors of the county numbering ten percent of the total vote for governor in the county at the last preceding general election, is filed with the county commission or other governing body, the officer or body canvassing election returns shall forthwith finally determine the sufficiency thereof and certify the result to the governing body, which shall give immediate written notice of the petition to the circuit judges of the county.
+Source: Const. of 1945 (Amended November 8, 1994).

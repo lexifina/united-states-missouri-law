@@ -1,0 +1,3 @@
+# VI Section 18(b). Provisions required in county charters - county assessor to be elected officer.
+The charter shall provide for its amendment; for the form of the county government; for the number, kinds, manner of selection, terms of office, and salaries of the county officers; and for the exercise of all powers and duties of counties and county officers prescribed by the constitution and laws of the state. However, such charter shall require the assessor of the county to be an elected officer and to comply with all training provisions required by general law.
+Source: Const. of 1945 (Amended August 8, 1978) (Amended November 8, 1994) (Amended April 4, 1995) (Amended November 2, 2010) (Amended August 4, 2026).

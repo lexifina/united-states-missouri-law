@@ -1,0 +1,3 @@
+# VI Section 18(j). Certificates of adoption of charter - recordation and deposit - judicial notice.
+Duplicate certificates shall be made, setting forth the charter adopted and its ratification, signed by the officer or members of the body canvassing election returns; one of such certified copies shall be deposited in the office of the secretary of state and the other, after being recorded in the records of the county, shall be deposited among the archives of the county and all courts shall take judicial notice thereof. This section shall also apply to any amendment to the charter.
+Source: Const. of 1945.
