@@ -1,0 +1,3 @@
+# XII Section 3(c). Submission of proposal adopted by convention - time of election - effective date.
+Any proposed constitution or constitutional amendment adopted by the convention shall be submitted to a vote of the electors of the state at such time, in such manner and containing such separate and alternative propositions and on such official ballot as may be provided by the convention, at a special election not less than sixty days nor more than six months after the adjournment of the convention. Upon the approval of the constitution or constitutional amendments the same shall take effect at the end of thirty days after the election. The result of the election shall be proclaimed by the governor.
+Source: Const. of 1875, Art. XV, § 3 . (As amended November 2, 1920)
