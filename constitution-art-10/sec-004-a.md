@@ -1,0 +1,3 @@
+# X Section 4(a). Classification of taxable property - taxes on franchises, incomes, excises and licenses.
+All taxable property shall be classified for tax purposes as follows: class 1, real property; class 2, tangible personal property; class 3, intangible personal property. The general assembly, by general law, may provide for further classification within classes 2 and 3, based solely on the nature and characteristics of the property, and not on the nature, residence or business of the owner, or the amount owned. Nothing in this section shall prevent the taxing of franchises, privileges or incomes, or the levying of excise or motor vehicle license taxes, or any other taxes of the same or different types.
+Source: Const. of 1945.

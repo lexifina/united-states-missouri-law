@@ -1,0 +1,3 @@
+# X Section 4(d). Income tax laws, may incorporate federal laws by reference - rates, how set.
+In enacting any law imposing a tax on or measured by income, the general assembly may define income by reference to provisions of the laws of the United States as they may be or become effective at any time or from time to time, whether retrospective or prospective in their operation. The general assembly shall in any such law set the rate or rates of such tax. The general assembly may in so defining income make exceptions, additions, or modifications to any provisions of the laws of the United States so referred to and for retrospective exceptions or modifications to those provisions which are retrospective.
+(Adopted November 5, 1968).
