@@ -1,0 +1,3 @@
+# IX Section 2(b). Commissioner of education - qualification, duties and compensation - appointment and compensation of professional staff - powers and duties of state board of education.
+The board shall select and appoint a commissioner of education as its chief administrative officer, who shall be a citizen and resident of the state, and removable at its discretion. The board shall prescribe his duties and fix his compensation, and upon his recommendation shall appoint the professional staff and fix their compensation. The board shall succeed the state board of education heretofore established, with all its powers and duties, and shall have such other powers and duties as may be prescribed by law.
+Source: Const. of 1945.

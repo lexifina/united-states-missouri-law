@@ -1,0 +1,3 @@
+# IX Section 3(b). Deficiency in provision for eight-month school year - allotment of state revenue for school purposes.
+In event the public school fund provided and set apart by law for the support of free public schools, shall be insufficient to sustain free schools at least eight months in every year in each school district of the state, the general assembly may provide for such deficiency; but in no case shall there be set apart less than twenty-five percent of the state revenue, exclusive of interest and sinking fund, to be applied annually to the support of the free public schools.
+Source: Const. of 1875, Art. XI, § 7.

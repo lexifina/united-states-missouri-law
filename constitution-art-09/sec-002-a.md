@@ -1,0 +1,3 @@
+# IX Section 2(a). State board of education - number and appointment of members - political affiliation - terms - reimbursement and compensation.
+The supervision of instruction in the public schools shall be vested in a state board of education, consisting of eight lay members appointed by the governor, by and with the advice and consent of the senate; provided, that at no time shall more than four members be of the same political party. The term of office of each member shall be eight years, except the terms of the first appointees shall be from one to eight years, respectively. While attending to the duties of their office, members shall be entitled to receive only actual expenses incurred, and a per diem fixed by law.
+Source: Const. of 1875, Art. XI, § 4.
