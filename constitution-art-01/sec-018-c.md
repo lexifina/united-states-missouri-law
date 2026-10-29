@@ -1,0 +1,3 @@
+# I Section 18(c). Admissibility of evidence.
+Notwithstanding the provisions of sections 17 and 18(a) of this article to the contrary, in prosecutions for crimes of a sexual nature involving a victim under eighteen years of age, relevant evidence of prior criminal acts, whether charged or uncharged, is admissible for the purpose of corroborating the victim's testimony or demonstrating the defendant's propensity to commit the crime with which he or she is presently charged. The court may exclude relevant evidence of prior criminal acts if the probative value of the evidence is substantially outweighed by the danger of unfair prejudice.
+(Adopted November 4, 2014).
