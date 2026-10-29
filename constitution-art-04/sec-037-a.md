@@ -1,0 +1,3 @@
+# IV Section 37(a). Mental health, department of - duties of department - director, how appointed.
+The department of mental health shall be in charge of a director who shall be appointed by the commission, as provided by law, and by and with the advice and consent of the senate. The department shall provide treatment, care, education and training for persons suffering from mental illness or retardation, shall have administrative control of the state hospitals and other institutions and centers established for these purposes and shall administer such other programs as provided by law.
+(Adopted August 8, 1972).
