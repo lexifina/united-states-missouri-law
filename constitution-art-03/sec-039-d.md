@@ -1,0 +1,3 @@
+# III Section 39(d). Gaming revenues to be appropriated to public institutions of elementary, secondary and higher education.
+All state revenues derived from the conduct of all gaming activities as are now or hereafter authorized by this constitution or by law, unless otherwise provided by law on the effective date of this section, shall be appropriated beginning July 1, 1993, solely for the public institutions of elementary, secondary and higher education and shall not be included within the definition of "total state revenues" in section 17 of article X of this constitution.
+(Adopted August 4, 1992).
