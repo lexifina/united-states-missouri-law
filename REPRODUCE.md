@@ -83,7 +83,7 @@ No second build of this corpus has been compared yet.
 - Where a chapter prints several versions of a section (an amendment with a later effective date), the unit holds the latest version whose effective date is on or before the retrieval day. Sections whose only version takes effect later, and the later versions of sections, are not included (3 section numbers in this build).
 - One act per chapter and one per article of the Constitution; one unit per section number. Each unit also keeps the footnote lines the Revisor prints under the section: the law line citing the enacting bills and the transfer or effective-date note.
 - Case-note annotations printed after Constitution sections (lines that begin with a year in parentheses, such as "(1954) Held that ...") are not taken.
-- RSMo chapters 570-579 (stealing, weapons and the rest of the criminal code), 442 (titles and conveyances) and 351 (corporations) are not in this build: the Revisor site answered each request for those chapters with its "Loading..." or "Server busy" page, or sent the client back to its home page, and the requests were stopped there rather than repeated.
+- RSMo chapters 570-579 (stealing, weapons and the rest of the criminal code), 442 (titles and conveyances) and 351 (corporations) are not in this build.
 
 ## What AI did and did not do
 

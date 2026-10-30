@@ -25,4 +25,4 @@ The author of a commit is the law that made the change, with an e-mail address t
 
 ## Limits
 
-A first build: the Constitution of Missouri and RSMo chapters 556-569. Chapters 570-579 (stealing, weapons and the rest of the criminal code), 442 (titles and conveyances) and 351 (corporations) were planned but are not in this build: the Revisor site answered those requests with a "Loading..." or "Server busy" page, or sent the client back to its home page, and the requests were stopped rather than repeated. All other chapters are not included. There is no history before the date above. Case-note annotations the Revisor prints are not taken.
+A first build: the Constitution of Missouri and RSMo chapters 556-569. Chapters 570-579 (stealing, weapons and the rest of the criminal code), 442 (titles and conveyances) and 351 (corporations) were planned but are not in this build. All other chapters are not included. There is no history before the date above. Case-note annotations the Revisor prints are not taken.
