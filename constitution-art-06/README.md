@@ -1,0 +1,70 @@
+# Constitution of Missouri, Article VI
+
+Mo. Const. art. VI · 1 versions, from 2026-10-29 (latest in force: 2026-10-29) · <https://revisor.mo.gov/main/ViewChapter.aspx?chapter=VI&constit=y>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. VI, Section 1 | [sec-001.md](sec-001.md) | 0 |  |
+| Art. VI, Section 2 | [sec-002.md](sec-002.md) | 0 |  |
+| Art. VI, Section 3 | [sec-003.md](sec-003.md) | 0 |  |
+| Art. VI, Section 4 | [sec-004.md](sec-004.md) | 0 |  |
+| Art. VI, Section 5 | [sec-005.md](sec-005.md) | 0 |  |
+| Art. VI, Section 6 | [sec-006.md](sec-006.md) | 0 |  |
+| Art. VI, Section 7 | [sec-007.md](sec-007.md) | 0 |  |
+| Art. VI, Section 8 | [sec-008.md](sec-008.md) | 0 |  |
+| Art. VI, Section 9 | [sec-009.md](sec-009.md) | 0 |  |
+| Art. VI, Section 10 | [sec-010.md](sec-010.md) | 0 |  |
+| Art. VI, Section 11 | [sec-011.md](sec-011.md) | 0 |  |
+| Art. VI, Section 12 | [sec-012.md](sec-012.md) | 0 |  |
+| Art. VI, Section 13 | [sec-013.md](sec-013.md) | 0 |  |
+| Art. VI, Section 14 | [sec-014.md](sec-014.md) | 0 |  |
+| Art. VI, Section 15 | [sec-015.md](sec-015.md) | 0 |  |
+| Art. VI, Section 16 | [sec-016.md](sec-016.md) | 0 |  |
+| Art. VI, Section 17 | [sec-017.md](sec-017.md) | 0 |  |
+| Art. VI, Section 18(a) | [sec-018-a.md](sec-018-a.md) | 0 |  |
+| Art. VI, Section 18(b) | [sec-018-b.md](sec-018-b.md) | 0 |  |
+| Art. VI, Section 18(c) | [sec-018-c.md](sec-018-c.md) | 0 |  |
+| Art. VI, Section 18(d) | [sec-018-d.md](sec-018-d.md) | 0 |  |
+| Art. VI, Section 18(e) | [sec-018-e.md](sec-018-e.md) | 0 |  |
+| Art. VI, Section 18(f) | [sec-018-f.md](sec-018-f.md) | 0 |  |
+| Art. VI, Section 18(g) | [sec-018-g.md](sec-018-g.md) | 0 |  |
+| Art. VI, Section 18(h) | [sec-018-h.md](sec-018-h.md) | 0 |  |
+| Art. VI, Section 18(i) | [sec-018-i.md](sec-018-i.md) | 0 |  |
+| Art. VI, Section 18(j) | [sec-018-j.md](sec-018-j.md) | 0 |  |
+| Art. VI, Section 18(k) | [sec-018-k.md](sec-018-k.md) | 0 |  |
+| Art. VI, Section 18(l) | [sec-018-l.md](sec-018-l.md) | 0 |  |
+| Art. VI, Section 18(m) | [sec-018-m.md](sec-018-m.md) | 0 |  |
+| Art. VI, Section 18(n) | [sec-018-n.md](sec-018-n.md) | 0 |  |
+| Art. VI, Section 18(o) | [sec-018-o.md](sec-018-o.md) | 0 |  |
+| Art. VI, Section 18(p) | [sec-018-p.md](sec-018-p.md) | 0 |  |
+| Art. VI, Section 18(q) | [sec-018-q.md](sec-018-q.md) | 0 |  |
+| Art. VI, Section 18(r) | [sec-018-r.md](sec-018-r.md) | 0 |  |
+| Art. VI, Section 19 | [sec-019.md](sec-019.md) | 0 |  |
+| Art. VI, Section 19(a) | [sec-019-a.md](sec-019-a.md) | 0 |  |
+| Art. VI, Section 20 | [sec-020.md](sec-020.md) | 0 |  |
+| Art. VI, Section 21 | [sec-021.md](sec-021.md) | 0 |  |
+| Art. VI, Section 22 | [sec-022.md](sec-022.md) | 0 |  |
+| Art. VI, Section 23 | [sec-023.md](sec-023.md) | 0 |  |
+| Art. VI, Section 23(a) | [sec-023-a.md](sec-023-a.md) | 0 |  |
+| Art. VI, Section 24 | [sec-024.md](sec-024.md) | 0 |  |
+| Art. VI, Section 25 | [sec-025.md](sec-025.md) | 0 |  |
+| Art. VI, Section 26(a) | [sec-026-a.md](sec-026-a.md) | 0 |  |
+| Art. VI, Section 26(b) | [sec-026-b.md](sec-026-b.md) | 0 |  |
+| Art. VI, Section 26(c) | [sec-026-c.md](sec-026-c.md) | 0 |  |
+| Art. VI, Section 26(d) | [sec-026-d.md](sec-026-d.md) | 0 |  |
+| Art. VI, Section 26(e) | [sec-026-e.md](sec-026-e.md) | 0 |  |
+| Art. VI, Section 26(f) | [sec-026-f.md](sec-026-f.md) | 0 |  |
+| Art. VI, Section 26(g) | [sec-026-g.md](sec-026-g.md) | 0 |  |
+| Art. VI, Section 27 | [sec-027.md](sec-027.md) | 0 |  |
+| Art. VI, Section 27(a) | [sec-027-a.md](sec-027-a.md) | 0 |  |
+| Art. VI, Section 27(b) | [sec-027-b.md](sec-027-b.md) | 0 |  |
+| Art. VI, Section 27(c) | [sec-027-c.md](sec-027-c.md) | 0 |  |
+| Art. VI, Section 28 | [sec-028.md](sec-028.md) | 0 |  |
+| Art. VI, Section 29 | [sec-029.md](sec-029.md) | 0 |  |
+| Art. VI, Section 30(a) | [sec-030-a.md](sec-030-a.md) | 0 |  |
+| Art. VI, Section 30(b) | [sec-030-b.md](sec-030-b.md) | 0 |  |
+| Art. VI, Section 31 | [sec-031.md](sec-031.md) | 0 |  |
+| Art. VI, Section 32(a) | [sec-032-a.md](sec-032-a.md) | 0 |  |
+| Art. VI, Section 32(b) | [sec-032-b.md](sec-032-b.md) | 0 |  |
+| Art. VI, Section 32(c) | [sec-032-c.md](sec-032-c.md) | 0 |  |
+| Art. VI, Section 33 | [sec-033.md](sec-033.md) | 0 |  |

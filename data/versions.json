@@ -1,0 +1,383 @@
+{
+ "country": "US-MO",
+ "acts": [
+  {
+   "slug": "constitution-preamble",
+   "short": "Mo. Const. preamble",
+   "title": "Constitution of Missouri, Preamble",
+   "url": "https://revisor.mo.gov/main/Home.aspx?constit=y",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://revisor.mo.gov/main/Home.aspx?constit=y",
+     "sha256": "9178ead275955d3c2464a10ee5989d80cfc0f106d565a23b81636b775a493f02"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-01",
+   "short": "Mo. Const. art. I",
+   "title": "Constitution of Missouri, Article I",
+   "url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=I&constit=y",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 39,
+     "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=I&constit=y",
+     "sha256": "7e85dbd838401df7ddf9a885b8c246b00d7730685b9e53858d562b5bef6f84d1"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-02",
+   "short": "Mo. Const. art. II",
+   "title": "Constitution of Missouri, Article II",
+   "url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=II&constit=y",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=II&constit=y",
+     "sha256": "039fce580b949198ba8b62cb9dc105754989fac3851964d3beb52f6d0083d395"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-03",
+   "short": "Mo. Const. art. III",
+   "title": "Constitution of Missouri, Article III",
+   "url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=III&constit=y",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 77,
+     "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=III&constit=y",
+     "sha256": "b58af8da3b6b824550efec815e65dc5cf8e31b2585f587c70dc731052eef17c0"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-04",
+   "short": "Mo. Const. art. IV",
+   "title": "Constitution of Missouri, Article IV",
+   "url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=IV&constit=y",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 70,
+     "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=IV&constit=y",
+     "sha256": "116f16ce6bf84f9498681094099df1ea0213332082c1438b3e7c0cc131a90fc3"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-05",
+   "short": "Mo. Const. art. V",
+   "title": "Constitution of Missouri, Article V",
+   "url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=V&constit=y",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 34,
+     "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=V&constit=y",
+     "sha256": "1fb5c8d1f6119d55808f393fffa53b5d368e90f83accb664f37fe0316ed48b21"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-06",
+   "short": "Mo. Const. art. VI",
+   "title": "Constitution of Missouri, Article VI",
+   "url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=VI&constit=y",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 64,
+     "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=VI&constit=y",
+     "sha256": "da45dfb68bec71dd698ee1e2c5fd01fe6bde29e86382043df3e59043744f4dac"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-07",
+   "short": "Mo. Const. art. VII",
+   "title": "Constitution of Missouri, Article VII",
+   "url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=VII&constit=y",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 14,
+     "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=VII&constit=y",
+     "sha256": "59b603d5014d1caac48d14b55253fbf21f1803b2776b153e216edab0aa23bd46"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-08",
+   "short": "Mo. Const. art. VIII",
+   "title": "Constitution of Missouri, Article VIII",
+   "url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=VIII&constit=y",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 18,
+     "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=VIII&constit=y",
+     "sha256": "a03681d6427764e3ac6c188969e8a04787935ece7edcfca92cbc954737ed60aa"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-09",
+   "short": "Mo. Const. art. IX",
+   "title": "Constitution of Missouri, Article IX",
+   "url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=IX&constit=y",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 15,
+     "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=IX&constit=y",
+     "sha256": "463a01b5b9573496fb31049a70f3812f999e8d7b31ee6d56827187b970d03052"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-10",
+   "short": "Mo. Const. art. X",
+   "title": "Constitution of Missouri, Article X",
+   "url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=X&constit=y",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 41,
+     "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=X&constit=y",
+     "sha256": "ea087dc82472037616665163c0d579a5c040e270027da94e599d1d835e8ee5e9"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-11",
+   "short": "Mo. Const. art. XI",
+   "title": "Constitution of Missouri, Article XI",
+   "url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=XI&constit=y",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 12,
+     "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=XI&constit=y",
+     "sha256": "27bc7c354b09a986b4235b84f4f335007e8a3cdb7cd18238ca7ce27383dfde61"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-12",
+   "short": "Mo. Const. art. XII",
+   "title": "Constitution of Missouri, Article XII",
+   "url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=XII&constit=y",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 12,
+     "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=XII&constit=y",
+     "sha256": "85917d92fc0caf7993f67dcbf07e8848a23a76cae2db9033191c4849f1833a62"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-13",
+   "short": "Mo. Const. art. XIII",
+   "title": "Constitution of Missouri, Article XIII",
+   "url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=XIII&constit=y",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 3,
+     "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=XIII&constit=y",
+     "sha256": "5dc1fa7e34fc0713b37f7e017c907edf62794d0daf6901e40d15e23023157bea"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-14",
+   "short": "Mo. Const. art. XIV",
+   "title": "Constitution of Missouri, Article XIV",
+   "url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=XIV&constit=y",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 2,
+     "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=XIV&constit=y",
+     "sha256": "9a6595935e9d69faae5b5981b968d37bf8113c285e01295d3e3bff4841083b9a"
+    }
+   ]
+  },
+  {
+   "slug": "rsmo-chapter-556",
+   "short": "RSMo ch. 556",
+   "title": "Revised Statutes of Missouri, Chapter 556",
+   "url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=556",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 12,
+     "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=556",
+     "sha256": "09089d111252e0a0ceac61a09718d897c7c5f0a6d7df289f4ecb6a58d0341a62"
+    }
+   ]
+  },
+  {
+   "slug": "rsmo-chapter-557",
+   "short": "RSMo ch. 557",
+   "title": "Revised Statutes of Missouri, Chapter 557",
+   "url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=557",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 10,
+     "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=557",
+     "sha256": "52293a665b1037489eb4b508ac248af518649b9754e8f2ab16b5e3c4b84b2546"
+    }
+   ]
+  },
+  {
+   "slug": "rsmo-chapter-558",
+   "short": "RSMo ch. 558",
+   "title": "Revised Statutes of Missouri, Chapter 558",
+   "url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=558",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 14,
+     "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=558",
+     "sha256": "48a50a8d920e6d6e491eae125371fbb1dc13c11702ecc6403d0a59960877c562"
+    }
+   ]
+  },
+  {
+   "slug": "rsmo-chapter-559",
+   "short": "RSMo ch. 559",
+   "title": "Revised Statutes of Missouri, Chapter 559",
+   "url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=559",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 35,
+     "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=559",
+     "sha256": "348f29e61d0200be98e6b55b80fea6348a2f2a22b1e903f371e5c5c6555e6cad"
+    }
+   ]
+  },
+  {
+   "slug": "rsmo-chapter-561",
+   "short": "RSMo ch. 561",
+   "title": "Revised Statutes of Missouri, Chapter 561",
+   "url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=561",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 4,
+     "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=561",
+     "sha256": "6e68fac5f20a2664d7dd06bd929db444384467cb57080e871bc559e0e5f45328"
+    }
+   ]
+  },
+  {
+   "slug": "rsmo-chapter-562",
+   "short": "RSMo ch. 562",
+   "title": "Revised Statutes of Missouri, Chapter 562",
+   "url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=562",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 17,
+     "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=562",
+     "sha256": "f023c680cec7a3a83284fe4b971af739642591fd5d84f7b3e22120a376469a04"
+    }
+   ]
+  },
+  {
+   "slug": "rsmo-chapter-563",
+   "short": "RSMo ch. 563",
+   "title": "Revised Statutes of Missouri, Chapter 563",
+   "url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=563",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 13,
+     "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=563",
+     "sha256": "71b4ad3ad6dc1c06c01fc380b4cc30f41abad54fbeb4fc87d3cfd0b1d1cd0f3c"
+    }
+   ]
+  },
+  {
+   "slug": "rsmo-chapter-565",
+   "short": "RSMo ch. 565",
+   "title": "Revised Statutes of Missouri, Chapter 565",
+   "url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=565",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 56,
+     "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=565",
+     "sha256": "63dceb36089d8216174a45a7574e07d6dc63314115a3271670783d588f644ac3"
+    }
+   ]
+  },
+  {
+   "slug": "rsmo-chapter-566",
+   "short": "RSMo ch. 566",
+   "title": "Revised Statutes of Missouri, Chapter 566",
+   "url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=566",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 45,
+     "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=566",
+     "sha256": "7c35d8ebaf15a28740d7dd33debc0526863898063f15edf56294e4eb5a589d00"
+    }
+   ]
+  },
+  {
+   "slug": "rsmo-chapter-567",
+   "short": "RSMo ch. 567",
+   "title": "Revised Statutes of Missouri, Chapter 567",
+   "url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=567",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 14,
+     "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=567",
+     "sha256": "f2a374f02f8d42eadbda771d5401b165e315963cc8a4480076230e7af9f8404f"
+    }
+   ]
+  },
+  {
+   "slug": "rsmo-chapter-568",
+   "short": "RSMo ch. 568",
+   "title": "Revised Statutes of Missouri, Chapter 568",
+   "url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=568",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 11,
+     "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=568",
+     "sha256": "673d8384e8a561592f7b43558f97a53b4536a0d2ad08b924b64bb3d6aa987af0"
+    }
+   ]
+  },
+  {
+   "slug": "rsmo-chapter-569",
+   "short": "RSMo ch. 569",
+   "title": "Revised Statutes of Missouri, Chapter 569",
+   "url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=569",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 31,
+     "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=569",
+     "sha256": "2ae6c9afaacfbadbcff8e2fea714deaaf66db56446890d2f469b78f89429102b"
+    }
+   ]
+  }
+ ]
+}

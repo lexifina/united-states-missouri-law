@@ -1,0 +1,76 @@
+# Constitution of Missouri, Article IV
+
+Mo. Const. art. IV · 1 versions, from 2026-10-29 (latest in force: 2026-10-29) · <https://revisor.mo.gov/main/ViewChapter.aspx?chapter=IV&constit=y>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. IV, Section 1 | [sec-001.md](sec-001.md) | 0 |  |
+| Art. IV, Section 2 | [sec-002.md](sec-002.md) | 0 |  |
+| Art. IV, Section 3 | [sec-003.md](sec-003.md) | 0 |  |
+| Art. IV, Section 4 | [sec-004.md](sec-004.md) | 0 |  |
+| Art. IV, Section 5 | [sec-005.md](sec-005.md) | 0 |  |
+| Art. IV, Section 6 | [sec-006.md](sec-006.md) | 0 |  |
+| Art. IV, Section 7 | [sec-007.md](sec-007.md) | 0 |  |
+| Art. IV, Section 8 | [sec-008.md](sec-008.md) | 0 |  |
+| Art. IV, Section 9 | [sec-009.md](sec-009.md) | 0 |  |
+| Art. IV, Section 10 | [sec-010.md](sec-010.md) | 0 |  |
+| Art. IV, Section 11(a) | [sec-011-a.md](sec-011-a.md) | 0 |  |
+| Art. IV, Section 11(b) | [sec-011-b.md](sec-011-b.md) | 0 |  |
+| Art. IV, Section 11(c) | [sec-011-c.md](sec-011-c.md) | 0 |  |
+| Art. IV, Section 12 | [sec-012.md](sec-012.md) | 0 |  |
+| Art. IV, Section 13 | [sec-013.md](sec-013.md) | 0 |  |
+| Art. IV, Section 14 | [sec-014.md](sec-014.md) | 0 |  |
+| Art. IV, Section 15 | [sec-015.md](sec-015.md) | 0 |  |
+| Art. IV, Section 16 | [sec-016.md](sec-016.md) | 0 |  |
+| Art. IV, Section 17 | [sec-017.md](sec-017.md) | 0 |  |
+| Art. IV, Section 18 | [sec-018.md](sec-018.md) | 0 |  |
+| Art. IV, Section 19 | [sec-019.md](sec-019.md) | 0 |  |
+| Art. IV, Section 20 | [sec-020.md](sec-020.md) | 0 |  |
+| Art. IV, Section 21 | [sec-021.md](sec-021.md) | 0 |  |
+| Art. IV, Section 22 | [sec-022.md](sec-022.md) | 0 |  |
+| Art. IV, Section 23 | [sec-023.md](sec-023.md) | 0 |  |
+| Art. IV, Section 24 | [sec-024.md](sec-024.md) | 0 |  |
+| Art. IV, Section 25 | [sec-025.md](sec-025.md) | 0 |  |
+| Art. IV, Section 26 | [sec-026.md](sec-026.md) | 0 |  |
+| Art. IV, Section 27 | [sec-027.md](sec-027.md) | 0 |  |
+| Art. IV, Section 27(a) | [sec-027-a.md](sec-027-a.md) | 0 |  |
+| Art. IV, Section 27(b) | [sec-027-b.md](sec-027-b.md) | 0 |  |
+| Art. IV, Section 28 | [sec-028.md](sec-028.md) | 0 |  |
+| Art. IV, Section 29 | [sec-029.md](sec-029.md) | 0 |  |
+| Art. IV, Section 30(a) | [sec-030-a.md](sec-030-a.md) | 0 |  |
+| Art. IV, Section 30(b) | [sec-030-b.md](sec-030-b.md) | 0 |  |
+| Art. IV, Section 30(c) | [sec-030-c.md](sec-030-c.md) | 0 |  |
+| Art. IV, Section 30(d) | [sec-030-d.md](sec-030-d.md) | 0 |  |
+| Art. IV, Section 31 | [sec-031.md](sec-031.md) | 0 |  |
+| Art. IV, Section 32 | [sec-032.md](sec-032.md) | 0 |  |
+| Art. IV, Section 33 | [sec-033.md](sec-033.md) | 0 |  |
+| Art. IV, Section 34 | [sec-034.md](sec-034.md) | 0 |  |
+| Art. IV, Section 35 | [sec-035.md](sec-035.md) | 0 |  |
+| Art. IV, Section 36 | [sec-036.md](sec-036.md) | 0 |  |
+| Art. IV, Section 36(a) | [sec-036-a.md](sec-036-a.md) | 0 |  |
+| Art. IV, Section 36(b) | [sec-036-b.md](sec-036-b.md) | 0 |  |
+| Art. IV, Section 36(c) | [sec-036-c.md](sec-036-c.md) | 0 |  |
+| Art. IV, Section 37 | [sec-037.md](sec-037.md) | 0 |  |
+| Art. IV, Section 37(a) | [sec-037-a.md](sec-037-a.md) | 0 |  |
+| Art. IV, Section 39 | [sec-039.md](sec-039.md) | 0 |  |
+| Art. IV, Section 40(a) | [sec-040-a.md](sec-040-a.md) | 0 |  |
+| Art. IV, Section 40(b) | [sec-040-b.md](sec-040-b.md) | 0 |  |
+| Art. IV, Section 41 | [sec-041.md](sec-041.md) | 0 |  |
+| Art. IV, Section 42 | [sec-042.md](sec-042.md) | 0 |  |
+| Art. IV, Section 43(a) | [sec-043-a.md](sec-043-a.md) | 0 |  |
+| Art. IV, Section 43(b) | [sec-043-b.md](sec-043-b.md) | 0 |  |
+| Art. IV, Section 43(c) | [sec-043-c.md](sec-043-c.md) | 0 |  |
+| Art. IV, Section 44 | [sec-044.md](sec-044.md) | 0 |  |
+| Art. IV, Section 45 | [sec-045.md](sec-045.md) | 0 |  |
+| Art. IV, Section 46 | [sec-046.md](sec-046.md) | 0 |  |
+| Art. IV, Section 47 | [sec-047.md](sec-047.md) | 0 |  |
+| Art. IV, Section 47(a) | [sec-047-a.md](sec-047-a.md) | 0 |  |
+| Art. IV, Section 47(b) | [sec-047-b.md](sec-047-b.md) | 0 |  |
+| Art. IV, Section 47(c) | [sec-047-c.md](sec-047-c.md) | 0 |  |
+| Art. IV, Section 48 | [sec-048.md](sec-048.md) | 0 |  |
+| Art. IV, Section 49 | [sec-049.md](sec-049.md) | 0 |  |
+| Art. IV, Section 50 | [sec-050.md](sec-050.md) | 0 |  |
+| Art. IV, Section 51 | [sec-051.md](sec-051.md) | 0 |  |
+| Art. IV, Section 52 | [sec-052.md](sec-052.md) | 0 |  |
+| Art. IV, Section 53 | [sec-053.md](sec-053.md) | 0 |  |
+| Art. IV, Section 54 | [sec-054.md](sec-054.md) | 0 |  |

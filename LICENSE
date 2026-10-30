@@ -1,0 +1,10 @@
+Source: Missouri Revisor of Statutes, https://revisor.mo.gov/ (retrieved 2026-10-30).
+
+Statute text is not copyrightable: under the government edicts doctrine, as the Supreme Court applied it in Georgia v.
+Public.Resource.Org, Inc., 590 U.S. 255 (2020), no one holds copyright in the laws that legislators make in their
+official capacity. The site's "Terms of use" page reads "TBD" and its footer carries "(c) Missouri Legislature, all rights
+reserved" for the website as a whole; revisor.mo.gov has no robots.txt. Only the statute text and the law-line footnotes
+of the Revisor are taken; the court-decision annotations printed after Constitution sections are not.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the
+tools) are dedicated to the public domain under CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/
