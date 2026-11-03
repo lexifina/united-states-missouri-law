@@ -1,5 +1,74 @@
-# rsmo-chapter-589
+# Revised Statutes of Missouri, Chapter 589
 
-Current text source date: 2026-08-28.
+RSMo ch. 589 · 1 versions, from 2026-08-28 (latest in force: 2026-08-28) · <https://revisor.mo.gov/main/ViewChapter.aspx?chapter=589>
 
-Labelled date correction: rsmo-chapter-589 2026-11-02...
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| RSMo 589.010 | [sec-589-010.md](sec-589-010.md) | 0 |  |
+| RSMo 589.015 | [sec-589-015.md](sec-589-015.md) | 0 |  |
+| RSMo 589.020 | [sec-589-020.md](sec-589-020.md) | 0 |  |
+| RSMo 589.030 | [sec-589-030.md](sec-589-030.md) | 0 |  |
+| RSMo 589.035 | [sec-589-035.md](sec-589-035.md) | 0 |  |
+| RSMo 589.040 | [sec-589-040.md](sec-589-040.md) | 0 |  |
+| RSMo 589.042 | [sec-589-042.md](sec-589-042.md) | 0 |  |
+| RSMo 589.200 | [sec-589-200.md](sec-589-200.md) | 0 |  |
+| RSMo 589.205 | [sec-589-205.md](sec-589-205.md) | 0 |  |
+| RSMo 589.210 | [sec-589-210.md](sec-589-210.md) | 0 |  |
+| RSMo 589.215 | [sec-589-215.md](sec-589-215.md) | 0 |  |
+| RSMo 589.300 | [sec-589-300.md](sec-589-300.md) | 0 |  |
+| RSMo 589.305 | [sec-589-305.md](sec-589-305.md) | 0 |  |
+| RSMo 589.307 | [sec-589-307.md](sec-589-307.md) | 0 |  |
+| RSMo 589.310 | [sec-589-310.md](sec-589-310.md) | 0 |  |
+| RSMo 589.400 | [sec-589-400.md](sec-589-400.md) | 0 |  |
+| RSMo 589.401 | [sec-589-401.md](sec-589-401.md) | 0 |  |
+| RSMo 589.403 | [sec-589-403.md](sec-589-403.md) | 0 |  |
+| RSMo 589.404 | [sec-589-404.md](sec-589-404.md) | 0 |  |
+| RSMo 589.405 | [sec-589-405.md](sec-589-405.md) | 0 |  |
+| RSMo 589.407 | [sec-589-407.md](sec-589-407.md) | 0 |  |
+| RSMo 589.410 | [sec-589-410.md](sec-589-410.md) | 0 |  |
+| RSMo 589.411 | [sec-589-411.md](sec-589-411.md) | 0 |  |
+| RSMo 589.412 | [sec-589-412.md](sec-589-412.md) | 0 |  |
+| RSMo 589.413 | [sec-589-413.md](sec-589-413.md) | 0 |  |
+| RSMo 589.414 | [sec-589-414.md](sec-589-414.md) | 0 |  |
+| RSMo 589.415 | [sec-589-415.md](sec-589-415.md) | 0 |  |
+| RSMo 589.417 | [sec-589-417.md](sec-589-417.md) | 0 |  |
+| RSMo 589.420 | [sec-589-420.md](sec-589-420.md) | 0 |  |
+| RSMo 589.425 | [sec-589-425.md](sec-589-425.md) | 0 |  |
+| RSMo 589.426 | [sec-589-426.md](sec-589-426.md) | 0 |  |
+| RSMo 589.500 | [sec-589-500.md](sec-589-500.md) | 0 |  |
+| RSMo 589.503 | [sec-589-503.md](sec-589-503.md) | 0 |  |
+| RSMo 589.506 | [sec-589-506.md](sec-589-506.md) | 0 |  |
+| RSMo 589.509 | [sec-589-509.md](sec-589-509.md) | 0 |  |
+| RSMo 589.512 | [sec-589-512.md](sec-589-512.md) | 0 |  |
+| RSMo 589.515 | [sec-589-515.md](sec-589-515.md) | 0 |  |
+| RSMo 589.518 | [sec-589-518.md](sec-589-518.md) | 0 |  |
+| RSMo 589.521 | [sec-589-521.md](sec-589-521.md) | 0 |  |
+| RSMo 589.524 | [sec-589-524.md](sec-589-524.md) | 0 |  |
+| RSMo 589.527 | [sec-589-527.md](sec-589-527.md) | 0 |  |
+| RSMo 589.530 | [sec-589-530.md](sec-589-530.md) | 0 |  |
+| RSMo 589.533 | [sec-589-533.md](sec-589-533.md) | 0 |  |
+| RSMo 589.536 | [sec-589-536.md](sec-589-536.md) | 0 |  |
+| RSMo 589.539 | [sec-589-539.md](sec-589-539.md) | 0 |  |
+| RSMo 589.542 | [sec-589-542.md](sec-589-542.md) | 0 |  |
+| RSMo 589.545 | [sec-589-545.md](sec-589-545.md) | 0 |  |
+| RSMo 589.548 | [sec-589-548.md](sec-589-548.md) | 0 |  |
+| RSMo 589.551 | [sec-589-551.md](sec-589-551.md) | 0 |  |
+| RSMo 589.554 | [sec-589-554.md](sec-589-554.md) | 0 |  |
+| RSMo 589.557 | [sec-589-557.md](sec-589-557.md) | 0 |  |
+| RSMo 589.560 | [sec-589-560.md](sec-589-560.md) | 0 |  |
+| RSMo 589.563 | [sec-589-563.md](sec-589-563.md) | 0 |  |
+| RSMo 589.566 | [sec-589-566.md](sec-589-566.md) | 0 |  |
+| RSMo 589.569 | [sec-589-569.md](sec-589-569.md) | 0 |  |
+| RSMo 589.660 | [sec-589-660.md](sec-589-660.md) | 0 |  |
+| RSMo 589.663 | [sec-589-663.md](sec-589-663.md) | 0 |  |
+| RSMo 589.664 | [sec-589-664.md](sec-589-664.md) | 0 |  |
+| RSMo 589.666 | [sec-589-666.md](sec-589-666.md) | 0 |  |
+| RSMo 589.669 | [sec-589-669.md](sec-589-669.md) | 0 |  |
+| RSMo 589.672 | [sec-589-672.md](sec-589-672.md) | 0 |  |
+| RSMo 589.675 | [sec-589-675.md](sec-589-675.md) | 0 |  |
+| RSMo 589.678 | [sec-589-678.md](sec-589-678.md) | 0 |  |
+| RSMo 589.681 | [sec-589-681.md](sec-589-681.md) | 0 |  |
+| RSMo 589.683 | [sec-589-683.md](sec-589-683.md) | 0 |  |
+| RSMo 589.700 | [sec-589-700.md](sec-589-700.md) | 0 |  |
+| RSMo 589.900 | [sec-589-900.md](sec-589-900.md) | 0 |  |
+| RSMo 589.902 | [sec-589-902.md](sec-589-902.md) | 0 |  |

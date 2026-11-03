@@ -1,5 +1,92 @@
-# rsmo-chapter-478
+# Revised Statutes of Missouri, Chapter 478
 
-Current text source date: 2026-08-28.
+RSMo ch. 478 · 1 versions, from 2026-08-28 (latest in force: 2026-08-28) · <https://revisor.mo.gov/main/ViewChapter.aspx?chapter=478>
 
-Labelled date correction: rsmo-chapter-478 2026-11-02...
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| RSMo 478.001 | [sec-478-001.md](sec-478-001.md) | 0 |  |
+| RSMo 478.003 | [sec-478-003.md](sec-478-003.md) | 0 |  |
+| RSMo 478.004 | [sec-478-004.md](sec-478-004.md) | 0 |  |
+| RSMo 478.005 | [sec-478-005.md](sec-478-005.md) | 0 |  |
+| RSMo 478.007 | [sec-478-007.md](sec-478-007.md) | 0 |  |
+| RSMo 478.009 | [sec-478-009.md](sec-478-009.md) | 0 |  |
+| RSMo 478.010 | [sec-478-010.md](sec-478-010.md) | 0 |  |
+| RSMo 478.011 | [sec-478-011.md](sec-478-011.md) | 0 |  |
+| RSMo 478.012 | [sec-478-012.md](sec-478-012.md) | 0 |  |
+| RSMo 478.013 | [sec-478-013.md](sec-478-013.md) | 0 |  |
+| RSMo 478.014 | [sec-478-014.md](sec-478-014.md) | 0 |  |
+| RSMo 478.017 | [sec-478-017.md](sec-478-017.md) | 0 |  |
+| RSMo 478.018 | [sec-478-018.md](sec-478-018.md) | 0 |  |
+| RSMo 478.019 | [sec-478-019.md](sec-478-019.md) | 0 |  |
+| RSMo 478.020 | [sec-478-020.md](sec-478-020.md) | 0 |  |
+| RSMo 478.023 | [sec-478-023.md](sec-478-023.md) | 0 |  |
+| RSMo 478.035 | [sec-478-035.md](sec-478-035.md) | 0 |  |
+| RSMo 478.038 | [sec-478-038.md](sec-478-038.md) | 0 |  |
+| RSMo 478.063 | [sec-478-063.md](sec-478-063.md) | 0 |  |
+| RSMo 478.070 | [sec-478-070.md](sec-478-070.md) | 0 |  |
+| RSMo 478.072 | [sec-478-072.md](sec-478-072.md) | 0 |  |
+| RSMo 478.073 | [sec-478-073.md](sec-478-073.md) | 0 |  |
+| RSMo 478.1000 | [sec-478-1000.md](sec-478-1000.md) | 0 |  |
+| RSMo 478.191 | [sec-478-191.md](sec-478-191.md) | 0 |  |
+| RSMo 478.205 | [sec-478-205.md](sec-478-205.md) | 0 |  |
+| RSMo 478.206 | [sec-478-206.md](sec-478-206.md) | 0 |  |
+| RSMo 478.220 | [sec-478-220.md](sec-478-220.md) | 0 |  |
+| RSMo 478.230 | [sec-478-230.md](sec-478-230.md) | 0 |  |
+| RSMo 478.240 | [sec-478-240.md](sec-478-240.md) | 0 |  |
+| RSMo 478.245 | [sec-478-245.md](sec-478-245.md) | 0 |  |
+| RSMo 478.248 | [sec-478-248.md](sec-478-248.md) | 0 |  |
+| RSMo 478.250 | [sec-478-250.md](sec-478-250.md) | 0 |  |
+| RSMo 478.255 | [sec-478-255.md](sec-478-255.md) | 0 |  |
+| RSMo 478.260 | [sec-478-260.md](sec-478-260.md) | 0 |  |
+| RSMo 478.265 | [sec-478-265.md](sec-478-265.md) | 0 |  |
+| RSMo 478.266 | [sec-478-266.md](sec-478-266.md) | 0 |  |
+| RSMo 478.267 | [sec-478-267.md](sec-478-267.md) | 0 |  |
+| RSMo 478.268 | [sec-478-268.md](sec-478-268.md) | 0 |  |
+| RSMo 478.270 | [sec-478-270.md](sec-478-270.md) | 0 |  |
+| RSMo 478.320 | [sec-478-320.md](sec-478-320.md) | 0 |  |
+| RSMo 478.330 | [sec-478-330.md](sec-478-330.md) | 0 |  |
+| RSMo 478.370 | [sec-478-370.md](sec-478-370.md) | 0 |  |
+| RSMo 478.376 | [sec-478-376.md](sec-478-376.md) | 0 |  |
+| RSMo 478.385 | [sec-478-385.md](sec-478-385.md) | 0 |  |
+| RSMo 478.387 | [sec-478-387.md](sec-478-387.md) | 0 |  |
+| RSMo 478.400 | [sec-478-400.md](sec-478-400.md) | 0 |  |
+| RSMo 478.422 | [sec-478-422.md](sec-478-422.md) | 0 |  |
+| RSMo 478.428 | [sec-478-428.md](sec-478-428.md) | 0 |  |
+| RSMo 478.434 | [sec-478-434.md](sec-478-434.md) | 0 |  |
+| RSMo 478.435 | [sec-478-435.md](sec-478-435.md) | 0 |  |
+| RSMo 478.437 | [sec-478-437.md](sec-478-437.md) | 0 |  |
+| RSMo 478.450 | [sec-478-450.md](sec-478-450.md) | 0 |  |
+| RSMo 478.461 | [sec-478-461.md](sec-478-461.md) | 0 |  |
+| RSMo 478.462 | [sec-478-462.md](sec-478-462.md) | 0 |  |
+| RSMo 478.463 | [sec-478-463.md](sec-478-463.md) | 0 |  |
+| RSMo 478.464 | [sec-478-464.md](sec-478-464.md) | 0 |  |
+| RSMo 478.465 | [sec-478-465.md](sec-478-465.md) | 0 |  |
+| RSMo 478.466 | [sec-478-466.md](sec-478-466.md) | 0 |  |
+| RSMo 478.467 | [sec-478-467.md](sec-478-467.md) | 0 |  |
+| RSMo 478.469 | [sec-478-469.md](sec-478-469.md) | 0 |  |
+| RSMo 478.473 | [sec-478-473.md](sec-478-473.md) | 0 |  |
+| RSMo 478.475 | [sec-478-475.md](sec-478-475.md) | 0 |  |
+| RSMo 478.483 | [sec-478-483.md](sec-478-483.md) | 0 |  |
+| RSMo 478.513 | [sec-478-513.md](sec-478-513.md) | 0 |  |
+| RSMo 478.527 | [sec-478-527.md](sec-478-527.md) | 0 |  |
+| RSMo 478.528 | [sec-478-528.md](sec-478-528.md) | 0 |  |
+| RSMo 478.530 | [sec-478-530.md](sec-478-530.md) | 0 |  |
+| RSMo 478.550 | [sec-478-550.md](sec-478-550.md) | 0 |  |
+| RSMo 478.570 | [sec-478-570.md](sec-478-570.md) | 0 |  |
+| RSMo 478.577 | [sec-478-577.md](sec-478-577.md) | 0 |  |
+| RSMo 478.600 | [sec-478-600.md](sec-478-600.md) | 0 |  |
+| RSMo 478.610 | [sec-478-610.md](sec-478-610.md) | 0 |  |
+| RSMo 478.620 | [sec-478-620.md](sec-478-620.md) | 0 |  |
+| RSMo 478.625 | [sec-478-625.md](sec-478-625.md) | 0 |  |
+| RSMo 478.630 | [sec-478-630.md](sec-478-630.md) | 0 |  |
+| RSMo 478.690 | [sec-478-690.md](sec-478-690.md) | 0 |  |
+| RSMo 478.700 | [sec-478-700.md](sec-478-700.md) | 0 |  |
+| RSMo 478.705 | [sec-478-705.md](sec-478-705.md) | 0 |  |
+| RSMo 478.710 | [sec-478-710.md](sec-478-710.md) | 0 |  |
+| RSMo 478.711 | [sec-478-711.md](sec-478-711.md) | 0 |  |
+| RSMo 478.715 | [sec-478-715.md](sec-478-715.md) | 0 |  |
+| RSMo 478.716 | [sec-478-716.md](sec-478-716.md) | 0 |  |
+| RSMo 478.720 | [sec-478-720.md](sec-478-720.md) | 0 |  |
+| RSMo 478.730 | [sec-478-730.md](sec-478-730.md) | 0 |  |
+| RSMo 478.740 | [sec-478-740.md](sec-478-740.md) | 0 |  |
+| RSMo 478.750 | [sec-478-750.md](sec-478-750.md) | 0 |  |

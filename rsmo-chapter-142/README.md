@@ -1,5 +1,73 @@
-# rsmo-chapter-142
+# Revised Statutes of Missouri, Chapter 142
 
-Current text source date: 2021-08-28.
+RSMo ch. 142 · 1 versions, from 2021-08-28 (latest in force: 2021-08-28) · <https://revisor.mo.gov/main/ViewChapter.aspx?chapter=142>
 
-Labelled date correction: rsmo-chapter-142 2026-11-02...
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| RSMo 142.009 | [sec-142-009.md](sec-142-009.md) | 0 |  |
+| RSMo 142.015 | [sec-142-015.md](sec-142-015.md) | 0 |  |
+| RSMo 142.028 | [sec-142-028.md](sec-142-028.md) | 0 |  |
+| RSMo 142.029 | [sec-142-029.md](sec-142-029.md) | 0 |  |
+| RSMo 142.031 | [sec-142-031.md](sec-142-031.md) | 0 |  |
+| RSMo 142.1000 | [sec-142-1000.md](sec-142-1000.md) | 0 |  |
+| RSMo 142.200 | [sec-142-200.md](sec-142-200.md) | 0 |  |
+| RSMo 142.310 | [sec-142-310.md](sec-142-310.md) | 0 |  |
+| RSMo 142.345 | [sec-142-345.md](sec-142-345.md) | 0 |  |
+| RSMo 142.350 | [sec-142-350.md](sec-142-350.md) | 0 |  |
+| RSMo 142.617 | [sec-142-617.md](sec-142-617.md) | 0 |  |
+| RSMo 142.800 | [sec-142-800.md](sec-142-800.md) | 0 |  |
+| RSMo 142.803 | [sec-142-803.md](sec-142-803.md) | 0 |  |
+| RSMo 142.806 | [sec-142-806.md](sec-142-806.md) | 0 |  |
+| RSMo 142.809 | [sec-142-809.md](sec-142-809.md) | 0 |  |
+| RSMo 142.812 | [sec-142-812.md](sec-142-812.md) | 0 |  |
+| RSMo 142.815 | [sec-142-815.md](sec-142-815.md) | 0 |  |
+| RSMo 142.817 | [sec-142-817.md](sec-142-817.md) | 0 |  |
+| RSMo 142.818 | [sec-142-818.md](sec-142-818.md) | 0 |  |
+| RSMo 142.822 | [sec-142-822.md](sec-142-822.md) | 0 |  |
+| RSMo 142.824 | [sec-142-824.md](sec-142-824.md) | 0 |  |
+| RSMo 142.827 | [sec-142-827.md](sec-142-827.md) | 0 |  |
+| RSMo 142.830 | [sec-142-830.md](sec-142-830.md) | 0 |  |
+| RSMo 142.833 | [sec-142-833.md](sec-142-833.md) | 0 |  |
+| RSMo 142.836 | [sec-142-836.md](sec-142-836.md) | 0 |  |
+| RSMo 142.839 | [sec-142-839.md](sec-142-839.md) | 0 |  |
+| RSMo 142.842 | [sec-142-842.md](sec-142-842.md) | 0 |  |
+| RSMo 142.845 | [sec-142-845.md](sec-142-845.md) | 0 |  |
+| RSMo 142.848 | [sec-142-848.md](sec-142-848.md) | 0 |  |
+| RSMo 142.851 | [sec-142-851.md](sec-142-851.md) | 0 |  |
+| RSMo 142.854 | [sec-142-854.md](sec-142-854.md) | 0 |  |
+| RSMo 142.857 | [sec-142-857.md](sec-142-857.md) | 0 |  |
+| RSMo 142.860 | [sec-142-860.md](sec-142-860.md) | 0 |  |
+| RSMo 142.863 | [sec-142-863.md](sec-142-863.md) | 0 |  |
+| RSMo 142.866 | [sec-142-866.md](sec-142-866.md) | 0 |  |
+| RSMo 142.869 | [sec-142-869.md](sec-142-869.md) | 0 |  |
+| RSMo 142.872 | [sec-142-872.md](sec-142-872.md) | 0 |  |
+| RSMo 142.875 | [sec-142-875.md](sec-142-875.md) | 0 |  |
+| RSMo 142.878 | [sec-142-878.md](sec-142-878.md) | 0 |  |
+| RSMo 142.881 | [sec-142-881.md](sec-142-881.md) | 0 |  |
+| RSMo 142.884 | [sec-142-884.md](sec-142-884.md) | 0 |  |
+| RSMo 142.887 | [sec-142-887.md](sec-142-887.md) | 0 |  |
+| RSMo 142.890 | [sec-142-890.md](sec-142-890.md) | 0 |  |
+| RSMo 142.893 | [sec-142-893.md](sec-142-893.md) | 0 |  |
+| RSMo 142.896 | [sec-142-896.md](sec-142-896.md) | 0 |  |
+| RSMo 142.899 | [sec-142-899.md](sec-142-899.md) | 0 |  |
+| RSMo 142.900 | [sec-142-900.md](sec-142-900.md) | 0 |  |
+| RSMo 142.902 | [sec-142-902.md](sec-142-902.md) | 0 |  |
+| RSMo 142.905 | [sec-142-905.md](sec-142-905.md) | 0 |  |
+| RSMo 142.908 | [sec-142-908.md](sec-142-908.md) | 0 |  |
+| RSMo 142.909 | [sec-142-909.md](sec-142-909.md) | 0 |  |
+| RSMo 142.911 | [sec-142-911.md](sec-142-911.md) | 0 |  |
+| RSMo 142.914 | [sec-142-914.md](sec-142-914.md) | 0 |  |
+| RSMo 142.917 | [sec-142-917.md](sec-142-917.md) | 0 |  |
+| RSMo 142.920 | [sec-142-920.md](sec-142-920.md) | 0 |  |
+| RSMo 142.923 | [sec-142-923.md](sec-142-923.md) | 0 |  |
+| RSMo 142.926 | [sec-142-926.md](sec-142-926.md) | 0 |  |
+| RSMo 142.929 | [sec-142-929.md](sec-142-929.md) | 0 |  |
+| RSMo 142.932 | [sec-142-932.md](sec-142-932.md) | 0 |  |
+| RSMo 142.935 | [sec-142-935.md](sec-142-935.md) | 0 |  |
+| RSMo 142.938 | [sec-142-938.md](sec-142-938.md) | 0 |  |
+| RSMo 142.941 | [sec-142-941.md](sec-142-941.md) | 0 |  |
+| RSMo 142.944 | [sec-142-944.md](sec-142-944.md) | 0 |  |
+| RSMo 142.947 | [sec-142-947.md](sec-142-947.md) | 0 |  |
+| RSMo 142.950 | [sec-142-950.md](sec-142-950.md) | 0 |  |
+| RSMo 142.951 | [sec-142-951.md](sec-142-951.md) | 0 |  |
+| RSMo 142.953 | [sec-142-953.md](sec-142-953.md) | 0 |  |

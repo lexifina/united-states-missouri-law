@@ -1,5 +1,8 @@
-# rsmo-chapter-549
+# Revised Statutes of Missouri, Chapter 549
 
-Current text source date: 2021-08-28.
+RSMo ch. 549 · 1 versions, from 2021-08-28 (latest in force: 2021-08-28) · <https://revisor.mo.gov/main/ViewChapter.aspx?chapter=549>
 
-Labelled date correction: rsmo-chapter-549 2026-11-02...
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| RSMo 549.500 | [sec-549-500.md](sec-549-500.md) | 0 |  |
+| RSMo 549.525 | [sec-549-525.md](sec-549-525.md) | 0 |  |

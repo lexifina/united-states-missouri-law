@@ -1,5 +1,73 @@
-# rsmo-chapter-382
+# Revised Statutes of Missouri, Chapter 382
 
-Current text source date: 2021-08-28.
+RSMo ch. 382 · 1 versions, from 2021-08-28 (latest in force: 2021-08-28) · <https://revisor.mo.gov/main/ViewChapter.aspx?chapter=382>
 
-Labelled date correction: rsmo-chapter-382 2026-11-02...
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| RSMo 382.010 | [sec-382-010.md](sec-382-010.md) | 0 |  |
+| RSMo 382.020 | [sec-382-020.md](sec-382-020.md) | 0 |  |
+| RSMo 382.030 | [sec-382-030.md](sec-382-030.md) | 0 |  |
+| RSMo 382.040 | [sec-382-040.md](sec-382-040.md) | 0 |  |
+| RSMo 382.050 | [sec-382-050.md](sec-382-050.md) | 0 |  |
+| RSMo 382.060 | [sec-382-060.md](sec-382-060.md) | 0 |  |
+| RSMo 382.070 | [sec-382-070.md](sec-382-070.md) | 0 |  |
+| RSMo 382.080 | [sec-382-080.md](sec-382-080.md) | 0 |  |
+| RSMo 382.090 | [sec-382-090.md](sec-382-090.md) | 0 |  |
+| RSMo 382.095 | [sec-382-095.md](sec-382-095.md) | 0 |  |
+| RSMo 382.100 | [sec-382-100.md](sec-382-100.md) | 0 |  |
+| RSMo 382.110 | [sec-382-110.md](sec-382-110.md) | 0 |  |
+| RSMo 382.120 | [sec-382-120.md](sec-382-120.md) | 0 |  |
+| RSMo 382.130 | [sec-382-130.md](sec-382-130.md) | 0 |  |
+| RSMo 382.140 | [sec-382-140.md](sec-382-140.md) | 0 |  |
+| RSMo 382.150 | [sec-382-150.md](sec-382-150.md) | 0 |  |
+| RSMo 382.160 | [sec-382-160.md](sec-382-160.md) | 0 |  |
+| RSMo 382.170 | [sec-382-170.md](sec-382-170.md) | 0 |  |
+| RSMo 382.175 | [sec-382-175.md](sec-382-175.md) | 0 |  |
+| RSMo 382.176 | [sec-382-176.md](sec-382-176.md) | 0 |  |
+| RSMo 382.177 | [sec-382-177.md](sec-382-177.md) | 0 |  |
+| RSMo 382.180 | [sec-382-180.md](sec-382-180.md) | 0 |  |
+| RSMo 382.190 | [sec-382-190.md](sec-382-190.md) | 0 |  |
+| RSMo 382.195 | [sec-382-195.md](sec-382-195.md) | 0 |  |
+| RSMo 382.200 | [sec-382-200.md](sec-382-200.md) | 0 |  |
+| RSMo 382.210 | [sec-382-210.md](sec-382-210.md) | 0 |  |
+| RSMo 382.220 | [sec-382-220.md](sec-382-220.md) | 0 |  |
+| RSMo 382.225 | [sec-382-225.md](sec-382-225.md) | 0 |  |
+| RSMo 382.227 | [sec-382-227.md](sec-382-227.md) | 0 |  |
+| RSMo 382.230 | [sec-382-230.md](sec-382-230.md) | 0 |  |
+| RSMo 382.240 | [sec-382-240.md](sec-382-240.md) | 0 |  |
+| RSMo 382.250 | [sec-382-250.md](sec-382-250.md) | 0 |  |
+| RSMo 382.260 | [sec-382-260.md](sec-382-260.md) | 0 |  |
+| RSMo 382.265 | [sec-382-265.md](sec-382-265.md) | 0 |  |
+| RSMo 382.270 | [sec-382-270.md](sec-382-270.md) | 0 |  |
+| RSMo 382.275 | [sec-382-275.md](sec-382-275.md) | 0 |  |
+| RSMo 382.277 | [sec-382-277.md](sec-382-277.md) | 0 |  |
+| RSMo 382.280 | [sec-382-280.md](sec-382-280.md) | 0 |  |
+| RSMo 382.285 | [sec-382-285.md](sec-382-285.md) | 0 |  |
+| RSMo 382.290 | [sec-382-290.md](sec-382-290.md) | 0 |  |
+| RSMo 382.300 | [sec-382-300.md](sec-382-300.md) | 0 |  |
+| RSMo 382.302 | [sec-382-302.md](sec-382-302.md) | 0 |  |
+| RSMo 382.400 | [sec-382-400.md](sec-382-400.md) | 0 |  |
+| RSMo 382.402 | [sec-382-402.md](sec-382-402.md) | 0 |  |
+| RSMo 382.405 | [sec-382-405.md](sec-382-405.md) | 0 |  |
+| RSMo 382.407 | [sec-382-407.md](sec-382-407.md) | 0 |  |
+| RSMo 382.409 | [sec-382-409.md](sec-382-409.md) | 0 |  |
+| RSMo 382.500 | [sec-382-500.md](sec-382-500.md) | 0 |  |
+| RSMo 382.505 | [sec-382-505.md](sec-382-505.md) | 0 |  |
+| RSMo 382.510 | [sec-382-510.md](sec-382-510.md) | 0 |  |
+| RSMo 382.515 | [sec-382-515.md](sec-382-515.md) | 0 |  |
+| RSMo 382.520 | [sec-382-520.md](sec-382-520.md) | 0 |  |
+| RSMo 382.525 | [sec-382-525.md](sec-382-525.md) | 0 |  |
+| RSMo 382.530 | [sec-382-530.md](sec-382-530.md) | 0 |  |
+| RSMo 382.535 | [sec-382-535.md](sec-382-535.md) | 0 |  |
+| RSMo 382.540 | [sec-382-540.md](sec-382-540.md) | 0 |  |
+| RSMo 382.545 | [sec-382-545.md](sec-382-545.md) | 0 |  |
+| RSMo 382.550 | [sec-382-550.md](sec-382-550.md) | 0 |  |
+| RSMo 382.600 | [sec-382-600.md](sec-382-600.md) | 0 |  |
+| RSMo 382.605 | [sec-382-605.md](sec-382-605.md) | 0 |  |
+| RSMo 382.610 | [sec-382-610.md](sec-382-610.md) | 0 |  |
+| RSMo 382.615 | [sec-382-615.md](sec-382-615.md) | 0 |  |
+| RSMo 382.620 | [sec-382-620.md](sec-382-620.md) | 0 |  |
+| RSMo 382.625 | [sec-382-625.md](sec-382-625.md) | 0 |  |
+| RSMo 382.630 | [sec-382-630.md](sec-382-630.md) | 0 |  |
+| RSMo 382.635 | [sec-382-635.md](sec-382-635.md) | 0 |  |
+| RSMo 382.640 | [sec-382-640.md](sec-382-640.md) | 0 |  |

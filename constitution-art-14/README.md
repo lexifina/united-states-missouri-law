@@ -1,5 +1,8 @@
-# constitution-art-14
+# Constitution of Missouri, Article XIV
 
-Current text source date: 2022-12-08.
+Mo. Const. art. XIV · 1 versions, from 2022-12-08 (latest in force: 2022-12-08) · <https://revisor.mo.gov/main/ViewChapter.aspx?chapter=XIV&constit=y>
 
-Labelled date correction: constitution-art-14 2026-10-29...
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. XIV, Section 1 | [sec-001.md](sec-001.md) | 0 |  |
+| Art. XIV, Section 2 | [sec-002.md](sec-002.md) | 0 |  |

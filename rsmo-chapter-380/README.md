@@ -1,5 +1,67 @@
-# rsmo-chapter-380
+# Revised Statutes of Missouri, Chapter 380
 
-Current text source date: 2024-08-28.
+RSMo ch. 380 · 1 versions, from 2024-08-28 (latest in force: 2024-08-28) · <https://revisor.mo.gov/main/ViewChapter.aspx?chapter=380>
 
-Labelled date correction: rsmo-chapter-380 2026-11-02...
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| RSMo 380.005 | [sec-380-005.md](sec-380-005.md) | 0 |  |
+| RSMo 380.011 | [sec-380-011.md](sec-380-011.md) | 0 |  |
+| RSMo 380.021 | [sec-380-021.md](sec-380-021.md) | 0 |  |
+| RSMo 380.031 | [sec-380-031.md](sec-380-031.md) | 0 |  |
+| RSMo 380.041 | [sec-380-041.md](sec-380-041.md) | 0 |  |
+| RSMo 380.051 | [sec-380-051.md](sec-380-051.md) | 0 |  |
+| RSMo 380.061 | [sec-380-061.md](sec-380-061.md) | 0 |  |
+| RSMo 380.071 | [sec-380-071.md](sec-380-071.md) | 0 |  |
+| RSMo 380.081 | [sec-380-081.md](sec-380-081.md) | 0 |  |
+| RSMo 380.091 | [sec-380-091.md](sec-380-091.md) | 0 |  |
+| RSMo 380.101 | [sec-380-101.md](sec-380-101.md) | 0 |  |
+| RSMo 380.111 | [sec-380-111.md](sec-380-111.md) | 0 |  |
+| RSMo 380.121 | [sec-380-121.md](sec-380-121.md) | 0 |  |
+| RSMo 380.131 | [sec-380-131.md](sec-380-131.md) | 0 |  |
+| RSMo 380.141 | [sec-380-141.md](sec-380-141.md) | 0 |  |
+| RSMo 380.151 | [sec-380-151.md](sec-380-151.md) | 0 |  |
+| RSMo 380.201 | [sec-380-201.md](sec-380-201.md) | 0 |  |
+| RSMo 380.211 | [sec-380-211.md](sec-380-211.md) | 0 |  |
+| RSMo 380.221 | [sec-380-221.md](sec-380-221.md) | 0 |  |
+| RSMo 380.231 | [sec-380-231.md](sec-380-231.md) | 0 |  |
+| RSMo 380.241 | [sec-380-241.md](sec-380-241.md) | 0 |  |
+| RSMo 380.251 | [sec-380-251.md](sec-380-251.md) | 0 |  |
+| RSMo 380.261 | [sec-380-261.md](sec-380-261.md) | 0 |  |
+| RSMo 380.271 | [sec-380-271.md](sec-380-271.md) | 0 |  |
+| RSMo 380.281 | [sec-380-281.md](sec-380-281.md) | 0 |  |
+| RSMo 380.291 | [sec-380-291.md](sec-380-291.md) | 0 |  |
+| RSMo 380.301 | [sec-380-301.md](sec-380-301.md) | 0 |  |
+| RSMo 380.311 | [sec-380-311.md](sec-380-311.md) | 0 |  |
+| RSMo 380.321 | [sec-380-321.md](sec-380-321.md) | 0 |  |
+| RSMo 380.331 | [sec-380-331.md](sec-380-331.md) | 0 |  |
+| RSMo 380.341 | [sec-380-341.md](sec-380-341.md) | 0 |  |
+| RSMo 380.351 | [sec-380-351.md](sec-380-351.md) | 0 |  |
+| RSMo 380.361 | [sec-380-361.md](sec-380-361.md) | 0 |  |
+| RSMo 380.371 | [sec-380-371.md](sec-380-371.md) | 0 |  |
+| RSMo 380.381 | [sec-380-381.md](sec-380-381.md) | 0 |  |
+| RSMo 380.391 | [sec-380-391.md](sec-380-391.md) | 0 |  |
+| RSMo 380.401 | [sec-380-401.md](sec-380-401.md) | 0 |  |
+| RSMo 380.411 | [sec-380-411.md](sec-380-411.md) | 0 |  |
+| RSMo 380.421 | [sec-380-421.md](sec-380-421.md) | 0 |  |
+| RSMo 380.431 | [sec-380-431.md](sec-380-431.md) | 0 |  |
+| RSMo 380.441 | [sec-380-441.md](sec-380-441.md) | 0 |  |
+| RSMo 380.451 | [sec-380-451.md](sec-380-451.md) | 0 |  |
+| RSMo 380.461 | [sec-380-461.md](sec-380-461.md) | 0 |  |
+| RSMo 380.471 | [sec-380-471.md](sec-380-471.md) | 0 |  |
+| RSMo 380.482 | [sec-380-482.md](sec-380-482.md) | 0 |  |
+| RSMo 380.491 | [sec-380-491.md](sec-380-491.md) | 0 |  |
+| RSMo 380.501 | [sec-380-501.md](sec-380-501.md) | 0 |  |
+| RSMo 380.511 | [sec-380-511.md](sec-380-511.md) | 0 |  |
+| RSMo 380.521 | [sec-380-521.md](sec-380-521.md) | 0 |  |
+| RSMo 380.531 | [sec-380-531.md](sec-380-531.md) | 0 |  |
+| RSMo 380.541 | [sec-380-541.md](sec-380-541.md) | 0 |  |
+| RSMo 380.551 | [sec-380-551.md](sec-380-551.md) | 0 |  |
+| RSMo 380.561 | [sec-380-561.md](sec-380-561.md) | 0 |  |
+| RSMo 380.571 | [sec-380-571.md](sec-380-571.md) | 0 |  |
+| RSMo 380.581 | [sec-380-581.md](sec-380-581.md) | 0 |  |
+| RSMo 380.591 | [sec-380-591.md](sec-380-591.md) | 0 |  |
+| RSMo 380.601 | [sec-380-601.md](sec-380-601.md) | 0 |  |
+| RSMo 380.611 | [sec-380-611.md](sec-380-611.md) | 0 |  |
+| RSMo 380.621 | [sec-380-621.md](sec-380-621.md) | 0 |  |
+| RSMo 380.631 | [sec-380-631.md](sec-380-631.md) | 0 |  |
+| RSMo 380.651 | [sec-380-651.md](sec-380-651.md) | 0 |  |

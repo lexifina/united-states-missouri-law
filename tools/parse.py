@@ -1,152 +1,142 @@
-"""Parse the cached Revisor of Statutes pages into corpus.json. Reads only .cache; no network."""
-import json
-import os
-import re
-import sys
+"""Offline Missouri current-text parser: full normative DOM and source dates.
+
+Usage: python parse.py --cache CACHE --base corpus/rework-input.json --output OUTPUT --as-of YYYY-MM-DD
+The cache holds official HTML named sha256(URL).html or raw/sha256(URL).
+"""
+import argparse, json, re, hashlib, copy
 from datetime import date
-
-from bs4 import BeautifulSoup
-
-from state_lib import Act, Fetcher, key, norm, sha, text_of, write_corpus
-
-HERE = os.path.dirname(os.path.abspath(__file__))
-F = Fetcher(HERE, 'x')
-RETRIEVED = '2026-10-30'
-ASOF = date(2026, 10, 30)
-VERSION_DATE = '2026-10-29'   # day before retrieval: commits are dated noon local time, so the retrieval day would lie in the future
+from pathlib import Path
+from bs4 import BeautifulSoup, NavigableString, Tag
+ASOF = None
+CACHE = None
 DASH = re.compile(r'^-{5,}\s*(\S+)\s+(\d{1,2}/\d{1,2}/\d{4})\s*-{5,}$')
+def source(url):
+    k=hashlib.sha256(url.encode()).hexdigest()
+    for p in (CACHE/(k+'.html'), CACHE/'raw'/k, CACHE/k):
+        if p.exists():return p.read_bytes()
+    raise FileNotFoundError('Official source HTML absent: '+url)
 
+def norm(t):
+    t = t.translate(str.maketrans({'‘': "'", '’': "'", '“': '"', '”': '"', '–': '-', '—': '-', '‒': '-', '‑': '-', '\u200b': '', '\ufeff': '', '\xad': ''}))
+    return re.sub('\\s+', ' ', t).strip()
 
-def when(s):
-    m, d, y = map(int, s.split('/'))
-    return date(y, m, d)
+def key(label):
+    return 'sec-' + re.sub('\\d+', lambda m: m.group(0).zfill(3), re.sub('[^a-z0-9]+', '-', label.lower()).strip('-'))
 
-
-def soup(url):
-    b = F.cached(url)
-    return BeautifulSoup(b.decode('utf-8', 'replace'), 'lxml'), b
-
-
-def section_of(div):
-    """(heading, lines) of one div.norm: the bold lead-in, the paragraphs, then the footnote lines."""
+def section(div):
     bold = div.find('span', class_='bold')
     head = norm(bold.get_text(' ')) if bold else ''
-    head = re.sub(r'\s*[-—]+$', '', head).strip().replace('*', '').strip()
-    lines = []
-    first = True
-    for p in div.find_all('p', recursive=False):
-        if first and bold:
-            bold.extract()
-        first = False
-        lines.append(norm(p.get_text(' ')))
-    for fp in div.select('div.foot p'):
-        t = norm(fp.get_text(' '))
-        if t and not re.fullmatch(r'-+', t) and not re.match(r'\(\d{4}\)', t):   # "(1954) Held that ..." is a case note
-            lines.append(t)
-    return head, [l for l in lines if l]
+    head = re.sub('\\s*-+$', '', head).strip().replace('*', '').strip()
+    if bold:
+        bold.extract()
+    for p in div.select('div.foot p'):
+        t = norm(p.get_text(' '))
+        if re.fullmatch('-+', t) or re.match('^\\(\\d{4}\\)', t):
+            p.extract()
+    pieces = []
 
+    def walk(node):
+        if isinstance(node, NavigableString):
+            pieces.append(str(node) + ' ')
+        elif isinstance(node, Tag):
+            for child in node.children:
+                walk(child)
+            if node.name in ('p', 'tr', 'br'):
+                pieces.append('\n')
+    walk(div)
+    lines = [norm(x) for x in ''.join(pieces).split('\n')]
+    return '# ' + head + '\n' + '\n'.join((x for x in lines if x)) + '\n'
 
-def chapter_sections(s):
-    """-> [{num, date, head, lines}] in page order; one entry per printed version."""
-    out, pending = [], None
-    first = s.find('div', class_='norm')
-    if first is None:
-        return out
-    box = first.parent
-    for el in box.children:
-        name = getattr(el, 'name', None)
-        if name == 'div' and 'norm' in (el.get('class') or []):
-            head, lines = section_of(el)
-            pending = {'head': head, 'lines': lines}
-        elif name == 'p' and pending is not None:
-            m = DASH.match(norm(el.get_text(' ')))
-            if m:
-                pending['num'], pending['date'] = m.group(1), when(m.group(2))
-                out.append(pending)
-                pending = None
-    return out
-
-
-def current(entries):
-    """The latest version of each section already in force on the retrieval day, in first-seen order."""
-    best, order = {}, []
-    for e in entries:
-        if e['date'] > ASOF:
+def parse_chapter(ch, old):
+    url = 'https://revisor.mo.gov/main/ViewChapter.aspx?chapter=' + ch
+    b = source(url)
+    soup = BeautifulSoup(b.decode('utf-8', 'replace'), 'lxml')
+    selected = {}
+    for div in soup.find_all('div', class_='norm'):
+        match = None
+        for sib in div.next_siblings:
+            if isinstance(sib, Tag) and sib.name == 'div' and ('norm' in (sib.get('class') or [])):
+                break
+            if isinstance(sib, Tag) and sib.name == 'p':
+                match = DASH.fullmatch(norm(sib.get_text(' ')))
+                if match:
+                    break
+        if not match:
             continue
-        if e['num'] not in best:
-            order.append(e['num'])
-        if e['num'] not in best or e['date'] >= best[e['num']]['date']:
-            best[e['num']] = e
-    return [best[n] for n in order]
-
-
-def statutes(man):
-    acts, skipped = [], 0
-    for ch in man['chapters']:
-        if F.cached(ch['url']) is None:     # the Revisor never served this chapter (see decisions)
+        num, dt = match.groups()
+        m, d, y = map(int, dt.split('/'))
+        day = date(y, m, d).isoformat()
+        if day > ASOF:
             continue
-        s, b = soup(ch['url'])
-        box = s.find('div', class_='lr-font-norm')
-        txt = norm(box.get_text(' ')) if box else ''
-        m = re.search(r'Chapter\s+' + ch['num'] + r'\s+(.*?)\s*(?:✹|⚿|$)', txt)
-        name = m.group(1).strip() if m else ''
-        a = Act(f'rsmo-chapter-{key("", ch["num"], 3)}', f'RSMo ch. {ch["num"]}',
-                f'Revised Statutes of Missouri, Chapter {ch["num"]}' + (f': {name}' if name else ''), ch['url'], VERSION_DATE)
-        entries = chapter_sections(s)
-        cur = current(entries)
-        skipped += len({e['num'] for e in entries}) - len(cur)
-        for e in cur:
-            lab = e['num']
-            a.add(key('sec', lab, 3), f'RSMo {lab}', 'section', text_of(['# ' + e['head']] + e['lines']))
-        a.sha256 = sha(b)
-        acts.append(a)
-    return acts, skipped
-
-
-def constitution(man):
-    acts = []
-    s, b = soup(man['constit_home'])
-    em = [e for e in s.find_all('em') if e.get_text().startswith('We, the people')]
-    pre = Act('constitution-preamble', 'Mo. Const. preamble', 'Constitution of Missouri, Preamble', man['constit_home'], VERSION_DATE, sha256=sha(b))
-    if em:
-        pre.add('preamble', 'Preamble', 'preamble', text_of(['# Preamble', em[0].get_text(' ')]))
-    acts.append(pre)
-    for i, art in enumerate(man['articles'], start=1):
-        s, b = soup(art['url'])
-        a = Act(f'constitution-art-{i:02d}', f'Mo. Const. art. {art["article"]}', f'Constitution of Missouri, Article {art["article"]}',
-                art['url'], VERSION_DATE, sha256=sha(b))
-        for d in s.find_all('div', class_='norm'):
-            head, lines = section_of(d)
-            m = re.match(r'([IVXLC]+)\s+Section\s+(\S+?)\.?\s', head + ' ')
-            lab = m.group(2) if m else head
-            a.add(key('sec', lab, 3), f'Art. {art["article"]}, Section {lab}', 'section', text_of(['# ' + head] + lines))
-        acts.append(a)
-    return acts
-
+        if num not in selected or selected[num]['date'] <= day:
+            selected[num] = {'div': div, 'date': day, 'quote': match.group(0)}
+    if not selected:
+        return (None, {'chapter': ch, 'sections': 0, 'excluded': True})
+    slug = 'rsmo-chapter-' + ch.zfill(3)
+    a = copy.deepcopy(old.get(slug)) if slug in old else {'slug': slug, 'short': 'RSMo ch. ' + ch, 'title': 'Revised Statutes of Missouri, Chapter ' + ch, 'url': url, 'first_law': None, 'earlier_laws': []}
+    witness = max(selected.values(), key=lambda e: e['date'])
+    units = {}
+    images = 0
+    for num, e in selected.items():
+        images += len(e['div'].find_all(['img', 'svg']))
+        units[key(num)] = {'label': 'RSMo ' + num, 'kind': 'section', 'text': section(e['div'])}
+    a['versions'] = [{'from': witness['date'], 'source_url': url, 'sha256': hashlib.sha256(b).hexdigest(), 'in_force_basis': 'Latest current section effective date printed by the Revisor: ' + witness['quote'], 'units': dict(sorted(units.items()))}]
+    return (a, {'chapter': ch, 'sections': len(units), 'source_images': images, 'referenced': 0, 'omitted': 0, 'date': witness['date'], 'quote': witness['quote'], 'sha256': hashlib.sha256(b).hexdigest()})
 
 def main():
-    man = json.load(open(os.path.join(HERE, '.cache', 'manifest.json')))
-    st, skipped = statutes(man)
-    acts = constitution(man) + st
-    country = {'code': 'US-MO', 'name': 'United States (Missouri)', 'slug': 'united-states-missouri', 'lang': 'en',
-               'tz': 'America/Chicago', 'future_branch': 'future',
-               'publisher': {'name': 'Missouri Revisor of Statutes', 'email': 'rsmo@revisor.mo.gov.invalid'},
-               'default_in_force_rule': {'text': 'Each act is the oldest version available, dated the day before retrieval; each section is the version whose effective date had already come.',
-                                         'source': 'https://revisor.mo.gov/main/Home.aspx'},
-               'licence_note': 'Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). Source: Missouri Revisor of Statutes, an unofficial posting.'}
-    sources = [{'name': 'Revised Statutes of Missouri (Revisor of Statutes)', 'url': 'https://revisor.mo.gov/main/Home.aspx', 'retrieved': RETRIEVED,
-                'licence': 'Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site is an uncertified, unofficial posting by the Revisor; its Terms of Use page reads "TBD" and its footer claims "all rights reserved" for the site.',
-                'notes': 'Constitution of Missouri (14 articles and the preamble) and RSMo chapters 556-569 (chapters 560 and 564 are not used in RSMo). Court-decision annotations the Constitution pages print are not taken.'}]
-    decisions = [
-        'Each act is a single "oldest version available": the Revisor posts the current text, with no dated history of the whole chapter.',
-        f'Every act is dated {VERSION_DATE}, the day before retrieval ({RETRIEVED}): the site states each section is posted on its effective date, so the page is current on the retrieval day, and commits are dated noon local time, which on the retrieval day would lie in the future of the build.',
-        'Where a chapter prints several versions of a section (an amendment with a later effective date), the unit holds the latest version whose effective date is on or before the retrieval day. Sections whose only version takes effect later, and the later versions of sections, are not included (' + str(skipped) + ' section numbers in this build).',
-        'One act per chapter and one per article of the Constitution; one unit per section number. Each unit also keeps the footnote lines the Revisor prints under the section: the law line citing the enacting bills and the transfer or effective-date note.',
-        'Case-note annotations printed after Constitution sections (lines that begin with a year in parentheses, such as "(1954) Held that ...") are not taken.',
-        'RSMo chapters 570-579 (stealing, weapons and the rest of the criminal code), 442 (titles and conveyances) and 351 (corporations) are not in this build.']
-    write_corpus(HERE, country, sources, acts, decisions)
-
-
-if __name__ == '__main__':
-    sys.path.insert(0, HERE)
-    main()
+    global ASOF,CACHE
+    ap=argparse.ArgumentParser(description=__doc__)
+    ap.add_argument('--cache',required=True)
+    ap.add_argument('--base',required=True)
+    ap.add_argument('--output',required=True)
+    ap.add_argument('--as-of',required=True)
+    args=ap.parse_args();ASOF=args.as_of;date.fromisoformat(ASOF);CACHE=Path(args.cache)
+    c=json.loads(Path(args.base).read_text(encoding='utf-8'))
+    old={a['slug']:a for a in c['acts']}
+    listing=source('https://revisor.mo.gov/main/Home.aspx')
+    chapters=sorted(set(re.findall(rb'OneChapter\.aspx\?chapter=(\d+)',listing)),key=int)
+    acts=[]
+    for ch in chapters:
+        a,evidence=parse_chapter(ch.decode(),old)
+        if evidence.get('source_images',0):raise ValueError('Normative images require an asset-capable build: '+ch.decode())
+        if a:acts.append(a)
+    homeurl='https://revisor.mo.gov/main/Home.aspx?constit=y'
+    home=BeautifulSoup(source(homeurl).decode('utf-8','replace'),'lxml')
+    dates={};quotes={}
+    for tr in home.find_all('tr'):
+        text=norm(tr.get_text(' '));m=re.match(r'^([IVXLC]+)\s+\S+.*\((\d{1,2}/\d{1,2}/\d{4})\)',text)
+        if not m:continue
+        roman,dt=m.groups();month,day,year=map(int,dt.split('/'));dt=date(year,month,day).isoformat()
+        if dt<=ASOF and dates.get(roman,'')<dt:dates[roman]=dt;quotes[roman]=text
+    for prior in c['acts']:
+        if not prior['slug'].startswith('constitution-'):continue
+        a=copy.deepcopy(prior);units={};raw=source(a['url'])
+        soup=BeautifulSoup(raw.decode('utf-8','replace'),'lxml')
+        if a['slug']=='constitution-preamble':
+            em=next(e for e in soup.find_all('em') if e.get_text().startswith('We, the people'))
+            units={'preamble':{'label':'Preamble','kind':'preamble','text':'# Preamble\n'+norm(em.get_text(' '))+'\n'}}
+        else:
+            roman=a['short'].split()[-1]
+            for d in soup.find_all('div',class_='norm'):
+                if d.find(['img','svg']):raise ValueError('Normative Constitution image requires asset support')
+                bold=d.find('span',class_='bold');head=norm(bold.get_text(' ')) if bold else ''
+                head=re.sub(r'\s*-+$','',head).strip().replace('*','').strip()
+                m=re.match(r'[IVXLC]+\s+Section\s+(\S+?)\.?\s',head+' ');label=m.group(1) if m else head
+                k=key(label);base=k;n=2
+                while k in units:k=base+'-dup'+str(n);n+=1
+                units[k]={'label':f'Art. {roman}, Section {label}','kind':'section','text':section(d)}
+            if dates.get(roman,'1945')>'1945-12-31':
+                a['versions'][0]['from']=dates[roman]
+                a['versions'][0]['in_force_basis']='Latest current section date displayed in the Revisor Constitution listing: '+quotes[roman]
+        a['versions'][0]['units']=dict(sorted(units.items()));a['versions'][0]['sha256']=hashlib.sha256(raw).hexdigest()
+        acts.append(a)
+    for a in acts:
+        a.pop('correction',None)
+        if a['slug'] in old:
+            prior=old[a['slug']]['versions'][0]['units']
+            for k,u in a['versions'][0]['units'].items():
+                if k in prior and norm(prior[k]['text'])==norm(u['text']):u['text']=prior[k]['text']
+    c['acts']=sorted(acts,key=lambda a:a['slug']);c.pop('_docs_date',None)
+    Path(args.output).write_text(json.dumps(c,ensure_ascii=False,sort_keys=True)+'\n',encoding='utf-8')
+    print('Current acts',len(acts),'source listed chapters',len(chapters))
+if __name__=='__main__':main()

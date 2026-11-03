@@ -1,5 +1,60 @@
-# rsmo-chapter-001
+# Revised Statutes of Missouri, Chapter 1
 
-Current text source date: 2026-08-28.
+RSMo ch. 1 · 1 versions, from 2026-08-28 (latest in force: 2026-08-28) · <https://revisor.mo.gov/main/ViewChapter.aspx?chapter=1>
 
-Labelled date correction: rsmo-chapter-001 2026-11-02...
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| RSMo 1.010 | [sec-001-010.md](sec-001-010.md) | 0 |  |
+| RSMo 1.016 | [sec-001-016.md](sec-001-016.md) | 0 |  |
+| RSMo 1.020 | [sec-001-020.md](sec-001-020.md) | 0 |  |
+| RSMo 1.025 | [sec-001-025.md](sec-001-025.md) | 0 |  |
+| RSMo 1.028 | [sec-001-028.md](sec-001-028.md) | 0 |  |
+| RSMo 1.030 | [sec-001-030.md](sec-001-030.md) | 0 |  |
+| RSMo 1.035 | [sec-001-035.md](sec-001-035.md) | 0 |  |
+| RSMo 1.037 | [sec-001-037.md](sec-001-037.md) | 0 |  |
+| RSMo 1.040 | [sec-001-040.md](sec-001-040.md) | 0 |  |
+| RSMo 1.050 | [sec-001-050.md](sec-001-050.md) | 0 |  |
+| RSMo 1.060 | [sec-001-060.md](sec-001-060.md) | 0 |  |
+| RSMo 1.070 | [sec-001-070.md](sec-001-070.md) | 0 |  |
+| RSMo 1.080 | [sec-001-080.md](sec-001-080.md) | 0 |  |
+| RSMo 1.090 | [sec-001-090.md](sec-001-090.md) | 0 |  |
+| RSMo 1.092 | [sec-001-092.md](sec-001-092.md) | 0 |  |
+| RSMo 1.100 | [sec-001-100.md](sec-001-100.md) | 0 |  |
+| RSMo 1.1001 | [sec-001-1001.md](sec-001-1001.md) | 0 |  |
+| RSMo 1.1002 | [sec-001-1002.md](sec-001-1002.md) | 0 |  |
+| RSMo 1.1003 | [sec-001-1003.md](sec-001-1003.md) | 0 |  |
+| RSMo 1.1004 | [sec-001-1004.md](sec-001-1004.md) | 0 |  |
+| RSMo 1.1005 | [sec-001-1005.md](sec-001-1005.md) | 0 |  |
+| RSMo 1.1006 | [sec-001-1006.md](sec-001-1006.md) | 0 |  |
+| RSMo 1.1007 | [sec-001-1007.md](sec-001-1007.md) | 0 |  |
+| RSMo 1.1008 | [sec-001-1008.md](sec-001-1008.md) | 0 |  |
+| RSMo 1.1009 | [sec-001-1009.md](sec-001-1009.md) | 0 |  |
+| RSMo 1.1010 | [sec-001-1010.md](sec-001-1010.md) | 0 |  |
+| RSMo 1.120 | [sec-001-120.md](sec-001-120.md) | 0 |  |
+| RSMo 1.130 | [sec-001-130.md](sec-001-130.md) | 0 |  |
+| RSMo 1.140 | [sec-001-140.md](sec-001-140.md) | 0 |  |
+| RSMo 1.150 | [sec-001-150.md](sec-001-150.md) | 0 |  |
+| RSMo 1.160 | [sec-001-160.md](sec-001-160.md) | 0 |  |
+| RSMo 1.170 | [sec-001-170.md](sec-001-170.md) | 0 |  |
+| RSMo 1.180 | [sec-001-180.md](sec-001-180.md) | 0 |  |
+| RSMo 1.185 | [sec-001-185.md](sec-001-185.md) | 0 |  |
+| RSMo 1.190 | [sec-001-190.md](sec-001-190.md) | 0 |  |
+| RSMo 1.200 | [sec-001-200.md](sec-001-200.md) | 0 |  |
+| RSMo 1.205 | [sec-001-205.md](sec-001-205.md) | 0 |  |
+| RSMo 1.210 | [sec-001-210.md](sec-001-210.md) | 0 |  |
+| RSMo 1.217 | [sec-001-217.md](sec-001-217.md) | 0 |  |
+| RSMo 1.302 | [sec-001-302.md](sec-001-302.md) | 0 |  |
+| RSMo 1.307 | [sec-001-307.md](sec-001-307.md) | 0 |  |
+| RSMo 1.310 | [sec-001-310.md](sec-001-310.md) | 0 |  |
+| RSMo 1.330 | [sec-001-330.md](sec-001-330.md) | 0 |  |
+| RSMo 1.410 | [sec-001-410.md](sec-001-410.md) | 0 |  |
+| RSMo 1.420 | [sec-001-420.md](sec-001-420.md) | 0 |  |
+| RSMo 1.430 | [sec-001-430.md](sec-001-430.md) | 0 |  |
+| RSMo 1.440 | [sec-001-440.md](sec-001-440.md) | 0 |  |
+| RSMo 1.450 | [sec-001-450.md](sec-001-450.md) | 0 |  |
+| RSMo 1.460 | [sec-001-460.md](sec-001-460.md) | 0 |  |
+| RSMo 1.470 | [sec-001-470.md](sec-001-470.md) | 0 |  |
+| RSMo 1.480 | [sec-001-480.md](sec-001-480.md) | 0 |  |
+| RSMo 1.485 | [sec-001-485.md](sec-001-485.md) | 0 |  |
+| RSMo 1.513 | [sec-001-513.md](sec-001-513.md) | 0 |  |
+| RSMo 1.901 | [sec-001-901.md](sec-001-901.md) | 0 |  |

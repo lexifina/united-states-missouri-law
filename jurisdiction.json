@@ -1,8 +1,11 @@
 {
-  "path": "us/mo",
-  "code": "US-MO",
-  "name": "United States (Missouri)",
-  "level": "state",
-  "repo": "https://github.com/lexifina/united-states-missouri-law",
-  "build": "built"
+ "path": "us/mo",
+ "code": "US-MO",
+ "name": "United States (Missouri)",
+ "level": "state",
+ "repo": "https://github.com/lexifina/united-states-missouri-law",
+ "build": "built",
+ "parent": "US",
+ "history": "current-only",
+ "scope": "all-acts"
 }

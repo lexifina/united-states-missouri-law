@@ -1,5 +1,68 @@
-# rsmo-chapter-243
+# Revised Statutes of Missouri, Chapter 243
 
-Current text source date: 2017-08-28.
+RSMo ch. 243 · 1 versions, from 2017-08-28 (latest in force: 2017-08-28) · <https://revisor.mo.gov/main/ViewChapter.aspx?chapter=243>
 
-Labelled date correction: rsmo-chapter-243 2026-11-02...
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| RSMo 243.010 | [sec-243-010.md](sec-243-010.md) | 0 |  |
+| RSMo 243.020 | [sec-243-020.md](sec-243-020.md) | 0 |  |
+| RSMo 243.030 | [sec-243-030.md](sec-243-030.md) | 0 |  |
+| RSMo 243.040 | [sec-243-040.md](sec-243-040.md) | 0 |  |
+| RSMo 243.050 | [sec-243-050.md](sec-243-050.md) | 0 |  |
+| RSMo 243.060 | [sec-243-060.md](sec-243-060.md) | 0 |  |
+| RSMo 243.070 | [sec-243-070.md](sec-243-070.md) | 0 |  |
+| RSMo 243.075 | [sec-243-075.md](sec-243-075.md) | 0 |  |
+| RSMo 243.080 | [sec-243-080.md](sec-243-080.md) | 0 |  |
+| RSMo 243.090 | [sec-243-090.md](sec-243-090.md) | 0 |  |
+| RSMo 243.100 | [sec-243-100.md](sec-243-100.md) | 0 |  |
+| RSMo 243.110 | [sec-243-110.md](sec-243-110.md) | 0 |  |
+| RSMo 243.120 | [sec-243-120.md](sec-243-120.md) | 0 |  |
+| RSMo 243.130 | [sec-243-130.md](sec-243-130.md) | 0 |  |
+| RSMo 243.140 | [sec-243-140.md](sec-243-140.md) | 0 |  |
+| RSMo 243.150 | [sec-243-150.md](sec-243-150.md) | 0 |  |
+| RSMo 243.160 | [sec-243-160.md](sec-243-160.md) | 0 |  |
+| RSMo 243.170 | [sec-243-170.md](sec-243-170.md) | 0 |  |
+| RSMo 243.180 | [sec-243-180.md](sec-243-180.md) | 0 |  |
+| RSMo 243.190 | [sec-243-190.md](sec-243-190.md) | 0 |  |
+| RSMo 243.200 | [sec-243-200.md](sec-243-200.md) | 0 |  |
+| RSMo 243.210 | [sec-243-210.md](sec-243-210.md) | 0 |  |
+| RSMo 243.220 | [sec-243-220.md](sec-243-220.md) | 0 |  |
+| RSMo 243.230 | [sec-243-230.md](sec-243-230.md) | 0 |  |
+| RSMo 243.240 | [sec-243-240.md](sec-243-240.md) | 0 |  |
+| RSMo 243.250 | [sec-243-250.md](sec-243-250.md) | 0 |  |
+| RSMo 243.260 | [sec-243-260.md](sec-243-260.md) | 0 |  |
+| RSMo 243.270 | [sec-243-270.md](sec-243-270.md) | 0 |  |
+| RSMo 243.280 | [sec-243-280.md](sec-243-280.md) | 0 |  |
+| RSMo 243.290 | [sec-243-290.md](sec-243-290.md) | 0 |  |
+| RSMo 243.300 | [sec-243-300.md](sec-243-300.md) | 0 |  |
+| RSMo 243.310 | [sec-243-310.md](sec-243-310.md) | 0 |  |
+| RSMo 243.320 | [sec-243-320.md](sec-243-320.md) | 0 |  |
+| RSMo 243.330 | [sec-243-330.md](sec-243-330.md) | 0 |  |
+| RSMo 243.340 | [sec-243-340.md](sec-243-340.md) | 0 |  |
+| RSMo 243.350 | [sec-243-350.md](sec-243-350.md) | 0 |  |
+| RSMo 243.360 | [sec-243-360.md](sec-243-360.md) | 0 |  |
+| RSMo 243.370 | [sec-243-370.md](sec-243-370.md) | 0 |  |
+| RSMo 243.380 | [sec-243-380.md](sec-243-380.md) | 0 |  |
+| RSMo 243.390 | [sec-243-390.md](sec-243-390.md) | 0 |  |
+| RSMo 243.400 | [sec-243-400.md](sec-243-400.md) | 0 |  |
+| RSMo 243.410 | [sec-243-410.md](sec-243-410.md) | 0 |  |
+| RSMo 243.420 | [sec-243-420.md](sec-243-420.md) | 0 |  |
+| RSMo 243.430 | [sec-243-430.md](sec-243-430.md) | 0 |  |
+| RSMo 243.440 | [sec-243-440.md](sec-243-440.md) | 0 |  |
+| RSMo 243.450 | [sec-243-450.md](sec-243-450.md) | 0 |  |
+| RSMo 243.460 | [sec-243-460.md](sec-243-460.md) | 0 |  |
+| RSMo 243.470 | [sec-243-470.md](sec-243-470.md) | 0 |  |
+| RSMo 243.475 | [sec-243-475.md](sec-243-475.md) | 0 |  |
+| RSMo 243.480 | [sec-243-480.md](sec-243-480.md) | 0 |  |
+| RSMo 243.490 | [sec-243-490.md](sec-243-490.md) | 0 |  |
+| RSMo 243.500 | [sec-243-500.md](sec-243-500.md) | 0 |  |
+| RSMo 243.510 | [sec-243-510.md](sec-243-510.md) | 0 |  |
+| RSMo 243.520 | [sec-243-520.md](sec-243-520.md) | 0 |  |
+| RSMo 243.530 | [sec-243-530.md](sec-243-530.md) | 0 |  |
+| RSMo 243.540 | [sec-243-540.md](sec-243-540.md) | 0 |  |
+| RSMo 243.550 | [sec-243-550.md](sec-243-550.md) | 0 |  |
+| RSMo 243.551 | [sec-243-551.md](sec-243-551.md) | 0 |  |
+| RSMo 243.553 | [sec-243-553.md](sec-243-553.md) | 0 |  |
+| RSMo 243.560 | [sec-243-560.md](sec-243-560.md) | 0 |  |
+| RSMo 243.561 | [sec-243-561.md](sec-243-561.md) | 0 |  |
+| RSMo 243.563 | [sec-243-563.md](sec-243-563.md) | 0 |  |

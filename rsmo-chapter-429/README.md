@@ -1,5 +1,76 @@
-# rsmo-chapter-429
+# Revised Statutes of Missouri, Chapter 429
 
-Current text source date: 2017-01-01.
+RSMo ch. 429 · 1 versions, from 2017-01-01 (latest in force: 2017-01-01) · <https://revisor.mo.gov/main/ViewChapter.aspx?chapter=429>
 
-Labelled date correction: rsmo-chapter-429 2026-11-02...
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| RSMo 429.005 | [sec-429-005.md](sec-429-005.md) | 0 |  |
+| RSMo 429.010 | [sec-429-010.md](sec-429-010.md) | 0 |  |
+| RSMo 429.012 | [sec-429-012.md](sec-429-012.md) | 0 |  |
+| RSMo 429.013 | [sec-429-013.md](sec-429-013.md) | 0 |  |
+| RSMo 429.014 | [sec-429-014.md](sec-429-014.md) | 0 |  |
+| RSMo 429.015 | [sec-429-015.md](sec-429-015.md) | 0 |  |
+| RSMo 429.016 | [sec-429-016.md](sec-429-016.md) | 0 |  |
+| RSMo 429.020 | [sec-429-020.md](sec-429-020.md) | 0 |  |
+| RSMo 429.030 | [sec-429-030.md](sec-429-030.md) | 0 |  |
+| RSMo 429.032 | [sec-429-032.md](sec-429-032.md) | 0 |  |
+| RSMo 429.040 | [sec-429-040.md](sec-429-040.md) | 0 |  |
+| RSMo 429.050 | [sec-429-050.md](sec-429-050.md) | 0 |  |
+| RSMo 429.060 | [sec-429-060.md](sec-429-060.md) | 0 |  |
+| RSMo 429.070 | [sec-429-070.md](sec-429-070.md) | 0 |  |
+| RSMo 429.080 | [sec-429-080.md](sec-429-080.md) | 0 |  |
+| RSMo 429.090 | [sec-429-090.md](sec-429-090.md) | 0 |  |
+| RSMo 429.100 | [sec-429-100.md](sec-429-100.md) | 0 |  |
+| RSMo 429.110 | [sec-429-110.md](sec-429-110.md) | 0 |  |
+| RSMo 429.120 | [sec-429-120.md](sec-429-120.md) | 0 |  |
+| RSMo 429.130 | [sec-429-130.md](sec-429-130.md) | 0 |  |
+| RSMo 429.140 | [sec-429-140.md](sec-429-140.md) | 0 |  |
+| RSMo 429.150 | [sec-429-150.md](sec-429-150.md) | 0 |  |
+| RSMo 429.160 | [sec-429-160.md](sec-429-160.md) | 0 |  |
+| RSMo 429.170 | [sec-429-170.md](sec-429-170.md) | 0 |  |
+| RSMo 429.180 | [sec-429-180.md](sec-429-180.md) | 0 |  |
+| RSMo 429.190 | [sec-429-190.md](sec-429-190.md) | 0 |  |
+| RSMo 429.200 | [sec-429-200.md](sec-429-200.md) | 0 |  |
+| RSMo 429.210 | [sec-429-210.md](sec-429-210.md) | 0 |  |
+| RSMo 429.220 | [sec-429-220.md](sec-429-220.md) | 0 |  |
+| RSMo 429.230 | [sec-429-230.md](sec-429-230.md) | 0 |  |
+| RSMo 429.240 | [sec-429-240.md](sec-429-240.md) | 0 |  |
+| RSMo 429.250 | [sec-429-250.md](sec-429-250.md) | 0 |  |
+| RSMo 429.260 | [sec-429-260.md](sec-429-260.md) | 0 |  |
+| RSMo 429.270 | [sec-429-270.md](sec-429-270.md) | 0 |  |
+| RSMo 429.280 | [sec-429-280.md](sec-429-280.md) | 0 |  |
+| RSMo 429.290 | [sec-429-290.md](sec-429-290.md) | 0 |  |
+| RSMo 429.300 | [sec-429-300.md](sec-429-300.md) | 0 |  |
+| RSMo 429.310 | [sec-429-310.md](sec-429-310.md) | 0 |  |
+| RSMo 429.320 | [sec-429-320.md](sec-429-320.md) | 0 |  |
+| RSMo 429.330 | [sec-429-330.md](sec-429-330.md) | 0 |  |
+| RSMo 429.340 | [sec-429-340.md](sec-429-340.md) | 0 |  |
+| RSMo 429.350 | [sec-429-350.md](sec-429-350.md) | 0 |  |
+| RSMo 429.360 | [sec-429-360.md](sec-429-360.md) | 0 |  |
+| RSMo 429.440 | [sec-429-440.md](sec-429-440.md) | 0 |  |
+| RSMo 429.450 | [sec-429-450.md](sec-429-450.md) | 0 |  |
+| RSMo 429.460 | [sec-429-460.md](sec-429-460.md) | 0 |  |
+| RSMo 429.470 | [sec-429-470.md](sec-429-470.md) | 0 |  |
+| RSMo 429.480 | [sec-429-480.md](sec-429-480.md) | 0 |  |
+| RSMo 429.490 | [sec-429-490.md](sec-429-490.md) | 0 |  |
+| RSMo 429.500 | [sec-429-500.md](sec-429-500.md) | 0 |  |
+| RSMo 429.510 | [sec-429-510.md](sec-429-510.md) | 0 |  |
+| RSMo 429.520 | [sec-429-520.md](sec-429-520.md) | 0 |  |
+| RSMo 429.530 | [sec-429-530.md](sec-429-530.md) | 0 |  |
+| RSMo 429.540 | [sec-429-540.md](sec-429-540.md) | 0 |  |
+| RSMo 429.550 | [sec-429-550.md](sec-429-550.md) | 0 |  |
+| RSMo 429.600 | [sec-429-600.md](sec-429-600.md) | 0 |  |
+| RSMo 429.603 | [sec-429-603.md](sec-429-603.md) | 0 |  |
+| RSMo 429.605 | [sec-429-605.md](sec-429-605.md) | 0 |  |
+| RSMo 429.607 | [sec-429-607.md](sec-429-607.md) | 0 |  |
+| RSMo 429.609 | [sec-429-609.md](sec-429-609.md) | 0 |  |
+| RSMo 429.611 | [sec-429-611.md](sec-429-611.md) | 0 |  |
+| RSMo 429.614 | [sec-429-614.md](sec-429-614.md) | 0 |  |
+| RSMo 429.616 | [sec-429-616.md](sec-429-616.md) | 0 |  |
+| RSMo 429.618 | [sec-429-618.md](sec-429-618.md) | 0 |  |
+| RSMo 429.620 | [sec-429-620.md](sec-429-620.md) | 0 |  |
+| RSMo 429.623 | [sec-429-623.md](sec-429-623.md) | 0 |  |
+| RSMo 429.625 | [sec-429-625.md](sec-429-625.md) | 0 |  |
+| RSMo 429.627 | [sec-429-627.md](sec-429-627.md) | 0 |  |
+| RSMo 429.629 | [sec-429-629.md](sec-429-629.md) | 0 |  |
+| RSMo 429.630 | [sec-429-630.md](sec-429-630.md) | 0 |  |

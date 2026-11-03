@@ -1,5 +1,64 @@
-# rsmo-chapter-387
+# Revised Statutes of Missouri, Chapter 387
 
-Current text source date: 2017-08-28.
+RSMo ch. 387 · 1 versions, from 2017-08-28 (latest in force: 2017-08-28) · <https://revisor.mo.gov/main/ViewChapter.aspx?chapter=387>
 
-Labelled date correction: rsmo-chapter-387 2026-11-02...
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| RSMo 387.010 | [sec-387-010.md](sec-387-010.md) | 0 |  |
+| RSMo 387.020 | [sec-387-020.md](sec-387-020.md) | 0 |  |
+| RSMo 387.030 | [sec-387-030.md](sec-387-030.md) | 0 |  |
+| RSMo 387.040 | [sec-387-040.md](sec-387-040.md) | 0 |  |
+| RSMo 387.050 | [sec-387-050.md](sec-387-050.md) | 0 |  |
+| RSMo 387.060 | [sec-387-060.md](sec-387-060.md) | 0 |  |
+| RSMo 387.070 | [sec-387-070.md](sec-387-070.md) | 0 |  |
+| RSMo 387.075 | [sec-387-075.md](sec-387-075.md) | 0 |  |
+| RSMo 387.080 | [sec-387-080.md](sec-387-080.md) | 0 |  |
+| RSMo 387.100 | [sec-387-100.md](sec-387-100.md) | 0 |  |
+| RSMo 387.110 | [sec-387-110.md](sec-387-110.md) | 0 |  |
+| RSMo 387.120 | [sec-387-120.md](sec-387-120.md) | 0 |  |
+| RSMo 387.130 | [sec-387-130.md](sec-387-130.md) | 0 |  |
+| RSMo 387.137 | [sec-387-137.md](sec-387-137.md) | 0 |  |
+| RSMo 387.139 | [sec-387-139.md](sec-387-139.md) | 0 |  |
+| RSMo 387.150 | [sec-387-150.md](sec-387-150.md) | 0 |  |
+| RSMo 387.180 | [sec-387-180.md](sec-387-180.md) | 0 |  |
+| RSMo 387.190 | [sec-387-190.md](sec-387-190.md) | 0 |  |
+| RSMo 387.200 | [sec-387-200.md](sec-387-200.md) | 0 |  |
+| RSMo 387.205 | [sec-387-205.md](sec-387-205.md) | 0 |  |
+| RSMo 387.207 | [sec-387-207.md](sec-387-207.md) | 0 |  |
+| RSMo 387.210 | [sec-387-210.md](sec-387-210.md) | 0 |  |
+| RSMo 387.240 | [sec-387-240.md](sec-387-240.md) | 0 |  |
+| RSMo 387.270 | [sec-387-270.md](sec-387-270.md) | 0 |  |
+| RSMo 387.280 | [sec-387-280.md](sec-387-280.md) | 0 |  |
+| RSMo 387.290 | [sec-387-290.md](sec-387-290.md) | 0 |  |
+| RSMo 387.300 | [sec-387-300.md](sec-387-300.md) | 0 |  |
+| RSMo 387.310 | [sec-387-310.md](sec-387-310.md) | 0 |  |
+| RSMo 387.320 | [sec-387-320.md](sec-387-320.md) | 0 |  |
+| RSMo 387.340 | [sec-387-340.md](sec-387-340.md) | 0 |  |
+| RSMo 387.355 | [sec-387-355.md](sec-387-355.md) | 0 |  |
+| RSMo 387.400 | [sec-387-400.md](sec-387-400.md) | 0 |  |
+| RSMo 387.402 | [sec-387-402.md](sec-387-402.md) | 0 |  |
+| RSMo 387.404 | [sec-387-404.md](sec-387-404.md) | 0 |  |
+| RSMo 387.406 | [sec-387-406.md](sec-387-406.md) | 0 |  |
+| RSMo 387.407 | [sec-387-407.md](sec-387-407.md) | 0 |  |
+| RSMo 387.408 | [sec-387-408.md](sec-387-408.md) | 0 |  |
+| RSMo 387.410 | [sec-387-410.md](sec-387-410.md) | 0 |  |
+| RSMo 387.412 | [sec-387-412.md](sec-387-412.md) | 0 |  |
+| RSMo 387.414 | [sec-387-414.md](sec-387-414.md) | 0 |  |
+| RSMo 387.416 | [sec-387-416.md](sec-387-416.md) | 0 |  |
+| RSMo 387.418 | [sec-387-418.md](sec-387-418.md) | 0 |  |
+| RSMo 387.419 | [sec-387-419.md](sec-387-419.md) | 0 |  |
+| RSMo 387.420 | [sec-387-420.md](sec-387-420.md) | 0 |  |
+| RSMo 387.422 | [sec-387-422.md](sec-387-422.md) | 0 |  |
+| RSMo 387.424 | [sec-387-424.md](sec-387-424.md) | 0 |  |
+| RSMo 387.425 | [sec-387-425.md](sec-387-425.md) | 0 |  |
+| RSMo 387.426 | [sec-387-426.md](sec-387-426.md) | 0 |  |
+| RSMo 387.427 | [sec-387-427.md](sec-387-427.md) | 0 |  |
+| RSMo 387.428 | [sec-387-428.md](sec-387-428.md) | 0 |  |
+| RSMo 387.430 | [sec-387-430.md](sec-387-430.md) | 0 |  |
+| RSMo 387.432 | [sec-387-432.md](sec-387-432.md) | 0 |  |
+| RSMo 387.433 | [sec-387-433.md](sec-387-433.md) | 0 |  |
+| RSMo 387.434 | [sec-387-434.md](sec-387-434.md) | 0 |  |
+| RSMo 387.436 | [sec-387-436.md](sec-387-436.md) | 0 |  |
+| RSMo 387.438 | [sec-387-438.md](sec-387-438.md) | 0 |  |
+| RSMo 387.439 | [sec-387-439.md](sec-387-439.md) | 0 |  |
+| RSMo 387.440 | [sec-387-440.md](sec-387-440.md) | 0 |  |

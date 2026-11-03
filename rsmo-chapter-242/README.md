@@ -1,5 +1,92 @@
-# rsmo-chapter-242
+# Revised Statutes of Missouri, Chapter 242
 
-Current text source date: 2017-08-28.
+RSMo ch. 242 · 1 versions, from 2017-08-28 (latest in force: 2017-08-28) · <https://revisor.mo.gov/main/ViewChapter.aspx?chapter=242>
 
-Labelled date correction: rsmo-chapter-242 2026-11-02...
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| RSMo 242.010 | [sec-242-010.md](sec-242-010.md) | 0 |  |
+| RSMo 242.020 | [sec-242-020.md](sec-242-020.md) | 0 |  |
+| RSMo 242.030 | [sec-242-030.md](sec-242-030.md) | 0 |  |
+| RSMo 242.040 | [sec-242-040.md](sec-242-040.md) | 0 |  |
+| RSMo 242.050 | [sec-242-050.md](sec-242-050.md) | 0 |  |
+| RSMo 242.060 | [sec-242-060.md](sec-242-060.md) | 0 |  |
+| RSMo 242.070 | [sec-242-070.md](sec-242-070.md) | 0 |  |
+| RSMo 242.080 | [sec-242-080.md](sec-242-080.md) | 0 |  |
+| RSMo 242.090 | [sec-242-090.md](sec-242-090.md) | 0 |  |
+| RSMo 242.100 | [sec-242-100.md](sec-242-100.md) | 0 |  |
+| RSMo 242.110 | [sec-242-110.md](sec-242-110.md) | 0 |  |
+| RSMo 242.120 | [sec-242-120.md](sec-242-120.md) | 0 |  |
+| RSMo 242.130 | [sec-242-130.md](sec-242-130.md) | 0 |  |
+| RSMo 242.140 | [sec-242-140.md](sec-242-140.md) | 0 |  |
+| RSMo 242.150 | [sec-242-150.md](sec-242-150.md) | 0 |  |
+| RSMo 242.160 | [sec-242-160.md](sec-242-160.md) | 0 |  |
+| RSMo 242.170 | [sec-242-170.md](sec-242-170.md) | 0 |  |
+| RSMo 242.180 | [sec-242-180.md](sec-242-180.md) | 0 |  |
+| RSMo 242.190 | [sec-242-190.md](sec-242-190.md) | 0 |  |
+| RSMo 242.200 | [sec-242-200.md](sec-242-200.md) | 0 |  |
+| RSMo 242.210 | [sec-242-210.md](sec-242-210.md) | 0 |  |
+| RSMo 242.220 | [sec-242-220.md](sec-242-220.md) | 0 |  |
+| RSMo 242.230 | [sec-242-230.md](sec-242-230.md) | 0 |  |
+| RSMo 242.240 | [sec-242-240.md](sec-242-240.md) | 0 |  |
+| RSMo 242.250 | [sec-242-250.md](sec-242-250.md) | 0 |  |
+| RSMo 242.260 | [sec-242-260.md](sec-242-260.md) | 0 |  |
+| RSMo 242.270 | [sec-242-270.md](sec-242-270.md) | 0 |  |
+| RSMo 242.280 | [sec-242-280.md](sec-242-280.md) | 0 |  |
+| RSMo 242.290 | [sec-242-290.md](sec-242-290.md) | 0 |  |
+| RSMo 242.300 | [sec-242-300.md](sec-242-300.md) | 0 |  |
+| RSMo 242.310 | [sec-242-310.md](sec-242-310.md) | 0 |  |
+| RSMo 242.320 | [sec-242-320.md](sec-242-320.md) | 0 |  |
+| RSMo 242.330 | [sec-242-330.md](sec-242-330.md) | 0 |  |
+| RSMo 242.335 | [sec-242-335.md](sec-242-335.md) | 0 |  |
+| RSMo 242.340 | [sec-242-340.md](sec-242-340.md) | 0 |  |
+| RSMo 242.350 | [sec-242-350.md](sec-242-350.md) | 0 |  |
+| RSMo 242.360 | [sec-242-360.md](sec-242-360.md) | 0 |  |
+| RSMo 242.370 | [sec-242-370.md](sec-242-370.md) | 0 |  |
+| RSMo 242.380 | [sec-242-380.md](sec-242-380.md) | 0 |  |
+| RSMo 242.390 | [sec-242-390.md](sec-242-390.md) | 0 |  |
+| RSMo 242.400 | [sec-242-400.md](sec-242-400.md) | 0 |  |
+| RSMo 242.410 | [sec-242-410.md](sec-242-410.md) | 0 |  |
+| RSMo 242.420 | [sec-242-420.md](sec-242-420.md) | 0 |  |
+| RSMo 242.430 | [sec-242-430.md](sec-242-430.md) | 0 |  |
+| RSMo 242.440 | [sec-242-440.md](sec-242-440.md) | 0 |  |
+| RSMo 242.450 | [sec-242-450.md](sec-242-450.md) | 0 |  |
+| RSMo 242.460 | [sec-242-460.md](sec-242-460.md) | 0 |  |
+| RSMo 242.470 | [sec-242-470.md](sec-242-470.md) | 0 |  |
+| RSMo 242.480 | [sec-242-480.md](sec-242-480.md) | 0 |  |
+| RSMo 242.485 | [sec-242-485.md](sec-242-485.md) | 0 |  |
+| RSMo 242.490 | [sec-242-490.md](sec-242-490.md) | 0 |  |
+| RSMo 242.492 | [sec-242-492.md](sec-242-492.md) | 0 |  |
+| RSMo 242.500 | [sec-242-500.md](sec-242-500.md) | 0 |  |
+| RSMo 242.502 | [sec-242-502.md](sec-242-502.md) | 0 |  |
+| RSMo 242.504 | [sec-242-504.md](sec-242-504.md) | 0 |  |
+| RSMo 242.506 | [sec-242-506.md](sec-242-506.md) | 0 |  |
+| RSMo 242.510 | [sec-242-510.md](sec-242-510.md) | 0 |  |
+| RSMo 242.520 | [sec-242-520.md](sec-242-520.md) | 0 |  |
+| RSMo 242.530 | [sec-242-530.md](sec-242-530.md) | 0 |  |
+| RSMo 242.540 | [sec-242-540.md](sec-242-540.md) | 0 |  |
+| RSMo 242.550 | [sec-242-550.md](sec-242-550.md) | 0 |  |
+| RSMo 242.560 | [sec-242-560.md](sec-242-560.md) | 0 |  |
+| RSMo 242.570 | [sec-242-570.md](sec-242-570.md) | 0 |  |
+| RSMo 242.580 | [sec-242-580.md](sec-242-580.md) | 0 |  |
+| RSMo 242.590 | [sec-242-590.md](sec-242-590.md) | 0 |  |
+| RSMo 242.600 | [sec-242-600.md](sec-242-600.md) | 0 |  |
+| RSMo 242.610 | [sec-242-610.md](sec-242-610.md) | 0 |  |
+| RSMo 242.620 | [sec-242-620.md](sec-242-620.md) | 0 |  |
+| RSMo 242.630 | [sec-242-630.md](sec-242-630.md) | 0 |  |
+| RSMo 242.640 | [sec-242-640.md](sec-242-640.md) | 0 |  |
+| RSMo 242.650 | [sec-242-650.md](sec-242-650.md) | 0 |  |
+| RSMo 242.660 | [sec-242-660.md](sec-242-660.md) | 0 |  |
+| RSMo 242.670 | [sec-242-670.md](sec-242-670.md) | 0 |  |
+| RSMo 242.680 | [sec-242-680.md](sec-242-680.md) | 0 |  |
+| RSMo 242.690 | [sec-242-690.md](sec-242-690.md) | 0 |  |
+| RSMo 242.692 | [sec-242-692.md](sec-242-692.md) | 0 |  |
+| RSMo 242.694 | [sec-242-694.md](sec-242-694.md) | 0 |  |
+| RSMo 242.696 | [sec-242-696.md](sec-242-696.md) | 0 |  |
+| RSMo 242.698 | [sec-242-698.md](sec-242-698.md) | 0 |  |
+| RSMo 242.699 | [sec-242-699.md](sec-242-699.md) | 0 |  |
+| RSMo 242.700 | [sec-242-700.md](sec-242-700.md) | 0 |  |
+| RSMo 242.710 | [sec-242-710.md](sec-242-710.md) | 0 |  |
+| RSMo 242.720 | [sec-242-720.md](sec-242-720.md) | 0 |  |
+| RSMo 242.730 | [sec-242-730.md](sec-242-730.md) | 0 |  |
+| RSMo 242.740 | [sec-242-740.md](sec-242-740.md) | 0 |  |
+| RSMo 242.750 | [sec-242-750.md](sec-242-750.md) | 0 |  |

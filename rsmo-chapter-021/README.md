@@ -1,5 +1,85 @@
-# rsmo-chapter-021
+# Revised Statutes of Missouri, Chapter 21
 
-Current text source date: 2026-08-28.
+RSMo ch. 21 · 1 versions, from 2026-08-28 (latest in force: 2026-08-28) · <https://revisor.mo.gov/main/ViewChapter.aspx?chapter=21>
 
-Labelled date correction: rsmo-chapter-021 2026-11-02...
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| RSMo 21.010 | [sec-021-010.md](sec-021-010.md) | 0 |  |
+| RSMo 21.020 | [sec-021-020.md](sec-021-020.md) | 0 |  |
+| RSMo 21.030 | [sec-021-030.md](sec-021-030.md) | 0 |  |
+| RSMo 21.040 | [sec-021-040.md](sec-021-040.md) | 0 |  |
+| RSMo 21.050 | [sec-021-050.md](sec-021-050.md) | 0 |  |
+| RSMo 21.060 | [sec-021-060.md](sec-021-060.md) | 0 |  |
+| RSMo 21.070 | [sec-021-070.md](sec-021-070.md) | 0 |  |
+| RSMo 21.080 | [sec-021-080.md](sec-021-080.md) | 0 |  |
+| RSMo 21.090 | [sec-021-090.md](sec-021-090.md) | 0 |  |
+| RSMo 21.110 | [sec-021-110.md](sec-021-110.md) | 0 |  |
+| RSMo 21.120 | [sec-021-120.md](sec-021-120.md) | 0 |  |
+| RSMo 21.130 | [sec-021-130.md](sec-021-130.md) | 0 |  |
+| RSMo 21.140 | [sec-021-140.md](sec-021-140.md) | 0 |  |
+| RSMo 21.145 | [sec-021-145.md](sec-021-145.md) | 0 |  |
+| RSMo 21.150 | [sec-021-150.md](sec-021-150.md) | 0 |  |
+| RSMo 21.155 | [sec-021-155.md](sec-021-155.md) | 0 |  |
+| RSMo 21.160 | [sec-021-160.md](sec-021-160.md) | 0 |  |
+| RSMo 21.170 | [sec-021-170.md](sec-021-170.md) | 0 |  |
+| RSMo 21.180 | [sec-021-180.md](sec-021-180.md) | 0 |  |
+| RSMo 21.183 | [sec-021-183.md](sec-021-183.md) | 0 |  |
+| RSMo 21.187 | [sec-021-187.md](sec-021-187.md) | 0 |  |
+| RSMo 21.200 | [sec-021-200.md](sec-021-200.md) | 0 |  |
+| RSMo 21.210 | [sec-021-210.md](sec-021-210.md) | 0 |  |
+| RSMo 21.220 | [sec-021-220.md](sec-021-220.md) | 0 |  |
+| RSMo 21.230 | [sec-021-230.md](sec-021-230.md) | 0 |  |
+| RSMo 21.232 | [sec-021-232.md](sec-021-232.md) | 0 |  |
+| RSMo 21.235 | [sec-021-235.md](sec-021-235.md) | 0 |  |
+| RSMo 21.240 | [sec-021-240.md](sec-021-240.md) | 0 |  |
+| RSMo 21.250 | [sec-021-250.md](sec-021-250.md) | 0 |  |
+| RSMo 21.260 | [sec-021-260.md](sec-021-260.md) | 0 |  |
+| RSMo 21.270 | [sec-021-270.md](sec-021-270.md) | 0 |  |
+| RSMo 21.280 | [sec-021-280.md](sec-021-280.md) | 0 |  |
+| RSMo 21.290 | [sec-021-290.md](sec-021-290.md) | 0 |  |
+| RSMo 21.300 | [sec-021-300.md](sec-021-300.md) | 0 |  |
+| RSMo 21.310 | [sec-021-310.md](sec-021-310.md) | 0 |  |
+| RSMo 21.320 | [sec-021-320.md](sec-021-320.md) | 0 |  |
+| RSMo 21.330 | [sec-021-330.md](sec-021-330.md) | 0 |  |
+| RSMo 21.340 | [sec-021-340.md](sec-021-340.md) | 0 |  |
+| RSMo 21.350 | [sec-021-350.md](sec-021-350.md) | 0 |  |
+| RSMo 21.360 | [sec-021-360.md](sec-021-360.md) | 0 |  |
+| RSMo 21.370 | [sec-021-370.md](sec-021-370.md) | 0 |  |
+| RSMo 21.380 | [sec-021-380.md](sec-021-380.md) | 0 |  |
+| RSMo 21.390 | [sec-021-390.md](sec-021-390.md) | 0 |  |
+| RSMo 21.400 | [sec-021-400.md](sec-021-400.md) | 0 |  |
+| RSMo 21.410 | [sec-021-410.md](sec-021-410.md) | 0 |  |
+| RSMo 21.420 | [sec-021-420.md](sec-021-420.md) | 0 |  |
+| RSMo 21.430 | [sec-021-430.md](sec-021-430.md) | 0 |  |
+| RSMo 21.487 | [sec-021-487.md](sec-021-487.md) | 0 |  |
+| RSMo 21.505 | [sec-021-505.md](sec-021-505.md) | 0 |  |
+| RSMo 21.520 | [sec-021-520.md](sec-021-520.md) | 0 |  |
+| RSMo 21.525 | [sec-021-525.md](sec-021-525.md) | 0 |  |
+| RSMo 21.527 | [sec-021-527.md](sec-021-527.md) | 0 |  |
+| RSMo 21.550 | [sec-021-550.md](sec-021-550.md) | 0 |  |
+| RSMo 21.553 | [sec-021-553.md](sec-021-553.md) | 0 |  |
+| RSMo 21.555 | [sec-021-555.md](sec-021-555.md) | 0 |  |
+| RSMo 21.557 | [sec-021-557.md](sec-021-557.md) | 0 |  |
+| RSMo 21.559 | [sec-021-559.md](sec-021-559.md) | 0 |  |
+| RSMo 21.561 | [sec-021-561.md](sec-021-561.md) | 0 |  |
+| RSMo 21.562 | [sec-021-562.md](sec-021-562.md) | 0 |  |
+| RSMo 21.563 | [sec-021-563.md](sec-021-563.md) | 0 |  |
+| RSMo 21.600 | [sec-021-600.md](sec-021-600.md) | 0 |  |
+| RSMo 21.605 | [sec-021-605.md](sec-021-605.md) | 0 |  |
+| RSMo 21.610 | [sec-021-610.md](sec-021-610.md) | 0 |  |
+| RSMo 21.615 | [sec-021-615.md](sec-021-615.md) | 0 |  |
+| RSMo 21.620 | [sec-021-620.md](sec-021-620.md) | 0 |  |
+| RSMo 21.750 | [sec-021-750.md](sec-021-750.md) | 0 |  |
+| RSMo 21.771 | [sec-021-771.md](sec-021-771.md) | 0 |  |
+| RSMo 21.782 | [sec-021-782.md](sec-021-782.md) | 0 |  |
+| RSMo 21.790 | [sec-021-790.md](sec-021-790.md) | 0 |  |
+| RSMo 21.795 | [sec-021-795.md](sec-021-795.md) | 0 |  |
+| RSMo 21.805 | [sec-021-805.md](sec-021-805.md) | 0 |  |
+| RSMo 21.810 | [sec-021-810.md](sec-021-810.md) | 0 |  |
+| RSMo 21.820 | [sec-021-820.md](sec-021-820.md) | 0 |  |
+| RSMo 21.851 | [sec-021-851.md](sec-021-851.md) | 0 |  |
+| RSMo 21.880 | [sec-021-880.md](sec-021-880.md) | 0 |  |
+| RSMo 21.900 | [sec-021-900.md](sec-021-900.md) | 0 |  |
+| RSMo 21.915 | [sec-021-915.md](sec-021-915.md) | 0 |  |
+| RSMo 21.930 | [sec-021-930.md](sec-021-930.md) | 0 |  |
+| RSMo 21.950 | [sec-021-950.md](sec-021-950.md) | 0 |  |

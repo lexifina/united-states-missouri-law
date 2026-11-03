@@ -1,5 +1,75 @@
-# rsmo-chapter-532
+# Revised Statutes of Missouri, Chapter 532
 
-Current text source date: 1979-01-02.
+RSMo ch. 532 · 1 versions, from 1979-01-02 (latest in force: 1979-01-02) · <https://revisor.mo.gov/main/ViewChapter.aspx?chapter=532>
 
-Labelled date correction: rsmo-chapter-532 2026-11-02...
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| RSMo 532.010 | [sec-532-010.md](sec-532-010.md) | 0 |  |
+| RSMo 532.020 | [sec-532-020.md](sec-532-020.md) | 0 |  |
+| RSMo 532.030 | [sec-532-030.md](sec-532-030.md) | 0 |  |
+| RSMo 532.040 | [sec-532-040.md](sec-532-040.md) | 0 |  |
+| RSMo 532.050 | [sec-532-050.md](sec-532-050.md) | 0 |  |
+| RSMo 532.060 | [sec-532-060.md](sec-532-060.md) | 0 |  |
+| RSMo 532.070 | [sec-532-070.md](sec-532-070.md) | 0 |  |
+| RSMo 532.080 | [sec-532-080.md](sec-532-080.md) | 0 |  |
+| RSMo 532.090 | [sec-532-090.md](sec-532-090.md) | 0 |  |
+| RSMo 532.100 | [sec-532-100.md](sec-532-100.md) | 0 |  |
+| RSMo 532.110 | [sec-532-110.md](sec-532-110.md) | 0 |  |
+| RSMo 532.120 | [sec-532-120.md](sec-532-120.md) | 0 |  |
+| RSMo 532.130 | [sec-532-130.md](sec-532-130.md) | 0 |  |
+| RSMo 532.140 | [sec-532-140.md](sec-532-140.md) | 0 |  |
+| RSMo 532.150 | [sec-532-150.md](sec-532-150.md) | 0 |  |
+| RSMo 532.160 | [sec-532-160.md](sec-532-160.md) | 0 |  |
+| RSMo 532.170 | [sec-532-170.md](sec-532-170.md) | 0 |  |
+| RSMo 532.180 | [sec-532-180.md](sec-532-180.md) | 0 |  |
+| RSMo 532.190 | [sec-532-190.md](sec-532-190.md) | 0 |  |
+| RSMo 532.200 | [sec-532-200.md](sec-532-200.md) | 0 |  |
+| RSMo 532.210 | [sec-532-210.md](sec-532-210.md) | 0 |  |
+| RSMo 532.220 | [sec-532-220.md](sec-532-220.md) | 0 |  |
+| RSMo 532.230 | [sec-532-230.md](sec-532-230.md) | 0 |  |
+| RSMo 532.240 | [sec-532-240.md](sec-532-240.md) | 0 |  |
+| RSMo 532.250 | [sec-532-250.md](sec-532-250.md) | 0 |  |
+| RSMo 532.260 | [sec-532-260.md](sec-532-260.md) | 0 |  |
+| RSMo 532.270 | [sec-532-270.md](sec-532-270.md) | 0 |  |
+| RSMo 532.280 | [sec-532-280.md](sec-532-280.md) | 0 |  |
+| RSMo 532.290 | [sec-532-290.md](sec-532-290.md) | 0 |  |
+| RSMo 532.300 | [sec-532-300.md](sec-532-300.md) | 0 |  |
+| RSMo 532.310 | [sec-532-310.md](sec-532-310.md) | 0 |  |
+| RSMo 532.320 | [sec-532-320.md](sec-532-320.md) | 0 |  |
+| RSMo 532.330 | [sec-532-330.md](sec-532-330.md) | 0 |  |
+| RSMo 532.340 | [sec-532-340.md](sec-532-340.md) | 0 |  |
+| RSMo 532.350 | [sec-532-350.md](sec-532-350.md) | 0 |  |
+| RSMo 532.360 | [sec-532-360.md](sec-532-360.md) | 0 |  |
+| RSMo 532.370 | [sec-532-370.md](sec-532-370.md) | 0 |  |
+| RSMo 532.380 | [sec-532-380.md](sec-532-380.md) | 0 |  |
+| RSMo 532.390 | [sec-532-390.md](sec-532-390.md) | 0 |  |
+| RSMo 532.400 | [sec-532-400.md](sec-532-400.md) | 0 |  |
+| RSMo 532.410 | [sec-532-410.md](sec-532-410.md) | 0 |  |
+| RSMo 532.420 | [sec-532-420.md](sec-532-420.md) | 0 |  |
+| RSMo 532.430 | [sec-532-430.md](sec-532-430.md) | 0 |  |
+| RSMo 532.440 | [sec-532-440.md](sec-532-440.md) | 0 |  |
+| RSMo 532.450 | [sec-532-450.md](sec-532-450.md) | 0 |  |
+| RSMo 532.460 | [sec-532-460.md](sec-532-460.md) | 0 |  |
+| RSMo 532.470 | [sec-532-470.md](sec-532-470.md) | 0 |  |
+| RSMo 532.480 | [sec-532-480.md](sec-532-480.md) | 0 |  |
+| RSMo 532.490 | [sec-532-490.md](sec-532-490.md) | 0 |  |
+| RSMo 532.500 | [sec-532-500.md](sec-532-500.md) | 0 |  |
+| RSMo 532.510 | [sec-532-510.md](sec-532-510.md) | 0 |  |
+| RSMo 532.520 | [sec-532-520.md](sec-532-520.md) | 0 |  |
+| RSMo 532.530 | [sec-532-530.md](sec-532-530.md) | 0 |  |
+| RSMo 532.540 | [sec-532-540.md](sec-532-540.md) | 0 |  |
+| RSMo 532.550 | [sec-532-550.md](sec-532-550.md) | 0 |  |
+| RSMo 532.560 | [sec-532-560.md](sec-532-560.md) | 0 |  |
+| RSMo 532.570 | [sec-532-570.md](sec-532-570.md) | 0 |  |
+| RSMo 532.580 | [sec-532-580.md](sec-532-580.md) | 0 |  |
+| RSMo 532.590 | [sec-532-590.md](sec-532-590.md) | 0 |  |
+| RSMo 532.600 | [sec-532-600.md](sec-532-600.md) | 0 |  |
+| RSMo 532.630 | [sec-532-630.md](sec-532-630.md) | 0 |  |
+| RSMo 532.640 | [sec-532-640.md](sec-532-640.md) | 0 |  |
+| RSMo 532.650 | [sec-532-650.md](sec-532-650.md) | 0 |  |
+| RSMo 532.660 | [sec-532-660.md](sec-532-660.md) | 0 |  |
+| RSMo 532.670 | [sec-532-670.md](sec-532-670.md) | 0 |  |
+| RSMo 532.680 | [sec-532-680.md](sec-532-680.md) | 0 |  |
+| RSMo 532.690 | [sec-532-690.md](sec-532-690.md) | 0 |  |
+| RSMo 532.700 | [sec-532-700.md](sec-532-700.md) | 0 |  |
+| RSMo 532.710 | [sec-532-710.md](sec-532-710.md) | 0 |  |

@@ -1,5 +1,76 @@
-# rsmo-chapter-488
+# Revised Statutes of Missouri, Chapter 488
 
-Current text source date: 2026-08-28.
+RSMo ch. 488 · 1 versions, from 2026-08-28 (latest in force: 2026-08-28) · <https://revisor.mo.gov/main/ViewChapter.aspx?chapter=488>
 
-Labelled date correction: rsmo-chapter-488 2026-11-02...
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| RSMo 488.005 | [sec-488-005.md](sec-488-005.md) | 0 |  |
+| RSMo 488.006 | [sec-488-006.md](sec-488-006.md) | 0 |  |
+| RSMo 488.010 | [sec-488-010.md](sec-488-010.md) | 0 |  |
+| RSMo 488.012 | [sec-488-012.md](sec-488-012.md) | 0 |  |
+| RSMo 488.014 | [sec-488-014.md](sec-488-014.md) | 0 |  |
+| RSMo 488.015 | [sec-488-015.md](sec-488-015.md) | 0 |  |
+| RSMo 488.016 | [sec-488-016.md](sec-488-016.md) | 0 |  |
+| RSMo 488.018 | [sec-488-018.md](sec-488-018.md) | 0 |  |
+| RSMo 488.020 | [sec-488-020.md](sec-488-020.md) | 0 |  |
+| RSMo 488.026 | [sec-488-026.md](sec-488-026.md) | 0 |  |
+| RSMo 488.027 | [sec-488-027.md](sec-488-027.md) | 0 |  |
+| RSMo 488.029 | [sec-488-029.md](sec-488-029.md) | 0 |  |
+| RSMo 488.031 | [sec-488-031.md](sec-488-031.md) | 0 |  |
+| RSMo 488.032 | [sec-488-032.md](sec-488-032.md) | 0 |  |
+| RSMo 488.035 | [sec-488-035.md](sec-488-035.md) | 0 |  |
+| RSMo 488.040 | [sec-488-040.md](sec-488-040.md) | 0 |  |
+| RSMo 488.045 | [sec-488-045.md](sec-488-045.md) | 0 |  |
+| RSMo 488.064 | [sec-488-064.md](sec-488-064.md) | 0 |  |
+| RSMo 488.1005 | [sec-488-1005.md](sec-488-1005.md) | 0 |  |
+| RSMo 488.1010 | [sec-488-1010.md](sec-488-1010.md) | 0 |  |
+| RSMo 488.200 | [sec-488-200.md](sec-488-200.md) | 0 |  |
+| RSMo 488.2206 | [sec-488-2206.md](sec-488-2206.md) | 0 |  |
+| RSMo 488.2210 | [sec-488-2210.md](sec-488-2210.md) | 0 |  |
+| RSMo 488.2215 | [sec-488-2215.md](sec-488-2215.md) | 0 |  |
+| RSMo 488.2220 | [sec-488-2220.md](sec-488-2220.md) | 0 |  |
+| RSMo 488.2230 | [sec-488-2230.md](sec-488-2230.md) | 0 |  |
+| RSMo 488.2235 | [sec-488-2235.md](sec-488-2235.md) | 0 |  |
+| RSMo 488.2245 | [sec-488-2245.md](sec-488-2245.md) | 0 |  |
+| RSMo 488.2250 | [sec-488-2250.md](sec-488-2250.md) | 0 |  |
+| RSMo 488.2253 | [sec-488-2253.md](sec-488-2253.md) | 0 |  |
+| RSMo 488.2275 | [sec-488-2275.md](sec-488-2275.md) | 0 |  |
+| RSMo 488.2300 | [sec-488-2300.md](sec-488-2300.md) | 0 |  |
+| RSMo 488.305 | [sec-488-305.md](sec-488-305.md) | 0 |  |
+| RSMo 488.315 | [sec-488-315.md](sec-488-315.md) | 0 |  |
+| RSMo 488.4014 | [sec-488-4014.md](sec-488-4014.md) | 0 |  |
+| RSMo 488.426 | [sec-488-426.md](sec-488-426.md) | 0 |  |
+| RSMo 488.429 | [sec-488-429.md](sec-488-429.md) | 0 |  |
+| RSMo 488.432 | [sec-488-432.md](sec-488-432.md) | 0 |  |
+| RSMo 488.435 | [sec-488-435.md](sec-488-435.md) | 0 |  |
+| RSMo 488.445 | [sec-488-445.md](sec-488-445.md) | 0 |  |
+| RSMo 488.447 | [sec-488-447.md](sec-488-447.md) | 0 |  |
+| RSMo 488.470 | [sec-488-470.md](sec-488-470.md) | 0 |  |
+| RSMo 488.472 | [sec-488-472.md](sec-488-472.md) | 0 |  |
+| RSMo 488.473 | [sec-488-473.md](sec-488-473.md) | 0 |  |
+| RSMo 488.474 | [sec-488-474.md](sec-488-474.md) | 0 |  |
+| RSMo 488.5017 | [sec-488-5017.md](sec-488-5017.md) | 0 |  |
+| RSMo 488.5025 | [sec-488-5025.md](sec-488-5025.md) | 0 |  |
+| RSMo 488.5026 | [sec-488-5026.md](sec-488-5026.md) | 0 |  |
+| RSMo 488.5028 | [sec-488-5028.md](sec-488-5028.md) | 0 |  |
+| RSMo 488.5029 | [sec-488-5029.md](sec-488-5029.md) | 0 |  |
+| RSMo 488.5030 | [sec-488-5030.md](sec-488-5030.md) | 0 |  |
+| RSMo 488.5050 | [sec-488-5050.md](sec-488-5050.md) | 0 |  |
+| RSMo 488.5320 | [sec-488-5320.md](sec-488-5320.md) | 0 |  |
+| RSMo 488.5332 | [sec-488-5332.md](sec-488-5332.md) | 0 |  |
+| RSMo 488.5334 | [sec-488-5334.md](sec-488-5334.md) | 0 |  |
+| RSMo 488.5336 | [sec-488-5336.md](sec-488-5336.md) | 0 |  |
+| RSMo 488.5339 | [sec-488-5339.md](sec-488-5339.md) | 0 |  |
+| RSMo 488.5342 | [sec-488-5342.md](sec-488-5342.md) | 0 |  |
+| RSMo 488.5345 | [sec-488-5345.md](sec-488-5345.md) | 0 |  |
+| RSMo 488.5356 | [sec-488-5356.md](sec-488-5356.md) | 0 |  |
+| RSMo 488.5358 | [sec-488-5358.md](sec-488-5358.md) | 0 |  |
+| RSMo 488.5375 | [sec-488-5375.md](sec-488-5375.md) | 0 |  |
+| RSMo 488.605 | [sec-488-605.md](sec-488-605.md) | 0 |  |
+| RSMo 488.607 | [sec-488-607.md](sec-488-607.md) | 0 |  |
+| RSMo 488.610 | [sec-488-610.md](sec-488-610.md) | 0 |  |
+| RSMo 488.627 | [sec-488-627.md](sec-488-627.md) | 0 |  |
+| RSMo 488.633 | [sec-488-633.md](sec-488-633.md) | 0 |  |
+| RSMo 488.635 | [sec-488-635.md](sec-488-635.md) | 0 |  |
+| RSMo 488.636 | [sec-488-636.md](sec-488-636.md) | 0 |  |
+| RSMo 488.6697 | [sec-488-6697.md](sec-488-6697.md) | 0 |  |

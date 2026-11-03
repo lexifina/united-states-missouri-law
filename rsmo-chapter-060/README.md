@@ -1,5 +1,61 @@
-# rsmo-chapter-060
+# Revised Statutes of Missouri, Chapter 60
 
-Current text source date: 2026-08-28.
+RSMo ch. 60 · 1 versions, from 2026-08-28 (latest in force: 2026-08-28) · <https://revisor.mo.gov/main/ViewChapter.aspx?chapter=60>
 
-Labelled date correction: rsmo-chapter-060 2026-11-02...
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| RSMo 60.010 | [sec-060-010.md](sec-060-010.md) | 0 |  |
+| RSMo 60.030 | [sec-060-030.md](sec-060-030.md) | 0 |  |
+| RSMo 60.040 | [sec-060-040.md](sec-060-040.md) | 0 |  |
+| RSMo 60.050 | [sec-060-050.md](sec-060-050.md) | 0 |  |
+| RSMo 60.060 | [sec-060-060.md](sec-060-060.md) | 0 |  |
+| RSMo 60.070 | [sec-060-070.md](sec-060-070.md) | 0 |  |
+| RSMo 60.090 | [sec-060-090.md](sec-060-090.md) | 0 |  |
+| RSMo 60.100 | [sec-060-100.md](sec-060-100.md) | 0 |  |
+| RSMo 60.120 | [sec-060-120.md](sec-060-120.md) | 0 |  |
+| RSMo 60.130 | [sec-060-130.md](sec-060-130.md) | 0 |  |
+| RSMo 60.140 | [sec-060-140.md](sec-060-140.md) | 0 |  |
+| RSMo 60.150 | [sec-060-150.md](sec-060-150.md) | 0 |  |
+| RSMo 60.160 | [sec-060-160.md](sec-060-160.md) | 0 |  |
+| RSMo 60.170 | [sec-060-170.md](sec-060-170.md) | 0 |  |
+| RSMo 60.185 | [sec-060-185.md](sec-060-185.md) | 0 |  |
+| RSMo 60.195 | [sec-060-195.md](sec-060-195.md) | 0 |  |
+| RSMo 60.205 | [sec-060-205.md](sec-060-205.md) | 0 |  |
+| RSMo 60.301 | [sec-060-301.md](sec-060-301.md) | 0 |  |
+| RSMo 60.305 | [sec-060-305.md](sec-060-305.md) | 0 |  |
+| RSMo 60.311 | [sec-060-311.md](sec-060-311.md) | 0 |  |
+| RSMo 60.315 | [sec-060-315.md](sec-060-315.md) | 0 |  |
+| RSMo 60.321 | [sec-060-321.md](sec-060-321.md) | 0 |  |
+| RSMo 60.326 | [sec-060-326.md](sec-060-326.md) | 0 |  |
+| RSMo 60.331 | [sec-060-331.md](sec-060-331.md) | 0 |  |
+| RSMo 60.335 | [sec-060-335.md](sec-060-335.md) | 0 |  |
+| RSMo 60.341 | [sec-060-341.md](sec-060-341.md) | 0 |  |
+| RSMo 60.345 | [sec-060-345.md](sec-060-345.md) | 0 |  |
+| RSMo 60.351 | [sec-060-351.md](sec-060-351.md) | 0 |  |
+| RSMo 60.355 | [sec-060-355.md](sec-060-355.md) | 0 |  |
+| RSMo 60.360 | [sec-060-360.md](sec-060-360.md) | 0 |  |
+| RSMo 60.401 | [sec-060-401.md](sec-060-401.md) | 0 |  |
+| RSMo 60.410 | [sec-060-410.md](sec-060-410.md) | 0 |  |
+| RSMo 60.431 | [sec-060-431.md](sec-060-431.md) | 0 |  |
+| RSMo 60.441 | [sec-060-441.md](sec-060-441.md) | 0 |  |
+| RSMo 60.471 | [sec-060-471.md](sec-060-471.md) | 0 |  |
+| RSMo 60.480 | [sec-060-480.md](sec-060-480.md) | 0 |  |
+| RSMo 60.496 | [sec-060-496.md](sec-060-496.md) | 0 |  |
+| RSMo 60.510 | [sec-060-510.md](sec-060-510.md) | 0 |  |
+| RSMo 60.530 | [sec-060-530.md](sec-060-530.md) | 0 |  |
+| RSMo 60.540 | [sec-060-540.md](sec-060-540.md) | 0 |  |
+| RSMo 60.550 | [sec-060-550.md](sec-060-550.md) | 0 |  |
+| RSMo 60.560 | [sec-060-560.md](sec-060-560.md) | 0 |  |
+| RSMo 60.570 | [sec-060-570.md](sec-060-570.md) | 0 |  |
+| RSMo 60.580 | [sec-060-580.md](sec-060-580.md) | 0 |  |
+| RSMo 60.590 | [sec-060-590.md](sec-060-590.md) | 0 |  |
+| RSMo 60.595 | [sec-060-595.md](sec-060-595.md) | 0 |  |
+| RSMo 60.600 | [sec-060-600.md](sec-060-600.md) | 0 |  |
+| RSMo 60.610 | [sec-060-610.md](sec-060-610.md) | 0 |  |
+| RSMo 60.620 | [sec-060-620.md](sec-060-620.md) | 0 |  |
+| RSMo 60.650 | [sec-060-650.md](sec-060-650.md) | 0 |  |
+| RSMo 60.653 | [sec-060-653.md](sec-060-653.md) | 0 |  |
+| RSMo 60.657 | [sec-060-657.md](sec-060-657.md) | 0 |  |
+| RSMo 60.659 | [sec-060-659.md](sec-060-659.md) | 0 |  |
+| RSMo 60.660 | [sec-060-660.md](sec-060-660.md) | 0 |  |
+| RSMo 60.670 | [sec-060-670.md](sec-060-670.md) | 0 |  |

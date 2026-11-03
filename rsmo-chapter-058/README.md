@@ -1,5 +1,85 @@
-# rsmo-chapter-058
+# Revised Statutes of Missouri, Chapter 58
 
-Current text source date: 2026-08-28.
+RSMo ch. 58 · 1 versions, from 2026-08-28 (latest in force: 2026-08-28) · <https://revisor.mo.gov/main/ViewChapter.aspx?chapter=58>
 
-Labelled date correction: rsmo-chapter-058 2026-11-02...
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| RSMo 58.010 | [sec-058-010.md](sec-058-010.md) | 0 |  |
+| RSMo 58.020 | [sec-058-020.md](sec-058-020.md) | 0 |  |
+| RSMo 58.030 | [sec-058-030.md](sec-058-030.md) | 0 |  |
+| RSMo 58.040 | [sec-058-040.md](sec-058-040.md) | 0 |  |
+| RSMo 58.050 | [sec-058-050.md](sec-058-050.md) | 0 |  |
+| RSMo 58.060 | [sec-058-060.md](sec-058-060.md) | 0 |  |
+| RSMo 58.070 | [sec-058-070.md](sec-058-070.md) | 0 |  |
+| RSMo 58.090 | [sec-058-090.md](sec-058-090.md) | 0 |  |
+| RSMo 58.095 | [sec-058-095.md](sec-058-095.md) | 0 |  |
+| RSMo 58.097 | [sec-058-097.md](sec-058-097.md) | 0 |  |
+| RSMo 58.100 | [sec-058-100.md](sec-058-100.md) | 0 |  |
+| RSMo 58.120 | [sec-058-120.md](sec-058-120.md) | 0 |  |
+| RSMo 58.160 | [sec-058-160.md](sec-058-160.md) | 0 |  |
+| RSMo 58.180 | [sec-058-180.md](sec-058-180.md) | 0 |  |
+| RSMo 58.190 | [sec-058-190.md](sec-058-190.md) | 0 |  |
+| RSMo 58.200 | [sec-058-200.md](sec-058-200.md) | 0 |  |
+| RSMo 58.205 | [sec-058-205.md](sec-058-205.md) | 0 |  |
+| RSMo 58.206 | [sec-058-206.md](sec-058-206.md) | 0 |  |
+| RSMo 58.208 | [sec-058-208.md](sec-058-208.md) | 0 |  |
+| RSMo 58.215 | [sec-058-215.md](sec-058-215.md) | 0 |  |
+| RSMo 58.260 | [sec-058-260.md](sec-058-260.md) | 0 |  |
+| RSMo 58.270 | [sec-058-270.md](sec-058-270.md) | 0 |  |
+| RSMo 58.280 | [sec-058-280.md](sec-058-280.md) | 0 |  |
+| RSMo 58.290 | [sec-058-290.md](sec-058-290.md) | 0 |  |
+| RSMo 58.300 | [sec-058-300.md](sec-058-300.md) | 0 |  |
+| RSMo 58.310 | [sec-058-310.md](sec-058-310.md) | 0 |  |
+| RSMo 58.320 | [sec-058-320.md](sec-058-320.md) | 0 |  |
+| RSMo 58.330 | [sec-058-330.md](sec-058-330.md) | 0 |  |
+| RSMo 58.340 | [sec-058-340.md](sec-058-340.md) | 0 |  |
+| RSMo 58.350 | [sec-058-350.md](sec-058-350.md) | 0 |  |
+| RSMo 58.360 | [sec-058-360.md](sec-058-360.md) | 0 |  |
+| RSMo 58.370 | [sec-058-370.md](sec-058-370.md) | 0 |  |
+| RSMo 58.375 | [sec-058-375.md](sec-058-375.md) | 0 |  |
+| RSMo 58.380 | [sec-058-380.md](sec-058-380.md) | 0 |  |
+| RSMo 58.390 | [sec-058-390.md](sec-058-390.md) | 0 |  |
+| RSMo 58.400 | [sec-058-400.md](sec-058-400.md) | 0 |  |
+| RSMo 58.410 | [sec-058-410.md](sec-058-410.md) | 0 |  |
+| RSMo 58.420 | [sec-058-420.md](sec-058-420.md) | 0 |  |
+| RSMo 58.430 | [sec-058-430.md](sec-058-430.md) | 0 |  |
+| RSMo 58.440 | [sec-058-440.md](sec-058-440.md) | 0 |  |
+| RSMo 58.445 | [sec-058-445.md](sec-058-445.md) | 0 |  |
+| RSMo 58.449 | [sec-058-449.md](sec-058-449.md) | 0 |  |
+| RSMo 58.451 | [sec-058-451.md](sec-058-451.md) | 0 |  |
+| RSMo 58.452 | [sec-058-452.md](sec-058-452.md) | 0 |  |
+| RSMo 58.455 | [sec-058-455.md](sec-058-455.md) | 0 |  |
+| RSMo 58.457 | [sec-058-457.md](sec-058-457.md) | 0 |  |
+| RSMo 58.460 | [sec-058-460.md](sec-058-460.md) | 0 |  |
+| RSMo 58.470 | [sec-058-470.md](sec-058-470.md) | 0 |  |
+| RSMo 58.490 | [sec-058-490.md](sec-058-490.md) | 0 |  |
+| RSMo 58.500 | [sec-058-500.md](sec-058-500.md) | 0 |  |
+| RSMo 58.520 | [sec-058-520.md](sec-058-520.md) | 0 |  |
+| RSMo 58.530 | [sec-058-530.md](sec-058-530.md) | 0 |  |
+| RSMo 58.540 | [sec-058-540.md](sec-058-540.md) | 0 |  |
+| RSMo 58.550 | [sec-058-550.md](sec-058-550.md) | 0 |  |
+| RSMo 58.560 | [sec-058-560.md](sec-058-560.md) | 0 |  |
+| RSMo 58.570 | [sec-058-570.md](sec-058-570.md) | 0 |  |
+| RSMo 58.580 | [sec-058-580.md](sec-058-580.md) | 0 |  |
+| RSMo 58.590 | [sec-058-590.md](sec-058-590.md) | 0 |  |
+| RSMo 58.600 | [sec-058-600.md](sec-058-600.md) | 0 |  |
+| RSMo 58.610 | [sec-058-610.md](sec-058-610.md) | 0 |  |
+| RSMo 58.620 | [sec-058-620.md](sec-058-620.md) | 0 |  |
+| RSMo 58.700 | [sec-058-700.md](sec-058-700.md) | 0 |  |
+| RSMo 58.705 | [sec-058-705.md](sec-058-705.md) | 0 |  |
+| RSMo 58.710 | [sec-058-710.md](sec-058-710.md) | 0 |  |
+| RSMo 58.715 | [sec-058-715.md](sec-058-715.md) | 0 |  |
+| RSMo 58.720 | [sec-058-720.md](sec-058-720.md) | 0 |  |
+| RSMo 58.722 | [sec-058-722.md](sec-058-722.md) | 0 |  |
+| RSMo 58.725 | [sec-058-725.md](sec-058-725.md) | 0 |  |
+| RSMo 58.730 | [sec-058-730.md](sec-058-730.md) | 0 |  |
+| RSMo 58.735 | [sec-058-735.md](sec-058-735.md) | 0 |  |
+| RSMo 58.740 | [sec-058-740.md](sec-058-740.md) | 0 |  |
+| RSMo 58.745 | [sec-058-745.md](sec-058-745.md) | 0 |  |
+| RSMo 58.750 | [sec-058-750.md](sec-058-750.md) | 0 |  |
+| RSMo 58.760 | [sec-058-760.md](sec-058-760.md) | 0 |  |
+| RSMo 58.765 | [sec-058-765.md](sec-058-765.md) | 0 |  |
+| RSMo 58.770 | [sec-058-770.md](sec-058-770.md) | 0 |  |
+| RSMo 58.775 | [sec-058-775.md](sec-058-775.md) | 0 |  |
+| RSMo 58.780 | [sec-058-780.md](sec-058-780.md) | 0 |  |
+| RSMo 58.785 | [sec-058-785.md](sec-058-785.md) | 0 |  |
