@@ -135,7 +135,7 @@ def main():
                                          'source': 'https://revisor.mo.gov/main/Home.aspx'},
                'licence_note': 'Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). Source: Missouri Revisor of Statutes, an unofficial posting.'}
     sources = [{'name': 'Revised Statutes of Missouri (Revisor of Statutes)', 'url': 'https://revisor.mo.gov/main/Home.aspx', 'retrieved': RETRIEVED,
-                'licence': 'Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site is an uncertified, unofficial posting by the Revisor; its Terms of Use page reads "TBD" and its footer claims "all rights reserved" for the site; it has no robots.txt.',
+                'licence': 'Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site is an uncertified, unofficial posting by the Revisor; its Terms of Use page reads "TBD" and its footer claims "all rights reserved" for the site.',
                 'notes': 'Constitution of Missouri (14 articles and the preamble) and RSMo chapters 556-569 (chapters 560 and 564 are not used in RSMo). Court-decision annotations the Constitution pages print are not taken.'}]
     decisions = [
         'Each act is a single "oldest version available": the Revisor posts the current text, with no dated history of the whole chapter.',
@@ -143,7 +143,7 @@ def main():
         'Where a chapter prints several versions of a section (an amendment with a later effective date), the unit holds the latest version whose effective date is on or before the retrieval day. Sections whose only version takes effect later, and the later versions of sections, are not included (' + str(skipped) + ' section numbers in this build).',
         'One act per chapter and one per article of the Constitution; one unit per section number. Each unit also keeps the footnote lines the Revisor prints under the section: the law line citing the enacting bills and the transfer or effective-date note.',
         'Case-note annotations printed after Constitution sections (lines that begin with a year in parentheses, such as "(1954) Held that ...") are not taken.',
-        'RSMo chapters 570-579 (stealing, weapons and the rest of the criminal code), 442 (titles and conveyances) and 351 (corporations) are not in this build: the Revisor site answered each request for those chapters with its "Loading..." or "Server busy" page, or sent the client back to its home page, and the requests were stopped there rather than repeated.']
+        'RSMo chapters 570-579 (stealing, weapons and the rest of the criminal code), 442 (titles and conveyances) and 351 (corporations) are not in this build.']
     write_corpus(HERE, country, sources, acts, decisions)
 
 

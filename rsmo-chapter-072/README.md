@@ -1,0 +1,61 @@
+# Revised Statutes of Missouri, Chapter 72
+
+RSMo ch. 72 · 1 versions, from 2026-11-02 (latest in force: 2026-11-02) · <https://revisor.mo.gov/main/ViewChapter.aspx?chapter=72>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| RSMo 72.030 | [sec-072-030.md](sec-072-030.md) | 0 |  |
+| RSMo 72.040 | [sec-072-040.md](sec-072-040.md) | 0 |  |
+| RSMo 72.050 | [sec-072-050.md](sec-072-050.md) | 0 |  |
+| RSMo 72.060 | [sec-072-060.md](sec-072-060.md) | 0 |  |
+| RSMo 72.070 | [sec-072-070.md](sec-072-070.md) | 0 |  |
+| RSMo 72.080 | [sec-072-080.md](sec-072-080.md) | 0 |  |
+| RSMo 72.090 | [sec-072-090.md](sec-072-090.md) | 0 |  |
+| RSMo 72.100 | [sec-072-100.md](sec-072-100.md) | 0 |  |
+| RSMo 72.110 | [sec-072-110.md](sec-072-110.md) | 0 |  |
+| RSMo 72.120 | [sec-072-120.md](sec-072-120.md) | 0 |  |
+| RSMo 72.130 | [sec-072-130.md](sec-072-130.md) | 0 |  |
+| RSMo 72.132 | [sec-072-132.md](sec-072-132.md) | 0 |  |
+| RSMo 72.135 | [sec-072-135.md](sec-072-135.md) | 0 |  |
+| RSMo 72.140 | [sec-072-140.md](sec-072-140.md) | 0 |  |
+| RSMo 72.150 | [sec-072-150.md](sec-072-150.md) | 0 |  |
+| RSMo 72.153 | [sec-072-153.md](sec-072-153.md) | 0 |  |
+| RSMo 72.155 | [sec-072-155.md](sec-072-155.md) | 0 |  |
+| RSMo 72.160 | [sec-072-160.md](sec-072-160.md) | 0 |  |
+| RSMo 72.163 | [sec-072-163.md](sec-072-163.md) | 0 |  |
+| RSMo 72.165 | [sec-072-165.md](sec-072-165.md) | 0 |  |
+| RSMo 72.167 | [sec-072-167.md](sec-072-167.md) | 0 |  |
+| RSMo 72.170 | [sec-072-170.md](sec-072-170.md) | 0 |  |
+| RSMo 72.180 | [sec-072-180.md](sec-072-180.md) | 0 |  |
+| RSMo 72.185 | [sec-072-185.md](sec-072-185.md) | 0 |  |
+| RSMo 72.195 | [sec-072-195.md](sec-072-195.md) | 0 |  |
+| RSMo 72.200 | [sec-072-200.md](sec-072-200.md) | 0 |  |
+| RSMo 72.205 | [sec-072-205.md](sec-072-205.md) | 0 |  |
+| RSMo 72.210 | [sec-072-210.md](sec-072-210.md) | 0 |  |
+| RSMo 72.220 | [sec-072-220.md](sec-072-220.md) | 0 |  |
+| RSMo 72.300 | [sec-072-300.md](sec-072-300.md) | 0 |  |
+| RSMo 72.305 | [sec-072-305.md](sec-072-305.md) | 0 |  |
+| RSMo 72.310 | [sec-072-310.md](sec-072-310.md) | 0 |  |
+| RSMo 72.320 | [sec-072-320.md](sec-072-320.md) | 0 |  |
+| RSMo 72.325 | [sec-072-325.md](sec-072-325.md) | 0 |  |
+| RSMo 72.330 | [sec-072-330.md](sec-072-330.md) | 0 |  |
+| RSMo 72.335 | [sec-072-335.md](sec-072-335.md) | 0 |  |
+| RSMo 72.340 | [sec-072-340.md](sec-072-340.md) | 0 |  |
+| RSMo 72.345 | [sec-072-345.md](sec-072-345.md) | 0 |  |
+| RSMo 72.350 | [sec-072-350.md](sec-072-350.md) | 0 |  |
+| RSMo 72.400 | [sec-072-400.md](sec-072-400.md) | 0 |  |
+| RSMo 72.401 | [sec-072-401.md](sec-072-401.md) | 0 |  |
+| RSMo 72.402 | [sec-072-402.md](sec-072-402.md) | 0 |  |
+| RSMo 72.403 | [sec-072-403.md](sec-072-403.md) | 0 |  |
+| RSMo 72.405 | [sec-072-405.md](sec-072-405.md) | 0 |  |
+| RSMo 72.407 | [sec-072-407.md](sec-072-407.md) | 0 |  |
+| RSMo 72.408 | [sec-072-408.md](sec-072-408.md) | 0 |  |
+| RSMo 72.409 | [sec-072-409.md](sec-072-409.md) | 0 |  |
+| RSMo 72.412 | [sec-072-412.md](sec-072-412.md) | 0 |  |
+| RSMo 72.414 | [sec-072-414.md](sec-072-414.md) | 0 |  |
+| RSMo 72.416 | [sec-072-416.md](sec-072-416.md) | 0 |  |
+| RSMo 72.418 | [sec-072-418.md](sec-072-418.md) | 0 |  |
+| RSMo 72.420 | [sec-072-420.md](sec-072-420.md) | 0 |  |
+| RSMo 72.422 | [sec-072-422.md](sec-072-422.md) | 0 |  |
+| RSMo 72.423 | [sec-072-423.md](sec-072-423.md) | 0 |  |
+| RSMo 72.430 | [sec-072-430.md](sec-072-430.md) | 0 |  |
