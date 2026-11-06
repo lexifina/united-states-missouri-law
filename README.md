@@ -1,5 +1,7 @@
 # United States (Missouri): current law in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Missouri, United States, which global-law reads at `united-states/missouri/acts/`.
+
 | Folder | Act | Versions | History |
 | --- | --- | ---: | --- |
 | `rsmo-chapter-*/` | 458 normative Revised Statutes chapters | 1 | Current-only oldest available text |
