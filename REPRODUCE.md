@@ -1,3 +1,7 @@
+## Session-law continuation, 2026-11-11
+
+113 source-checked acts were added from the official session-law volumes. Their dates come from the volume prefaces. Source page spans and hashes are in data/session-law-sources.tsv.
+
 ## Earlier session-law append, 2026-11-11
 
 308 regular-session laws are added as official legislative prints, covering 885 source PDF pages and 437,690 words. The date statements are independently confirmed from the official volume prefaces. The text of each selected page agrees between independent PDF text engines; the committed files agree with fresh extraction of the official PDFs. The combined reader check covers 781 acts and 781 versions, with zero text mismatches, tip mismatches or trailer errors. The original reproduction record below describes the earlier current-chapter build. Bill source URLs, page spans and source hashes are in `data/session-law-sources.tsv`.
