@@ -13282,6 +13282,21 @@
      "units": 1
     }
    ]
+  },
+  {
+   "slug": "session-law-2011-sb-306",
+   "short": "2011 SB 306",
+   "title": "Missouri 2011 SB 306 (session law as printed)",
+   "url": "https://revisor.mo.gov/main/Info.aspx?doc=2011SessionLaws.pdf#page=1430",
+   "versions": [
+    {
+     "from": "2011-08-28",
+     "source_url": "https://revisor.mo.gov/main/Info.aspx?doc=2011SessionLaws.pdf#page=1430",
+     "sha256": "94f512094da93d3d6d631788319d8a281001c8e417589d93cd7386293a60eeed",
+     "in_force_basis": "became effective ninety days thereafter on August 28, 2011. No act-level special commencement identified.",
+     "units": 1
+    }
+   ]
   }
  ]
 }
