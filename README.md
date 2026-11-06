@@ -11,7 +11,7 @@ Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git h
 | --- | --- | ---: | --- |
 | `rsmo-chapter-*/` | 458 normative Revised Statutes chapters | 1 | Current-only oldest available text |
 | `constitution-*/` | Missouri Constitution: 14 articles and preamble | 1 | Current-only oldest available text |
-| `session-law-*/` | 469 selected regular-session laws, 2009–2025 | 1 each | As printed in the official session-law volumes |
+| `session-law-*/` | 534 selected regular-session laws, 2009–2025 | 1 each | As printed in the official session-law volumes |
 
 Source: [Missouri Revisor of Statutes](https://revisor.mo.gov/main/Home.aspx), an uncertified posting by the official Revisor. Future-effective section versions and court annotations are excluded. Textual tables and the statutory law-line footnotes are retained.
 
@@ -21,7 +21,7 @@ Revisor restoration notes determine the current wording where a later enactment 
 
 ## Earlier session laws
 
-469 regular-session laws from the official 2009–2025 Session Laws of Missouri are retained as printed, each in its own `session-law-*/` folder. The session-law text and amendment brackets are retained as plain text; publisher explanations are included where they fall within the bill span. PDF boldface is not reproduced. Matter in brackets is expressly not enacted; these records are legislative prints, not clean consolidated statutes. Records use the regular-session effective date stated in their volume or an explicit whole-act commencement clause with its printed approval date. Bills with unresolved or mixed commencement dates or unresolved text extraction are excluded. Appropriations, extraordinary-session laws, vetoes, resolutions and ballot measures are outside this addition. Earlier versions of the consolidated chapters are not reconstructed.
+534 regular-session laws from the official 2009–2025 Session Laws of Missouri are retained as printed, each in its own `session-law-*/` folder. The session-law text and amendment brackets are retained as plain text; publisher explanations are included where they fall within the bill span. PDF boldface is not reproduced. Matter in brackets is expressly not enacted; these records are legislative prints, not clean consolidated statutes. Records use the regular-session effective date stated in their volume or an explicit whole-act commencement clause with its printed approval date. Bills with unresolved or mixed commencement dates or unresolved text extraction are excluded. Appropriations, extraordinary-session laws, vetoes, resolutions and ballot measures are outside this addition. Earlier versions of the consolidated chapters are not reconstructed.
 
 | Session-law year | Bills in the first 308-law addition |
 | --- | ---: |
@@ -105,3 +105,23 @@ Source: [Missouri Revisor, publications](https://revisor.mo.gov/main/Info.aspx),
 ## Further 2017 session laws
 
 2 official as-printed session laws use their explicit whole-act commencement clauses and printed approval dates. Laws with mixed or unresolved commencement dates remain excluded.
+
+## Further 2009 session laws
+
+26 official as-printed session laws use the regular-session effective date expressly stated in their volume. Bills with exceptional commencement wording or unresolved text extraction remain excluded.
+
+## Further 2010 session laws
+
+7 official as-printed session laws use the regular-session effective date expressly stated in their volume. Bills with exceptional commencement wording or unresolved text extraction remain excluded.
+
+## Further 2011 session laws
+
+12 official as-printed session laws use the regular-session effective date expressly stated in their volume. Bills with exceptional commencement wording or unresolved text extraction remain excluded.
+
+## Further 2012 session laws
+
+19 official as-printed session laws use the regular-session effective date expressly stated in their volume. Bills with exceptional commencement wording or unresolved text extraction remain excluded.
+
+## Further 2015 session laws
+
+1 official as-printed session laws use the regular-session effective date expressly stated in their volume. Bills with exceptional commencement wording or unresolved text extraction remain excluded.

@@ -1,3 +1,23 @@
+## Session-law continuation: 2015
+
+1 prints were checked against the official annual PDF. The two independent text extractors agree on the characters, although some word spaces differ. Source page spans and hashes are recorded in data/session-law-sources.tsv. No OCR or model-generated law text was used.
+
+## Session-law continuation: 2012
+
+19 prints were checked against the official annual PDF. The two independent text extractors agree on the characters, although some word spaces differ. Source page spans and hashes are recorded in data/session-law-sources.tsv. No OCR or model-generated law text was used.
+
+## Session-law continuation: 2011
+
+12 prints were checked against the official annual PDF. The two independent text extractors agree on the characters, although some word spaces differ. Source page spans and hashes are recorded in data/session-law-sources.tsv. No OCR or model-generated law text was used.
+
+## Session-law continuation: 2010
+
+7 prints were checked against the official annual PDF. The two independent text extractors agree on the characters, although some word spaces differ. Source page spans and hashes are recorded in data/session-law-sources.tsv. No OCR or model-generated law text was used.
+
+## Session-law continuation: 2009
+
+26 prints were checked against the official annual PDF. The two independent text extractors agree on the characters, although some word spaces differ. Source page spans and hashes are recorded in data/session-law-sources.tsv. No OCR or model-generated law text was used.
+
 ## Session-law continuation: 2017
 
 2 prints were checked against the official annual PDF with two independent text extractors. Source page spans and hashes are recorded in data/session-law-sources.tsv. No OCR or model-generated law text was used.
