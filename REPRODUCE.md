@@ -1,3 +1,31 @@
+## Session-law continuation: 2017
+
+2 prints were checked against the official annual PDF with two independent text extractors. Source page spans and hashes are recorded in data/session-law-sources.tsv. No OCR or model-generated law text was used.
+
+## Session-law continuation: 2016
+
+3 prints were checked against the official annual PDF with two independent text extractors. Source page spans and hashes are recorded in data/session-law-sources.tsv. No OCR or model-generated law text was used.
+
+## Session-law continuation: 2014
+
+3 prints were checked against the official annual PDF with two independent text extractors. Source page spans and hashes are recorded in data/session-law-sources.tsv. No OCR or model-generated law text was used.
+
+## Session-law continuation: 2013
+
+1 prints were checked against the official annual PDF with two independent text extractors. Source page spans and hashes are recorded in data/session-law-sources.tsv. No OCR or model-generated law text was used.
+
+## Session-law continuation: 2012
+
+1 prints were checked against the official annual PDF with two independent text extractors. Source page spans and hashes are recorded in data/session-law-sources.tsv. No OCR or model-generated law text was used.
+
+## Session-law continuation: 2011
+
+1 prints were checked against the official annual PDF with two independent text extractors. Source page spans and hashes are recorded in data/session-law-sources.tsv. No OCR or model-generated law text was used.
+
+## Session-law continuation: 2009
+
+4 prints were checked against the official annual PDF with two independent text extractors. Source page spans and hashes are recorded in data/session-law-sources.tsv. No OCR or model-generated law text was used.
+
 ## Session-law continuation: 2016
 
 2 prints were checked against the official annual PDF with two independent text extractors. Source page spans and hashes are recorded in data/session-law-sources.tsv. No OCR or model-generated law text was used.
