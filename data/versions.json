@@ -13402,6 +13402,36 @@
      "units": 1
     }
    ]
+  },
+  {
+   "slug": "session-law-2016-hb-2140",
+   "short": "2016 HB 2140",
+   "title": "Missouri 2016 HB 2140 (session law as printed)",
+   "url": "https://revisor.mo.gov/main/Info.aspx?doc=2016SessionLaws.pdf#page=484",
+   "versions": [
+    {
+     "from": "2016-08-28",
+     "source_url": "https://revisor.mo.gov/main/Info.aspx?doc=2016SessionLaws.pdf#page=484",
+     "sha256": "3931798e14d2e5752f3e80d02cd74bcafa97208b2d1700ffd236313cb9f94837",
+     "in_force_basis": "became effective ninety days thereafter on August 28, 2016. No act-level special commencement identified.",
+     "units": 1
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2016-sb-664",
+   "short": "2016 SB 664",
+   "title": "Missouri 2016 SB 664 (session law as printed)",
+   "url": "https://revisor.mo.gov/main/Info.aspx?doc=2016SessionLaws.pdf#page=849",
+   "versions": [
+    {
+     "from": "2016-08-28",
+     "source_url": "https://revisor.mo.gov/main/Info.aspx?doc=2016SessionLaws.pdf#page=849",
+     "sha256": "3931798e14d2e5752f3e80d02cd74bcafa97208b2d1700ffd236313cb9f94837",
+     "in_force_basis": "became effective ninety days thereafter on August 28, 2016. No act-level special commencement identified.",
+     "units": 1
+    }
+   ]
   }
  ]
 }
