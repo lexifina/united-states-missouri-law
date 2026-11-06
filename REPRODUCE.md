@@ -1,3 +1,7 @@
+## Session-law continuation: 2010
+
+1 prints were checked against the official annual PDF with two independent text extractors. Source page spans and hashes are recorded in data/session-law-sources.tsv. No OCR or model-generated law text was used.
+
 ## Session-law continuation: 2009
 
 2 prints were checked against the official annual PDF with two independent text extractors. Source page spans and hashes are recorded in data/session-law-sources.tsv. No OCR or model-generated law text was used.

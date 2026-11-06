@@ -13267,6 +13267,21 @@
      "units": 1
     }
    ]
+  },
+  {
+   "slug": "session-law-2010-sb-772",
+   "short": "2010 SB 772",
+   "title": "Missouri 2010 SB 772 (session law as printed)",
+   "url": "https://revisor.mo.gov/main/Info.aspx?doc=2010SessionLaws.pdf#page=987",
+   "versions": [
+    {
+     "from": "2010-08-28",
+     "source_url": "https://revisor.mo.gov/main/Info.aspx?doc=2010SessionLaws.pdf#page=987",
+     "sha256": "23e7aed5fef403c6c1e6a49e762051be8be24ad731f7c13a05089f0fffcd7ea8",
+     "in_force_basis": "became effective ninety days thereafter on August 28, 2010. No act-level special commencement identified.",
+     "units": 1
+    }
+   ]
   }
  ]
 }
