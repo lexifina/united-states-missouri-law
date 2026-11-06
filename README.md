@@ -16,7 +16,7 @@ Revisor restoration notes determine the current wording where a later enactment 
 
 ## Earlier session laws
 
-308 regular-session laws from the official 2009–2025 Session Laws of Missouri are retained as printed, each in its own `session-law-*/` folder. The publisher's explanation, amendment brackets and page headings are retained. Matter in brackets is expressly not enacted; these records are legislative prints, not clean consolidated statutes. Each record is dated by the regular-session effective date stated in its volume. Bills with exceptional commencement wording or unresolved text extraction are excluded. Appropriations, extraordinary-session laws, vetoes, resolutions and ballot measures are outside this addition. Earlier versions of the consolidated chapters are not reconstructed.
+308 regular-session laws from the official 2009–2025 Session Laws of Missouri are retained as printed, each in its own `session-law-*/` folder. The session-law text and amendment brackets are retained as plain text; publisher explanations are included where they fall within the bill span. PDF boldface is not reproduced. Matter in brackets is expressly not enacted; these records are legislative prints, not clean consolidated statutes. Each record is dated by the regular-session effective date stated in its volume. Bills with exceptional commencement wording or unresolved text extraction are excluded. Appropriations, extraordinary-session laws, vetoes, resolutions and ballot measures are outside this addition. Earlier versions of the consolidated chapters are not reconstructed.
 
 | Session-law year | Bills added |
 | --- | ---: |

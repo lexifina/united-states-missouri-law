@@ -1,3 +1,7 @@
+## Earlier session-law append, 2026-11-11
+
+308 regular-session laws are added as official legislative prints, covering 885 source PDF pages and 437,690 words. The date statements are independently confirmed from the official volume prefaces. The text of each selected page agrees between independent PDF text engines; the committed files agree with fresh extraction of the official PDFs. The combined reader check covers 781 acts and 781 versions, with zero text mismatches, tip mismatches or trailer errors. The original reproduction record below describes the earlier current-chapter build. Bill source URLs, page spans and source hashes are in `data/session-law-sources.tsv`.
+
 # How this repository was made (United States (Missouri))
 
 This file is written by the build on 2026-11-11, the day the source data was retrieved.
