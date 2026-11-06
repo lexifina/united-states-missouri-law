@@ -1,3 +1,7 @@
+## Session-law continuation: 2009
+
+2 prints were checked against the official annual PDF with two independent text extractors. Source page spans and hashes are recorded in data/session-law-sources.tsv. No OCR or model-generated law text was used.
+
 ## Session-law continuation, 2026-11-11
 
 20 official source-checked prints were added. Their dates come from the annual volume prefaces. Source page spans and hashes are in data/session-law-sources.tsv.
