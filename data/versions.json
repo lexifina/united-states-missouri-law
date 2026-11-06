@@ -13537,6 +13537,51 @@
      "units": 1
     }
    ]
+  },
+  {
+   "slug": "session-law-2014-hb-1206",
+   "short": "2014 HB 1206",
+   "title": "Missouri 2014 HB 1206 (session law as printed)",
+   "url": "https://revisor.mo.gov/main/Info.aspx?doc=2014SessionLaws.pdf#page=394",
+   "versions": [
+    {
+     "from": "2014-07-09",
+     "source_url": "https://revisor.mo.gov/main/Info.aspx?doc=2014SessionLaws.pdf#page=394",
+     "sha256": "227e91321e65d0b801ee4c50956a4e27e56d7eff82d1a295faf9c65e8be338b4",
+     "in_force_basis": "section A of this act shall be in full force and effect upon its passage and approval. Approved July 9, 2014",
+     "units": 1
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2014-hb-1523",
+   "short": "2014 HB 1523",
+   "title": "Missouri 2014 HB 1523 (session law as printed)",
+   "url": "https://revisor.mo.gov/main/Info.aspx?doc=2014SessionLaws.pdf#page=884",
+   "versions": [
+    {
+     "from": "2014-06-10",
+     "source_url": "https://revisor.mo.gov/main/Info.aspx?doc=2014SessionLaws.pdf#page=884",
+     "sha256": "227e91321e65d0b801ee4c50956a4e27e56d7eff82d1a295faf9c65e8be338b4",
+     "in_force_basis": "section A of this act shall be in full force and effect upon its passage and approval. Approved June 10, 2014",
+     "units": 1
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2014-hb-2141",
+   "short": "2014 HB 2141",
+   "title": "Missouri 2014 HB 2141 (session law as printed)",
+   "url": "https://revisor.mo.gov/main/Info.aspx?doc=2014SessionLaws.pdf#page=991",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "source_url": "https://revisor.mo.gov/main/Info.aspx?doc=2014SessionLaws.pdf#page=991",
+     "sha256": "227e91321e65d0b801ee4c50956a4e27e56d7eff82d1a295faf9c65e8be338b4",
+     "in_force_basis": "Section A of this act shall become effective January 1, 2016. Approved July 7, 2014",
+     "units": 1
+    }
+   ]
   }
  ]
 }
