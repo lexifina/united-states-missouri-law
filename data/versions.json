@@ -13312,6 +13312,36 @@
      "units": 1
     }
    ]
+  },
+  {
+   "slug": "session-law-2013-hb-404",
+   "short": "2013 HB 404",
+   "title": "Missouri 2013 HB 404 (session law as printed)",
+   "url": "https://revisor.mo.gov/main/Info.aspx?doc=2013SessionLaws.pdf#page=772",
+   "versions": [
+    {
+     "from": "2013-08-28",
+     "source_url": "https://revisor.mo.gov/main/Info.aspx?doc=2013SessionLaws.pdf#page=772",
+     "sha256": "ecd567925cf431d0d90e478cd5e007b4c4c5c0543cd05e02d880e6d854674f0a",
+     "in_force_basis": "became effective ninety days thereafter on August 28, 2013. No act-level special commencement identified.",
+     "units": 1
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-sb-58",
+   "short": "2013 SB 58",
+   "title": "Missouri 2013 SB 58 (session law as printed)",
+   "url": "https://revisor.mo.gov/main/Info.aspx?doc=2013SessionLaws.pdf#page=1054",
+   "versions": [
+    {
+     "from": "2013-08-28",
+     "source_url": "https://revisor.mo.gov/main/Info.aspx?doc=2013SessionLaws.pdf#page=1054",
+     "sha256": "ecd567925cf431d0d90e478cd5e007b4c4c5c0543cd05e02d880e6d854674f0a",
+     "in_force_basis": "became effective ninety days thereafter on August 28, 2013. No act-level special commencement identified.",
+     "units": 1
+    }
+   ]
   }
  ]
 }
