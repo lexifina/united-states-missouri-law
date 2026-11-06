@@ -13432,6 +13432,66 @@
      "units": 1
     }
    ]
+  },
+  {
+   "slug": "session-law-2009-hb-93",
+   "short": "2009 HB 93",
+   "title": "Missouri 2009 HB 93 (session law as printed)",
+   "url": "https://revisor.mo.gov/main/Info.aspx?doc=2009SessionLaws.pdf#page=344",
+   "versions": [
+    {
+     "from": "2009-05-29",
+     "source_url": "https://revisor.mo.gov/main/Info.aspx?doc=2009SessionLaws.pdf#page=344",
+     "sha256": "19c14ad4ac7c46d265cfa67a500040294c57e5543b7509917e7ee8545aaf1271",
+     "in_force_basis": "section A of this act shall be in full force and effect upon its passage and approval. Approved May 29, 2009",
+     "units": 1
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2009-hb-231",
+   "short": "2009 HB 231",
+   "title": "Missouri 2009 HB 231 (session law as printed)",
+   "url": "https://revisor.mo.gov/main/Info.aspx?doc=2009SessionLaws.pdf#page=477",
+   "versions": [
+    {
+     "from": "2009-06-26",
+     "source_url": "https://revisor.mo.gov/main/Info.aspx?doc=2009SessionLaws.pdf#page=477",
+     "sha256": "19c14ad4ac7c46d265cfa67a500040294c57e5543b7509917e7ee8545aaf1271",
+     "in_force_basis": "section A of this act shall be in full force and effect upon its passage and approval. Approved June 26, 2009",
+     "units": 1
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2009-hb-236",
+   "short": "2009 HB 236",
+   "title": "Missouri 2009 HB 236 (session law as printed)",
+   "url": "https://revisor.mo.gov/main/Info.aspx?doc=2009SessionLaws.pdf#page=479",
+   "versions": [
+    {
+     "from": "2009-05-14",
+     "source_url": "https://revisor.mo.gov/main/Info.aspx?doc=2009SessionLaws.pdf#page=479",
+     "sha256": "19c14ad4ac7c46d265cfa67a500040294c57e5543b7509917e7ee8545aaf1271",
+     "in_force_basis": "section A of this act shall be in full force and effect upon its passage and approval. Approved May 14, 2009",
+     "units": 1
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2009-hb-682",
+   "short": "2009 HB 682",
+   "title": "Missouri 2009 HB 682 (session law as printed)",
+   "url": "https://revisor.mo.gov/main/Info.aspx?doc=2009SessionLaws.pdf#page=787",
+   "versions": [
+    {
+     "from": "2009-05-14",
+     "source_url": "https://revisor.mo.gov/main/Info.aspx?doc=2009SessionLaws.pdf#page=787",
+     "sha256": "19c14ad4ac7c46d265cfa67a500040294c57e5543b7509917e7ee8545aaf1271",
+     "in_force_basis": "section A of this act shall be in full force and effect upon its passage and approval. Approved May 14, 2009",
+     "units": 1
+    }
+   ]
   }
  ]
 }
