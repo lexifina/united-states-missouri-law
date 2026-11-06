@@ -1,5 +1,9 @@
 ## Session-law continuation, 2026-11-11
 
+20 official source-checked prints were added. Their dates come from the annual volume prefaces. Source page spans and hashes are in data/session-law-sources.tsv.
+
+## Session-law continuation, 2026-11-11
+
 113 source-checked acts were added from the official session-law volumes. Their dates come from the volume prefaces. Source page spans and hashes are in data/session-law-sources.tsv.
 
 ## Earlier session-law append, 2026-11-11

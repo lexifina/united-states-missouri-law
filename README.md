@@ -36,3 +36,7 @@ Source: [Missouri Revisor, publications](https://revisor.mo.gov/main/Info.aspx),
 ## Further session-law additions
 
 113 additional as-printed session laws have the regular-session effective date given by their official volume preface. The selected prints do not identify a different date for the act as a whole. Unresolved exceptional commencements and source images remain outside these additions.
+
+## Additional as-printed session laws
+
+20 additional official session-law prints have the regular-session effective date given in their annual volume preface. No act-level special commencement was identified for these prints.
