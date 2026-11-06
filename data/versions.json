@@ -13522,6 +13522,21 @@
      "units": 1
     }
    ]
+  },
+  {
+   "slug": "session-law-2013-hb-256",
+   "short": "2013 HB 256",
+   "title": "Missouri 2013 HB 256 (session law as printed)",
+   "url": "https://revisor.mo.gov/main/Info.aspx?doc=2013SessionLaws.pdf#page=655",
+   "versions": [
+    {
+     "from": "2013-05-31",
+     "source_url": "https://revisor.mo.gov/main/Info.aspx?doc=2013SessionLaws.pdf#page=655",
+     "sha256": "ecd567925cf431d0d90e478cd5e007b4c4c5c0543cd05e02d880e6d854674f0a",
+     "in_force_basis": "section A of this act shall be in full force and effect upon its passage and approval. Approved May 31, 2013",
+     "units": 1
+    }
+   ]
   }
  ]
 }
