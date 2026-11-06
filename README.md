@@ -6,7 +6,7 @@ Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git h
 | --- | --- | ---: | --- |
 | `rsmo-chapter-*/` | 458 normative Revised Statutes chapters | 1 | Current-only oldest available text |
 | `constitution-*/` | Missouri Constitution: 14 articles and preamble | 1 | Current-only oldest available text |
-| `session-law-*/` | 464 selected regular-session laws, 2009–2025 | 1 each | As printed in the official session-law volumes |
+| `session-law-*/` | 467 selected regular-session laws, 2009–2025 | 1 each | As printed in the official session-law volumes |
 
 Source: [Missouri Revisor of Statutes](https://revisor.mo.gov/main/Home.aspx), an uncertified posting by the official Revisor. Future-effective section versions and court annotations are excluded. Textual tables and the statutory law-line footnotes are retained.
 
@@ -16,7 +16,7 @@ Revisor restoration notes determine the current wording where a later enactment 
 
 ## Earlier session laws
 
-464 regular-session laws from the official 2009–2025 Session Laws of Missouri are retained as printed, each in its own `session-law-*/` folder. The session-law text and amendment brackets are retained as plain text; publisher explanations are included where they fall within the bill span. PDF boldface is not reproduced. Matter in brackets is expressly not enacted; these records are legislative prints, not clean consolidated statutes. Each record is dated by the regular-session effective date stated in its volume. Bills with exceptional commencement wording or unresolved text extraction are excluded. Appropriations, extraordinary-session laws, vetoes, resolutions and ballot measures are outside this addition. Earlier versions of the consolidated chapters are not reconstructed.
+467 regular-session laws from the official 2009–2025 Session Laws of Missouri are retained as printed, each in its own `session-law-*/` folder. The session-law text and amendment brackets are retained as plain text; publisher explanations are included where they fall within the bill span. PDF boldface is not reproduced. Matter in brackets is expressly not enacted; these records are legislative prints, not clean consolidated statutes. Each record is dated by the regular-session effective date stated in its volume. Bills with exceptional commencement wording or unresolved text extraction are excluded. Appropriations, extraordinary-session laws, vetoes, resolutions and ballot measures are outside this addition. Earlier versions of the consolidated chapters are not reconstructed.
 
 | Session-law year | Bills in the first 308-law addition |
 | --- | ---: |
@@ -90,5 +90,9 @@ Source: [Missouri Revisor, publications](https://revisor.mo.gov/main/Info.aspx),
 1 official as-printed session laws use their explicit whole-act commencement clauses and printed approval dates. Laws with mixed or unresolved commencement dates remain excluded.
 
 ## Further 2014 session laws
+
+3 official as-printed session laws use their explicit whole-act commencement clauses and printed approval dates. Laws with mixed or unresolved commencement dates remain excluded.
+
+## Further 2016 session laws
 
 3 official as-printed session laws use their explicit whole-act commencement clauses and printed approval dates. Laws with mixed or unresolved commencement dates remain excluded.
