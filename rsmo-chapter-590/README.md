@@ -23,6 +23,7 @@ RSMo ch. 590 · 1 versions, from 2026-08-28 (latest in force: 2026-08-28) · <ht
 | RSMo 590.118 | [sec-590-118.md](sec-590-118.md) | 0 |  |
 | RSMo 590.120 | [sec-590-120.md](sec-590-120.md) | 0 |  |
 | RSMo 590.1265 | [sec-590-1265.md](sec-590-1265.md) | 0 |  |
+| RSMo 590.1265 (alternative printed version) | [sec-590-1265-variant-2021-08-28-1.md](sec-590-1265-variant-2021-08-28-1.md) | 0 |  |
 | RSMo 590.1300 | [sec-590-1300.md](sec-590-1300.md) | 0 |  |
 | RSMo 590.145 | [sec-590-145.md](sec-590-145.md) | 0 |  |
 | RSMo 590.178 | [sec-590-178.md](sec-590-178.md) | 0 |  |

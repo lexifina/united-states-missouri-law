@@ -1,6 +1,6 @@
 # Revised Statutes of Missouri, Chapter 526
 
-RSMo ch. 526 · 1 versions, from 2025-04-24 (latest in force: 2025-04-24) · <https://revisor.mo.gov/main/ViewChapter.aspx?chapter=526>
+RSMo ch. 526 · 1 versions, from 2004-08-28 (latest in force: 2004-08-28) · <https://revisor.mo.gov/main/ViewChapter.aspx?chapter=526>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

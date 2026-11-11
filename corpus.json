@@ -1,0 +1,14 @@
+{
+  "corpus": "united-states/missouri/acts",
+  "name": "United States (Missouri)",
+  "label": "Missouri",
+  "language": "en",
+  "history": "current-only",
+  "history_from": "1939-08-28",
+  "record_to": "2026-11-11",
+  "checked_on": "2026-11-11",
+  "in_force_trailer": "In-force",
+  "correction_trailer": "Corrects",
+  "has_future_branch": false,
+  "record_note": "Current-only Revisor snapshots with express restorations and separate unresolved conflicting or conditional forms. Original Constitution commencement is unresolved for the preamble and Articles II and XII."
+}

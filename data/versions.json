@@ -2,20 +2,6 @@
  "country": "US-MO",
  "acts": [
   {
-   "slug": "constitution-preamble",
-   "short": "Mo. Const. preamble",
-   "title": "Constitution of Missouri, Preamble",
-   "url": "https://revisor.mo.gov/main/Home.aspx?constit=y",
-   "versions": [
-    {
-     "from": "2026-10-29",
-     "units": 1,
-     "source_url": "https://revisor.mo.gov/main/Home.aspx?constit=y",
-     "sha256": "9178ead275955d3c2464a10ee5989d80cfc0f106d565a23b81636b775a493f02"
-    }
-   ]
-  },
-  {
    "slug": "constitution-art-01",
    "short": "Mo. Const. art. I",
    "title": "Constitution of Missouri, Article I",
@@ -212,6 +198,20 @@
    ]
   },
   {
+   "slug": "constitution-preamble",
+   "short": "Mo. Const. preamble",
+   "title": "Constitution of Missouri, Preamble",
+   "url": "https://revisor.mo.gov/main/Home.aspx?constit=y",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://revisor.mo.gov/main/Home.aspx?constit=y",
+     "sha256": "9178ead275955d3c2464a10ee5989d80cfc0f106d565a23b81636b775a493f02"
+    }
+   ]
+  },
+  {
    "slug": "rsmo-chapter-001",
    "short": "RSMo ch. 1",
    "title": "Revised Statutes of Missouri, Chapter 1",
@@ -221,7 +221,7 @@
      "from": "2026-08-28",
      "units": 54,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=1",
-     "sha256": "0041b6f42485f08da98f33549fdbd07a15880839d70c868af7ac7ee77c078ba8"
+     "sha256": "ef4ffc07499654c1deb2348a8406954273c839a0be29fcd66ddd420a10c44865"
     }
    ]
   },
@@ -235,7 +235,7 @@
      "from": "2026-08-28",
      "units": 10,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=2",
-     "sha256": "f8d96f942e66c3ef4c395d5a802429ffc0ae797e4ef4fa8e94477bed42cc9d73"
+     "sha256": "5b146821f666bd59ca84bfd9af698fa65d5ff9d3a5d5cbbb1b73a9bf7d3709e6"
     }
    ]
   },
@@ -249,7 +249,7 @@
      "from": "2026-08-28",
      "units": 20,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=3",
-     "sha256": "6be7d209ab5f9dedc46a5788093b9f68c7add02b9519a8de243ba711ba8ab47d"
+     "sha256": "0b3ed424406491823c301565bd2375af555ff095233d26923a6059fdd1c79602"
     }
    ]
   },
@@ -263,7 +263,7 @@
      "from": "2007-08-28",
      "units": 8,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=7",
-     "sha256": "44af2c44917f4166654edcbed42e8a93fadeb542bd9bbacd78d0653fe686fda4"
+     "sha256": "62f7e5eb51a8aee4a23009042f1d2e681720cb9d80c24b91fe657f2fb62bf1a6"
     }
    ]
   },
@@ -277,7 +277,7 @@
      "from": "2025-08-28",
      "units": 158,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=8",
-     "sha256": "10b6079fe6d27370e9bfc82003d7ea15b9b9b6e806c6560a2a3931da4c902a9b"
+     "sha256": "7de811916d143201ce5b9e7f58e2b5c10c1a2ae1ead8ab5c7ce50b81efbc3717"
     }
    ]
   },
@@ -291,7 +291,7 @@
      "from": "2026-08-28",
      "units": 169,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=9",
-     "sha256": "43bfe2d061f6ae4718f248b0acf9e6c6aa07c22d24d3a8a99fa5c98f12d4e267"
+     "sha256": "c05e0c99c98a792ec3b3c34628676daf873c28fc520b00c0ed582be16098467a"
     }
    ]
   },
@@ -305,7 +305,7 @@
      "from": "2026-08-28",
      "units": 55,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=10",
-     "sha256": "1c0db32ce49b420938774bf2f654ad75c3db8b8f5a3637561a93146f3daa54c0"
+     "sha256": "e5543cf39346be835915b22861bc3dead9f25da4220218367769d51e72e4d288"
     }
    ]
   },
@@ -319,7 +319,7 @@
      "from": "2013-08-28",
      "units": 10,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=11",
-     "sha256": "35f4f065a9b2543a8abf125d94d6b61a8b1da1f2a9a6c40856916fde9b956652"
+     "sha256": "8c0a872f52115ebf57376f6fd92f953a18f96c6da7e08c302e6ef58225d2add8"
     }
    ]
   },
@@ -333,7 +333,7 @@
      "from": "2023-08-28",
      "units": 12,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=12",
-     "sha256": "3a02ea61f85e4d21f89ba36feff42c45b0f2db5bab660f20fc7d6742bbbdc818"
+     "sha256": "29b90ce4caa0499bcbdb74d2085c8a8652870ed103ffe72224f00ce8f8ef64d9"
     }
    ]
   },
@@ -347,7 +347,7 @@
      "from": "1997-07-01",
      "units": 7,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=14",
-     "sha256": "03c870b9cb820692842521886b978015514143d948116c10702a9ff544131230"
+     "sha256": "1d337ee4d2934eb63a6ad583e1da6d879f70dd238b182004105adeeaca94dbb4"
     }
    ]
   },
@@ -361,7 +361,7 @@
      "from": "1995-08-28",
      "units": 3,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=18",
-     "sha256": "eabaefab76343f2dd0eb84f4cd26a468bae2848a66c7132490c438186a903bef"
+     "sha256": "27132ffed9ab587e703a954db582d32961dc155b56d612ae936f263bf442ab35"
     }
    ]
   },
@@ -375,7 +375,7 @@
      "from": "2026-08-28",
      "units": 79,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=21",
-     "sha256": "97216a47790e58ff3353362f32ca7dea2d2416c2f377e0998752e9de0ba9dc2f"
+     "sha256": "12b7a50f566d8dc253bb80f45308b95ef0539a5c822d57a23b0166a40a3a754a"
     }
    ]
   },
@@ -389,7 +389,7 @@
      "from": "2026-08-28",
      "units": 32,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=23",
-     "sha256": "2b13cede0df381d039678ed24b06e139c5c87c9ced4bbc546228485678ac8ce6"
+     "sha256": "80187801ef8479e789f8c58757d228c51fed01a6654acef9521b34feec3de9fd"
     }
    ]
   },
@@ -403,7 +403,7 @@
      "from": "2019-08-28",
      "units": 25,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=26",
-     "sha256": "ec7e58784817d6e44d9bc26cab3b3618cbacfa180626f67fa8413a0f2fa8d843"
+     "sha256": "af65cab6689116aece7e9b36a0cdae474ad9dfaf609ba8778735293e0f59462f"
     }
    ]
   },
@@ -417,7 +417,7 @@
      "from": "2026-08-28",
      "units": 14,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=27",
-     "sha256": "4ea24b15869b41239d7fb621cc92e5b97e0a7bebcab54a166662eadf564f15ef"
+     "sha256": "f58ee07dc23721420e816724e09e2f16434f38eeb53bf65b225ed42506978a0e"
     }
    ]
   },
@@ -431,7 +431,7 @@
      "from": "2022-08-28",
      "units": 27,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=28",
-     "sha256": "f3a8713812752c0d9dc2d970e82c0985910014cf43df8324864fd5a7314c1f9d"
+     "sha256": "a095d8f0fe4fbc6ff5975ae7b0cc43d44e406dd6878e6506bc3753c5bbd58eed"
     }
    ]
   },
@@ -445,7 +445,7 @@
      "from": "2024-08-28",
      "units": 35,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=29",
-     "sha256": "5f4cc903aa6e48a3a15ab3f771bded42559815ae3107235c46d58712fbef5a6f"
+     "sha256": "7f44a90dc6a6c2bd5ee5d9351d8fe5ab35e9dd06f47260d56088782903197768"
     }
    ]
   },
@@ -459,7 +459,7 @@
      "from": "2024-08-28",
      "units": 67,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=30",
-     "sha256": "35cd87fa97a1a09a74e838a6f487e3046a4d4bee19a6a57f52972bae6b8ed395"
+     "sha256": "78122ba9f870cf1786e6a3ff76b9ee0b47908fef4722458c93189086c4a254a5"
     }
    ]
   },
@@ -473,7 +473,7 @@
      "from": "1996-04-01",
      "units": 5,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=31",
-     "sha256": "6dd723260985f044fce26acdf7e05ff7f04cddb20dc1d12dad86381526f96c22"
+     "sha256": "325f851b48d88a0c78b56a1143fbc55a82001c6a6b8235eaa80c4ac08c6b7253"
     }
    ]
   },
@@ -487,7 +487,7 @@
      "from": "2026-08-28",
      "units": 53,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=32",
-     "sha256": "d8b23b965b9f0b599d740fcc8fe76c60eaa3369eeddc3ea5f1b2093f1e96b148"
+     "sha256": "8d4c34f67bc191fa57272e4d2b159089846b88fd46d9b33a22fbecd106705aba"
     }
    ]
   },
@@ -501,7 +501,7 @@
      "from": "2023-08-28",
      "units": 76,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=33",
-     "sha256": "611584e4abc4a13518ddcc809a4935c063427ab6265a3a85ecf60cc9126c5be7"
+     "sha256": "645f3a7946caf49bcb30db90a872815d5bd70fa2530d654960e8668d1feae2c5"
     }
    ]
   },
@@ -515,7 +515,7 @@
      "from": "2026-08-28",
      "units": 49,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=34",
-     "sha256": "5bac8ab4e97d63f8401c9c5d481980de92901ae9809f1e21ed3d8db464c2d5b2"
+     "sha256": "1758e4b63aea0bc32d145c149dc6a63adb2e21225ec8c9dcb8cf928b941cd479"
     }
    ]
   },
@@ -529,7 +529,7 @@
      "from": "2023-08-28",
      "units": 47,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=36",
-     "sha256": "3036ae56cdf5be64e67ae92c6f9ba8ad9ebf9ee0b20aae542153676a06b16fa2"
+     "sha256": "b0c957ef72c13e9ad48e82b9dabfe9a90dbe8716ca769835ed1657f5eb10a311"
     }
    ]
   },
@@ -543,7 +543,7 @@
      "from": "2026-08-28",
      "units": 58,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=37",
-     "sha256": "1f4a8a28a2f1112d469b34c974b327b260294e80b1c000c2e908c618fdc980ea"
+     "sha256": "68d035efa5154f62aed210c5e314fbc818d74e8d2fe7e705cef59325b58ccd28"
     }
    ]
   },
@@ -557,7 +557,7 @@
      "from": "2026-08-28",
      "units": 137,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=40",
-     "sha256": "0e66014e4bd0c77b94cd077ffa3c04c635870d66b7dc435e0bcea7f5f191c436"
+     "sha256": "6808e16f4ac133ba5e1b17e266148763c5cf30724858d0e49937524f5bf51f9f"
     }
    ]
   },
@@ -571,7 +571,7 @@
      "from": "2026-08-28",
      "units": 128,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=41",
-     "sha256": "d03260c686e4b23fb8cad6f578b543d7af767c5b86dd2b04f01213e2253c8a75"
+     "sha256": "f2fb599fe8734dc02e1a7de338657b2c4a87a1b7dd5acd7eeccba76797283ab3"
     }
    ]
   },
@@ -585,7 +585,7 @@
      "from": "2026-08-28",
      "units": 39,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=42",
-     "sha256": "0c5a0228735b1f59659ac4d367c12ec5a9c8a4a8d5240e113d0bb4307fdbbef2"
+     "sha256": "8bfff3133bfe7883202aa68eb408b66e92303223ac4f054d6973b58012502e25"
     }
    ]
   },
@@ -599,7 +599,7 @@
      "from": "2026-08-28",
      "units": 82,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=43",
-     "sha256": "bf5d4e8291db4c5fc42c8d65988039aa9326cde049e50d21ae59b61f7f6c2ace"
+     "sha256": "22ae14f38a0e8d8770d709c12c11519ad0fd524bc7e0bb101811fd8f7c025eb3"
     }
    ]
   },
@@ -613,7 +613,7 @@
      "from": "2025-08-28",
      "units": 33,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=44",
-     "sha256": "ce59d2c61484d02916c028ec85c9ba5690b8605f86ae6fb9a0e4cb9493e625f1"
+     "sha256": "befb41a07aa3540da80535f522a1443a5db2f869856fcde995108b9bb395508e"
     }
    ]
   },
@@ -627,7 +627,7 @@
      "from": "2003-08-28",
      "units": 120,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=46",
-     "sha256": "df785d95b4a35a482777ff4b85c3c976bc0b7a8df53bdbf0cbc186f276a58701"
+     "sha256": "f416b1006481b1bdd7577103c4301535aadc435bfbd187c060aa3ddb8ef37bfc"
     }
    ]
   },
@@ -641,7 +641,7 @@
      "from": "1986-08-28",
      "units": 35,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=47",
-     "sha256": "401248758e8103cea680f5d7338fa2eea8346e177484f8571cede047132e8401"
+     "sha256": "0afd8d9388a5ce12e12f9aada6a1967550dcf73e29f9ccb5d244ed1ae3b990b6"
     }
    ]
   },
@@ -655,7 +655,7 @@
      "from": "2026-08-28",
      "units": 7,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=48",
-     "sha256": "f930e005b805989f5668c5d4b6fe5dbeb9dc28e870093814ac631caf278033bc"
+     "sha256": "0b6dad7e6d99ed2d090511ae167bc1e7c05a895a9fcecf6c7500e00dbcb7f8a4"
     }
    ]
   },
@@ -669,7 +669,7 @@
      "from": "2026-08-28",
      "units": 75,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=49",
-     "sha256": "4298d88f509d8ed6dc9f11d07b9b68a96332846eeecdc6985d619e6662eabfbf"
+     "sha256": "8d06833184bc92d5b8702a03dff087e5ed993328a71684a9a205d0701002673c"
     }
    ]
   },
@@ -683,7 +683,7 @@
      "from": "2026-08-28",
      "units": 120,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=50",
-     "sha256": "e180800e2b85ee03300e9970015d80daf27dd50fc6f735c0e0d162dd60d39e36"
+     "sha256": "4dc01ac8c70412b084a372365832a1b8361a6174a0aed01e94dfe661312fdb3e"
     }
    ]
   },
@@ -697,7 +697,7 @@
      "from": "2026-08-28",
      "units": 30,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=51",
-     "sha256": "6eeb64cd677c7992a30a9aa170ac4bede23ed2bcd5ef3a1e3747c5e9b7ebede3"
+     "sha256": "65bbb0b2b7f16797a5c695fc944b47b624e03058b29ece2f4c3fbdf4b6180f2f"
     }
    ]
   },
@@ -711,7 +711,7 @@
      "from": "2026-08-28",
      "units": 52,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=52",
-     "sha256": "b1486414c0a72a4e8ae07ce3d9e9f4be4f6f95a184e268c19b51a8b257c90f85"
+     "sha256": "b3f1acbc15b5ea502ba288089ee93f88d7343c2088ef27adc6e0c057d1f6a54d"
     }
    ]
   },
@@ -725,7 +725,7 @@
      "from": "2026-08-28",
      "units": 21,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=53",
-     "sha256": "55270d7c2aa1842cf38ad24bed59d3907b9249216a4dabe6895dcf7ae8ff44fe"
+     "sha256": "1e51392d893f2a7bb317d3c0c3bc9418ab00c925ead8cc6105b928d9247a4296"
     }
    ]
   },
@@ -739,7 +739,7 @@
      "from": "2026-08-28",
      "units": 34,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=54",
-     "sha256": "37cd65778a189be8b621d8c8b3a9b9a92afd74cb344be837a31400a9e6561ed2"
+     "sha256": "f42785433093b15437b5ddba04c6150a181dd98793c44e70e38cc208e386f818"
     }
    ]
   },
@@ -753,7 +753,7 @@
      "from": "2026-08-28",
      "units": 32,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=55",
-     "sha256": "baf4c75e45f404743e011ccc2341eed9be9560281523c65cfe8bd2f379b0dad5"
+     "sha256": "f418f846f868744d8660a6dc61814100180706c529188735bb36292b6fb080b7"
     }
    ]
   },
@@ -767,7 +767,7 @@
      "from": "2026-08-28",
      "units": 81,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=56",
-     "sha256": "cc0dbe9d5707c09d7b2a0cb648348f5a30f462f3c3046307048a19000209c8e5"
+     "sha256": "a6ae3c20cca50a76efd5193f0d406bdc63a366e0ae61b9a4903b4f44e6c1b165"
     }
    ]
   },
@@ -781,7 +781,7 @@
      "from": "2026-08-28",
      "units": 93,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=57",
-     "sha256": "d9ce31eb1b431a5e6b9ea0e926794fbdfd14202253d0398391a9d0f2665b96a4"
+     "sha256": "c1698f88dd6b93c1455b6219f7b70fd4430593e071e058286adbddc7aedd0196"
     }
    ]
   },
@@ -795,7 +795,7 @@
      "from": "2026-08-28",
      "units": 79,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=58",
-     "sha256": "3f961954774f1d382005f46ddeab89dd8e8e1f9f62ae191671f3de35d71f16b3"
+     "sha256": "103a1ac8564e16bf5cdb7087ba01adf3fcbe895db11de18d5b43e381cc16a241"
     }
    ]
   },
@@ -809,7 +809,7 @@
      "from": "2026-08-28",
      "units": 83,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=59",
-     "sha256": "5c8f2249e776a4e7a467f133c500b4f62bc9871dc7106a189fbd4b19e0280286"
+     "sha256": "bd1e70893b04f76df4f8b2ad335ab4cf5ad6720453f389b6afdc05203cb47485"
     }
    ]
   },
@@ -823,7 +823,7 @@
      "from": "2026-08-28",
      "units": 55,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=60",
-     "sha256": "88e690601f68bb7ee8419a2e6855776a8cffaab2c7d82a995cec5eb4c9c51d1e"
+     "sha256": "1527976b786b3068a0a5faba49aefff4d277d1c80b2b9614ed04982f358fd2fe"
     }
    ]
   },
@@ -837,7 +837,7 @@
      "from": "2004-08-28",
      "units": 30,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=61",
-     "sha256": "abf383c4fd126f88c469fad5860b6c96c5dd96eae702a1518963f8c12f15a4cb"
+     "sha256": "fe628251481e2a615ccc5dece3d92274bcf4f339ad808f38edf0f6078da39585"
     }
    ]
   },
@@ -851,7 +851,7 @@
      "from": "2025-08-28",
      "units": 130,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=64",
-     "sha256": "3ac2bb50a9bc3a5b1f21fad5d9fb1c0ba5c588d372f0ceda92c6f23ad0bfb6ca"
+     "sha256": "87f2bcd372b2e56c8eb52740dfa1188d23c1df10e391acc0cd186458026e3f04"
     }
    ]
   },
@@ -865,7 +865,7 @@
      "from": "2022-08-28",
      "units": 78,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=65",
-     "sha256": "6d5a06e9db9f2702319e390d36e2d1ce703417e63ba5d7cafcfb99e6845f19e9"
+     "sha256": "bc0109d36da79ad29698bd17bc9f1b12191f43101a17a4712076d1fd47a353ca"
     }
    ]
   },
@@ -879,7 +879,7 @@
      "from": "2016-08-28",
      "units": 56,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=66",
-     "sha256": "34a50783948ce4eea3f709eaf0f3c25bf37e04943951201bbf9b7b31fede4131"
+     "sha256": "6e19c50d33dfde472215f278408a7073f23763c6ad0b97eed5ad7c97093e95f8"
     }
    ]
   },
@@ -893,7 +893,7 @@
      "from": "2026-08-28",
      "units": 561,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=67",
-     "sha256": "8d899e7caf81bb4d4c2833141a1f999fa6112052fc18aa960e919db9531e8dfc"
+     "sha256": "f6a4e3ebf0d8ee928248d5a0f456647b22f0e5c48933da37f0216bd8c1116832"
     }
    ]
   },
@@ -907,7 +907,7 @@
      "from": "2025-08-28",
      "units": 35,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=68",
-     "sha256": "bdecc188a005a9d36b81f0b1134d1ff016e08059d677b9dc00ea5be800fb9b7a"
+     "sha256": "3fa465869b8cabf8c188c341d0f31bc5215b77aa1b9e53aac8a2f19e49ce883c"
     }
    ]
   },
@@ -921,7 +921,7 @@
      "from": "2025-08-28",
      "units": 136,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=70",
-     "sha256": "cffeb3b9293b14a9eab519da9179af4a3f415dd8f8fe87bc56f87ddfd8b15758"
+     "sha256": "545514e8d32e03f6ea04226c89707b1a5b1a09bf6854c54b06cc76b299b66a89"
     }
    ]
   },
@@ -935,7 +935,7 @@
      "from": "2026-08-28",
      "units": 124,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=71",
-     "sha256": "db84e03702efba481b98048f27f03349f5a1e06b20c4ecb395e49b9001650a15"
+     "sha256": "95cfd1e14581fa065a5f8b48cfdfd91b835249f47a168ef1985eee11a1fc07de"
     }
    ]
   },
@@ -949,7 +949,7 @@
      "from": "2016-08-28",
      "units": 55,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=72",
-     "sha256": "0a2ab7fd1916a8281406c308b5fa52efcb4cdbb5a25dabde0222e648c96c5851"
+     "sha256": "a240203adcb0fc182bc52dfdf1b54245af04cf133494b0a88387b3bc000a204b"
     }
    ]
   },
@@ -963,7 +963,7 @@
      "from": "2025-08-28",
      "units": 72,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=77",
-     "sha256": "10198d9082eff99c0af43fd8fba0ba50ab0a30d5abc8d5e43988d1eecbc80a18"
+     "sha256": "b5db1aa5ec8444ba323edfc838c6edbc424bbbf40657524ac1e8665cfbad0b73"
     }
    ]
   },
@@ -977,7 +977,7 @@
      "from": "2013-08-28",
      "units": 62,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=78",
-     "sha256": "82f65e2b14fccc44be581685fd8c091df9b57a58c49bd3d708f3a2a7b5a8a949"
+     "sha256": "4e5e1cda6a8fb3a6bce1ba47b37f5098ea9e44fa47265cf3bd752030ef7d85fb"
     }
    ]
   },
@@ -991,7 +991,7 @@
      "from": "2025-08-28",
      "units": 68,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=79",
-     "sha256": "4b07702398cc6076e43926667502614e21f35c259544c41ee9717453db03d75b"
+     "sha256": "f731b468200a3fb04ae7fd60af7763eee4f97bb5142b47900cba8f877f326a27"
     }
    ]
   },
@@ -1005,7 +1005,7 @@
      "from": "2016-08-28",
      "units": 46,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=80",
-     "sha256": "ac33c48e19c4a222e673f90ea2b48ac6bff873c771056e8ae8b20b5f0590670c"
+     "sha256": "c6fad51bd68c0ef4c5f4c8004aea3bbed632fe2a59c538e6991bdaaa77ae2770"
     }
    ]
   },
@@ -1019,7 +1019,7 @@
      "from": "1997-08-28",
      "units": 31,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=81",
-     "sha256": "f1a6093ec807a62671eb2a075a9ee879c76bcb9fcea33f0247c0e4ced9983e15"
+     "sha256": "c0356cf26e77bfe24037780028b6ddbc8579366c06cfa0e711d03f7f8a0372ba"
     }
    ]
   },
@@ -1033,7 +1033,7 @@
      "from": "2025-08-28",
      "units": 101,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=82",
-     "sha256": "5f7676132dd136b869a93d1fbd94979a7445d1b7a4ca40e63320123ee1a26506"
+     "sha256": "f1e9523741336efe926f675d39f6e81f918d6c79215bf257448799d37f688c47"
     }
    ]
   },
@@ -1047,7 +1047,7 @@
      "from": "2026-08-28",
      "units": 83,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=84",
-     "sha256": "77ae369f7bc6415641084ff056d102912e18905729cd43eedd8d7d046cb37d7a"
+     "sha256": "68c2e2271171c739eedd15ae1a3b25c679c4fad5076708b0d9178958902f430b"
     }
    ]
   },
@@ -1061,7 +1061,7 @@
      "from": "2013-08-28",
      "units": 9,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=85",
-     "sha256": "34fbeb55865e7bbcb9168c6b77f432cc8df44118b654ca23a7bc92b6abcb1526"
+     "sha256": "500537af88bd4655a181a64eb611b121c3b3ede4de222a082d4932a5c534f00e"
     }
    ]
   },
@@ -1075,7 +1075,7 @@
      "from": "2026-08-28",
      "units": 222,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=86",
-     "sha256": "2679f0b212ff16233eda67ffe131af34deb321ff9190f47c3c084162c41b493e"
+     "sha256": "f273047a6b2049f73b152fbfdf961de9e49c05e8c008308c61f64a8a854fba7a"
     }
    ]
   },
@@ -1089,7 +1089,7 @@
      "from": "2025-08-28",
      "units": 118,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=87",
-     "sha256": "04e01e32e964203bf0d42171d1477952122f14506a9239792ee1bd64d6482483"
+     "sha256": "0f4567312b11be144cb537313bdfceb2701ad3692a6c30659e0688b961eb61fc"
     }
    ]
   },
@@ -1103,7 +1103,7 @@
      "from": "2019-08-28",
      "units": 134,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=88",
-     "sha256": "6dce3d226928f86e0c53c8e8986f75c9d8f028a1b13b5946e1e886f62e0cb81d"
+     "sha256": "75e1435d4af7a18fcae679ba17d02bc0368ec7504a74fb0aa319c634b4462e66"
     }
    ]
   },
@@ -1117,7 +1117,7 @@
      "from": "2022-08-28",
      "units": 45,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=89",
-     "sha256": "15840cc1af44f531fa87cf1819a4c36143bddd4a0c4c3321eedec3654c9d7f64"
+     "sha256": "3d7db6bca316eb9eecd67067e146e46f34c769432f7a9b353aaa59e95eef4d10"
     }
    ]
   },
@@ -1131,7 +1131,7 @@
      "from": "2011-08-28",
      "units": 18,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=90",
-     "sha256": "3a328c63c60a50b306ffded8d14535c36d1b9855f9e8a75efa8e94bc477373ba"
+     "sha256": "2fb76ec5c4108460067f02f3813ff7463efa4be1c7aaf08a23d569f6b9aecb9f"
     }
    ]
   },
@@ -1145,7 +1145,7 @@
      "from": "2021-08-28",
      "units": 77,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=91",
-     "sha256": "2cc18de1bb7b1fb8aa53828ccbc91202e671220cca940876b3873820e6be35b0"
+     "sha256": "be29d87aba39f83fda65d3371afda5221a1ba3fdda9a6497584f220311eaa68b"
     }
    ]
   },
@@ -1159,7 +1159,7 @@
      "from": "2025-08-28",
      "units": 102,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=92",
-     "sha256": "25dd58aa9b38b3f9b3a64ffa0551cca301506ce7d0e18a2cf38d3a30ac0a2b1e"
+     "sha256": "6482d4b6f875065498872b2a8bff26468b4cd96f738108a16307dcff2ac755fd"
     }
    ]
   },
@@ -1173,7 +1173,7 @@
      "from": "2025-08-28",
      "units": 104,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=94",
-     "sha256": "3b0607e5ab92c05e9a7f99dc8b9823c5587f11c7d65fba332c7d438d457bbca7"
+     "sha256": "edaf52cc14b5f7aa07c6808c30eb64c2a95d9f38b55a9baa3d499dac36cdeb93"
     }
    ]
   },
@@ -1187,7 +1187,7 @@
      "from": "2018-08-28",
      "units": 64,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=95",
-     "sha256": "bd1d197d67d685e22a10c5cec8cb0d1c2c76fc953bc2703f46dbe3f945ea8217"
+     "sha256": "45270f18c07b06e540be4d2a1db3c458f9c9214330a727a8bc37d63a1425c23a"
     }
    ]
   },
@@ -1201,7 +1201,7 @@
      "from": "2026-08-28",
      "units": 24,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=96",
-     "sha256": "c05aef91a062854b7787c58a4e7727b71715e85d3e5f687da7f4419ff437e324"
+     "sha256": "da1cc7a4f0a358cb1094ea338740cea64390a5b64c8a6b3ac41539214f607d6a"
     }
    ]
   },
@@ -1215,7 +1215,7 @@
      "from": "1997-07-01",
      "units": 3,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=98",
-     "sha256": "3ee6327a87336c8a735478620118ca073b2a0e42cd699f36ab6e71bde2586937"
+     "sha256": "daacc7e5cfeeef393bad66f906187bed0cbe224ba2d795aaedd6cfd2e6403928"
     }
    ]
   },
@@ -1229,7 +1229,7 @@
      "from": "2026-08-28",
      "units": 157,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=99",
-     "sha256": "0aca35effbf8deb8fb3cd3994a0d0b07e8fdbc2890fda0dc2bf1b244f890b3b7"
+     "sha256": "23facb396bc1d05cace32236b75eda9c10e8ecc35911da46a60fc36ea5ddf0ab"
     }
    ]
   },
@@ -1243,7 +1243,7 @@
      "from": "2025-09-09",
      "units": 89,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=100",
-     "sha256": "30263b1a1ad40f6c883b8333da52258d83b394912bf829243fe9393f1a4f18fc"
+     "sha256": "863a62ff901a2c41ba915b48b5fb0237c73f8a4528ed22b7b504d4f96c4b8e23"
     }
    ]
   },
@@ -1257,7 +1257,7 @@
      "from": "2026-08-28",
      "units": 56,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=103",
-     "sha256": "a783246c8cce95789eb5def7b59d4f4b6b5ef072c60c02b5cb16749e2ef26719"
+     "sha256": "bc288048d0a5693a79b9fd3efd4e1afd4edc780ba2278e799ba2358ae3249663"
     }
    ]
   },
@@ -1271,7 +1271,7 @@
      "from": "2026-08-28",
      "units": 141,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=104",
-     "sha256": "6d07a0829f87aa09ff64bc2904a3f36d4ff41041e0cd9db1c962048513f6b676"
+     "sha256": "26195d24c4a8cb7cb2f57a338eb3aac99096d932f78437d416fe2dc75c60ecee"
     }
    ]
   },
@@ -1285,7 +1285,7 @@
      "from": "2026-08-28",
      "units": 214,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=105",
-     "sha256": "f7416c9fda85173a1ba3acd2422181fd9076818e8e58c7a78e9fa48860209193"
+     "sha256": "9959f847949fd0b7486c2427baee6f7ab0c30d548eb3847c8d9466b1ce33c591"
     }
    ]
   },
@@ -1299,7 +1299,7 @@
      "from": "2013-08-28",
      "units": 30,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=106",
-     "sha256": "63651726c59a03393b556133ec8f85443873ca0dc8759c4326b2b1d9f17f183f"
+     "sha256": "f70a693a782b40c6d08306f8befc9e6132238e5ddc0c37bb31a9896bc7378dd7"
     }
    ]
   },
@@ -1313,7 +1313,7 @@
      "from": "2025-08-28",
      "units": 16,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=107",
-     "sha256": "5ec54505c2d3c607ca19f04a5a6389be48b0d1470137d115731edc8a7744e150"
+     "sha256": "e72e0bc9ec27b108a59750e26376a7a3e0ae10c40ca9b05fd2f30ff8eb484589"
     }
    ]
   },
@@ -1327,7 +1327,7 @@
      "from": "2026-08-28",
      "units": 82,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=108",
-     "sha256": "d4e778e1f6e173cd3a9e9533f3b8f99da223ef463e9b86c6400c5f960e2c39e5"
+     "sha256": "bce816f7fc8a6cbfb78faf075803cc3b13af1e81d9dd332abad003fae527414b"
     }
    ]
   },
@@ -1341,7 +1341,7 @@
      "from": "2018-08-28",
      "units": 44,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=109",
-     "sha256": "fdc8a0f6afe34d2168d9bde9f710ea0aa3a7b3ae6df664efed86a6e37ce704d2"
+     "sha256": "5e6fe606539888863c789bf6f2da6193dbbf8ad9dd95ed97654c3c35638a6e5e"
     }
    ]
   },
@@ -1355,7 +1355,7 @@
      "from": "2024-08-28",
      "units": 24,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=110",
-     "sha256": "19276b6c3e639d09dd627dccdb93ed15377f36d7ebf85aa15a5e6f1cb45053d8"
+     "sha256": "acc24072c708ae2a0626c73fdcf6d8e59cab5e82a6b33929a13116cf9c0c09d6"
     }
    ]
   },
@@ -1369,7 +1369,7 @@
      "from": "2026-08-28",
      "units": 365,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=115",
-     "sha256": "dc17462766af18783cbd939082e3e75e46e7800aba489d6c1841321359dfbb60"
+     "sha256": "d76339bc4cbab0c3a4058aa8ce4a6312bafc904a11a3d77217540161c70895a6"
     }
    ]
   },
@@ -1380,10 +1380,10 @@
    "url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=116",
    "versions": [
     {
-     "from": "2025-08-28",
+     "from": "2015-08-28",
      "units": 43,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=116",
-     "sha256": "da1c1f58314c4e897686982492334204a6628c14b5635b6cb32e91f1f572e99a"
+     "sha256": "fe2cb92ff85c2c169b8741732c220a3a4e3100fb8d7814371dc00350d1292039"
     }
    ]
   },
@@ -1397,7 +1397,7 @@
      "from": "1939-08-28",
      "units": 1,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=122",
-     "sha256": "28cd9151b5c15ad331c2ac8b9616cef010aa4530d4a6cdfff28c1fb27ab996a3"
+     "sha256": "259b17a9474d50ae012ec20442081d361f1e9682a7dce821609e906fd3225a8c"
     }
    ]
   },
@@ -1411,7 +1411,7 @@
      "from": "2019-08-28",
      "units": 4,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=127",
-     "sha256": "235872697a38fe3b3d94edb158bae57d4a2e5e7572e1d2e0d932e2499644d1fe"
+     "sha256": "3a5f61fdafff04234fd023d5ab55ba5830e70e822d949bb0fd3d6d38f61c65d7"
     }
    ]
   },
@@ -1425,7 +1425,7 @@
      "from": "2022-05-18",
      "units": 44,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=128",
-     "sha256": "a8605fef94aa61d662b1bdac646052bd42c333539d84a5ae95012699ddce94ed"
+     "sha256": "95fc12772c046131766de35dda9204653bbc7698e57af189beb2574b7a1a3ea9"
     }
    ]
   },
@@ -1439,7 +1439,7 @@
      "from": "2026-08-28",
      "units": 42,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=130",
-     "sha256": "b771085301c6b9780d6688579a04506462fdebd40440d22ef3f4ce9d7c5f3fe7"
+     "sha256": "cbef3b52804ea67ab26a2dbee1922eef5215b467830d7580ccb59bba0fe8987c"
     }
    ]
   },
@@ -1453,7 +1453,7 @@
      "from": "2026-08-28",
      "units": 160,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=135",
-     "sha256": "2640ecc437efd7fd50c1210e17b8a188b3025709c3051da6dd48e09e99bfec06"
+     "sha256": "659a2af7c8b76a7442b4582c521f28af350950af7431928bf8ff06ab0d26c44a"
     }
    ]
   },
@@ -1467,7 +1467,7 @@
      "from": "2025-08-28",
      "units": 48,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=136",
-     "sha256": "604e7b2dc17e6cba6a9e15d60a48675921813ef1ae2fbfc8447230a977af0ccc"
+     "sha256": "71d1a771919f242a748c6f1eda9a81915fe137218bb0c332574cb2b8c485d008"
     }
    ]
   },
@@ -1481,7 +1481,7 @@
      "from": "2026-08-28",
      "units": 174,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=137",
-     "sha256": "80e1a0a01ba0b66d4c75a303ea61d03ba9539799cdd698e88cb17b2b3369b102"
+     "sha256": "f9ee2e24dc60941ae55ca912941a2e47103abd9cfd5482cb37c8ee697c934bcd"
     }
    ]
   },
@@ -1495,7 +1495,7 @@
      "from": "2020-08-28",
      "units": 58,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=138",
-     "sha256": "3d825ef604090fe3ce723fe3717495659e8bf96cff419a3f2cb763d86e09aa39"
+     "sha256": "d205c471fd59bc62d7fa769f4e7c1dd0bc91ee08ba0d90a2f911e0205f75e489"
     }
    ]
   },
@@ -1509,7 +1509,7 @@
      "from": "2021-06-15",
      "units": 47,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=139",
-     "sha256": "cda3c956b17840ceb352c0fe5b80fe5e43244604b1f57cab61d4f8c1259b582f"
+     "sha256": "20f66ccf853e26a5afbc59649169e7ca963afed5c54f3d7f32d8b33159afa922"
     }
    ]
   },
@@ -1523,7 +1523,7 @@
      "from": "2026-08-28",
      "units": 92,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=140",
-     "sha256": "5a7bb1f9e561887d33de387fe229468f4f2456c19c0691c8dfc07f6bf5f7705c"
+     "sha256": "45a34c7964a1f95f64c211ea68bf658ec5b3ffacc0911a84bc61b30499d7d2aa"
     }
    ]
   },
@@ -1537,7 +1537,7 @@
      "from": "2026-08-28",
      "units": 104,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=141",
-     "sha256": "81fb03df7aee5e18961661fd68a519a6d5cc379038e3e7a21d62db3953715a8c"
+     "sha256": "df336c9c2aa75ffea0f773004382015ddbd8c632e72e07bca29e493889803a67"
     }
    ]
   },
@@ -1551,7 +1551,7 @@
      "from": "2021-08-28",
      "units": 67,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=142",
-     "sha256": "b72ac540afff82f296ac4dffb6042d090bad3a2b38d076a54411090ce6f96837"
+     "sha256": "1389f7997826645f3a8eca70072fe74206286060c2e21122c110a90471c58212"
     }
    ]
   },
@@ -1565,7 +1565,7 @@
      "from": "2026-08-28",
      "units": 168,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=143",
-     "sha256": "bf28f6a5eaf3040491b0d7192b5c11d777e92970f844cbbb9822f71fef3ade45"
+     "sha256": "d11b54fe41f59e59b3cad83e7f4f72321d6c4f2c08913c1ee22ac15d1f363c8f"
     }
    ]
   },
@@ -1579,7 +1579,7 @@
      "from": "2026-08-28",
      "units": 145,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=144",
-     "sha256": "09d767e369083002ffbc02ef56f0440c0b4de0585caa23b576714b6db084d3d8"
+     "sha256": "e6c53241cb5df482476317ed779b689c381708d5947f5b18cec10324a83d6fb4"
     }
    ]
   },
@@ -1593,7 +1593,7 @@
      "from": "2001-08-28",
      "units": 23,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=145",
-     "sha256": "67b8125003f051139d0a9b6a8155e96d1c909a13d2d63694ee5ed2091b61af22"
+     "sha256": "cb4a71126eaf1b37de46db576a711b50c813558b83dca1aa31ae58b9e3db946b"
     }
    ]
   },
@@ -1607,7 +1607,7 @@
      "from": "1982-08-28",
      "units": 6,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=146",
-     "sha256": "fd41c4b6ce3498553f9e87c265b7ea2af7051ce4b8b1ab16cf230f82c3db7d09"
+     "sha256": "b42c49738862c26c805aca0bedf5a18ca6c921ec26e8d22527be38de3455c537"
     }
    ]
   },
@@ -1621,7 +1621,7 @@
      "from": "2018-08-28",
      "units": 8,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=147",
-     "sha256": "98599cd2a44b97f94c4f98144e44cd6b605b14cd1bfa6194eee1d5d64d4a097d"
+     "sha256": "d5466522417dc9ac8529e472dcd46c8b0976b6be36d3464b88d75267cbb29eda"
     }
    ]
   },
@@ -1635,7 +1635,7 @@
      "from": "2019-08-28",
      "units": 70,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=148",
-     "sha256": "dcbcf7b807fa8f6dc15251984942a236e67965ef023c2338908d620621095fc6"
+     "sha256": "968c40afa3776fff2af54f05bd60c62ed171e30a50a0e3fd1683afdbf4614c0e"
     }
    ]
   },
@@ -1649,7 +1649,7 @@
      "from": "2021-08-28",
      "units": 26,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=149",
-     "sha256": "9a2da7fc7fab0e068f0c54fdcbc2c085d48506abe4e45bd58b69372509dac659"
+     "sha256": "4ed96ba5fa9b4dd54dafcde08d33e72b07677c805531e43fa1df2240aea40825"
     }
    ]
   },
@@ -1663,7 +1663,7 @@
      "from": "2003-08-28",
      "units": 53,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=150",
-     "sha256": "53f03f1dd577d00ae61302714d766f91007fa4c860d367ed063c0561c97b616a"
+     "sha256": "e6c1580337730df36eb844a9ebcc3b8250907b0f731392f7b221c9f135204bc4"
     }
    ]
   },
@@ -1677,7 +1677,7 @@
      "from": "1996-08-28",
      "units": 34,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=151",
-     "sha256": "4de1f3135ab81c352365c1a413f6890fdbb58e9a245aa87062e06d5bdc1db489"
+     "sha256": "7442ff144368b3ce650210bbbd03f9f8669a1cb4a5ad24abbe06ffb825fdf724"
     }
    ]
   },
@@ -1691,7 +1691,7 @@
      "from": "2021-08-28",
      "units": 9,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=153",
-     "sha256": "0d50d2649d285b141096f0b1ad0c9dd83b34aec4e67c4f9e3d3067f952fb239d"
+     "sha256": "02fa066900e01198dd8b410f48f8dd4d82944ba1bbfaf6840902bbabc20b22e7"
     }
    ]
   },
@@ -1705,7 +1705,7 @@
      "from": "1949-08-28",
      "units": 4,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=154",
-     "sha256": "c8b0a730863efa7ff02855f16174a037f0bc20889ffb3290f9917cbf760c02e7"
+     "sha256": "615e5ef095f5f38df0b9b2c150dd09c7e2dc67fb938a80efc30c8067f19912ef"
     }
    ]
   },
@@ -1719,7 +1719,7 @@
      "from": "2008-08-28",
      "units": 9,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=155",
-     "sha256": "9bf892b7ea140c743c82e1ba94047031354a85b37db624cdd103db03d948db05"
+     "sha256": "04f321811a27b1b1540c99d43358a6d6dec19a500b3f8e325fea140049d1f5c9"
     }
    ]
   },
@@ -1733,7 +1733,7 @@
      "from": "2026-08-28",
      "units": 101,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=160",
-     "sha256": "3a1b891620bcfb5a307885124e254d4450b4fbed078f3ad2b79ed5b3ff2e7d6a"
+     "sha256": "2af426202acbb49df7ad348513a499b06d346da548a9633e3cb9240ba847e54f"
     }
    ]
   },
@@ -1747,7 +1747,7 @@
      "from": "2026-08-28",
      "units": 104,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=161",
-     "sha256": "1bdeaf25e96b4ac0d62368c6ff82ae2e350b1010e3a7350e9b418709f77969f1"
+     "sha256": "a49104725bc034a6239be1b36ad90eb7d4a4901e84f46d6557d7237d13c78e33"
     }
    ]
   },
@@ -1761,7 +1761,7 @@
      "from": "2026-08-28",
      "units": 185,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=162",
-     "sha256": "0317f6b767d99f298ede88c7a8d47480226e7d4bd06e8e8cd5bb5e3f8b2935b0"
+     "sha256": "a12bb478468ab56dcb529751361b20ceb901c403b8e9090e4969fac53e8ee24c"
     }
    ]
   },
@@ -1775,7 +1775,7 @@
      "from": "2026-07-01",
      "units": 35,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=163",
-     "sha256": "2103507a053f73187924936fe6a2d165beb65545cc0d028c555a3436f95cce69"
+     "sha256": "07eccebe106f8f7d4e242528c1200a00ef030a68c23368d6dfdd108dbbcdd08d"
     }
    ]
   },
@@ -1789,7 +1789,7 @@
      "from": "2026-08-28",
      "units": 30,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=164",
-     "sha256": "b55db3006ad7073c64b5c53b3eee76a24ab61a309fb6d76be6282c55de347309"
+     "sha256": "6bd076c36125fbf0a9041671d48bdc6f1828159ef45e5c0ebf4b964df6084bab"
     }
    ]
   },
@@ -1803,7 +1803,7 @@
      "from": "2018-08-28",
      "units": 29,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=165",
-     "sha256": "81efd64af1ac85429829a878fc7c1bf5fd660be70ffe50eb00977d6d30c1538f"
+     "sha256": "cd53b4dcb80727e4e0f490d02775076b49e698d3e7d02f902ef5b952c041e5c1"
     }
    ]
   },
@@ -1817,7 +1817,7 @@
      "from": "2024-08-28",
      "units": 48,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=166",
-     "sha256": "7e094c32ec34dbfbde53b84efb336c4a8deb1e4a18950b52c3c098e80c8f3aa2"
+     "sha256": "e8a75a99791d98600647723e9d919a3da3f582ecb85eaa7472064ccebe13443f"
     }
    ]
   },
@@ -1831,7 +1831,7 @@
      "from": "2026-08-28",
      "units": 110,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=167",
-     "sha256": "ca8ba59544605d6f98e5e1c01c06bf19c56ba4dd42d8ec1796adb80dd0551148"
+     "sha256": "e5ddbadab874fd5a4e8a104182d6de4e4af7eda3b2ce8e249ad8d280afa0a998"
     }
    ]
   },
@@ -1845,7 +1845,7 @@
      "from": "2026-08-28",
      "units": 62,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=168",
-     "sha256": "b6a39554a2de9e8d0ad8a729bb42ddc20ca0d3460210c6523cc594a60a951eeb"
+     "sha256": "b51f867f94d59462746210419ea0d9339c2cdc23c0c2df2113d834c98fc1d1c2"
     }
    ]
   },
@@ -1859,7 +1859,7 @@
      "from": "2026-08-28",
      "units": 101,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=169",
-     "sha256": "e765ec632aac99f9bb11a8d3abf7a3846394d2c90f1a958d7e225d653ab9400d"
+     "sha256": "e3659da91a7399b2d622a23db99da1374edb62718ff6d544a3abcce59eecad0d"
     }
    ]
   },
@@ -1873,7 +1873,7 @@
      "from": "2026-08-28",
      "units": 45,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=170",
-     "sha256": "2e7af5c68ba95ff890d77037ab8a6154194b249131c2fb51068722b90df424ff"
+     "sha256": "25d1dbfea5de376ca5070d07e4dfb203178b273ab75539f72c61fe3a0e34fedd"
     }
    ]
   },
@@ -1887,7 +1887,7 @@
      "from": "2026-07-01",
      "units": 23,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=171",
-     "sha256": "618d07a2bc165f1e900ba285e58aa381d69b0b406fbb4caa76f9249a47e5ada7"
+     "sha256": "44a5fe1c06d58ac2227453b23274de5aa6146af8e9447046be32cf8ee5760070"
     }
    ]
   },
@@ -1901,7 +1901,7 @@
      "from": "2025-08-28",
      "units": 102,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=172",
-     "sha256": "46ac9f7866252458667e1382cccef7d63b85924f2b2e8ebbecd4db03aa0ff24d"
+     "sha256": "788225494f11297c2876c3636a4d449f491f259ec1d00d12bf3acfb9a55e34ff"
     }
    ]
   },
@@ -1915,7 +1915,7 @@
      "from": "2026-08-28",
      "units": 162,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=173",
-     "sha256": "f1fb2cb77d1faf36f9feefbfc9ece33f1969cf011e31a87cf7b179d1fb85d27f"
+     "sha256": "65baa2fc348b4034e5dd8179e3741bb8c346810fdbd6b7acc6cccb30e2790663"
     }
    ]
   },
@@ -1929,7 +1929,7 @@
      "from": "2026-08-28",
      "units": 70,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=174",
-     "sha256": "5de21b212cfaebef0eb2fb45c28bbf1ed66bad683fd55622a0173a37892407dc"
+     "sha256": "81aee0f0e6361c3b3b7fe554f5daa9cb606b385575b42a6e3bc18c9e6de06455"
     }
    ]
   },
@@ -1943,7 +1943,7 @@
      "from": "2026-08-28",
      "units": 8,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=175",
-     "sha256": "ae785b71961918c21dda4766b74c7de5d1c023a4d1bdd461be632ae8a1698312"
+     "sha256": "56c522d9fd89212eff0b4330b521b60730eb2e5bd64579358d4447bb109602d7"
     }
    ]
   },
@@ -1957,7 +1957,7 @@
      "from": "2014-07-01",
      "units": 20,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=176",
-     "sha256": "2579fa18a0f245302237fc419b46b7b4ead7212a5b4f3de8f666cec1c337f6e7"
+     "sha256": "45eb50b1546dd6158c70d3d1fd0a1b5aed32d417463c803353d0f38fa3583a01"
     }
    ]
   },
@@ -1971,7 +1971,7 @@
      "from": "2019-08-28",
      "units": 19,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=177",
-     "sha256": "db120750dbc1dc4f62884cf2c9276ce5e4f2990a789eb60bc8295ab01dcf0135"
+     "sha256": "d02a4bf61d5531b24569ed15f97efcd3fac5c9c939205c2dda714f3f7026a074"
     }
    ]
   },
@@ -1985,7 +1985,7 @@
      "from": "2026-08-28",
      "units": 98,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=178",
-     "sha256": "af9ac63380d850a9cd9326948fa74ada5692c7a1e5cd06aebaf7910146d90315"
+     "sha256": "302a4af8670526b5e80f027aa0d577edf184045cd134e1b6c66801210d789e5e"
     }
    ]
   },
@@ -1999,7 +1999,7 @@
      "from": "1982-08-28",
      "units": 11,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=180",
-     "sha256": "ff3546ffade3b1d62d36131799cc966c7a574ffaeca0fa2106e68632b8fd98cc"
+     "sha256": "3e8d7227c0d7148103610e7dd1d2ea09d2df53b3c004a2f2d1abfb89ef26dfab"
     }
    ]
   },
@@ -2013,7 +2013,7 @@
      "from": "2018-08-28",
      "units": 12,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=181",
-     "sha256": "27277f3e1296c82a2642bfd2a2baab4e140633e79784fbb76ec9d345db9a624a"
+     "sha256": "6d3f3be25e11b3fcb79606619261f415be4915f94645be4912792314358c1fe5"
     }
    ]
   },
@@ -2027,7 +2027,7 @@
      "from": "2025-08-28",
      "units": 75,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=182",
-     "sha256": "67f3910117af9f17ddc438d8437939e301fd4c6b3886b5ccfad93101e43e6e2b"
+     "sha256": "e78a2bb0213f7442e48b964b0964e10dee4a96f65ed65f9801014ff0e88af039"
     }
    ]
   },
@@ -2041,7 +2041,7 @@
      "from": "1973-08-28",
      "units": 3,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=183",
-     "sha256": "78f84f77b1fce606216e2536e9621613b07ea7dddc2615776ddb85656e86dc1a"
+     "sha256": "037c47e7d22f55dfb018ba383da439d809a2342990d077002360488d0a468e57"
     }
    ]
   },
@@ -2055,7 +2055,7 @@
      "from": "2019-08-28",
      "units": 77,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=184",
-     "sha256": "6b9d1a25c30120e70fe4a262b8f71c28370f349d049219b8133249e80d2694ee"
+     "sha256": "c48d3394620fc5e3b647133085326a2bfc9eb5866cf2092ee25913f9a96b3094"
     }
    ]
   },
@@ -2069,7 +2069,7 @@
      "from": "2019-08-28",
      "units": 15,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=185",
-     "sha256": "c4b28af215cd449e4da8dec04f6787d034a2737d151d8032e57480e796a3db59"
+     "sha256": "5006ecd0d112ec035bdcee4ddbfd6de9181c594d3f17df88dd32e6691e3e4c89"
     }
    ]
   },
@@ -2083,7 +2083,7 @@
      "from": "2026-08-28",
      "units": 13,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=186",
-     "sha256": "e047aca8b021aaed8b26af158b5adf72441c86d3867dccf17c59e4e55a9610f5"
+     "sha256": "50b070b39325e9db580aa8fe4d47bd3595a045604c2a433c51078b8b5985f4f4"
     }
    ]
   },
@@ -2097,7 +2097,7 @@
      "from": "2026-08-28",
      "units": 52,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=188",
-     "sha256": "83e9f626b83939a86da10c38b88f8c13da9890b28436298781236c85f9926bb1"
+     "sha256": "630ee77ae8ae87a60d64a8803b7974e632c8425a6de52ac6b779566899c8bada"
     }
    ]
   },
@@ -2111,7 +2111,7 @@
      "from": "2018-08-28",
      "units": 17,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=189",
-     "sha256": "7d8203c81bc075ab793d9e40aad6e999f974d7d47f04b7efc7fb27a91ab45c5e"
+     "sha256": "d3c456867b869099f1cd7fd3d8ad1841508424e4c290953c1fb24b07e6d6d268"
     }
    ]
   },
@@ -2125,7 +2125,7 @@
      "from": "2026-08-28",
      "units": 165,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=190",
-     "sha256": "fd9e97bedad47cefa7b70e72ec4f9e3046ad7784b1dacb5008fb2321a257a16f"
+     "sha256": "dba32c466c78a1c65f094e3739b53b5e32785b79491164b4d0a01f47e77b9bea"
     }
    ]
   },
@@ -2139,7 +2139,7 @@
      "from": "2026-08-28",
      "units": 188,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=191",
-     "sha256": "2f8d56451adba9c163b81d0a637119a6d97918f994d457591df43a92994beb1d"
+     "sha256": "3af30c4f2925ca202d412bc2b0094458b3b8039955c651a11a12d5a47f5653df"
     }
    ]
   },
@@ -2153,7 +2153,7 @@
      "from": "2026-08-28",
      "units": 165,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=192",
-     "sha256": "159b436255865fdf6e868eadbb69c091f8d749f34f9e58db4d8487a7406879bf"
+     "sha256": "fe8ea79d98ba2f59c3dbf98ffbc770c98fd072789dffe4e28a358cf8954ee191"
     }
    ]
   },
@@ -2167,7 +2167,7 @@
      "from": "2026-08-28",
      "units": 33,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=193",
-     "sha256": "abf1a8b52ce580929e49a6291777c53b0344666b659c6ea084a7adbd6d132628"
+     "sha256": "080a672a566fa7563224a5282e685d03282636e3971bb6e0131b08859949e28e"
     }
    ]
   },
@@ -2181,7 +2181,7 @@
      "from": "2026-08-28",
      "units": 65,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=194",
-     "sha256": "31a2703bf62d22b60f40f795ac63230ba02d6d4c9197052daf35e7f2c5b3a93c"
+     "sha256": "b83b2da1411e73e64b98fa8a5de6f77e4391851ab45e4c6bcd4a7c5d60848de7"
     }
    ]
   },
@@ -2195,7 +2195,7 @@
      "from": "2026-08-28",
      "units": 43,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=195",
-     "sha256": "00883d812a1b5e8f89a113c13f822fe1adceb556bd0420560bf49ea584293fca"
+     "sha256": "63d18733786d7f2907fe6b1577476391d88a74c6a37aea25ef47c7d9ecb24365"
     }
    ]
   },
@@ -2209,7 +2209,7 @@
      "from": "2026-08-28",
      "units": 159,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=196",
-     "sha256": "2987f9943589435795c70d68588a51a83dc6e3a2037abd673607e48dfe688b0e"
+     "sha256": "fbd6c246f73539cb7816fd6a648f22f92d3360d016fff91a13779efd7b19e338"
     }
    ]
   },
@@ -2223,7 +2223,7 @@
      "from": "2026-08-28",
      "units": 108,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=197",
-     "sha256": "b7f332d652e9e1ba1454a88f5b76e8f9aeb288692f0dd1bae00835caff949779"
+     "sha256": "f6a873f201938e79464a30c33a309d2ac1223977573eaa066764f402c031bde9"
     }
    ]
   },
@@ -2237,7 +2237,7 @@
      "from": "2026-08-28",
      "units": 146,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=198",
-     "sha256": "fbd8edc1a4d02d155e3b3db21e4cc285338d6ceac1708faed2163b0e025c0ab4"
+     "sha256": "f670f91a23244212af4548e6fcc5e9cff69e83a017c0bd7aba871dac61e98707"
     }
    ]
   },
@@ -2251,7 +2251,7 @@
      "from": "2013-08-28",
      "units": 29,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=199",
-     "sha256": "d2033a57c1bedee89894c3e5bb6ec62fc76debba17bf6b84a6b28063e688547f"
+     "sha256": "57e13871fdc40eda90c42e3f9c113c2c5c1a09f26df6224e5c185fcdcd4c67b0"
     }
    ]
   },
@@ -2265,7 +2265,7 @@
      "from": "2010-08-28",
      "units": 12,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=201",
-     "sha256": "12d63a2ac3c22186cb494afe14a461988183fe701df9e8f8c6437b2f6c25823a"
+     "sha256": "1b5de27d72974ee0e3f2e3c468c026472db2435eea4ff77c7fe3a9fd876a6163"
     }
    ]
   },
@@ -2279,7 +2279,7 @@
      "from": "2025-08-28",
      "units": 77,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=204",
-     "sha256": "f689055ef56b7e039993ba007bb168a3c979a8250f24dc26e3372121bf211676"
+     "sha256": "025a2645869877ed0345ba73be17fb57c63159d0400a97d5ede4445f194ac0ab"
     }
    ]
   },
@@ -2293,7 +2293,7 @@
      "from": "2024-08-28",
      "units": 119,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=205",
-     "sha256": "9bf608c8bb3d7b2fdd2c15ef16c9177e90697929563ebf50d81ee06dac580f2e"
+     "sha256": "080c2b92cf037ca082f10b08175ce58e581d07e3813be340b587b51ff9d79e00"
     }
    ]
   },
@@ -2307,7 +2307,7 @@
      "from": "2026-08-28",
      "units": 23,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=206",
-     "sha256": "c8fe88b9519a31018789ab686b914bd0b5b06cd26d73f9b7042de05c122ddb4b"
+     "sha256": "67d54ebbdc74baf2c4ed289cae75bbf0bbbfecb92575e28ea42a5abdcc5e773a"
     }
    ]
   },
@@ -2321,7 +2321,7 @@
      "from": "2018-08-28",
      "units": 9,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=207",
-     "sha256": "9c52cf6c549127318e5d6842d635b9181521aaabbd59cafba3648f22901e1caa"
+     "sha256": "298c08586038046a69de60324ac4a27f91773991e1bd40c8f0eac1c21f44f941"
     }
    ]
   },
@@ -2335,7 +2335,7 @@
      "from": "2026-08-28",
      "units": 227,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=208",
-     "sha256": "bb704d83a83807c152f40a401d8ec535bccb2743ac43bdfedc4d751c3d92b42c"
+     "sha256": "0577cc9047bde787ce7cb3bfcbf5e75d1bc4c48a985183bfff2449443618f646"
     }
    ]
   },
@@ -2349,7 +2349,7 @@
      "from": "2026-08-28",
      "units": 76,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=209",
-     "sha256": "8cad0de084d2d95a8603a31e1c496c95de51358b896f1f4a131b64ab7b86ce7f"
+     "sha256": "0b501eecaabf7b4d497a254109fe5af9619e3e87ca029c863d572c7f1c658fe5"
     }
    ]
   },
@@ -2361,9 +2361,9 @@
    "versions": [
     {
      "from": "2026-08-28",
-     "units": 217,
+     "units": 222,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=210",
-     "sha256": "7dabe24e6dd606b76dbd0c91ef5b4316262dad524536b87b17b0b4c394bf62a8"
+     "sha256": "4b3b5c1cbe535068fcc90b00e378ba91b61754f39649f2228ed09db432ab6dd4"
     }
    ]
   },
@@ -2377,7 +2377,7 @@
      "from": "2026-08-28",
      "units": 102,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=211",
-     "sha256": "3132465acfd76b1cb9d0d65c0e813383ac083987203f2bbfac57b4b75486539f"
+     "sha256": "6d8f843260e9c634dd36943c4f94f91cd7579f41bc114f98373d6ef40a1d87cf"
     }
    ]
   },
@@ -2391,7 +2391,7 @@
      "from": "2017-08-28",
      "units": 23,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=213",
-     "sha256": "08de83a9b73784062352bac8bd62f9bb8bb9514d1a998eea302aff0519caf0aa"
+     "sha256": "d907ac29851e51ce96c3343365f225cf4a7cd78fa0ec3046043d8cf212ced6e2"
     }
    ]
   },
@@ -2405,7 +2405,7 @@
      "from": "2022-08-28",
      "units": 67,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=214",
-     "sha256": "806be9c67d924c54ec37eda35c42255f276301d64c5c7e0cb94c636aadc43122"
+     "sha256": "3b5e82ed979261f77297f1d6f58ad1e6fca5425f04f8692e0a5fff7483f0d1e7"
     }
    ]
   },
@@ -2419,7 +2419,7 @@
      "from": "2025-06-14",
      "units": 43,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=215",
-     "sha256": "5943e5b5b3fb1917afaa5d8f966ec47fab8e499f15ff3d2fd2d3f01b8b6b1384"
+     "sha256": "751440fa5824ed0bed6410cb7551174f91fd318d3373ed85ab6cbc24c2f26174"
     }
    ]
   },
@@ -2433,7 +2433,7 @@
      "from": "2025-08-28",
      "units": 166,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=217",
-     "sha256": "c79cbfaf552c7a45dae3d0931dc0c64b001765d5f33ee871d6836e661d91c952"
+     "sha256": "654b21a3340bdb84b5ac02f3c44ca971c7dc217a74d553115adfed33d474a208"
     }
    ]
   },
@@ -2447,7 +2447,7 @@
      "from": "2025-08-28",
      "units": 21,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=219",
-     "sha256": "2991e4bfc04725760be36ad2821652eae7e62ed4872f22602112fe567080877e"
+     "sha256": "6703824e0ad133b7fa67870759e53e708eaaf69c7e7441abda5bee386b2a182c"
     }
    ]
   },
@@ -2461,7 +2461,7 @@
      "from": "2025-08-28",
      "units": 51,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=221",
-     "sha256": "e8c25083317fa95bf791a4678f1de10053177f63f411d23aef368b545a7197ce"
+     "sha256": "4b8d10fce1570f06223a5b4396a6d585f7fe06ccef71c70ff44a31d536019d16"
     }
    ]
   },
@@ -2475,7 +2475,7 @@
      "from": "2025-08-28",
      "units": 135,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=226",
-     "sha256": "2e51d434e7a08e42f4e20cf553cb4f5d97f25e4ddeafa5cd94384fc7b2dc43e8"
+     "sha256": "f24a6dfe4972820303af763a43dbdbe33ead95a7622735dd46ba3f7491481e63"
     }
    ]
   },
@@ -2489,7 +2489,7 @@
      "from": "2026-08-28",
      "units": 401,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=227",
-     "sha256": "c98a4143cd4ebd78089332068b9c1e88d8d7c64c38a79377d6c84165ea65087f"
+     "sha256": "9cd65390b2be787245be6500b3212d50147175c08d611a269330de76fba5b4f5"
     }
    ]
   },
@@ -2503,7 +2503,7 @@
      "from": "2012-08-28",
      "units": 29,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=228",
-     "sha256": "65b081f45ca5314ffebfe0dcb401b178e9d4407017fa05bc8ce5af8bc842d929"
+     "sha256": "e8cb9751bcff6aff559407d481e64208fca3e236196ba5e38e82ed069b2921e9"
     }
    ]
   },
@@ -2517,7 +2517,7 @@
      "from": "2017-08-28",
      "units": 45,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=229",
-     "sha256": "ba9a9eb08776a4a2b730b9d7f41c0f3a30bd894c81078827ef6e817c2bfa43f6"
+     "sha256": "b7cb74db0cf0263f168adb432a800508036c8b7508b7af057b26daed3b35fd0e"
     }
    ]
   },
@@ -2531,7 +2531,7 @@
      "from": "2011-08-28",
      "units": 24,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=230",
-     "sha256": "f91bab6d3d18b7b848181bee34983e959709edbf6d9bab242606c072cc421e63"
+     "sha256": "c9abfaef14abd0b8c33184266cb90adb22d955b34c3fa9b29e191a8de98af461"
     }
    ]
   },
@@ -2545,7 +2545,7 @@
      "from": "2015-08-28",
      "units": 46,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=231",
-     "sha256": "f957c0f0e5d0045dfe14b4859d2ff5859cf5b4976e92ee818295f2f926ceda67"
+     "sha256": "dadf70d902b559b29b86e43ebeaec415d0237c5cc889c52ccc330926e0ac95c3"
     }
    ]
   },
@@ -2559,7 +2559,7 @@
      "from": "2025-08-28",
      "units": 107,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=233",
-     "sha256": "88ffb0cc6a3178c98958ef8deefb7757a72f3a8e22b33a471c5ca7190ba4d7d8"
+     "sha256": "6b626b20b95674ccf08d778ae05abdf8f015860e5e443ed530e92d4ee3adf076"
     }
    ]
   },
@@ -2573,7 +2573,7 @@
      "from": "1990-08-28",
      "units": 36,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=234",
-     "sha256": "b68bb6fd88bcb6b686d5f7afe729d0725b36a080ee535422c3b65b0b8e40071c"
+     "sha256": "e30bbe0afb9ac653dcac975db1b4a2795d46ef1180c7a574895d1918025e2f6e"
     }
    ]
   },
@@ -2587,7 +2587,7 @@
      "from": "2007-08-28",
      "units": 28,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=235",
-     "sha256": "57ba1c374544baaa5770b22ad188ab490b4bb0d34b200627806d4646436d7d5c"
+     "sha256": "ea38a513395ee6b238d65b6de8559c32fa27101069bc9c05ff8155a81403cdff"
     }
    ]
   },
@@ -2601,7 +2601,7 @@
      "from": "2013-08-28",
      "units": 50,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=236",
-     "sha256": "f7636d02753ec45994357c9af8bf7be2a27d42d43e87d3079a8a9892f2144ebe"
+     "sha256": "ae2fce2727e1dbfd337035ceaa88f2ea2aa3c100c98f84eeca7424dbf6b88e91"
     }
    ]
   },
@@ -2615,7 +2615,7 @@
      "from": "1983-08-28",
      "units": 24,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=237",
-     "sha256": "f765f1f05aebcc1da1b5b10a78d5fb624b10f84a951e22fda827761dc35c6c8b"
+     "sha256": "136b356afd20d3ae8fba36b2e0caed72d217beecfa8507d6bd8af1074455c12b"
     }
    ]
   },
@@ -2629,7 +2629,7 @@
      "from": "2025-08-28",
      "units": 81,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=238",
-     "sha256": "f336147786b805463d41fad79f33881d2ee8e993946a298b21f21b7ed711f729"
+     "sha256": "39195be9fa9a82900c9e10c490970f3d1df50c5c40379b9f5233e235c95909a7"
     }
    ]
   },
@@ -2643,7 +2643,7 @@
      "from": "1986-08-28",
      "units": 37,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=241",
-     "sha256": "ca56f26ff9b2c2e5417fb729e020fd065aea207f077dfef6887ac3c59416fa26"
+     "sha256": "2aeacc9da61e5402f58c7a742c4936ebbd80a77cc9013b5e6a33d8ae222f9afc"
     }
    ]
   },
@@ -2657,7 +2657,7 @@
      "from": "2017-08-28",
      "units": 86,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=242",
-     "sha256": "0eacbdc976bbb673b495eddcd451b466b1dec83845eef23b736621b41cbc30da"
+     "sha256": "369c4507b1e1de87896a64b02751654cf295076999b78fbfdc42fe387b21e7c6"
     }
    ]
   },
@@ -2671,7 +2671,7 @@
      "from": "2017-08-28",
      "units": 62,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=243",
-     "sha256": "39adb7b2f113923b01f22bd1ce0e66aa3ba3ba9d110f5641b4a9ddc20bfe5e9b"
+     "sha256": "88069e431c356a3e481d252f5e3a658c36cedb7346b3b0d81f504bfa401e0007"
     }
    ]
   },
@@ -2685,7 +2685,7 @@
      "from": "1990-08-28",
      "units": 13,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=244",
-     "sha256": "f5f19667f43eddfb4c988b5df8874bdc9b2c0e6b03124c40a5f54818fe81a678"
+     "sha256": "77ff2e37bd343b7ad276dee3e2c237365283a509a4d01e95f528f8fec8cd70ed"
     }
    ]
   },
@@ -2699,7 +2699,7 @@
      "from": "2017-08-28",
      "units": 109,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=245",
-     "sha256": "8443128a9ec437c8b878f920cbbfaf3521e93df3572fb02613670b4edc92b6fb"
+     "sha256": "465180e9da66dac4d5eb2642d55e7d9083899af7e0244f06ef0757197a8a4100"
     }
    ]
   },
@@ -2713,7 +2713,7 @@
      "from": "2010-08-28",
      "units": 32,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=246",
-     "sha256": "a396c6f4c885cdec3b3b6156659dbade6b40af2a8a847e0165c121d9a2925a59"
+     "sha256": "fcb725ff56decf013918c7c4c8a808f03370938a93c7bb935fb54f3e704ceafc"
     }
    ]
   },
@@ -2727,7 +2727,7 @@
      "from": "2026-08-28",
      "units": 77,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=247",
-     "sha256": "9e399d976a9feb641b8cf38167575384af9cd91630b8b4f34319d58904597f60"
+     "sha256": "9a7c48a7603888fa2b66bfaa5b86fa4645886f0d2590afe194f36a5f92aba818"
     }
    ]
   },
@@ -2741,7 +2741,7 @@
      "from": "1978-08-28",
      "units": 20,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=248",
-     "sha256": "e6491214223e865d72ebe5b3909f2348f17ebf9952eae91a575cd5e114ff3b8d"
+     "sha256": "a2a63e88f72f5c731a00b843a96739bafa175ec999674f53f12b258a5d91fd3d"
     }
    ]
   },
@@ -2755,7 +2755,7 @@
      "from": "2026-08-28",
      "units": 145,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=249",
-     "sha256": "be96da6836c52a733303177d800803f2ff43fcc52f77e639afae4d177ccc7285"
+     "sha256": "0e5d82001bde0a3962fee4c0b322dba74a80bfe8c23e8ea6564eb55eb8ff31ab"
     }
    ]
   },
@@ -2769,7 +2769,7 @@
      "from": "2011-08-28",
      "units": 30,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=250",
-     "sha256": "634cb6ffddcf6ee5adf838c82957671d7e842bb5a185a0f00c8a12844cd2e78a"
+     "sha256": "27433d10a4f8d51d2b50888c23683b9e58589597bd2d55c656fe278ea629c5f8"
     }
    ]
   },
@@ -2783,7 +2783,7 @@
      "from": "2014-08-28",
      "units": 68,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=251",
-     "sha256": "658c2f0e40b6783ab5f3caf62004653a72670394efae5dd7950cf0b4d97b7190"
+     "sha256": "0098a4d9655983b0930aa6514d0ad781f970e264a24f7dfd4821484631de4b10"
     }
    ]
   },
@@ -2797,7 +2797,7 @@
      "from": "2019-08-28",
      "units": 52,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=252",
-     "sha256": "8dfe291cbfb045716cd95788bf21e198fc03eb896c29fe5781a4d637e5391a77"
+     "sha256": "b296ae4f1c63584e3559553528765eb03ba0b7692ce7efeecbfe96f91f1e1051"
     }
    ]
   },
@@ -2811,7 +2811,7 @@
      "from": "2026-08-28",
      "units": 80,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=253",
-     "sha256": "a519de970146370dbc15e6e96487aef4e876bb8cd38d56d5fb5f115502a625eb"
+     "sha256": "917db79d8f4b5198306257456d26ce87d86c340871939544b1ca1c10a427711c"
     }
    ]
   },
@@ -2825,7 +2825,7 @@
      "from": "2018-08-28",
      "units": 28,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=254",
-     "sha256": "f5d46896c2bd7ef7b00e2f5bc982cc0d74243d9e2bc63547b48c85aeefcd6be8"
+     "sha256": "0b86f7232bbb154acb0e43740ca50e1ad32ed769ceb556ca7e1be35022360396"
     }
    ]
   },
@@ -2839,7 +2839,7 @@
      "from": "2023-08-28",
      "units": 99,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=256",
-     "sha256": "e2f43318c306a64d9ed03029137ed027a48baa4e565635548c2d7f9a9001131e"
+     "sha256": "53d1a61b99e4e7965b0cad8bd5b7eadee4134310eab3249befbeb23ee5b3c36a"
     }
    ]
   },
@@ -2853,7 +2853,7 @@
      "from": "1990-08-28",
      "units": 47,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=257",
-     "sha256": "a4ab893776d0d83e67c4deeaea0fec8fea412655da2c606337f7707922f7f955"
+     "sha256": "c429c41cccfa431f4418063c6030f6254cfe2a27affb27f7064ce0e763788488"
     }
    ]
   },
@@ -2867,7 +2867,7 @@
      "from": "2013-08-28",
      "units": 7,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=258",
-     "sha256": "6438845f5d6c357011d709b0732981115b571853bcf75bcbdbb9146ef9aaeba1"
+     "sha256": "ecde6219065dcb1187f593e6d87b6e881bab5f6d9d2762584ee8a657f00ac64d"
     }
    ]
   },
@@ -2881,7 +2881,7 @@
      "from": "2023-08-28",
      "units": 24,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=259",
-     "sha256": "997e9bba41d4a679913bd682e382ae503d3c47641b51d3c4868cabbcbd8bafe3"
+     "sha256": "ddda23f33e49ee9f9e35ce5fa1b2abf2f8c81941e769ad6354b43d44ab4e82e8"
     }
    ]
   },
@@ -2895,7 +2895,7 @@
      "from": "2025-08-28",
      "units": 221,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=260",
-     "sha256": "ee014769461f686bf56339cadfd4fa9bede40b61e963482de89b2cedec52db29"
+     "sha256": "b9e44891163acdc385bbd648a82bc819a72290a1b6bfa63228fd6eef2714b9c6"
     }
    ]
   },
@@ -2909,7 +2909,7 @@
      "from": "2026-08-28",
      "units": 34,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=261",
-     "sha256": "52d1caee5874efe7b6c98af4e26a22081e4f93524d034d55959063fb7cca6658"
+     "sha256": "9fd12b3ea17fc31bc2f926f5304513ba3235c0f845ba906c60fff9e9616429bf"
     }
    ]
   },
@@ -2923,7 +2923,7 @@
      "from": "2023-08-28",
      "units": 107,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=262",
-     "sha256": "5111a115ae3b179d013bdfc32354b4da74341a5d263303137c2071b38674833c"
+     "sha256": "996523569798d40fd31d6b948533578dac6e8cd66b9c32bc1b6f66cd09eeb5fb"
     }
    ]
   },
@@ -2937,7 +2937,7 @@
      "from": "2025-08-28",
      "units": 59,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=263",
-     "sha256": "615ff8728543f9df1baeb973bd04e474305c92203103f9800150b228ed88ed63"
+     "sha256": "7be81cdeefbf0fcfe1080a4641fa3c9f73abd94b6124e9dc990130e5685b37a5"
     }
    ]
   },
@@ -2951,7 +2951,7 @@
      "from": "2019-08-28",
      "units": 13,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=264",
-     "sha256": "d7dbb33c538ddabbdd42320dcb659b4684aba68e3542a4827637020fdd62cfd6"
+     "sha256": "60884eb34235b36040083e2318ffbfdf6067b03ab8f313cb9c7f5b9a8b592131"
     }
    ]
   },
@@ -2965,7 +2965,7 @@
      "from": "2018-08-28",
      "units": 56,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=265",
-     "sha256": "2111080f5eb4d185a25d5adccb3985a9bd606a0bd8c0559beef1b996b3374106"
+     "sha256": "e4b3feed9abdc7b0e8a74b87734ca476871e207d15ec7cda137f26352eeb2adb"
     }
    ]
   },
@@ -2979,7 +2979,7 @@
      "from": "2019-08-28",
      "units": 64,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=266",
-     "sha256": "8b4f16ddae0bef5f9992cd07b07ea190940019eae8159c7ead15d53ace30c058"
+     "sha256": "b2e0e96ca1654bee0716cd639d3dc7864ea79dfaeb6d2242a058bd9e027c828c"
     }
    ]
   },
@@ -2993,7 +2993,7 @@
      "from": "2018-08-28",
      "units": 67,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=267",
-     "sha256": "8bee67f89805fa34dddc2b21fa9b55c95a03739c2d4d178487e669fe16e35b56"
+     "sha256": "7dc0c985de0b5a219b4992bcb9925b866cb8f9d6232bc8552745d7ecc0608c5c"
     }
    ]
   },
@@ -3007,7 +3007,7 @@
      "from": "2011-08-28",
      "units": 17,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=268",
-     "sha256": "4c0cfb4c8fd511cf17cc008191b700117c504589f9c8374c0cbc019b5e2586f1"
+     "sha256": "a4c4ec7d2a5ad245c11b3957b64d549c3a68d9ba4bfb10b5b132aad111c595e4"
     }
    ]
   },
@@ -3021,7 +3021,7 @@
      "from": "1995-08-28",
      "units": 29,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=269",
-     "sha256": "7c046f5bf8f64facf77a680be38a8b985d18a84a26ac08ed0a6d062a6203a4cf"
+     "sha256": "52abcb9bc4597c4bf9f997deddb80b53c48a8106dc5845566e5cd80887be26a6"
     }
    ]
   },
@@ -3035,7 +3035,7 @@
      "from": "2021-08-28",
      "units": 18,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=270",
-     "sha256": "1579228a225c0369e799f6c920a8da7a1e0feae1eaf7d1b425aa31b6ea26ebca"
+     "sha256": "7fac4e867e732ffff7de1b975f9689bdd8177b1d8f0ccc7ff49161f819be2959"
     }
    ]
   },
@@ -3049,7 +3049,7 @@
      "from": "1990-08-28",
      "units": 36,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=271",
-     "sha256": "e724cf023bc4a37c7d268ead1c82db71c893e836e4ae37299be063251a1153c7"
+     "sha256": "118f83a8d2a508774f567c4054f789e233c1c6c1b5c6a123f51300d58f4fe7fb"
     }
    ]
   },
@@ -3063,7 +3063,7 @@
      "from": "2016-10-14",
      "units": 33,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=272",
-     "sha256": "a81fd86697f78a73a17ecb39eff3d090209ccea9332a86ea001a80bca5b959d0"
+     "sha256": "86390114e56e2343927aace767ffbe2e9a2b1edacd2cfaeb3afb4d2057aac409"
     }
    ]
   },
@@ -3077,7 +3077,7 @@
      "from": "2026-08-28",
      "units": 45,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=273",
-     "sha256": "600d83e246003c2d1a5042b799b7dcb41cea207b744c0639ba850815167e1967"
+     "sha256": "c562bfbc1abb7a87ce625afb1129b3909bed0ffdb0cc03da53c3d91c122c9818"
     }
    ]
   },
@@ -3091,7 +3091,7 @@
      "from": "2010-07-09",
      "units": 31,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=274",
-     "sha256": "60b98a53383ac4b8a826a327a727081b415588b125480ce37b1d2fb80540a430"
+     "sha256": "ee67078403d604d06a56299f2e2a17a4ba16607b951b18d8dfd358b79ac76caa"
     }
    ]
   },
@@ -3105,7 +3105,7 @@
      "from": "2023-01-02",
      "units": 39,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=275",
-     "sha256": "ae1956233303e8ffe0840a55ea70d75a77b336d89b423950c6c118a1ae492a9b"
+     "sha256": "4fe9931abe6279e9a62c3a776377861675a8cf3d61d722df67aa3d8c671073a4"
     }
    ]
   },
@@ -3119,7 +3119,7 @@
      "from": "2018-08-28",
      "units": 70,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=276",
-     "sha256": "986d598592fe84dcf3a79aa26380a345ffacbac3a6b0f4aad8403510d569bcb6"
+     "sha256": "be434ad764fd115ae874b2b2d3089ec903379755ab88bb75fb13c47804100bac"
     }
    ]
   },
@@ -3133,7 +3133,7 @@
      "from": "2018-08-28",
      "units": 20,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=277",
-     "sha256": "2e43f5b5c5a400d30d54b2019c764df52035b6d4b030f73cad1970f94a54d830"
+     "sha256": "c80b74fc23f39098adffb982379aeb130aad16066c9717c53dd5fb5ff0465600"
     }
    ]
   },
@@ -3147,7 +3147,7 @@
      "from": "2018-08-28",
      "units": 31,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=278",
-     "sha256": "339dd6486dc0bd67d93ce577a4ecffb517a49d4454a817dcab497e99396d22e3"
+     "sha256": "b82da0c1388c5c1b9719604b98217b233096fb4d83d95596abf8827b90f2f41c"
     }
    ]
   },
@@ -3161,7 +3161,7 @@
      "from": "2025-01-01",
      "units": 45,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=281",
-     "sha256": "ed436f401e08f97dd191bf18f2725888f622685ad4f333a149364c8250520470"
+     "sha256": "3075c579c8bfbd372d892c656fe4e1bcdcd7a04e8864f82f45723cf325c53e67"
     }
    ]
   },
@@ -3175,7 +3175,7 @@
      "from": "2026-08-28",
      "units": 63,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=285",
-     "sha256": "d14f057481ccbc5e06873af57809c0951fb03f15baf81d4bc7df09d4e5084287"
+     "sha256": "bc5605216f9ac9879030ce893f4bb989f64d0fa720362f10ae0ec6d56e3509db"
     }
    ]
   },
@@ -3189,7 +3189,7 @@
      "from": "2011-08-28",
      "units": 17,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=286",
-     "sha256": "3ad60f21f98a62737a74e5ad194715520d3582b5b75507f2fe757ad010adc8db"
+     "sha256": "ef62ec225b1b1b90313fe8d9d1e8a1f92eb678f61b100abece75c430828dc4af"
     }
    ]
   },
@@ -3203,7 +3203,7 @@
      "from": "2025-08-28",
      "units": 173,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=287",
-     "sha256": "819a1ad5902e885447ff03b8db7062e8bc4e4a6bf2b15bb607363c63a688a09b"
+     "sha256": "83640ad0002f1e0eac29604fe4b1c50fc07e39ebca0dce68f668fb8825904912"
     }
    ]
   },
@@ -3217,7 +3217,7 @@
      "from": "2026-08-28",
      "units": 76,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=288",
-     "sha256": "a8185e29e43209c69ea12e05e7930bca8e4646c8da7b1379aac8e2d268559ccc"
+     "sha256": "9e9594b8cea86e13722c8019dbf1b9029a3841562f2854538da873e7e8d28b89"
     }
    ]
   },
@@ -3231,7 +3231,7 @@
      "from": "2025-08-28",
      "units": 70,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=290",
-     "sha256": "d63b147ccb5177843cb22b54bc096f86989ee92c228592467c5d8efe378d2a5d"
+     "sha256": "75d4d9f4bf8e6c175c18a2a6c79617c72fdfb76b3f2a5fb25ded340c6ab0acac"
     }
    ]
   },
@@ -3245,7 +3245,7 @@
      "from": "1973-08-28",
      "units": 13,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=291",
-     "sha256": "71f493982e821e7e9444a1b3522bb1c259eb348cd96b43c198000e32b15db6fc"
+     "sha256": "6d5232c9b2e122cb64634cc80fc1b6f09c62b10e382f036125fe5555ea0f4e5e"
     }
    ]
   },
@@ -3259,7 +3259,7 @@
      "from": "2025-08-28",
      "units": 69,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=292",
-     "sha256": "8dcfc3b225bc4d2b174ac9b2db9d24f45348bad5765f2dc24500fea81cc7d591"
+     "sha256": "7045e8dd839830d96940b4550b18e1cf71c0244663af37277394a343260ba6e5"
     }
    ]
   },
@@ -3273,7 +3273,7 @@
      "from": "2023-08-28",
      "units": 68,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=293",
-     "sha256": "0741051704e5d7de20c36ffb1183dae3e721af921bed85f1e07b7e77403c8e85"
+     "sha256": "8c891cb62d663b3ddb7cdb9582c26fff4d952088866bfc6d9f0e6d1880aea5cb"
     }
    ]
   },
@@ -3287,7 +3287,7 @@
      "from": "2010-08-28",
      "units": 24,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=294",
-     "sha256": "78d3ab3f8a935297caf12a1cd36d1dacfa3d25ba493ebb011236becfb5520e88"
+     "sha256": "4262e5b2e642d80fba4bc67172aa41e961a35fc4c559d24a0b8b7f70181be72a"
     }
    ]
   },
@@ -3301,7 +3301,7 @@
      "from": "1995-08-28",
      "units": 21,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=295",
-     "sha256": "8d1f2d79bb6227362bdc0293c98ecb2a01f37cbfe9797d53cd2037528a161115"
+     "sha256": "94e02123405e49f63223a2bf24e9dba2088197c0b1c33e4664ef1163f9a39197"
     }
    ]
   },
@@ -3315,7 +3315,7 @@
      "from": "2025-08-28",
      "units": 119,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=300",
-     "sha256": "a34dcdb701dfd648e77442976b350b19034440f9e26c98135c618fa68479b4d6"
+     "sha256": "d881f44f696add41ba8f0036c49925db2e93a6c5f831417f5dd446b4e6243a1f"
     }
    ]
   },
@@ -3329,7 +3329,7 @@
      "from": "2026-08-28",
      "units": 298,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=301",
-     "sha256": "7e4f15a3eb9dd3e772373521232a6f4c088171231dcbc7733894035939ca293e"
+     "sha256": "3e8ec407725d9ffcb00721e4b4f18e19c9f57c586de80a1884a6621d11e70285"
     }
    ]
   },
@@ -3343,7 +3343,7 @@
      "from": "2026-08-28",
      "units": 131,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=302",
-     "sha256": "0e0c9e959693f833af733e1d2fd1fb323f78483c502eaa37680e83f6056c160c"
+     "sha256": "32f4448441f811d6a4567bdf152e6e44ce7d0fa06c65a9a097d26e8d8b38ce8c"
     }
    ]
   },
@@ -3357,7 +3357,7 @@
      "from": "2024-08-28",
      "units": 63,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=303",
-     "sha256": "ab3d50fe67353771a2acbe3ca0784c56bfff177709692955f7a1dddbf957a930"
+     "sha256": "036e7f31436dd95a0c0023c59f1a6e46f5a6b06bf5c6357efba6a649ce431d6e"
     }
    ]
   },
@@ -3371,7 +3371,7 @@
      "from": "2026-08-28",
      "units": 94,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=304",
-     "sha256": "7d845619cfbf964871f36cc773513038264f4e5f9e0250d72d8878d6968acff4"
+     "sha256": "cc81f09868d53e968fd7bed4ee928dc9e754f95bc87c083e0fe1d7c14925c259"
     }
    ]
   },
@@ -3385,7 +3385,7 @@
      "from": "2020-08-28",
      "units": 85,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=305",
-     "sha256": "2ec5f8ba181dcac4ae3db43a73b6b0251b043884dc514a170ebf8d347b9ddab2"
+     "sha256": "8b97a96358b37afea3ccbcec576a4e3d3b1b52d93fd50080efb67b118f890846"
     }
    ]
   },
@@ -3399,7 +3399,7 @@
      "from": "2026-08-28",
      "units": 81,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=306",
-     "sha256": "cbc3ed7b84982dd829b28225f67720c5d83263c413ed5632dbd3930b59d24c49"
+     "sha256": "391255981f1513d04b654bdc228c367b12ce6b017ff16c7152705f6e71f928b1"
     }
    ]
   },
@@ -3413,7 +3413,7 @@
      "from": "2025-08-28",
      "units": 83,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=307",
-     "sha256": "f1f2b886ad79c62f82e83475263c29b508de50a850f79a73fc4945e523142d1d"
+     "sha256": "9948467cabaa84ebe8d2ee80d749456f203c0b76bd8dbdd9582938003ccc14c5"
     }
    ]
   },
@@ -3427,7 +3427,7 @@
      "from": "2026-08-28",
      "units": 159,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=311",
-     "sha256": "144c7edf6873a544882c33ab27ca89d9663922951f3cbe2b1939099cdfb22ece"
+     "sha256": "632d55ee7d45169930349281807f450107cb29564ac9cf777bfca4b29d083640"
     }
    ]
   },
@@ -3441,7 +3441,7 @@
      "from": "2022-08-28",
      "units": 126,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=313",
-     "sha256": "1f547e2ab552f1abf178e1f66adada9cf44191ed47075088d27a5f5c74b4b2b5"
+     "sha256": "a9f6c3eb0a87e5ba2074d9e87045913a578c5d6ae59ae87ffacb2d7436cb861a"
     }
    ]
   },
@@ -3455,7 +3455,7 @@
      "from": "1981-08-28",
      "units": 5,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=314",
-     "sha256": "4a22c00af977d1f38e424c68f89360439960dbf2efb3ab1f6bdfd3cc72c443c7"
+     "sha256": "c5baa0b1529659df5af1b91c49995cc365c13ca22918fefb5c2f5499378f6ec5"
     }
    ]
   },
@@ -3469,7 +3469,7 @@
      "from": "2004-06-25",
      "units": 18,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=315",
-     "sha256": "cef367391c5a03bf5b5c3ae04ff0749e4e41cdfda3ff661dc904b686dc48d010"
+     "sha256": "03ace22c39559023655e0fc1e3cb1e5de63b8653d5af0a6fabf39d2bb1fd8279"
     }
    ]
   },
@@ -3483,7 +3483,7 @@
      "from": "2021-08-28",
      "units": 39,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=316",
-     "sha256": "d1efd57fbba5f7b31a7e6a960b9ac300ce0c36038a6566e682a30d36562bc430"
+     "sha256": "6e42c0e0ca8449b11d6f497e18147a935344e9d9169d05efda15e7e4571c2911"
     }
    ]
   },
@@ -3497,7 +3497,7 @@
      "from": "2020-08-28",
      "units": 12,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=317",
-     "sha256": "8908b6912ed2b4c81015902d82c312c2fa69eee447520e2117ff66f7c0d00fac"
+     "sha256": "da551a5d0010662f0c5016d73a55003fcaeba7bd4f368a8526d0fbbcab24b837"
     }
    ]
   },
@@ -3511,7 +3511,7 @@
      "from": "2026-08-28",
      "units": 71,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=319",
-     "sha256": "3192b69873a6f01f2fc009ee1feb30f43f1f9fb4f56cce2321e63b58a9f72048"
+     "sha256": "79d2b1b1f5cbb863f9966d29fdc0e8dfd8ab10cc39595d7f7c3e576667bf9653"
     }
    ]
   },
@@ -3525,7 +3525,7 @@
      "from": "2026-08-28",
      "units": 76,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=320",
-     "sha256": "7db0182e729b3ffa611b23f05be30de1cecc827ef70c764164db756e15d5fb55"
+     "sha256": "6c3b5d7ce9328e3d34f0ebde074f3294d40ce5603b180ab1398a87929a76ab3c"
     }
    ]
   },
@@ -3539,7 +3539,7 @@
      "from": "2026-08-28",
      "units": 90,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=321",
-     "sha256": "8f2c2e95f52e4ca5aa391f55888181eda5d4684c39a03edcede689fd1980fbcd"
+     "sha256": "06eeaaa4f1da51c32ccf908f7cf5a62317bbef11b73fe2b72dd2756c8a1f8c78"
     }
    ]
   },
@@ -3553,7 +3553,7 @@
      "from": "2001-08-28",
      "units": 16,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=322",
-     "sha256": "e25c534ca462bf0dc7bcd2c63b563b481aef8b9c3abe203801b8318cd9d88393"
+     "sha256": "ed28a9859b34652027813fcf2b4aeb0fa37c5fee05b395685fd32393f5f6691d"
     }
    ]
   },
@@ -3567,7 +3567,7 @@
      "from": "2023-08-28",
      "units": 16,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=323",
-     "sha256": "93ab4e8e9ccf3598897e31d35fc99b9319818de4ead233f4b40f5b4ee22ce638"
+     "sha256": "363f55e4ac6d628db580405adbe12f6dffcc5f2f9d7a4ea7c42b205f45c46a40"
     }
    ]
   },
@@ -3581,7 +3581,7 @@
      "from": "2026-08-28",
      "units": 207,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=324",
-     "sha256": "0e46f453b4506f38ad5cb06f758a8eba72015431f83e0939af11422ed643e40d"
+     "sha256": "d21451b53d415541ef7ae9213afeffea53116e4b28a6889543731706caaaa02c"
     }
    ]
   },
@@ -3595,7 +3595,7 @@
      "from": "2008-08-28",
      "units": 10,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=325",
-     "sha256": "4b9601e3f939586d9ec8fc2d204721e0c4d13735149551e41a5b9cb9cdb449c3"
+     "sha256": "7ec776bf79d67daccc925a38028da9d5292567c14d8ab2569510f9eb0c02ad30"
     }
    ]
   },
@@ -3609,7 +3609,7 @@
      "from": "2026-08-28",
      "units": 27,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=326",
-     "sha256": "d299601032b3478dc86d8d133352f7ea99fe9261f0b6c29a6a6e2735054297eb"
+     "sha256": "4cb2fff745d1501805c0c7c822426e9ee6dc958a21cf476b1bfdbf3986782251"
     }
    ]
   },
@@ -3623,7 +3623,7 @@
      "from": "2026-08-28",
      "units": 72,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=327",
-     "sha256": "4c3d5fd191f8c4384c959b6b88b66ad8736a50cbb8cdb0673430ff70a6d0508b"
+     "sha256": "a3b44781ab00483776262acabc3353740c072875e2ada3e3e2412662b99d9e70"
     }
    ]
   },
@@ -3637,7 +3637,7 @@
      "from": "2020-08-28",
      "units": 15,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=328",
-     "sha256": "cd34a0364578877eb6a2f71a26837611623c6614e9aa0e1afe5b53d77fbd4c36"
+     "sha256": "afca2ed642c927be54e070622341fae27523b3e4c34e76d6bc7da83cfed6318b"
     }
    ]
   },
@@ -3651,7 +3651,7 @@
      "from": "2026-08-28",
      "units": 31,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=329",
-     "sha256": "af35ad2714f1660ee9faa4f5fee82ff071e36384ca04e3ddf25394cc75d28ec4"
+     "sha256": "ae27c601cde824a7561e987ce02936ee8557fb199bf82a92e9e4cc5bca639c15"
     }
    ]
   },
@@ -3665,7 +3665,7 @@
      "from": "2025-08-28",
      "units": 23,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=330",
-     "sha256": "03a6fe136578f32feeea54b0283a666800a9c22500d8a4163cfe52282cb2cc01"
+     "sha256": "f9a04b869ee237b7b8832551da57a8b760bfad2c23c86da1f5b767c8ab8e408e"
     }
    ]
   },
@@ -3679,7 +3679,7 @@
      "from": "2026-08-28",
      "units": 17,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=331",
-     "sha256": "c53f83ff1d50e60bd70670b84582ad42debae3a30512b7f2136a69806e268154"
+     "sha256": "6a08db14a4b9f2f930f8fefd0482c3aea96eab01d90efcf993caf69503d7d46a"
     }
    ]
   },
@@ -3693,7 +3693,7 @@
      "from": "2026-08-28",
      "units": 60,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=332",
-     "sha256": "bc30209316d42fee47ae69d45a5323b2e5128c36987ed5c4eebd9f4b68bafe27"
+     "sha256": "5026694cfdf395b1de4ace7f52952064721514a9fd52654ce46f82c01483507d"
     }
    ]
   },
@@ -3707,7 +3707,7 @@
      "from": "2025-08-28",
      "units": 29,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=333",
-     "sha256": "9b038e94ab3fb5aedc1ebc2b6d111b9420f91029a675f9e9141e9030c4b36ca5"
+     "sha256": "55a694bb7670b388e7499c011f26502af404cf2d8cf3875804fb0f29a165d1d7"
     }
    ]
   },
@@ -3721,7 +3721,7 @@
      "from": "2026-08-28",
      "units": 196,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=334",
-     "sha256": "d62beda1a20f19fa7ef6713a1214abfa9638a01c4781d7453f3b125590a6a10e"
+     "sha256": "c8a734b7c2d6ed2368bf1c7d332c5e5bac73e2551d2729216282121a2d2059f4"
     }
    ]
   },
@@ -3735,7 +3735,7 @@
      "from": "2026-08-28",
      "units": 42,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=335",
-     "sha256": "e308db96891e5a18779156a863fdc48e37fb41f13199ae30a3b30317984d4c1b"
+     "sha256": "9f1d2ee26f512fbf49415d68006caf0428ef2c2b30917bb0dfb58f06d6889ae3"
     }
    ]
   },
@@ -3749,7 +3749,7 @@
      "from": "2025-08-28",
      "units": 20,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=336",
-     "sha256": "8900fcdfcd04e6753e39481bcea0eda39534537e1f1d9d85fd46b5e58af57cfd"
+     "sha256": "579f4c310d7bbaf7b3635073efb617956e9c514d514370fe4f8151671db30ced"
     }
    ]
   },
@@ -3763,7 +3763,7 @@
      "from": "2026-08-28",
      "units": 119,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=337",
-     "sha256": "fb1d1ee3077b72b399bc2aee09585d9f5d73342597135cb28b22a07b46410392"
+     "sha256": "800687aac95b6ff49eeac3b98cab368adc51b3bce97a955d8cca64b952220ca8"
     }
    ]
   },
@@ -3777,7 +3777,7 @@
      "from": "2026-08-28",
      "units": 95,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=338",
-     "sha256": "34e06bfc44168c797072e66326a715bf856fd6709f82f23923a4987d201cdfe5"
+     "sha256": "beda6319deab2c4382292976f7095c8b3042cbfec992e45a5d6f96f41db164f7"
     }
    ]
   },
@@ -3791,7 +3791,7 @@
      "from": "2026-08-28",
      "units": 73,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=339",
-     "sha256": "ec16bdd498d32704be3bf6798efebae2d20d8ecc71038b5990892fff549a88a9"
+     "sha256": "aa680220a5b27b7ad7b0d8997c09303dbdedc6a338cb582838fae482e3800cf5"
     }
    ]
   },
@@ -3805,7 +3805,7 @@
      "from": "2023-08-28",
      "units": 82,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=340",
-     "sha256": "6092cbac1da0acb3bb7d29f8e95263d406ac448b2f97862fa2d26bec69d17301"
+     "sha256": "1c95583444b8d529d9bf553314b42037154fe48c35e1d9aa6d033f7dddc315be"
     }
    ]
   },
@@ -3819,7 +3819,7 @@
      "from": "1949-08-28",
      "units": 22,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=341",
-     "sha256": "b4d2d4b29175ea959a755284593fbdb08686915bcf06710902ef958cc431339b"
+     "sha256": "15230b5341d0ef3b2a7eafacc1113a8968a6dafe793676068d74dd2d86ff47ad"
     }
    ]
   },
@@ -3833,7 +3833,7 @@
      "from": "1981-08-28",
      "units": 10,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=343",
-     "sha256": "596f394259a19ed95ad8620975fd70621a4af02c479dc6dc30edb914bbca9961"
+     "sha256": "ddc8d8c4615ae1400391c1ce8f9b5789b3b7f0b482466dc04b763afc1c58a863"
     }
    ]
   },
@@ -3847,7 +3847,7 @@
      "from": "2023-08-28",
      "units": 14,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=344",
-     "sha256": "95df63870d784346b4a8c5e5af085819bbc31c51400c9e6b15af15837ac78e8e"
+     "sha256": "bb4f49c595681bba89cb8e14bad3d76da3acf0fd9e2c0875d77a9fc2829720d6"
     }
    ]
   },
@@ -3861,7 +3861,7 @@
      "from": "2026-08-28",
      "units": 19,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=345",
-     "sha256": "ef7e1cd143d04b872d12fee6e8fcd70f14b09557dce6491211237d1e00c40282"
+     "sha256": "de56c91c0d8e442503dd561934f68c60107ce1be6f0507c0f0414fa168a64537"
     }
    ]
   },
@@ -3875,7 +3875,7 @@
      "from": "2020-08-28",
      "units": 27,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=346",
-     "sha256": "f1ef0b08937923f504065655e820efbed38e080b29ded4e10f887d9ff4d63002"
+     "sha256": "be51db110b2aa334c38e20efb456e920a1675f811914fcaea6e7c251997f79af"
     }
    ]
   },
@@ -3889,7 +3889,7 @@
      "from": "2026-08-28",
      "units": 99,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=347",
-     "sha256": "b4ed7642ef66b18e2c4b6ea865611e3e02b2fedaf9b6845e844c455fe041f01c"
+     "sha256": "2791823218b9c946eec22d26571cdf79e1df37bba61c6ef8c8463dc803455c5c"
     }
    ]
   },
@@ -3903,7 +3903,7 @@
      "from": "2026-08-28",
      "units": 100,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=348",
-     "sha256": "a5ec938e848e5d7fe119e010132f2d139e9a27b26ff2f89c7bb88ee20880daac"
+     "sha256": "fd00a0a2c5a3de990dc0d4df4e60b3e6d18aa3c287a0b62fc2c2cd213c85cb81"
     }
    ]
   },
@@ -3917,7 +3917,7 @@
      "from": "2015-08-28",
      "units": 22,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=349",
-     "sha256": "6e1fe3590bf87f9ac47577b13768b1b926f6705e88cec6400a7e258127fdbc6f"
+     "sha256": "8b7fd760269e646f43c1e35d7f1f2c55b45b252ba5d5fc47b0cc67bc56b8b717"
     }
    ]
   },
@@ -3931,7 +3931,7 @@
      "from": "2012-08-28",
      "units": 8,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=350",
-     "sha256": "d0889a5e1b4de3b1adf1b26bdde79eec31b4bb82601718d9427027e458aedefa"
+     "sha256": "0de5c852f6347c05b4766718be5ad43741c083b6a570b904fec07cb1d552019b"
     }
    ]
   },
@@ -3945,7 +3945,7 @@
      "from": "2020-08-28",
      "units": 291,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=351",
-     "sha256": "bd53b3dc5a815a9779b79028648bd41cfd6c4c564489351fa7c7586d36c51fe9"
+     "sha256": "952582362faabef1261b88bb23d6a96784e1f3b49bdac85bfd7d282924f5fd70"
     }
    ]
   },
@@ -3959,7 +3959,7 @@
      "from": "2003-08-28",
      "units": 31,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=352",
-     "sha256": "05fed3a2d9699c9d8edb59be13a510682bd1233148cb459db11720f6bc843127"
+     "sha256": "abb2f1cd13a838791d440162d8286652e6f60fea62ee971a1779137cca04c140"
     }
    ]
   },
@@ -3973,7 +3973,7 @@
      "from": "2021-08-28",
      "units": 19,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=353",
-     "sha256": "e8da4e3daec86403e86f33f0e8db094115c4da2cd955fd5699f8d9250581be53"
+     "sha256": "62027c252ee6885ba61f077dd46b079e34d8bac5230f3a30261fe75794d8d348"
     }
    ]
   },
@@ -3987,7 +3987,7 @@
      "from": "2025-08-28",
      "units": 147,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=354",
-     "sha256": "a1e0fa1795b363060087b92dc0d1260c7b24aa4fc0ca3ea9065fdde12e517f51"
+     "sha256": "a63c0c1a4c6f9ee8a1794dddf1529eb0f72af6a5140910118a1638eee887e0e8"
     }
    ]
   },
@@ -4001,7 +4001,7 @@
      "from": "2020-08-28",
      "units": 165,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=355",
-     "sha256": "571a24ffd538fd77b8d67b78f8b3d5e7e96f437571b2d2a2e327712deb934897"
+     "sha256": "5ddd3af5dee4401de17ceca8e5ba614306c16c33128042628226ef748fb9e535"
     }
    ]
   },
@@ -4015,7 +4015,7 @@
      "from": "2020-08-28",
      "units": 28,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=356",
-     "sha256": "f5ae79893640fb037ff780c931832f9bc7d7bbeaac979f559d702615246dcd6c"
+     "sha256": "202efcb69ec276c09f65ad1ee0a051be5274be7e1dda7d3ba962bb6ab39c726f"
     }
    ]
   },
@@ -4029,7 +4029,7 @@
      "from": "2014-08-28",
      "units": 20,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=357",
-     "sha256": "94c1d9b4a2ed51adfe5a654dda7ca36baa7fe080b50a5e5ddff710d1e7d8f1fe"
+     "sha256": "ffbcb1052fc61f7db94d0078f60cb7931b4b37d406c33abac1aa2e5e0b9106fe"
     }
    ]
   },
@@ -4043,7 +4043,7 @@
      "from": "2014-08-28",
      "units": 55,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=358",
-     "sha256": "dbf921a4b8b0e2ef813cd8a4d4698318ea0607c90370a012080c0e3c1fe2931f"
+     "sha256": "513971080b3b2ee9082976e27f415064c10c6e5b5c00f02fa495ee0bf4e92d93"
     }
    ]
   },
@@ -4057,7 +4057,7 @@
      "from": "2020-08-28",
      "units": 71,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=359",
-     "sha256": "a8d446c3a01d7bd9292cf66fa6ab9b596c1132730aed89bf30924f6a655c7a66"
+     "sha256": "8dbcd7c0f716394c70ef3bdb995e2b299e81865682732c3ce80558484f1e20be"
     }
    ]
   },
@@ -4071,7 +4071,7 @@
      "from": "2013-07-05",
      "units": 40,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=360",
-     "sha256": "e7b7a1d93778fff0b8ef3a5b66094caccd97f81da2d11e4686159d2c31784c85"
+     "sha256": "f41534e10628bd2754bd90e718d1b2c65a801d78c40eb0533fceec982387b7bb"
     }
    ]
   },
@@ -4085,7 +4085,7 @@
      "from": "2026-08-28",
      "units": 125,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=361",
-     "sha256": "6d4612c70a9f87ccf626cd6a03726e5b0fa83d09952cc55706f1df1b4b2a4cb4"
+     "sha256": "4ce33187308eb6f1608a880b6e4b434123333d2e20c1d81191f84b44286a5183"
     }
    ]
   },
@@ -4099,7 +4099,7 @@
      "from": "2025-08-28",
      "units": 204,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=362",
-     "sha256": "e6d1ce8088d24683d65ff52c0d6a3e00744a8aebf1fc85e89c2913ac8aad1ecf"
+     "sha256": "874c7edda84f48e17144386c0cc82588b700e55967499f99f4559b0ae50a367c"
     }
    ]
   },
@@ -4113,7 +4113,7 @@
      "from": "2026-08-28",
      "units": 19,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=364",
-     "sha256": "39fdc984cbd907962fd2370d5f366f29d6573f1ac68a23b91445ef7ba4094afe"
+     "sha256": "ecc9237eac92193513fd669f28dbe633fe86f943458aa24ce3faff31d30df52a"
     }
    ]
   },
@@ -4127,7 +4127,7 @@
      "from": "2026-08-28",
      "units": 19,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=365",
-     "sha256": "5883825a3935df2ccf7a64001867dd0f567296bdea7a1182a33e5a064a200bf2"
+     "sha256": "52fe9457af7c85f0bd140ffabe4d4cb322125690a4ede65a4e818f0f72abd79d"
     }
    ]
   },
@@ -4141,7 +4141,7 @@
      "from": "2026-08-28",
      "units": 48,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=367",
-     "sha256": "bc8469160209e4e0256eb7cbf509349124a38956e55271f1d8b98b6b075838fe"
+     "sha256": "3d35ca76f8cc8a8b1cf78e53043f574212fcaa6fb0ced5fce91cd40fa2f40792"
     }
    ]
   },
@@ -4155,7 +4155,7 @@
      "from": "1965-08-28",
      "units": 8,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=368",
-     "sha256": "c186b49092ea2adf17fb19ced136429f36cd6a03e6371cdf650ae72836f63e54"
+     "sha256": "9ef20b721351cffd5a0d9e8daa4a4a5a66446be5b028fda93c361f65b27a6568"
     }
    ]
   },
@@ -4169,7 +4169,7 @@
      "from": "2021-08-28",
      "units": 92,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=369",
-     "sha256": "c70aca8dbd7e5e38e21997239a283c4d57750f8598a83fa1aaafacfbfa252823"
+     "sha256": "4e4647fc59e6b1352385310ddb234b6eccbc192fc76aed0cc2d8eb170c9327a0"
     }
    ]
   },
@@ -4183,7 +4183,7 @@
      "from": "2026-08-28",
      "units": 85,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=370",
-     "sha256": "a89c4bd784f63f026da5c2b52cc49e7233dafb8827b4148a304e94fa489a2936"
+     "sha256": "c0eb7e39e01ddfa22589bb63199c032aa027de2067ad71755bce73c144948295"
     }
    ]
   },
@@ -4197,7 +4197,7 @@
      "from": "2011-08-28",
      "units": 25,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=371",
-     "sha256": "5403a8919ed4a79278b5d349e1819d5639c2e1d112e897324ff78ff28449eb9b"
+     "sha256": "59622bef76e1238266cda0d84a7cee2ae1be885ba24eceb95daa241b4ffdb320"
     }
    ]
   },
@@ -4211,7 +4211,7 @@
      "from": "2026-08-28",
      "units": 81,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=374",
-     "sha256": "b9be5731c3a63da15b585ff999ee82d9a0574227cf6c0285fc5bcd5dd63e3ac3"
+     "sha256": "48cd52ca6b37b21d84eeea430362a4f10575921fcc429899d037bdce93bbb4c3"
     }
    ]
   },
@@ -4225,7 +4225,7 @@
      "from": "2026-01-01",
      "units": 383,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=375",
-     "sha256": "e523458124f998984d00b17f67d62867a0db45aeab33eb0871bf63fb7cc34a5f"
+     "sha256": "79602a1732a5555209118375380a144ec39b98beb995d7d8cf15f34c2005c5b5"
     }
    ]
   },
@@ -4237,9 +4237,9 @@
    "versions": [
     {
      "from": "2026-08-28",
-     "units": 412,
+     "units": 413,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=376",
-     "sha256": "c56728ba8460f5822ed66ec394755e181d16371918142d9513b67968f5702666"
+     "sha256": "6fd94c24b4ea5198836aaa159e1860b6405581b269dfa02ded6034e66f768a50"
     }
    ]
   },
@@ -4253,7 +4253,7 @@
      "from": "2008-08-28",
      "units": 42,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=377",
-     "sha256": "e2535869ce24dd30794496260b955eb221fe2e1e51cccac14b3a258fa5a75fce"
+     "sha256": "2da9d0b48fde6fef26bd1b4f2cabe66e88c8f597cf7a70604d3b7dc9a17c848c"
     }
    ]
   },
@@ -4267,7 +4267,7 @@
      "from": "2015-08-28",
      "units": 38,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=378",
-     "sha256": "e141a101ba093ab98bc3cf027e8f5cb1dc11cadda98e1fb382fe95b0bf0e6d50"
+     "sha256": "004e7de3b7350c40cd77198edbc4e66f82402c26c6c15650bfab0fb3a9a463a1"
     }
    ]
   },
@@ -4281,7 +4281,7 @@
      "from": "2026-08-28",
      "units": 299,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=379",
-     "sha256": "18d7cd3736d58063505e7b42e938d382db71ccb8379ae00154cb9e2e63073329"
+     "sha256": "aa173427e57c5f3a7cb44d4c5e4d239bbe3946d40afce4789e1819f39a9bc674"
     }
    ]
   },
@@ -4295,7 +4295,7 @@
      "from": "2024-08-28",
      "units": 61,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=380",
-     "sha256": "2cab3dc54504262b25618f98225403eee25b910e0578fce6af263f58b609a635"
+     "sha256": "b4ea71a2e9114ef6f3ac479b106197909017061f35c04de3de308e874213c38d"
     }
    ]
   },
@@ -4309,7 +4309,7 @@
      "from": "2025-08-28",
      "units": 34,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=381",
-     "sha256": "983d7efa8fc42af0038330ff6ddaec7bc6da8a697c96489c1aa9b04be0c59528"
+     "sha256": "bae9f6e92f0b1e4c492ed1db10449d1fedd1a7658805d1d0c534840dbbbe3665"
     }
    ]
   },
@@ -4323,7 +4323,7 @@
      "from": "2021-08-28",
      "units": 67,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=382",
-     "sha256": "27c710182bd6a3cf6351b3ce2e1114998a2b25ba8f8ea9e32512d1c425338e49"
+     "sha256": "5256dba0bbec19bdfeb49608dea96220ff57a68f340904532e82d98bb5959426"
     }
    ]
   },
@@ -4337,7 +4337,7 @@
      "from": "2026-08-28",
      "units": 48,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=383",
-     "sha256": "93bd590e2d5206162f068cc95fae578e616a2fe85aaee1c319ec0b24c3ec95bc"
+     "sha256": "f260c04212f289a9277f3d041553e3119fd1391dff1bb49067321dc465376df9"
     }
    ]
   },
@@ -4351,7 +4351,7 @@
      "from": "2021-08-28",
      "units": 23,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=384",
-     "sha256": "25504dfda83b3cd34521c59af8fc200a4a3033f08f70ba6577a883e24e327c2a"
+     "sha256": "64d178eece0eaab5d3c2d0f1a099dec861593c62e97adc6978a50b80e52b1e52"
     }
    ]
   },
@@ -4365,7 +4365,7 @@
      "from": "2021-08-28",
      "units": 56,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=385",
-     "sha256": "ad2e97cc7dae3846c29a9118241565451cd9d0693d643669f76e15f265b49fb6"
+     "sha256": "5ce7fca31c6ef6c82b318efd7a3a8c8b872a693eaad97b6024e8837530301a17"
     }
    ]
   },
@@ -4379,7 +4379,7 @@
      "from": "2025-08-28",
      "units": 80,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=386",
-     "sha256": "2b00985f3a27f00873a91720f125ca9c955cff5f7a9ca57e760e901f8a607030"
+     "sha256": "c33e73c50b023adf529ae707da73cece4d7786b45e23706fae0bc1cc8bd5ed84"
     }
    ]
   },
@@ -4393,7 +4393,7 @@
      "from": "2017-08-28",
      "units": 58,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=387",
-     "sha256": "09e11e98dae0fcf85e61c67511377f04f8493121cbb4dfc82e6291bcf5751997"
+     "sha256": "af7501b013b8e4b35c61fad20f639dc720b1020a64abfd9c9e635bb5cff44dad"
     }
    ]
   },
@@ -4407,7 +4407,7 @@
      "from": "2006-08-28",
      "units": 61,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=388",
-     "sha256": "97070c4b6404f71601cf85155aa949a6fff928841373b949b764362c65cfb556"
+     "sha256": "bb4e2ffa3065d98e2a841c70d816af22824ac3dc28396e399e4a273dcf0a8be5"
     }
    ]
   },
@@ -4421,7 +4421,7 @@
      "from": "2017-01-01",
      "units": 54,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=389",
-     "sha256": "9d147336d418e6fdc5a454778b5bb8ddd89936e09e123c4ac7ccd7633a83b6d2"
+     "sha256": "6c6ed1c14465e426acd091c3e63842c99ecbdc7a290b32ae2b16a42eccda8ee8"
     }
    ]
   },
@@ -4435,7 +4435,7 @@
      "from": "2012-08-28",
      "units": 42,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=390",
-     "sha256": "55da9f681c4f6f93faf6be9b15dba32386acf0c05135ec986e767dcc71a1a4a0"
+     "sha256": "6b664bb197b274eedba603715550de04732bc0bdf2fef7babd54634a21cb28dd"
     }
    ]
   },
@@ -4449,7 +4449,7 @@
      "from": "1947-09-10",
      "units": 7,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=391",
-     "sha256": "153d8b84e381bbd1b6ba57041cdb67600778f51dc359324e374c9f7606ebc84a"
+     "sha256": "ef83b1a67e9d0c7562be58e163abb96ff32e7df351ce3aac3d1a7ea8688eed16"
     }
    ]
   },
@@ -4463,7 +4463,7 @@
      "from": "2020-08-28",
      "units": 68,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=392",
-     "sha256": "820b6cc066047468a420e748156772057dc4328321392bec3abb18496235bfc5"
+     "sha256": "145cab463d02b31e7638b932834d60223abcbf8b7491ae1934eee78b2b33094f"
     }
    ]
   },
@@ -4477,7 +4477,7 @@
      "from": "2025-08-28",
      "units": 168,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=393",
-     "sha256": "fc1df0262ece388b5d98fb56e6c481180f358aa92809546b06faff0c264a919a"
+     "sha256": "2f5e3f55112130d3487d37fc693f9100224ae2a1d2768d1cb5048e8ec614a703"
     }
    ]
   },
@@ -4491,7 +4491,7 @@
      "from": "2021-08-28",
      "units": 34,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=394",
-     "sha256": "83cf410c5f97cd5d45bd1b66c601d57eaee18c122a9c98599bf6822d3a156914"
+     "sha256": "37ca4a7a734fbd8b2810ba30fb40bddc2ccb402ec6594aee10aea6e56463bc7b"
     }
    ]
   },
@@ -4505,7 +4505,7 @@
      "from": "2021-08-28",
      "units": 623,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=400",
-     "sha256": "38cc980959e16a914f51fa52f5abb520a74d03c08365cae35babe71bb5a003e7"
+     "sha256": "0d3965e495e81cce2ce70a820eaa44fc39332c623994d0755bb7af1914afff24"
     }
    ]
   },
@@ -4519,7 +4519,7 @@
      "from": "2014-06-10",
      "units": 20,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=402",
-     "sha256": "33335117f7a1e0a2d418c4517690bf30049df505bb829feaf6ec4aec34442c80"
+     "sha256": "d4cd99195837fc1ba43bb6458ac180bee3972b96d1e90e8e132f08882d9a22a0"
     }
    ]
   },
@@ -4533,7 +4533,7 @@
      "from": "1959-08-28",
      "units": 11,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=403",
-     "sha256": "8877617dcb820b4bb74694bdb7f21d1d20143855b2188866cab7d602a6b0d782"
+     "sha256": "3d5d03cf23b7006cd283fc9bead3e2bb5dd0df503f6a8053b47485e8d6e4e17a"
     }
    ]
   },
@@ -4547,7 +4547,7 @@
      "from": "2016-08-28",
      "units": 89,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=404",
-     "sha256": "20b9047b0aacc6ba53cd167c473e511b59914e878a6598af3aaac09707a10f0b"
+     "sha256": "3e40890aa26a5bd1ec0a69a774a073d540dc9ab475dccc9b13c5f4bb50710b47"
     }
    ]
   },
@@ -4561,7 +4561,7 @@
      "from": "2026-08-28",
      "units": 318,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=407",
-     "sha256": "9c85f28b1eaee77b1cb05c3e7d4bf0e9b6d3af56f4d5689b1afe2048f3066e6a"
+     "sha256": "e02fb8aecefda1e4aea258d5a4ce3f4a3f5a30fd5a7ea9c823dd9fe3a7298924"
     }
    ]
   },
@@ -4575,7 +4575,7 @@
      "from": "2026-08-28",
      "units": 112,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=408",
-     "sha256": "2774175ac3aa8306f5d5f7900c2d50a6f6afa17ca595c9321bb7b337f7c5e558"
+     "sha256": "8790c07e26fb43da270749c6893051a35a51c26b6afb751bd6e89fa9e58e3efd"
     }
    ]
   },
@@ -4589,7 +4589,7 @@
      "from": "2020-08-28",
      "units": 111,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=409",
-     "sha256": "0122055d5d5dfcfe71dd83dd292ca8f05bb70913402fdbbb757704fad374d244"
+     "sha256": "d54bbb5ce0d2fa9abca8769250f945b533194e4d032cde865f3ae729f6674f19"
     }
    ]
   },
@@ -4603,7 +4603,7 @@
      "from": "2017-01-01",
      "units": 89,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=411",
-     "sha256": "1b8c721e35d2be5fc82fbdcfffe6d4e9787d10e2ec5aca5a054c1e284061c70a"
+     "sha256": "6a4046dce7f35a63dbf7fa8a5e9c5fe1eb656405df94c2465cc58af79a174f42"
     }
    ]
   },
@@ -4617,7 +4617,7 @@
      "from": "2023-08-28",
      "units": 26,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=413",
-     "sha256": "998c120c7cb05392972753ba647dbede1007acf2097d6f7c4afa887e69991a2f"
+     "sha256": "80fb8f09aeb70c6e220970fbf8e4952e445c7f6ae27196a4a0c9802bdb6b0360"
     }
    ]
   },
@@ -4631,7 +4631,7 @@
      "from": "2018-08-28",
      "units": 43,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=414",
-     "sha256": "0054a2d362e4eaeee2f24684ce54a492d1c7abf364f94d71f551ea88bb262e7c"
+     "sha256": "41388a93189398c5d85c758371e32554b840351025a45840469e5966bf1b41b7"
     }
    ]
   },
@@ -4645,7 +4645,7 @@
      "from": "2014-08-28",
      "units": 12,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=415",
-     "sha256": "427f632dd658d1cf491bd504de650ea25bcfe399ae0ed1e11c242008d864a870"
+     "sha256": "5d82bd179dba174e155640d2f99ca4733fbf1092d281ca383bceb1c8c3bb17d0"
     }
    ]
   },
@@ -4659,7 +4659,7 @@
      "from": "2014-08-28",
      "units": 59,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=416",
-     "sha256": "c2c6c17d8ea833825848ca95574fc895962d7122533d05a89472dda5a4c5b8e2"
+     "sha256": "08d620b2bb213f1b4f5e459306223a816f2a96ed10f87e8643de5315ca1be09c"
     }
    ]
   },
@@ -4673,7 +4673,7 @@
      "from": "2020-08-28",
      "units": 64,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=417",
-     "sha256": "9212caba4c580854abb253011729520855da7c87887f457e64326a51c6ac8627"
+     "sha256": "d065c0f14e829406d58af9a834ccc0c643880199f26b92db5ee8dbeb24a23f97"
     }
    ]
   },
@@ -4687,7 +4687,7 @@
      "from": "2022-08-28",
      "units": 8,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=419",
-     "sha256": "e272cb49d24c511c3d5be043a0c71efa8caa29713827acd13ac8c076f0653bae"
+     "sha256": "828858c00fe6b1cdf80bb7957a96ad7b8af3e09311d88eea896c769f90dd346b"
     }
    ]
   },
@@ -4701,7 +4701,7 @@
      "from": "2001-08-28",
      "units": 10,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=421",
-     "sha256": "a40fd3f700b2726a031fa6641741288afd50273eb49b94ff0e774034f353c201"
+     "sha256": "18cc3db3d389b5071492deedd77ab742bb5067b408d0af2f19e662751a70d7d0"
     }
    ]
   },
@@ -4715,7 +4715,7 @@
      "from": "2011-08-28",
      "units": 8,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=425",
-     "sha256": "052b83572aa9598a40939a8788d3487cd94c5b50b2a6da915a789f5df4f71ed7"
+     "sha256": "66739c42d4e0778dc5549744c6ca53efb7cb81a2381fb5c602f1a6d2b384e5f4"
     }
    ]
   },
@@ -4729,7 +4729,7 @@
      "from": "1979-01-02",
      "units": 41,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=426",
-     "sha256": "ef311cb90ac4e5a1a9c5942441c0f92ecb8b24c835d6fc715e3ba186be3373bb"
+     "sha256": "08e98cda189d3c5fd4c0bc1ecf24c242f1fe0fe32b01904671cecfeea31bbfcb"
     }
    ]
   },
@@ -4743,7 +4743,7 @@
      "from": "2025-08-28",
      "units": 24,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=427",
-     "sha256": "81bb5aa25eb90b22e2b508a6cf196723c22dc3bdec252ee58e2b40d3a9ec3aa1"
+     "sha256": "05fc884d41efbec81ec03108dcff8d7f029b0a0d3de3eb6fc8eb2ea97460d6ee"
     }
    ]
   },
@@ -4757,7 +4757,7 @@
      "from": "1996-08-28",
      "units": 19,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=428",
-     "sha256": "7507798d09f1d81a2d7286d57a49376143d1c12a43376328cdf071b04ac75f1c"
+     "sha256": "1989ba5cf339b6974de1a729aebb92c5cb5be023b88f1309491ae5578e72482e"
     }
    ]
   },
@@ -4771,7 +4771,7 @@
      "from": "2017-01-01",
      "units": 70,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=429",
-     "sha256": "77857371250d1ea19c61296d7030f5bec1779ae2388a6a670b373e0a5e5a4afe"
+     "sha256": "41fa6a49f9528dcb0ac6a1dad4a9dcde03c44a45f7f55e822de80d596833b344"
     }
    ]
   },
@@ -4785,7 +4785,7 @@
      "from": "2012-08-28",
      "units": 36,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=430",
-     "sha256": "d809c44991955847f49821ce26cc8dc430185d2a171a8cca3e2f87f9cb714d65"
+     "sha256": "8d77df320f50e17d1829053e42fc6af7f268300512d4cd107b741e32f431d644"
     }
    ]
   },
@@ -4799,7 +4799,7 @@
      "from": "2023-08-28",
      "units": 34,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=431",
-     "sha256": "6b14e48c21a0c977ee332c382d02dba487ec333f99cd990bc6ced2e21017c068"
+     "sha256": "69bc2b15fdba633047213fbc5d46a96c98ee6ba04fffd640421dc381004ed29e"
     }
    ]
   },
@@ -4813,7 +4813,7 @@
      "from": "2013-08-28",
      "units": 26,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=432",
-     "sha256": "8442868f5a1d60ab5e841197da7f371bf3cf8190108c032cc4d1d10ec99b06e8"
+     "sha256": "2e64f56bb2a1ebabf9b1745469c908bfa3bba70e0d200f5a68d0bfd5ca0248f7"
     }
    ]
   },
@@ -4827,7 +4827,7 @@
      "from": "1983-08-28",
      "units": 22,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=433",
-     "sha256": "d597d209f163a774eea9bee878c0b1705d052fed5ec26463eb5a4adf90b12a45"
+     "sha256": "e6beea18d44bbce1cbf060b0acc3080d38e357d348c2dfeb9735d6132dc395be"
     }
    ]
   },
@@ -4841,7 +4841,7 @@
      "from": "2014-08-28",
      "units": 14,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=434",
-     "sha256": "fe37c6ff632a13fe0cc6be6a963842b2514630e6a062ef6041c98d8244458373"
+     "sha256": "8f9b8e60f165a96d1f2d63e7c3b024e444eacaf192cb75c43fb1f7430fdfd99f"
     }
    ]
   },
@@ -4855,7 +4855,7 @@
      "from": "2021-08-28",
      "units": 27,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=435",
-     "sha256": "aa0655e591fe18e27e14af04ba726438d544a81a0bc4210e44696b358d3b5ac9"
+     "sha256": "bfd7f5bb3dda90b2ccb1904107b5e21987bc9ecc0991bc8c349e43f47e8105cd"
     }
    ]
   },
@@ -4869,7 +4869,7 @@
      "from": "2026-08-28",
      "units": 89,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=436",
-     "sha256": "c43f3a51a60f8097fc034e3662d5bdc190b0793c30ff5094b3541a9a8141f49b"
+     "sha256": "4cf6cb422abc658964affc20ec36fa80fda7d00620b9ebb8bc2a1c444f1d963b"
     }
    ]
   },
@@ -4883,7 +4883,7 @@
      "from": "2025-08-28",
      "units": 72,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=441",
-     "sha256": "9d5edeceb559ec54a80adcede11114701980417241cee541aebfc019c7ac1e16"
+     "sha256": "9cbcc50ed351b6959062188e22b9bc5566f39b8f8f6dce767b42dbc7cc8bcac7"
     }
    ]
   },
@@ -4897,7 +4897,7 @@
      "from": "2026-08-28",
      "units": 79,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=442",
-     "sha256": "0e38d19b4651c0d98e0724fc2d2d33d7dc4b181ec20778604c20dfbff48db6fb"
+     "sha256": "3402dcd44c996e11d5540a72a0c148c606f94f4b7f2af0823aa8e37bdc25725a"
     }
    ]
   },
@@ -4911,7 +4911,7 @@
      "from": "2026-08-28",
      "units": 135,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=443",
-     "sha256": "fe33368cc5b0e76e638f369445ec356e7e991297d72d36a903dffc294da39bb3"
+     "sha256": "8f91d89fe6c786ea3eaeb2050130d05ab9a205343650df50bcfc9a0ed7039ac1"
     }
    ]
   },
@@ -4925,7 +4925,7 @@
      "from": "2023-08-28",
      "units": 120,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=444",
-     "sha256": "e863efd77d426ce0874ef44541a1a551e453ab6c8fc457e5276722c5f1511c2f"
+     "sha256": "796f7160281d88f613dfb29c0a13217d2b658c608d878e83529c3161109508f4"
     }
    ]
   },
@@ -4939,7 +4939,7 @@
      "from": "1943-08-28",
      "units": 12,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=445",
-     "sha256": "953452a7ecc12d2806fa1b024a9d27b01350c34f87fd9d9478dc5d9375408b01"
+     "sha256": "00a1d3ba35aa53cb0f8af163f3639709c3c60b28edca4cd034d286b87ee85868"
     }
    ]
   },
@@ -4953,7 +4953,7 @@
      "from": "1983-08-28",
      "units": 36,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=446",
-     "sha256": "22079f70782fe456b99e1794bbf1c960854b0e3d8f165b2d4a4793a2d09582af"
+     "sha256": "d8fb890a0a5c011122ba60b87d312506960f7e73ac6b1f59f83db44ab5267e8f"
     }
    ]
   },
@@ -4967,7 +4967,7 @@
      "from": "2018-08-28",
      "units": 75,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=447",
-     "sha256": "e79652d9ba0b9f0d19fac128b374daf42bc7d8a4845e0c9b1970c4b6f118b263"
+     "sha256": "f488ea304f14ac637391ccffc4c78a6526cbbd0a3f2aeb4d52a5f73a3e874cec"
     }
    ]
   },
@@ -4981,7 +4981,7 @@
      "from": "2014-08-28",
      "units": 97,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=448",
-     "sha256": "21e4faffba687a02c3b9b86541bd0ae4f577bb0fb60f96524088419e305ab49d"
+     "sha256": "156f5655633d3fc405409b6ec2a1ef5fa65d55f0687ba196a9e350da4cfbc8a0"
     }
    ]
   },
@@ -4995,7 +4995,7 @@
      "from": "2025-08-28",
      "units": 28,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=451",
-     "sha256": "ea4ba8aa6969291943aeac02f3795bfbb2de0497cb6b869300524a62901008eb"
+     "sha256": "fee176d15e46d3c08b655bb1d18250f758e193e41a6835defcd265c0637f2ced"
     }
    ]
   },
@@ -5009,7 +5009,7 @@
      "from": "2026-08-28",
      "units": 157,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=452",
-     "sha256": "a8b097b6959989e2617d7343abe4606e5cfc4adf14d9a3d618ebccb91b258af8"
+     "sha256": "04aff0b4c7c9405498f3502a6e09eea4385d7af9a9f1a59ec08265d7ce25fd67"
     }
    ]
   },
@@ -5023,7 +5023,7 @@
      "from": "2025-08-28",
      "units": 41,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=453",
-     "sha256": "837e8fd51e047cad50ca3dda5e6147204199a27cf452b422eb6c4b5e4c166ed2"
+     "sha256": "33bc00c70b11b3c4011cfda1215bc12a38e531258e11e83576a660c1c52eb94d"
     }
    ]
   },
@@ -5037,7 +5037,7 @@
      "from": "2026-08-28",
      "units": 178,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=454",
-     "sha256": "435990c66cf84d3f2a890acc4a1c481329bb4b78be1d6f5d30907a32769bbf6a"
+     "sha256": "c4197c96de5cd139687e7335babebad54f18c671b7cc4b92b3e63269bc9c1adf"
     }
    ]
   },
@@ -5051,7 +5051,7 @@
      "from": "2026-08-28",
      "units": 58,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=455",
-     "sha256": "c411957589c799df5d08dc27587dd46bfedd579174da09e8340a8b09f904ca32"
+     "sha256": "fc0145fa2f4711225bbb53bb9a64c4cf0d5c020f038914a9741b842b1dbca1e7"
     }
    ]
   },
@@ -5065,7 +5065,7 @@
      "from": "2025-08-28",
      "units": 157,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=456",
-     "sha256": "54b45da5b25914b74f4d58c5d1a24015da5af87e7e6a037d7578347919abfceb"
+     "sha256": "9931ff2c7d0b0e24264d0cd8618b734ea5cdd55b398d7cf5d4e1f3a6ecc660f1"
     }
    ]
   },
@@ -5079,7 +5079,7 @@
      "from": "2023-08-28",
      "units": 12,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=459",
-     "sha256": "f3a534fd1406910ba3175287ec950d82786529b49f717d206c77d070035fb4d1"
+     "sha256": "47e5379fcbdb79115cae1c11fdc78ce023229a08f912a7571eac2e3093bf92fe"
     }
    ]
   },
@@ -5093,7 +5093,7 @@
      "from": "2005-08-28",
      "units": 34,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=461",
-     "sha256": "f4bbae0df0fe81efc694b5073a93261fca2acd9252f340803e04d129406fe83b"
+     "sha256": "da588eff0ff26f0f486c6223bdb869241a4315ae2d78180bdb7cf04a40a5c51e"
     }
    ]
   },
@@ -5107,7 +5107,7 @@
      "from": "2016-08-28",
      "units": 73,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=469",
-     "sha256": "34f15f5a5d5d8dbd45adf23613adf0c6c64bcce2a77744b4cf0fc1389235689e"
+     "sha256": "2867e81c7a272a09283d1350b69eb2e2cce9c326fac062ea58f6d5ea4e0f9cf9"
     }
    ]
   },
@@ -5121,7 +5121,7 @@
      "from": "2002-08-28",
      "units": 20,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=470",
-     "sha256": "a0cb2c2e32f64fe46aa437c196e09b9a17e18c4e106f28478ff1c0475a09a708"
+     "sha256": "23b3f2486986d203d68bc951cd33d6cf78f7ef16d2cf4d032c608f66ec3ebb2b"
     }
    ]
   },
@@ -5135,7 +5135,7 @@
      "from": "1959-08-28",
      "units": 8,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=471",
-     "sha256": "d5f9ec95c964b4656b5adc1cbec2c6fd9300ac4f8309ebc3676641efda090d6d"
+     "sha256": "ab11ad0adfe76627ad2727d9c5a5d9bbee8579edd4eefb4d931225b8eafbd8ee"
     }
    ]
   },
@@ -5149,7 +5149,7 @@
      "from": "2019-08-28",
      "units": 51,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=472",
-     "sha256": "7ca26e0eb64a2fd535b682ce55d682d1f1cd175e5e04835d6dda29f61c56d1ba"
+     "sha256": "c60da7d247054efea8db0f93443f087ec9847d87eb7d5e01f9f0cc4692c7aa04"
     }
    ]
   },
@@ -5163,7 +5163,7 @@
      "from": "2026-08-28",
      "units": 251,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=473",
-     "sha256": "57f5e572dbca301bce07984ade48989c2ffaece7f0985ea7485c770d861a41a6"
+     "sha256": "d9153ed2583119bf9cead53f154d50000c9a18f4922d420fc438af377473ea36"
     }
    ]
   },
@@ -5177,7 +5177,7 @@
      "from": "2025-08-28",
      "units": 79,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=474",
-     "sha256": "86412715c69e673b82126ca88eb9ff9c81cf183600f52e8601dcef7e7be8fce7"
+     "sha256": "e35b768dde574f4027b52afefc37d36a3ba13b37794e3103dd4e73c0c5c19f24"
     }
    ]
   },
@@ -5191,7 +5191,7 @@
      "from": "2023-08-28",
      "units": 141,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=475",
-     "sha256": "fc44a5e01c4a5b72d35a0c6d735e1998dc57c7a9cddf02f3f64baae5e6c9023b"
+     "sha256": "493bc700ebea5cbd404fb4c07c3405df09f29e2518808eed9678dbeeeb9dd732"
     }
    ]
   },
@@ -5205,7 +5205,7 @@
      "from": "2026-08-28",
      "units": 112,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=476",
-     "sha256": "33420f4cf2fc26b959cc00b7da121e93a8dc267b31f9c4c95d2acb5f5158c9cb"
+     "sha256": "660c0b7241f126a8059302d1a34e3a941f3759e6e839098c2f4a3d0ca12114ff"
     }
    ]
   },
@@ -5219,7 +5219,7 @@
      "from": "2025-08-28",
      "units": 34,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=477",
-     "sha256": "df52e2499c3650149b965fe87efc2ce592dd103302583c57a9ef5c894b0a0b50"
+     "sha256": "5f29b59ce1def564ffba45fec9315fd95afa8128f33af4c8ec61a59830d30ea8"
     }
    ]
   },
@@ -5233,7 +5233,7 @@
      "from": "2026-08-28",
      "units": 86,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=478",
-     "sha256": "323c9976f00c7af0788acbe3a114666c506221b12fae9dbb3026ca68beda5d7b"
+     "sha256": "f0959395cc0638a1bb37957eeb7ae0e5a33502c9218080f84ddbf1cfd1e3d45f"
     }
    ]
   },
@@ -5247,7 +5247,7 @@
      "from": "2021-08-28",
      "units": 42,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=479",
-     "sha256": "57de89e1a0dae4a0f2764431cbc8505f08db93ebc03893428c2beaf2bd54e864"
+     "sha256": "d74ff7b4be068ae3f10696e4352e161450e84c189c4342d2c09d17e09804ba7c"
     }
    ]
   },
@@ -5261,7 +5261,7 @@
      "from": "2011-08-28",
      "units": 14,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=482",
-     "sha256": "b15cee23e4e1734d742a2ff883ee2b02c4ce7a06e46042f04560db79d633cdbc"
+     "sha256": "dd53e98a9721595a1da04c35cd0ac5d0b7b655db8a3101870f3df39faca9ae17"
     }
    ]
   },
@@ -5273,9 +5273,9 @@
    "versions": [
     {
      "from": "2025-08-28",
-     "units": 61,
+     "units": 62,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=483",
-     "sha256": "a70b0461c5818b412652b316fd3b99cfd68db857dda02997dbc18f12114d0aea"
+     "sha256": "b395239f4f033a7b26d2009f8a4ab590bb49e091ad5a86082001f991226233ee"
     }
    ]
   },
@@ -5289,7 +5289,7 @@
      "from": "2025-08-28",
      "units": 21,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=484",
-     "sha256": "7c06223c4ad41995e7607c06b1035b8cb2aee606975e7809223ffeb64641c8cd"
+     "sha256": "88188c95c10aa1e4499273d61808dd78b08286c4a079a988a25c9103bf2ed8f9"
     }
    ]
   },
@@ -5303,7 +5303,7 @@
      "from": "2023-08-28",
      "units": 9,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=485",
-     "sha256": "e64e499af22c9865429850e58582ab6f4866d3028d7e54dd59a45517a23d243d"
+     "sha256": "c2b6bbe01fe441eac666670f358f3baceddc38001d05f0a01aa46cea8034477a"
     }
    ]
   },
@@ -5317,7 +5317,7 @@
      "from": "2020-08-28",
      "units": 98,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=486",
-     "sha256": "05c54d5992b51890d7a4b8d286f683a04f1bb69113cf30652bdecb3b6aca78b6"
+     "sha256": "a9ad388564362ce1b51660ccc69344bfa2688fba4866b192074c8173e4c2fe32"
     }
    ]
   },
@@ -5331,7 +5331,7 @@
      "from": "2020-12-31",
      "units": 19,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=487",
-     "sha256": "03f3006b466115d611a6a0a27b43945c8e998359930fe98deb0c4e59dad26e60"
+     "sha256": "2837cc8e374153ad382a666dbcb942e4b9e3c91246f82e88039644ea11927657"
     }
    ]
   },
@@ -5345,7 +5345,7 @@
      "from": "2026-08-28",
      "units": 70,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=488",
-     "sha256": "75e88bb5ddea325c20d897e20035f37c894463db55cdbfaa0d9aed6a4abadd0a"
+     "sha256": "450a9ed390a16b82b3a8cd00b30687b838c42d93bcc0f71b4ba8a6bcda592464"
     }
    ]
   },
@@ -5359,7 +5359,7 @@
      "from": "2017-08-28",
      "units": 79,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=490",
-     "sha256": "0889569fe299e4fc18b210cb3474d1491459051269b582c91f0dca7e9bf954f8"
+     "sha256": "1e6b954dab3b8c7b8d307768c83ff4b816d6e9de8f970dedf910286c509984c6"
     }
    ]
   },
@@ -5373,7 +5373,7 @@
      "from": "2026-08-28",
      "units": 67,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=491",
-     "sha256": "755f928bb1fbadc75cefae05ae565cc2965a7f805763a30e7924bc10bc5b6461"
+     "sha256": "b64ea7822bece4176aaa5c0eb35b56f419b76e2c0aac2f6006d2c3b9ffef24e7"
     }
    ]
   },
@@ -5387,7 +5387,7 @@
      "from": "2026-08-28",
      "units": 63,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=492",
-     "sha256": "8cd590e6f202f430e1dd904282884b27c8a9ce577d30bf7a6c262e37e07a1caa"
+     "sha256": "51aa3e02cfae9e31ce7790e6154da797cbaec425bf1c0bb34869ef48e2fba0fb"
     }
    ]
   },
@@ -5401,7 +5401,7 @@
      "from": "2026-08-28",
      "units": 18,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=493",
-     "sha256": "71c68c32959f422fb210cae05fa5d05f7b686399a2526ac0460ac39aea459da3"
+     "sha256": "431c8ba8a81b37386cd4d1b4f8d7f3f2d7d7a0e21e15be979ac49c133e48928f"
     }
    ]
   },
@@ -5415,7 +5415,7 @@
      "from": "2025-08-28",
      "units": 24,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=494",
-     "sha256": "55c2f3f3738458cbeceedf9afdf24941a0937ff9d96ca1d0cf52c010db0b2a71"
+     "sha256": "cd0329f1eeb825fb446dcaa434461d5c00c5197a1aa80d0ddf468cb2b7f6440b"
     }
    ]
   },
@@ -5429,7 +5429,7 @@
      "from": "2026-08-28",
      "units": 50,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=506",
-     "sha256": "0c3091633de0d8a6118b24b2be3e78766ed56761727729d5ec2b98fa5d64d4f3"
+     "sha256": "b955f19d5a237328e0b90df68c3b3dc09fb85e5b649fc0c7710295d41f33fd4c"
     }
    ]
   },
@@ -5443,7 +5443,7 @@
      "from": "2021-08-28",
      "units": 28,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=507",
-     "sha256": "b5322e4cd71d921652c074fe7336e8f39d554d04111e670455d3b43227d010e6"
+     "sha256": "434e7b932129645989a1e152e73b404bb02b72fb3dad063f728bee89a83c7b89"
     }
    ]
   },
@@ -5457,7 +5457,7 @@
      "from": "2026-08-28",
      "units": 28,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=508",
-     "sha256": "cfbb24f48ee3d3d8c85d1f17f8cc3ccb1669895fca029580cdaf7a2d1bf08965"
+     "sha256": "5ce1d815ce0fb256f7ff80fce1ffe0e87db87adcea72a2917b948912c3f60aab"
     }
    ]
   },
@@ -5471,7 +5471,7 @@
      "from": "2023-08-28",
      "units": 52,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=509",
-     "sha256": "9e4581cc8dcc14d5a77b3a240330628b1c7d89a55358a83a98e566f26580421d"
+     "sha256": "a4e162ed4ee32fc1b75a3bade1403607fbdbfcd39da0e9760c124e36136619f0"
     }
    ]
   },
@@ -5485,7 +5485,7 @@
      "from": "2020-08-28",
      "units": 44,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=510",
-     "sha256": "95c657b2143292d629665b991ccd1950ba0f4bbc98eb9b28ac21dec41720b9a8"
+     "sha256": "6d0df83e00a516a4264bf8ae36c95a09425924f3ae48962d7b5089ca84c1994a"
     }
    ]
   },
@@ -5499,7 +5499,7 @@
      "from": "2007-08-28",
      "units": 82,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=511",
-     "sha256": "e7414513ebe57be04c3f8e17588ab17b0d93321cb9679ce4d0d5573074f93d85"
+     "sha256": "0f39e8e4339724484941928eeaa4f9d93e8c588dcc9c52bcf2081869f64c66a8"
     }
    ]
   },
@@ -5513,7 +5513,7 @@
      "from": "2018-08-28",
      "units": 31,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=512",
-     "sha256": "9c5585af846977ff4207b5c8a6dc39278c47ced4445db06584ed4d71c863c265"
+     "sha256": "b4e6a09fbd19085f3eeef4db71f5047d8f723269513e0372b7983846570af69f"
     }
    ]
   },
@@ -5527,7 +5527,7 @@
      "from": "2025-08-28",
      "units": 120,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=513",
-     "sha256": "edb78bcdd925fafc4fc7af5973616499b9ed4ff4330b8c0ce4369c276f84fabe"
+     "sha256": "fd0f2b17d1e3b1be43c83fa8c812b87732d5cd9975b38dd74aeaf856e4f6777f"
     }
    ]
   },
@@ -5541,7 +5541,7 @@
      "from": "2018-08-28",
      "units": 28,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=514",
-     "sha256": "f8749b85c35187206b2faaf1fe27b6e4980685125da8d7f3c7ba7ddcf39cc06d"
+     "sha256": "1d05fd0371928608d97fd7c902c5f6e6cf7c473bb58c87b1e6533cd74ecd5451"
     }
    ]
   },
@@ -5555,7 +5555,7 @@
      "from": "2018-08-28",
      "units": 57,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=515",
-     "sha256": "7b6c400e85d8d08aad059ccd48482d497c3596495b2f791a388388102a694dcf"
+     "sha256": "b37a3d9ee2f886a509d9c491c427f3eb70e2c5a08d5d01bfb620853b2ab14528"
     }
    ]
   },
@@ -5569,7 +5569,7 @@
      "from": "2018-08-28",
      "units": 50,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=516",
-     "sha256": "7515730ecb78ee087eb64639e4509d4359d6cd5865cd78265c0d857e6046cc4b"
+     "sha256": "f901b8454f89d6409a1750006fc02927484416ec6748b9dfbc71eafe66fa8cb3"
     }
    ]
   },
@@ -5583,7 +5583,7 @@
      "from": "2009-08-28",
      "units": 17,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=517",
-     "sha256": "d2333552db0673ecf95b0039af99f8ce77a94b9bc2b1e2842826dfc710daa73d"
+     "sha256": "d2261599f3d83851fb90a448a3fb2a877e4b5c441d85180ad6412a4f18bc8d16"
     }
    ]
   },
@@ -5597,7 +5597,7 @@
      "from": "1987-01-01",
      "units": 82,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=521",
-     "sha256": "3855cc63089b7e91672bf4f62c645769f8f96dc31447b62c111bf2c656d278b2"
+     "sha256": "b50c65855d55129ec15d451542575fe2c5660ea68114ca047980b4d7b2f1fbfc"
     }
    ]
   },
@@ -5611,7 +5611,7 @@
      "from": "1983-08-28",
      "units": 30,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=522",
-     "sha256": "5eb2b1d1468fabe0898273d1bd7e6b59015d7c3f935ca8a16b44c06878a9eb7b"
+     "sha256": "b7d3f204dd8b7ae4f95658267d31033c876f2b306ba1fb8feb07667e416aa6e9"
     }
    ]
   },
@@ -5625,7 +5625,7 @@
      "from": "2022-08-28",
      "units": 34,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=523",
-     "sha256": "dd7904f45cf0a80265511e1cd0ef40f8170d830560cd0249bcb2d8b6242a9b75"
+     "sha256": "dd34fe68e13cdb2a9797eb39f8762559e3c8cc67fcf4f78df9728294981e7be1"
     }
    ]
   },
@@ -5639,7 +5639,7 @@
      "from": "1949-08-28",
      "units": 29,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=524",
-     "sha256": "d88ba80e1167dbe046000fe1afe1bd415e031287c784a73a237994fb7b1b2cf6"
+     "sha256": "3f16d7c21fdfcf9220667a5053bbceb539866a0013e8e71d47e7ac839bd0efdd"
     }
    ]
   },
@@ -5653,7 +5653,7 @@
      "from": "2026-08-28",
      "units": 33,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=525",
-     "sha256": "8581c572657934b25d47ecd46519500ff12d3e5193c6c8b61901b269554262db"
+     "sha256": "84ff19269c1eed634849a41fba16dbeba61ebda30194ee37c6ffd5411c6cf458"
     }
    ]
   },
@@ -5664,10 +5664,10 @@
    "url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=526",
    "versions": [
     {
-     "from": "2025-04-24",
+     "from": "2004-08-28",
      "units": 20,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=526",
-     "sha256": "7dced87ffe793d51c19d04b79fd19fd13cbe6f818cf95fd6dac99ae02db3d660"
+     "sha256": "64ef765cab76736f0bf72ed4a2529ecdf09b6d441e8d2f2a46f03de5a26036fe"
     }
    ]
   },
@@ -5681,7 +5681,7 @@
      "from": "2026-08-28",
      "units": 29,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=527",
-     "sha256": "28e5581cdea9c75c5789eba88886b6c025e967704573e292e46cdf7b17c17f46"
+     "sha256": "f61ff64bfa05a47b985595bc0d3984a10ad71a9c1ecadfa19d37619349b062da"
     }
    ]
   },
@@ -5695,7 +5695,7 @@
      "from": "2019-08-28",
      "units": 73,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=528",
-     "sha256": "2f08e77554109c48e06dfc57d828c6152201a604740b21aeb6ffbd72bb36b39a"
+     "sha256": "bc2241b0769b5b19c600a7a13b6125e96a361df9dda6029baf261c2ce3c50494"
     }
    ]
   },
@@ -5709,7 +5709,7 @@
      "from": "1949-08-28",
      "units": 10,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=529",
-     "sha256": "9b0c1b6b87baa264eab636eee55be7ebc419be8c4fb0d2c3dc7d560fef40e8f4"
+     "sha256": "08d52718dc08e446ac67051ec2a4907d5d180afc149a62660545dc261b41daed"
     }
    ]
   },
@@ -5723,7 +5723,7 @@
      "from": "1979-01-02",
      "units": 9,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=530",
-     "sha256": "021ff60701d3be0db5931aac955e37637dc3aaff97c1141f39de21afddbece92"
+     "sha256": "c2a13809288ac77db4bff22f887c14fa0c31743267ee5f6c1fdd1075724bda5a"
     }
    ]
   },
@@ -5737,7 +5737,7 @@
      "from": "1996-08-28",
      "units": 6,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=531",
-     "sha256": "a888292a93cb75fd32cc5b68322bd48b4281e8822c568223afb74205dc07322a"
+     "sha256": "de250821272552eedd790d663576f99257c2881c2509077c2a9ea5891491e01d"
     }
    ]
   },
@@ -5751,7 +5751,7 @@
      "from": "1979-01-02",
      "units": 69,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=532",
-     "sha256": "b0527dca1cdad4c7b189597e726984ab939135604860b03434ffbfdc16259e63"
+     "sha256": "1fd9d0d0d65286703acc1b23c0f34cf33603389fe86e11cdb6906f9f73e73900"
     }
    ]
   },
@@ -5765,7 +5765,7 @@
      "from": "1982-08-28",
      "units": 25,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=533",
-     "sha256": "270fd32703a608d2b0e1bf6724467f0a4f4fc57f9b6b56e0c134f5163e62abc7"
+     "sha256": "e695a5aaf12106ae61c4af1bf9b9f1845576e788a255d730b3f0a37a1f5e0ddd"
     }
    ]
   },
@@ -5779,7 +5779,7 @@
      "from": "2024-08-28",
      "units": 45,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=534",
-     "sha256": "35252f439afcbc9940077a8e51ea30faf4e77145b22a1129b265ff0f1077e216"
+     "sha256": "268961f6e15012699dd5a35abcd928337bb10724184924f92b26ee2a7986668d"
     }
    ]
   },
@@ -5793,7 +5793,7 @@
      "from": "2024-08-28",
      "units": 23,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=535",
-     "sha256": "ff962d4d21ee07262a42f2e4fd12b45f01e0289247ba2c225361880cc34b0645"
+     "sha256": "3f4eec904bacbebbc9b3807b6b7adcf7d8612b0b267864a4393c240eb394495b"
     }
    ]
   },
@@ -5807,7 +5807,7 @@
      "from": "2025-08-28",
      "units": 54,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=536",
-     "sha256": "195baa12df1286a368bcaf162908ee6130b2b7ea38fe643adcecbcc0c4aede7a"
+     "sha256": "31fe3245bde931b011255e75f77b4d25d003e1e30e61d82dd9c290931b8975c8"
     }
    ]
   },
@@ -5821,7 +5821,7 @@
      "from": "2026-08-28",
      "units": 142,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=537",
-     "sha256": "cf045742b7a71f294d35f5fe8fa1f9d64848c0cde75b14042938fd9a1ebcdda9"
+     "sha256": "66f6d6f154cb3b0f52ecd7964f582e402517025dc874ad62b120f52887d3ce14"
     }
    ]
   },
@@ -5835,7 +5835,7 @@
      "from": "2020-08-28",
      "units": 11,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=538",
-     "sha256": "1059969414bc36435c87acae1f1e079b76e0ffcfd135afb0f6a4ac29ac8b417c"
+     "sha256": "2640f1dd6b96fdf9c7d8f120a03943951300a0dbcc8758ef9a6e4aa236b00768"
     }
    ]
   },
@@ -5849,7 +5849,7 @@
      "from": "2005-08-28",
      "units": 33,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=540",
-     "sha256": "2c92062af8a08f6b6d786282c23196bd8787b4e19c6627f74989dc30373a0af3"
+     "sha256": "ffa1cde9a5477e24142eaa6df2a893e69f0540080931b0a835344ff21741fecc"
     }
    ]
   },
@@ -5863,7 +5863,7 @@
      "from": "2004-08-28",
      "units": 22,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=541",
-     "sha256": "aef21c18f6af7398ec25b1e007a0d7c1b3fdfa6f123636dea7d44ab8ee3a51a3"
+     "sha256": "6e4b43d44a1d83bb73444ee116fbf0a8acbc6106388889a7b8192bc0d5374358"
     }
    ]
   },
@@ -5877,7 +5877,7 @@
      "from": "2026-08-28",
      "units": 40,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=542",
-     "sha256": "a22233309c2ec0162d453fd850b895dba4437cd739032f6b70aa1e8dd36ea15c"
+     "sha256": "45a1d3e16d960e8e439bfab5d1fa8872af4fd400beb94188a7b3ea1bb958dee0"
     }
    ]
   },
@@ -5891,7 +5891,7 @@
      "from": "2019-08-28",
      "units": 5,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=543",
-     "sha256": "a8554aa244342dfc599037b026862fc9c51171abf65f2fc588540c4a895aa905"
+     "sha256": "891b1cc4495c42a4edde0a2d3af5a5a1179619d3ddde7ae08d3f440d579ab638"
     }
    ]
   },
@@ -5905,7 +5905,7 @@
      "from": "2026-08-28",
      "units": 84,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=544",
-     "sha256": "4cf63297e6889e7a7d48850d67369a747e7ba46683745619272e6cd683fe27c1"
+     "sha256": "f3c7a6eb00884da89aa8af08239d91fb540e0e694cee459963205ed5b675d755"
     }
    ]
   },
@@ -5919,7 +5919,7 @@
      "from": "2021-08-28",
      "units": 93,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=545",
-     "sha256": "bd751991b7cbc9867839086133e25d38edde3ed558eab47e81d47c8af83665df"
+     "sha256": "e3ac184e3d84a3e2e8e9d6cbd6f7edba86cfbed7e8c03faf58286de249c989a9"
     }
    ]
   },
@@ -5933,7 +5933,7 @@
      "from": "2022-08-28",
      "units": 54,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=546",
-     "sha256": "cc77b68a4d65ee61ddd2c759ea1a976dda78e253552fec899c48e100668d927e"
+     "sha256": "4cb7b3b6853906a27e958b26bce8c105df70de3ddc615b09f59c857a5799d07d"
     }
    ]
   },
@@ -5947,7 +5947,7 @@
      "from": "2024-08-28",
      "units": 41,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=547",
-     "sha256": "0d33c2028529f45670a86bcbe898450fbc95e91bd5c96479189041bcb0cbc8cb"
+     "sha256": "9788530b5c908c4791eef37a02e7a5ae0f777913fdb83f3103933e9ba2c35d95"
     }
    ]
   },
@@ -5961,7 +5961,7 @@
      "from": "1994-07-01",
      "units": 31,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=548",
-     "sha256": "8bee7700418e8bd73b455130be824ae86902006a6c7853c7a2b6b33bbd60a9a0"
+     "sha256": "c28d60fa3d584cd203e4dbd59f06cc20564902fba319f8af2464a472e382214b"
     }
    ]
   },
@@ -5975,7 +5975,7 @@
      "from": "2021-08-28",
      "units": 2,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=549",
-     "sha256": "d928ae38a6f9b6aa688fcc3c0417bdfb2747c7ceefd4a8da6fff6831b82bd070"
+     "sha256": "d9163b024b6ffe72f24b97855331cccc371493667fa2956c3b1ec7bf9b8ee27b"
     }
    ]
   },
@@ -5989,7 +5989,7 @@
      "from": "2025-08-28",
      "units": 24,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=550",
-     "sha256": "137c2dee7ba51c72c7f52b99bef855196b694bbe37fd8fc00375a4ebe7bda447"
+     "sha256": "bdf71d3be5dfba3fb83b4a07ad3b40701ca62df16cd3fd749ab3ec04f1d35ff3"
     }
    ]
   },
@@ -6003,7 +6003,7 @@
      "from": "1979-01-02",
      "units": 1,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=551",
-     "sha256": "2cb1987f95328345dcb3ba3baeb8ce470458aa65eb999d468eb949dc670d91da"
+     "sha256": "da4afd775ae557b38426852e81e5941303049db3c4885e4bfc710d8a57a5cae9"
     }
    ]
   },
@@ -6017,7 +6017,7 @@
      "from": "2023-08-28",
      "units": 11,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=552",
-     "sha256": "72a5ab40ae9aaacaef52e9fdb0ac6a6eb653fdd8f9d21cfe3b738b0baf057e6a"
+     "sha256": "1932baa68f04de694673671bb04aa5d7838694ca9fa40d9404f38080590144ff"
     }
    ]
   },
@@ -6031,7 +6031,7 @@
      "from": "2026-08-28",
      "units": 12,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=556",
-     "sha256": "bb363b3bc559e8bff59cbb053b413d2c122f7d85ef38121c26be603bc922bde9"
+     "sha256": "d29dbe358c94707566171f292b46fda303bc06365f493e46881d661f332004c8"
     }
    ]
   },
@@ -6045,7 +6045,7 @@
      "from": "2026-08-28",
      "units": 10,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=557",
-     "sha256": "52293a665b1037489eb4b508ac248af518649b9754e8f2ab16b5e3c4b84b2546"
+     "sha256": "d570c30c5183832da97053b8d2fc5405c0edc17da32824522b1e5883b879c1ce"
     }
    ]
   },
@@ -6059,7 +6059,7 @@
      "from": "2026-08-28",
      "units": 14,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=558",
-     "sha256": "48a50a8d920e6d6e491eae125371fbb1dc13c11702ecc6403d0a59960877c562"
+     "sha256": "46c865e75a115ad3e277fbb3c8bc962845d9335dbe25ecb944cb70c8eac1aac4"
     }
    ]
   },
@@ -6073,7 +6073,7 @@
      "from": "2022-08-28",
      "units": 35,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=559",
-     "sha256": "348f29e61d0200be98e6b55b80fea6348a2f2a22b1e903f371e5c5c6555e6cad"
+     "sha256": "6669f0741a0760d9634a86d385a0f5029281b3b1032281a73f37c7c93a772271"
     }
    ]
   },
@@ -6087,7 +6087,7 @@
      "from": "2017-01-01",
      "units": 4,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=561",
-     "sha256": "6e68fac5f20a2664d7dd06bd929db444384467cb57080e871bc559e0e5f45328"
+     "sha256": "9fc693d2da11fa78425aa44be479344bf4f0eea69d4444509e68e5dd5b2b18dd"
     }
    ]
   },
@@ -6101,7 +6101,7 @@
      "from": "2020-08-28",
      "units": 17,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=562",
-     "sha256": "f023c680cec7a3a83284fe4b971af739642591fd5d84f7b3e22120a376469a04"
+     "sha256": "61541ef04c30b11362ebf4cff98a5ef14631333dae18fcc2cab307ac7da870b3"
     }
    ]
   },
@@ -6115,7 +6115,7 @@
      "from": "2018-08-28",
      "units": 13,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=563",
-     "sha256": "71b4ad3ad6dc1c06c01fc380b4cc30f41abad54fbeb4fc87d3cfd0b1d1cd0f3c"
+     "sha256": "93dc384c492cb6918cd1908add799fff8987ed53fa1022d30c488c630ea86d9c"
     }
    ]
   },
@@ -6129,7 +6129,7 @@
      "from": "2026-08-28",
      "units": 56,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=565",
-     "sha256": "46c7805ec6fcba39b5088ded389dc04b2bcc5cb19cb56718a15f4bf552568d8e"
+     "sha256": "263af10c3ff21f52d11a6b1d971e0cf94cbc198c9bc9bf02076b2c955bef29f9"
     }
    ]
   },
@@ -6143,7 +6143,7 @@
      "from": "2026-08-28",
      "units": 45,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=566",
-     "sha256": "7c35d8ebaf15a28740d7dd33debc0526863898063f15edf56294e4eb5a589d00"
+     "sha256": "1ebb6fe4530a97aba28b5156e1032a96b41309f0efaa3e967ff460e274ddd897"
     }
    ]
   },
@@ -6157,7 +6157,7 @@
      "from": "2026-08-28",
      "units": 14,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=567",
-     "sha256": "f2a374f02f8d42eadbda771d5401b165e315963cc8a4480076230e7af9f8404f"
+     "sha256": "751642fec1c28b0750474bc6333d6cf3a2e5b5a0bf258e5f0410375e922fcef9"
     }
    ]
   },
@@ -6171,7 +6171,7 @@
      "from": "2026-08-28",
      "units": 11,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=568",
-     "sha256": "673d8384e8a561592f7b43558f97a53b4536a0d2ad08b924b64bb3d6aa987af0"
+     "sha256": "54ef6b197fe8d02898135a21642ba3d5ee2f7303abc6f501e2c65da5f4cc3f95"
     }
    ]
   },
@@ -6185,7 +6185,7 @@
      "from": "2026-08-28",
      "units": 31,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=569",
-     "sha256": "2ae6c9afaacfbadbcff8e2fea714deaaf66db56446890d2f469b78f89429102b"
+     "sha256": "3c3b0945becea83b878c8ea7dad826c3802659c0476436b0d612ae9dfe3cde8a"
     }
    ]
   },
@@ -6199,7 +6199,7 @@
      "from": "2026-08-28",
      "units": 47,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=570",
-     "sha256": "85de5579a31dc1df0cb07985259db7a959eae165f70cce8ebcd6e2d00c0aabac"
+     "sha256": "e30481e923597f99b4c278f6af36743b2aaeb388043aca1b12ced92a79fdb5f5"
     }
    ]
   },
@@ -6213,7 +6213,7 @@
      "from": "2026-08-28",
      "units": 41,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=571",
-     "sha256": "50f2aaec745fd22f180896d987b1cba2d0d91bf928bae83068dc58999bb316dc"
+     "sha256": "45d7c780c7c05b38d2348d15be344d19db507ed56104c5b4599b0dca2e299c2d"
     }
    ]
   },
@@ -6227,7 +6227,7 @@
      "from": "2017-01-01",
      "units": 12,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=572",
-     "sha256": "a1cdc5de351a186da46c63647ee711d5ba38aa5278461d2d341a9f70b926d0ec"
+     "sha256": "3d0db4cc77ac8267e687a3417ab1175daa3258358611ce1b694e73aac53be791"
     }
    ]
   },
@@ -6241,7 +6241,7 @@
      "from": "2026-08-28",
      "units": 37,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=573",
-     "sha256": "d27be4abd3a69c1c1e88e41835799eb335cefb3a75ee2d5763357cdbe815671a"
+     "sha256": "482e986b0761fd49f615ee9bb45b9b02c31519172f392aec28564755f12141ed"
     }
    ]
   },
@@ -6255,7 +6255,7 @@
      "from": "2025-08-28",
      "units": 22,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=574",
-     "sha256": "24cac8fb4ef0ba9b54f2a6cd76f48d6b779062f6e4a2fb7337c9e454c7059784"
+     "sha256": "bfdb18260805a54837258fe487dfc63466177283f65b6e027bc11c605d59fa83"
     }
    ]
   },
@@ -6269,7 +6269,7 @@
      "from": "2025-08-28",
      "units": 43,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=575",
-     "sha256": "e690034223eda626c9b60d43f8bcf1f959e3e493877d8fbccc686ff867ee1590"
+     "sha256": "bf4b3bd67091edd4257c344abc08ba556b74c1ea3c3273ebca460f95f1ccbf94"
     }
    ]
   },
@@ -6283,7 +6283,7 @@
      "from": "2025-08-28",
      "units": 8,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=576",
-     "sha256": "2d41c12f0f224a35968950963fe1c92a45e589c07b4c8ddba2d93bc5094853b5"
+     "sha256": "1222db0c3b78423e8667505876d169dea6406e8d96296ccf12441094e7e7e455"
     }
    ]
   },
@@ -6297,7 +6297,7 @@
      "from": "2026-08-28",
      "units": 47,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=577",
-     "sha256": "d06a66fcb25ceb6479afd99bb790189ac3718534f59eafd7f3928249c5583d1b"
+     "sha256": "1b47aa158326c0f0094dc4ed6428d3c6227e2e182f78c628ad23a2a18d4a2ffe"
     }
    ]
   },
@@ -6311,7 +6311,7 @@
      "from": "2025-08-28",
      "units": 68,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=578",
-     "sha256": "8d55d1df3f08b077c1e0c65fb9c1ac19851863080841abc0cd99653333bf4d0e"
+     "sha256": "a36c1001ea3d2287f47aa8744feff7fc4e5f7b56654ff3009c4fe3e31183526a"
     }
    ]
   },
@@ -6325,7 +6325,7 @@
      "from": "2026-08-28",
      "units": 39,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=579",
-     "sha256": "188b0d43eb335022333d9cf0c20c68a02ff830be5f01955ab79898a765ab5609"
+     "sha256": "023131918c83ea68a6a8ac1ac722eadbd12170a723ed502c8affc54a481fb558"
     }
    ]
   },
@@ -6339,7 +6339,7 @@
      "from": "2026-08-28",
      "units": 68,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=589",
-     "sha256": "e70a9dc3c4eab647252315874ed486d1942f26e827cb86d1fc3c51ba4976dfa4"
+     "sha256": "1f95ab570c4e33c9ad2647d6557b37be03927f4485e34aa2a4d5d429c727efae"
     }
    ]
   },
@@ -6351,9 +6351,9 @@
    "versions": [
     {
      "from": "2026-08-28",
-     "units": 39,
+     "units": 40,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=590",
-     "sha256": "db7ccf14834e91bc4463df24c2103345b25d84cb112b4e723bcdf318ac5efa26"
+     "sha256": "bf557c7ce117319fcadb6a0fe3db6f6c7088a730f0543802ce4e9d9b43be2a13"
     }
    ]
   },
@@ -6367,7 +6367,7 @@
      "from": "2026-08-28",
      "units": 35,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=595",
-     "sha256": "75312d91067845b28b6a212931aa6f9966ce6d5aa194c311b3c0651f6f2e8e84"
+     "sha256": "a2067da73b72d3110d8d07f432d40bc8f4eac00043c3d815862d302b15bc42ff"
     }
    ]
   },
@@ -6381,7 +6381,7 @@
      "from": "2024-08-28",
      "units": 21,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=600",
-     "sha256": "32a37042a12c3806fa1ad538f9da3cb698917653b65d7d2d80e9c58a0b66de0d"
+     "sha256": "167801bbaf9ef969bf5a781fbf2c32336c9fdc0673a4cdeeab27783373c8e662"
     }
    ]
   },
@@ -6395,7 +6395,7 @@
      "from": "2026-08-28",
      "units": 41,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=610",
-     "sha256": "46ef72f5fedd7cf5c572f714ee59143088d7a5164f3fe088033d8e9a3bcb014b"
+     "sha256": "e21294818dfb45f229c2f6363eadf976d3f7f9162a4dd8f7ef9cf11e676d3532"
     }
    ]
   },
@@ -6409,7 +6409,7 @@
      "from": "2026-08-28",
      "units": 156,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=620",
-     "sha256": "ff5d1b176a0ad7a6f895db8d1c49e495a05cca9b99966ed9a9df9dd6d4ad6587"
+     "sha256": "6e34126544d7ced4baaca8adae233805a824ace23ef8ee235d76cac6cd2c9dfc"
     }
    ]
   },
@@ -6423,7 +6423,7 @@
      "from": "2026-08-28",
      "units": 27,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=621",
-     "sha256": "7887e38d75589328d9ad89e337c627d9cdbfe80db180b6ce2e546a6ea0af30d4"
+     "sha256": "448ca7dbea5bb0b89388f107e53c71cf136b319d828259bb498158f30ecd4bbc"
     }
    ]
   },
@@ -6437,7 +6437,7 @@
      "from": "2004-08-28",
      "units": 60,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=622",
-     "sha256": "24e2a08c5ad10db5adacab56be7338c7a4ae4dfea6e1d85668fcd633f7e1bdf7"
+     "sha256": "d0860cae6804a560e06f5d5bdaaa056734370cbab8be95b1229baf662d65ecfe"
     }
    ]
   },
@@ -6451,7 +6451,7 @@
      "from": "1986-08-28",
      "units": 10,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=625",
-     "sha256": "c1bcc6a4cf821c1e2a4a0f5f1125c01b9a18c4c9d5da714b9e023a9f5710118c"
+     "sha256": "e69f188659dd4b3c04d879400380b6c8b959cb200f7ebdf362071d1e150a8cca"
     }
    ]
   },
@@ -6465,7 +6465,7 @@
      "from": "2023-08-28",
      "units": 150,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=630",
-     "sha256": "787c8ca62fe5f0b9787b54ef5f7240dfd6bcf32a588256d0e928562bfea0fa44"
+     "sha256": "24642a2ee4a281f010ce476bacf40f0eb30c3864c904bc435d0086e02c6e43ca"
     }
    ]
   },
@@ -6479,7 +6479,7 @@
      "from": "2023-08-28",
      "units": 28,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=631",
-     "sha256": "7d4688f3ebac98730715afef43046890772a1081004191880180b8154514f6d2"
+     "sha256": "69c656e548bc812c588b7d7a073831699aba5b2fc3a29a9da4a7c1c10116da67"
     }
    ]
   },
@@ -6493,7 +6493,7 @@
      "from": "2026-08-28",
      "units": 85,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=632",
-     "sha256": "cd29145990076c611577ca42b25dd9d62ad4b1f3a37903b8de1467421e79df0a"
+     "sha256": "084385417a9956bec593ced480c35b1140db2af7d74bcf66e62ae06f1c7066e0"
     }
    ]
   },
@@ -6507,7 +6507,7 @@
      "from": "2024-08-28",
      "units": 39,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=633",
-     "sha256": "b413bb4130743d34653fe2b5080f0d4eca9649f3fd3390bce75c059a5f4faacf"
+     "sha256": "2972d8f90c6a5697cb4a7bc1cda899c690874d97f93c95e1a2d25365b77664ae"
     }
    ]
   },
@@ -6521,7 +6521,7 @@
      "from": "2026-08-28",
      "units": 97,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=640",
-     "sha256": "38a43817f3c97faec557523573b10d25036be36f1ecf135db3d7e2c939c88953"
+     "sha256": "d88f24100db42ef06840f819f48ab4a80b08720c25bdb9643e45ab09fc62ebe6"
     }
    ]
   },
@@ -6535,7 +6535,7 @@
      "from": "2026-08-28",
      "units": 69,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=643",
-     "sha256": "13d13ceb9bc10d422277c81d520cc30f0026bf0e6862366fe6944ac6b55e59fa"
+     "sha256": "66076d889179ffcc9629d72a83ff8844459c225987f1b3ccea0ae79cf4ec3f5e"
     }
    ]
   },
@@ -6547,9 +6547,9 @@
    "versions": [
     {
      "from": "2026-08-28",
-     "units": 109,
+     "units": 110,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=644",
-     "sha256": "33c7db06353f207cfa870c1189d5b85e103330025e4875ee9fe7bc03f120d8d0"
+     "sha256": "f80bdc7174c4c3281f02e7dee30e250e15eaee738a2ea081bd39cf68a442a18a"
     }
    ]
   },
@@ -6563,7 +6563,7 @@
      "from": "2026-08-28",
      "units": 72,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=650",
-     "sha256": "73c3e79e661fc23380e51961d26d6d85c2262c448dc3737b322d3affa2dc7a81"
+     "sha256": "899d19800d4dfd433b782c35326aae13ffd1d3d9f0ba5f48a759b685b5bfd612"
     }
    ]
   },
@@ -6577,7 +6577,7 @@
      "from": "2026-08-28",
      "units": 65,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=660",
-     "sha256": "d08c47239e42a06a6750ad5dd012560c62516cc9df829dbee7d9973b405e5333"
+     "sha256": "4160e307237f89f6266a3eca8bb696addece0c3c72945ac7d527835fe0887591"
     }
    ]
   },
@@ -6591,7 +6591,7 @@
      "from": "2000-08-28",
      "units": 7,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=680",
-     "sha256": "a072f6a75ef3df944e75695eea6c3bbd14ba4f5d13a12051fb0a792882b9a37a"
+     "sha256": "e695609781d9ae69b78a1f80b04313353f5b4802dfec46568ffb6d90a95c1941"
     }
    ]
   },
@@ -6605,7 +6605,7 @@
      "from": "2015-08-28",
      "units": 57,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=700",
-     "sha256": "f2d0f52327cae6588c4c04fb797bb28464b51e3d6a5374ff6ef886643443d322"
+     "sha256": "b3cefce0648c4ab1670b653c33d66a0a31221745d0a6ba46e53121bf4d1c9ce5"
     }
    ]
   },
@@ -6619,7 +6619,7 @@
      "from": "2026-08-28",
      "units": 85,
      "source_url": "https://revisor.mo.gov/main/ViewChapter.aspx?chapter=701",
-     "sha256": "b30dede62bc64fd86ca789bd02a45ac917af8e9a49297dcd60b6afc1df69b685"
+     "sha256": "3ea891ba859b16a522558a6573a6c754bde7097edfba0bd1c6c3542875772895"
     }
    ]
   }

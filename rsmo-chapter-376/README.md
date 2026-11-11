@@ -138,6 +138,7 @@ RSMo ch. 376 · 1 versions, from 2026-08-28 (latest in force: 2026-08-28) · <ht
 | RSMo 376.1512 | [sec-376-1512.md](sec-376-1512.md) | 0 |  |
 | RSMo 376.1514 | [sec-376-1514.md](sec-376-1514.md) | 0 |  |
 | RSMo 376.1516 | [sec-376-1516.md](sec-376-1516.md) | 0 |  |
+| RSMo 376.1516 (alternative printed version) | [sec-376-1516-variant-2007-08-28-2.md](sec-376-1516-variant-2007-08-28-2.md) | 0 |  |
 | RSMo 376.1518 | [sec-376-1518.md](sec-376-1518.md) | 0 |  |
 | RSMo 376.1520 | [sec-376-1520.md](sec-376-1520.md) | 0 |  |
 | RSMo 376.1522 | [sec-376-1522.md](sec-376-1522.md) | 0 |  |

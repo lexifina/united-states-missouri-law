@@ -52,6 +52,7 @@ def parse_chapter(ch, old):
     b = source(url)
     soup = BeautifulSoup(b.decode('utf-8', 'replace'), 'lxml')
     selected = {}
+    printed = {}
     for div in soup.find_all('div', class_='norm'):
         match = None
         for sib in div.next_siblings:
@@ -68,8 +69,31 @@ def parse_chapter(ch, old):
         day = date(y, m, d).isoformat()
         if day > ASOF:
             continue
+        printed.setdefault(num, []).append({'div': div, 'date': day, 'quote': match.group(0)})
         if num not in selected or selected[num]['date'] <= day:
             selected[num] = {'div': div, 'date': day, 'quote': match.group(0)}
+    alternatives = []
+    for num, forms in printed.items():
+        if len(forms) < 2:
+            continue
+        restored = []
+        for entry in forms:
+            notes = [norm(p.get_text(' ')) for p in entry['div'].select('div.foot p')]
+            if any('reprinted in accordance' in n.lower() and
+                   ('ineffective' in n.lower() or 'current version' in n.lower()) and
+                   'other printed version' not in n.lower() for n in notes):
+                restored.append(entry)
+        if restored:
+            if len(restored) != 1:
+                raise ValueError('Ambiguous express Revisor restoration: ' + num)
+            selected[num] = restored[0]
+        else:
+            # Dates do not resolve conflicting enactments or contingent commencement.
+            # Preserve every printed form; do not synthesize historical chapter states.
+            chosen = selected[num]
+            for index, entry in enumerate(forms, 1):
+                if entry['div'] is not chosen['div']:
+                    alternatives.append((num, index, entry))
     if not selected:
         return (None, {'chapter': ch, 'sections': 0, 'excluded': True})
     slug = 'rsmo-chapter-' + ch.zfill(3)
@@ -80,6 +104,11 @@ def parse_chapter(ch, old):
     for num, e in selected.items():
         images += len(e['div'].find_all(['img', 'svg']))
         units[key(num)] = {'label': 'RSMo ' + num, 'kind': 'section', 'text': section(e['div'])}
+    for num, index, entry in alternatives:
+        images += len(entry['div'].find_all(['img', 'svg']))
+        unit = key(num) + '-variant-' + entry['date'] + '-' + str(index)
+        units[unit] = {'label': 'RSMo ' + num + ' (alternative printed version)',
+                       'kind': 'section', 'text': section(entry['div'])}
     a['versions'] = [{'from': witness['date'], 'source_url': url, 'sha256': hashlib.sha256(b).hexdigest(), 'in_force_basis': 'Latest current section effective date printed by the Revisor: ' + witness['quote'], 'units': dict(sorted(units.items()))}]
     return (a, {'chapter': ch, 'sections': len(units), 'source_images': images, 'referenced': 0, 'omitted': 0, 'date': witness['date'], 'quote': witness['quote'], 'sha256': hashlib.sha256(b).hexdigest()})
 

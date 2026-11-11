@@ -38,7 +38,7 @@ When a law gives no date of its own, the default rule applies: {{RULE}} {{RULE_S
 
 ## How the history is built
 
-`tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
+The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
 - Corpus: sha256 `{{CORPUS_SHA}}` ({{CORPUS_BYTES}} bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `{{BUILD_BLOB}}`, `check.py` `{{CHECK_BLOB}}`, `on.py` `{{ON_BLOB}}`.
@@ -62,5 +62,4 @@ No model wrote, translated or corrected legal text. No model runs at build time.
 
 The commit messages are written by `build.py` from the source data.
 
-Model use at data-build time:
-{{AI_USE}}
+Model use at data-build time: {{AI_USE}}

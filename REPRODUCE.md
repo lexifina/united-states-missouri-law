@@ -1,12 +1,12 @@
 # How this repository was made (United States (Missouri))
 
-This file is written by the build on 2026-11-03, the day the source data was retrieved.
+This file is written by the build on 2026-11-11, the day the source data was retrieved.
 
 ## Sources
 
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
-| Revised Statutes of Missouri (Revisor of Statutes) | <https://revisor.mo.gov/main/Home.aspx> | 2026-11-03 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site is an uncertified, unofficial posting by the Revisor; its Terms of Use page reads "TBD" and its footer claims "all rights reserved" for the site. |
+| Missouri Revisor of Statutes | <https://revisor.mo.gov/main/Home.aspx> | 2026-11-11 | Government edicts; website copyright does not extend to enacted law text. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -14,7 +14,6 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| `constitution-preamble` | Constitution of Missouri, Preamble | 1 | 2026-10-29 to 2026-10-29 |
 | `constitution-art-01` | Constitution of Missouri, Article I | 1 | 2024-12-05 to 2024-12-05 |
 | `constitution-art-02` | Constitution of Missouri, Article II | 1 | 2026-10-29 to 2026-10-29 |
 | `constitution-art-03` | Constitution of Missouri, Article III | 1 | 2024-12-05 to 2024-12-05 |
@@ -29,6 +28,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `constitution-art-12` | Constitution of Missouri, Article XII | 1 | 2026-10-29 to 2026-10-29 |
 | `constitution-art-13` | Constitution of Missouri, Article XIII | 1 | 2006-12-07 to 2006-12-07 |
 | `constitution-art-14` | Constitution of Missouri, Article XIV | 1 | 2022-12-08 to 2022-12-08 |
+| `constitution-preamble` | Constitution of Missouri, Preamble | 1 | 2026-10-29 to 2026-10-29 |
 | `rsmo-chapter-001` | Revised Statutes of Missouri, Chapter 1 | 1 | 2026-08-28 to 2026-08-28 |
 | `rsmo-chapter-002` | Revised Statutes of Missouri, Chapter 2 | 1 | 2026-08-28 to 2026-08-28 |
 | `rsmo-chapter-003` | Revised Statutes of Missouri, Chapter 3 | 1 | 2026-08-28 to 2026-08-28 |
@@ -112,7 +112,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `rsmo-chapter-109` | Revised Statutes of Missouri, Chapter 109 | 1 | 2018-08-28 to 2018-08-28 |
 | `rsmo-chapter-110` | Revised Statutes of Missouri, Chapter 110 | 1 | 2024-08-28 to 2024-08-28 |
 | `rsmo-chapter-115` | Revised Statutes of Missouri, Chapter 115 | 1 | 2026-08-28 to 2026-08-28 |
-| `rsmo-chapter-116` | Revised Statutes of Missouri, Chapter 116 | 1 | 2025-08-28 to 2025-08-28 |
+| `rsmo-chapter-116` | Revised Statutes of Missouri, Chapter 116 | 1 | 2015-08-28 to 2015-08-28 |
 | `rsmo-chapter-122` | Revised Statutes of Missouri, Chapter 122 | 1 | 1939-08-28 to 1939-08-28 |
 | `rsmo-chapter-127` | Revised Statutes of Missouri, Chapter 127 | 1 | 2019-08-28 to 2019-08-28 |
 | `rsmo-chapter-128` | Revised Statutes of Missouri, Chapter 128 | 1 | 2022-05-18 to 2022-05-18 |
@@ -418,7 +418,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `rsmo-chapter-523` | Revised Statutes of Missouri, Chapter 523 | 1 | 2022-08-28 to 2022-08-28 |
 | `rsmo-chapter-524` | Revised Statutes of Missouri, Chapter 524 | 1 | 1949-08-28 to 1949-08-28 |
 | `rsmo-chapter-525` | Revised Statutes of Missouri, Chapter 525 | 1 | 2026-08-28 to 2026-08-28 |
-| `rsmo-chapter-526` | Revised Statutes of Missouri, Chapter 526 | 1 | 2025-04-24 to 2025-04-24 |
+| `rsmo-chapter-526` | Revised Statutes of Missouri, Chapter 526 | 1 | 2004-08-28 to 2004-08-28 |
 | `rsmo-chapter-527` | Revised Statutes of Missouri, Chapter 527 | 1 | 2026-08-28 to 2026-08-28 |
 | `rsmo-chapter-528` | Revised Statutes of Missouri, Chapter 528 | 1 | 2019-08-28 to 2019-08-28 |
 | `rsmo-chapter-529` | Revised Statutes of Missouri, Chapter 529 | 1 | 1949-08-28 to 1949-08-28 |
@@ -488,7 +488,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `rsmo-chapter-700` | Revised Statutes of Missouri, Chapter 700 | 1 | 2015-08-28 to 2015-08-28 |
 | `rsmo-chapter-701` | Revised Statutes of Missouri, Chapter 701 | 1 | 2026-08-28 to 2026-08-28 |
 
-The build made 1687 commits:
+The build made 2602 commits:
 
 | Commits | Kind |
 | ---: | --- |
@@ -497,8 +497,8 @@ The build made 1687 commits:
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
-- 20 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-11.
+- 40 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
 - 473 tags.
 
@@ -506,44 +506,35 @@ Other counts:
 
 Each commit is dated at noon (America/Chicago) on the day the change took effect. The other dates, enacted and published, are trailers.
 
-When a law gives no date of its own, the default rule applies: Each current-text chapter uses the latest effective date printed for a currently effective section; future section versions are excluded. Constitution amendments use the current-section dates displayed by the Revisor. Original 1945 commencement remains unresolved for unchanged folders. https://revisor.mo.gov/main/Home.aspx
+When a law gives no date of its own, the default rule applies: Current-only snapshots use the Revisor's printed effective dates for selected current sections. Express restorations override invalidated amendments. Original Constitution commencement remains unresolved in three existing folders. https://revisor.mo.gov/main/Home.aspx
 
 ## How the history is built
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `39c65e31ef0e8325a6364ad45a027e8c0a325f58ecd8d52975d5fab4b9f10a31` (59993187 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Corpus: sha256 `2d74bdad924ff9260320706a0a8df0b8cb127def8719c7148a6f1bf910b58c4e` (58970684 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
 
-The unchanged published checker, the newly shipped checker and the live shared checker each pass against both the published baseline and this candidate: 0 mismatches, 0 trailer errors, 0 missing In-force trailers, 0 merges, 0 backwards dates and 0 future-dated commits. Baseline: 472 acts/472 versions. Candidate: 473 acts/473 versions, 1,214 corrections.
+Not yet run for this build.
 
-The checks run in a fresh clone of the current published main with no persistent corpus cache, starting each reader's in-memory cache empty. Reader selection and checker logic are unchanged. Batch tree I/O is checked against original Git ls-tree mappings.
-
-Old and new readers agree on all 472 published-version queries and all 473 candidate-version queries. HEAD has zero stale law files on checked_on 2026-11-03. Date-only corrections carry act date metadata in their README so the published Git path-history checker can find them; no legal words are changed for compatibility.
-
-A second append from the unchanged current published base reproduces all 1,215 law/correction commit object IDs and every tag exactly. There is one closing documentation commit.
-
-Independent official-HTML review covers 458 statute chapters and 14 Constitution articles: 30,731 sections, 9,285,139 words, zero differences. Original commencement remains unresolved for the unchanged preamble and Articles II and XII.
-
-The canonical offline parser is tools/parse.py; tools/parse_all.py is its compatibility entry point. Both match the Missouri builder's canonical files exactly. Use corpus/rework-input.json as --base, official HTML named sha256(URL).html through --cache, an --output file and --as-of 2026-11-03.
+No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
-- Current-only oldest available text; no reconstructed earlier wording.
-- Entire normative DOM text is retained, including nested paragraphs, bare text and textual tables.
-- Statute chapter date is the latest effective date of its current sections as printed by the Revisor.
-- Original 1945 Constitution commencement remains unresolved for unchanged folders; no adoption date is inferred as commencement.
+- Current-only chapter snapshots retain all normative source text, including textual tables and Revisor law-line footnotes; case annotations are excluded.
+- An express Revisor restoration following invalidation overrides the later section date. Conflicting and contingent versions have separate files and are not resolved by Lexifina.
+- Existing Constitution text and date metadata are retained; original 1945 commencement for the preamble and Articles II and XII remains unresolved.
 
 ## What AI did and did not do
 
-The shared builder and readers are Lexifina git-for-law tools. GPT-6 repaired the Missouri parser and wrote the validation wrappers. No model wrote or corrected law text.
+The scripts that read the sources and build this repository were written by Claude Code running Claude Opus 5.5 (`claude-opus-5-5`) under Lexifina's direction.
 
 No model wrote, translated or corrected legal text. No model runs at build time. Every word of law in this repository comes from the official sources above.
 
 The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
-- GPT-6 wrote parser and validation code; no model-generated or corrected law text, no OCR, no proposed law credits.
+- GPT-6 wrote deterministic collection and verification code; all legal wording is extracted from the official HTML without model rewriting or OCR.

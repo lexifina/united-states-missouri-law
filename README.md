@@ -10,3 +10,5 @@ Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git h
 Source: [Missouri Revisor of Statutes](https://revisor.mo.gov/main/Home.aspx), an uncertified posting by the official Revisor. Future-effective section versions and court annotations are excluded. Textual tables and the statutory law-line footnotes are retained.
 
 Statute chapter dates are the latest printed effective date among current sections. Amendment dates for constitutional articles use the current-section dates displayed by the Revisor. Original 1945 commencement remains unresolved for unchanged folders. Corrections preserve the original commits and override their stated date ranges. No earlier wording is reconstructed.
+
+Revisor restoration notes determine the current wording where a later enactment was invalidated. Five conflicting sections and five sections with a contingent effective date retain both printed forms in separate provision files; these alternatives do not assert that both apply simultaneously. Prior published versions remain in the history.

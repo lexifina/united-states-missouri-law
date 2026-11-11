@@ -150,11 +150,16 @@ RSMo ch. 210 · 1 versions, from 2026-08-28 (latest in force: 2026-08-28) · <ht
 | RSMo 210.590 | [sec-210-590.md](sec-210-590.md) | 0 |  |
 | RSMo 210.617 | [sec-210-617.md](sec-210-617.md) | 0 |  |
 | RSMo 210.620 | [sec-210-620.md](sec-210-620.md) | 0 |  |
+| RSMo 210.620 (alternative printed version) | [sec-210-620-variant-1975-08-28-2.md](sec-210-620-variant-1975-08-28-2.md) | 0 |  |
 | RSMo 210.622 | [sec-210-622.md](sec-210-622.md) | 0 |  |
+| RSMo 210.622 (alternative printed version) | [sec-210-622-variant-1985-08-28-2.md](sec-210-622-variant-1985-08-28-2.md) | 0 |  |
 | RSMo 210.625 | [sec-210-625.md](sec-210-625.md) | 0 |  |
+| RSMo 210.625 (alternative printed version) | [sec-210-625-variant-1975-08-28-2.md](sec-210-625-variant-1975-08-28-2.md) | 0 |  |
 | RSMo 210.630 | [sec-210-630.md](sec-210-630.md) | 0 |  |
 | RSMo 210.635 | [sec-210-635.md](sec-210-635.md) | 0 |  |
+| RSMo 210.635 (alternative printed version) | [sec-210-635-variant-1975-08-28-2.md](sec-210-635-variant-1975-08-28-2.md) | 0 |  |
 | RSMo 210.640 | [sec-210-640.md](sec-210-640.md) | 0 |  |
+| RSMo 210.640 (alternative printed version) | [sec-210-640-variant-1975-08-28-2.md](sec-210-640-variant-1975-08-28-2.md) | 0 |  |
 | RSMo 210.650 | [sec-210-650.md](sec-210-650.md) | 0 |  |
 | RSMo 210.652 | [sec-210-652.md](sec-210-652.md) | 0 |  |
 | RSMo 210.660 | [sec-210-660.md](sec-210-660.md) | 0 |  |

@@ -89,6 +89,7 @@ RSMo ch. 644 · 1 versions, from 2026-08-28 (latest in force: 2026-08-28) · <ht
 | RSMo 644.561 | [sec-644-561.md](sec-644-561.md) | 0 |  |
 | RSMo 644.564 | [sec-644-564.md](sec-644-564.md) | 0 |  |
 | RSMo 644.566 | [sec-644-566.md](sec-644-566.md) | 0 |  |
+| RSMo 644.566 (alternative printed version) | [sec-644-566-variant-1999-08-28-1.md](sec-644-566-variant-1999-08-28-1.md) | 0 |  |
 | RSMo 644.568 | [sec-644-568.md](sec-644-568.md) | 0 |  |
 | RSMo 644.570 | [sec-644-570.md](sec-644-570.md) | 0 |  |
 | RSMo 644.571 | [sec-644-571.md](sec-644-571.md) | 0 |  |

@@ -20,6 +20,7 @@ RSMo ch. 483 · 1 versions, from 2025-08-28 (latest in force: 2025-08-28) · <ht
 | RSMo 483.130 | [sec-483-130.md](sec-483-130.md) | 0 |  |
 | RSMo 483.135 | [sec-483-135.md](sec-483-135.md) | 0 |  |
 | RSMo 483.140 | [sec-483-140.md](sec-483-140.md) | 0 |  |
+| RSMo 483.140 (alternative printed version) | [sec-483-140-variant-2014-08-28-1.md](sec-483-140-variant-2014-08-28-1.md) | 0 |  |
 | RSMo 483.145 | [sec-483-145.md](sec-483-145.md) | 0 |  |
 | RSMo 483.150 | [sec-483-150.md](sec-483-150.md) | 0 |  |
 | RSMo 483.160 | [sec-483-160.md](sec-483-160.md) | 0 |  |

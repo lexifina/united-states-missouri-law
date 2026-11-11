@@ -1,6 +1,6 @@
 # Revised Statutes of Missouri, Chapter 116
 
-RSMo ch. 116 · 1 versions, from 2025-08-28 (latest in force: 2025-08-28) · <https://revisor.mo.gov/main/ViewChapter.aspx?chapter=116>
+RSMo ch. 116 · 1 versions, from 2015-08-28 (latest in force: 2015-08-28) · <https://revisor.mo.gov/main/ViewChapter.aspx?chapter=116>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
