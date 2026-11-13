@@ -15735,6 +15735,51 @@
      "units": 1
     }
    ]
+  },
+  {
+   "slug": "session-law-2010-hb-1498",
+   "short": "2010 HB 1498",
+   "title": "Missouri 2010 HB 1498 (session law as printed)",
+   "url": "https://revisor.mo.gov/main/Info.aspx?doc=2010SessionLaws.pdf#page=301",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "source_url": "https://revisor.mo.gov/main/Info.aspx?doc=2010SessionLaws.pdf#page=301",
+     "sha256": "23e7aed5fef403c6c1e6a49e762051be8be24ad731f7c13a05089f0fffcd7ea8",
+     "in_force_basis": "Section A of this act shall become effective January 1, 2011. Approved April 27, 2010",
+     "units": 1
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2010-hb-1898",
+   "short": "2010 HB 1898",
+   "title": "Missouri 2010 HB 1898 (session law as printed)",
+   "url": "https://revisor.mo.gov/main/Info.aspx?doc=2010SessionLaws.pdf#page=530",
+   "versions": [
+    {
+     "from": "2010-08-28",
+     "source_url": "https://revisor.mo.gov/main/Info.aspx?doc=2010SessionLaws.pdf#page=530",
+     "sha256": "23e7aed5fef403c6c1e6a49e762051be8be24ad731f7c13a05089f0fffcd7ea8",
+     "in_force_basis": "became effective ninety days thereafter on August 28, 2010 Regular session; no exceptional commencement wording in this bill.",
+     "units": 1
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2010-hb-2262",
+   "short": "2010 HB 2262",
+   "title": "Missouri 2010 HB 2262 (session law as printed)",
+   "url": "https://revisor.mo.gov/main/Info.aspx?doc=2010SessionLaws.pdf#page=792",
+   "versions": [
+    {
+     "from": "2010-05-27",
+     "source_url": "https://revisor.mo.gov/main/Info.aspx?doc=2010SessionLaws.pdf#page=792",
+     "sha256": "23e7aed5fef403c6c1e6a49e762051be8be24ad731f7c13a05089f0fffcd7ea8",
+     "in_force_basis": "section A of this act shall be in full force and effect upon its passage and approval. Approved May 27, 2010",
+     "units": 1
+    }
+   ]
   }
  ]
 }
