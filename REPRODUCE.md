@@ -1,3 +1,7 @@
+## Additional official session-law prints
+
+15 prints retain unaltered official PDF text-layer substrings from a bill heading through its printed approval line. Two independent PDF extractors agree on every word, with whitespace differences allowed. Dates use the official volume preface or an explicit whole-act commencement clause. Administrative-rule promulgation conditions are excluded only from transient date analysis and retained verbatim in the law. No OCR or model-written law text is used.
+
 ## Further source-dated session laws
 
 68 additional prints match their official PDF text layers. Independent pypdf or PDFMiner extraction agrees with PyMuPDF on characters; some word spacing differs. Page spans, source URLs, hashes and dates are listed in data/session-law-sources.tsv. No OCR or model-generated law text was used.
