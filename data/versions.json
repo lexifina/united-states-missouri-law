@@ -15742,6 +15742,96 @@
      "units": 1
     }
    ]
+  },
+  {
+   "slug": "session-law-2012-hb-1029",
+   "short": "2012 HB 1029",
+   "title": "Missouri 2012 HB 1029 (session law as printed)",
+   "url": "https://revisor.mo.gov/main/Info.aspx?doc=2012SessionLaws.pdf#page=203",
+   "versions": [
+    {
+     "from": "2012-08-28",
+     "source_url": "https://revisor.mo.gov/main/Info.aspx?doc=2012SessionLaws.pdf#page=203",
+     "sha256": "adac61515df7db7b71198cd33e2e2b11b12455831462ba62bed0ec48df3aa72b",
+     "in_force_basis": "became effective ninety days thereafter on August 28, 2012 Regular session; no exceptional commencement wording in this bill.",
+     "units": 1
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-hb-1400",
+   "short": "2012 HB 1400",
+   "title": "Missouri 2012 HB 1400 (session law as printed)",
+   "url": "https://revisor.mo.gov/main/Info.aspx?doc=2012SessionLaws.pdf#page=349",
+   "versions": [
+    {
+     "from": "2012-07-10",
+     "source_url": "https://revisor.mo.gov/main/Info.aspx?doc=2012SessionLaws.pdf#page=349",
+     "sha256": "adac61515df7db7b71198cd33e2e2b11b12455831462ba62bed0ec48df3aa72b",
+     "in_force_basis": "section A of this act shall be in full force and effect upon its passage and approval. Approved July 10, 2012",
+     "units": 1
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-hb-1827",
+   "short": "2012 HB 1827",
+   "title": "Missouri 2012 HB 1827 (session law as printed)",
+   "url": "https://revisor.mo.gov/main/Info.aspx?doc=2012SessionLaws.pdf#page=694",
+   "versions": [
+    {
+     "from": "2012-08-28",
+     "source_url": "https://revisor.mo.gov/main/Info.aspx?doc=2012SessionLaws.pdf#page=694",
+     "sha256": "adac61515df7db7b71198cd33e2e2b11b12455831462ba62bed0ec48df3aa72b",
+     "in_force_basis": "became effective ninety days thereafter on August 28, 2012 Regular session; no exceptional commencement wording in this bill.",
+     "units": 1
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-sb-489",
+   "short": "2012 SB 489",
+   "title": "Missouri 2012 SB 489 (session law as printed)",
+   "url": "https://revisor.mo.gov/main/Info.aspx?doc=2012SessionLaws.pdf#page=803",
+   "versions": [
+    {
+     "from": "2012-07-10",
+     "source_url": "https://revisor.mo.gov/main/Info.aspx?doc=2012SessionLaws.pdf#page=803",
+     "sha256": "adac61515df7db7b71198cd33e2e2b11b12455831462ba62bed0ec48df3aa72b",
+     "in_force_basis": "section A of this act shall be in full force and effect upon its passage and approval. Approved July 10, 2012",
+     "units": 1
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-sb-498",
+   "short": "2012 SB 498",
+   "title": "Missouri 2012 SB 498 (session law as printed)",
+   "url": "https://revisor.mo.gov/main/Info.aspx?doc=2012SessionLaws.pdf#page=806",
+   "versions": [
+    {
+     "from": "2012-05-30",
+     "source_url": "https://revisor.mo.gov/main/Info.aspx?doc=2012SessionLaws.pdf#page=806",
+     "sha256": "adac61515df7db7b71198cd33e2e2b11b12455831462ba62bed0ec48df3aa72b",
+     "in_force_basis": "section A of this act shall be in full force and effect upon its passage and approval. Approved May 30, 2012",
+     "units": 1
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-sb-835",
+   "short": "2012 SB 835",
+   "title": "Missouri 2012 SB 835 (session law as printed)",
+   "url": "https://revisor.mo.gov/main/Info.aspx?doc=2012SessionLaws.pdf#page=1005",
+   "versions": [
+    {
+     "from": "2012-06-11",
+     "source_url": "https://revisor.mo.gov/main/Info.aspx?doc=2012SessionLaws.pdf#page=1005",
+     "sha256": "adac61515df7db7b71198cd33e2e2b11b12455831462ba62bed0ec48df3aa72b",
+     "in_force_basis": "section A of this act shall be in full force and effect upon its passage and approval. Approved June 11, 2012",
+     "units": 1
+    }
+   ]
   }
  ]
 }
