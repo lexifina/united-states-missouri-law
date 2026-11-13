@@ -1,3 +1,7 @@
+## Session-law continuation: 2009
+
+1 prints were checked against the official annual PDF. PyMuPDF agrees with pypdf or PDFMiner on the characters, although some word spaces differ. Source page spans and hashes are recorded in data/session-law-sources.tsv. No OCR or model-generated law text was used.
+
 ## Further source-dated session laws
 
 68 additional prints match their official PDF text layers. Independent pypdf or PDFMiner extraction agrees with PyMuPDF on characters; some word spacing differs. Page spans, source URLs, hashes and dates are listed in data/session-law-sources.tsv. No OCR or model-generated law text was used.
