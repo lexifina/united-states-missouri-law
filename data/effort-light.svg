@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="752" viewBox="0 0 880 752" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif">
+<rect x="0.5" y="0.5" width="879" height="751" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="24" y="38" font-size="16" font-weight="600" fill="#1f2328">Missouri law as a git history</text>
+<rect x="289.4" y="24.5" width="61" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
+<text x="319.8" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">63117d6</text>
+<rect x="358.2" y="24.5" width="157" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
+<text x="436.6" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">record to Nov 11, 2026</text>
+<rect x="523.0" y="24.5" width="176" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
+<text x="611.0" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">freshness: pending-change</text>
+<rect x="24.5" y="60.5" width="831" height="58" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="40.0" y="87" font-size="20" font-weight="600" fill="#1f2328">473</text>
+<text x="40.0" y="106" font-size="12" fill="#59636e">acts</text>
+<line x1="190.4" y1="61" x2="190.4" y2="118" stroke="#d1d9e0"/>
+<text x="206.4" y="87" font-size="20" font-weight="600" fill="#1f2328">942</text>
+<text x="206.4" y="106" font-size="12" fill="#59636e">changes, as commits</text>
+<line x1="356.8" y1="61" x2="356.8" y2="118" stroke="#d1d9e0"/>
+<text x="372.8" y="87" font-size="20" font-weight="600" fill="#1f2328">31,683</text>
+<text x="372.8" y="106" font-size="12" fill="#59636e">provision files</text>
+<line x1="523.2" y1="61" x2="523.2" y2="118" stroke="#d1d9e0"/>
+<text x="539.2" y="87" font-size="20" font-weight="600" fill="#1f2328">470</text>
+<text x="539.2" y="106" font-size="12" fill="#59636e">laws and publishers credited</text>
+<line x1="689.6" y1="61" x2="689.6" y2="118" stroke="#d1d9e0"/>
+<text x="705.6" y="87" font-size="20" font-weight="600" fill="#1f2328">2009–2026</text>
+<text x="705.6" y="106" font-size="12" fill="#59636e">years of history</text>
+<rect x="24.5" y="134.5" width="831" height="248" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="40.5" y="160.5" font-size="14" font-weight="600" fill="#1f2328">Changes by the year they took effect</text>
+<line x1="80.5" y1="330.5" x2="839.5" y2="330.5" stroke="#d1d9e0" stroke-width="1"/>
+<text x="72.5" y="334.5" font-size="11" text-anchor="end" fill="#59636e">0</text>
+<line x1="80.5" y1="300.5" x2="839.5" y2="300.5" stroke="#d1d9e0" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="304.5" font-size="11" text-anchor="end" fill="#59636e">100</text>
+<line x1="80.5" y1="270.5" x2="839.5" y2="270.5" stroke="#d1d9e0" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="274.5" font-size="11" text-anchor="end" fill="#59636e">200</text>
+<line x1="80.5" y1="240.5" x2="839.5" y2="240.5" stroke="#d1d9e0" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="244.5" font-size="11" text-anchor="end" fill="#59636e">300</text>
+<line x1="80.5" y1="210.5" x2="839.5" y2="210.5" stroke="#d1d9e0" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="214.5" font-size="11" text-anchor="end" fill="#59636e">400</text>
+<line x1="80.5" y1="180.5" x2="839.5" y2="180.5" stroke="#d1d9e0" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="184.5" font-size="11" text-anchor="end" fill="#59636e">500</text>
+<text x="98.6" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2006</text>
+<text x="170.9" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2008</text>
+<rect x="189.53" y="314.9" width="34.94" height="15.6" rx="1.5" fill="#1f883d"><title>2009: 52 changes took effect</title></rect>
+<rect x="225.67" y="327.8" width="34.94" height="2.7" rx="1.5" fill="#1f883d"><title>2010: 9 changes took effect</title></rect>
+<text x="243.1" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2010</text>
+<rect x="261.81" y="328.1" width="34.94" height="2.4" rx="1.5" fill="#1f883d"><title>2011: 8 changes took effect</title></rect>
+<rect x="297.96" y="321.2" width="34.94" height="9.3" rx="1.5" fill="#1f883d"><title>2012: 31 changes took effect</title></rect>
+<text x="315.4" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2012</text>
+<rect x="334.10" y="308.0" width="34.94" height="22.5" rx="1.5" fill="#1f883d"><title>2013: 75 changes took effect</title></rect>
+<rect x="370.24" y="301.1" width="34.94" height="29.4" rx="1.5" fill="#1f883d"><title>2014: 98 changes took effect</title></rect>
+<text x="387.7" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2014</text>
+<rect x="406.39" y="306.8" width="34.94" height="23.7" rx="1.5" fill="#1f883d"><title>2015: 79 changes took effect</title></rect>
+<rect x="442.53" y="308.6" width="34.94" height="21.9" rx="1.5" fill="#1f883d"><title>2016: 73 changes took effect</title></rect>
+<text x="460.0" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2016</text>
+<rect x="478.67" y="318.5" width="34.94" height="12.0" rx="1.5" fill="#1f883d"><title>2017: 40 changes took effect</title></rect>
+<rect x="514.81" y="329.0" width="34.94" height="1.5" rx="1.5" fill="#1f883d"><title>2018: 1 change took effect</title></rect>
+<text x="532.3" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2018</text>
+<rect x="587.10" y="329.0" width="34.94" height="1.5" rx="1.5" fill="#1f883d"><title>2020: 4 changes took effect</title></rect>
+<text x="604.6" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2020</text>
+<text x="676.9" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2022</text>
+<text x="749.1" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2024</text>
+<rect x="803.96" y="188.9" width="34.94" height="141.6" rx="1.5" fill="#1f883d"><title>2026: 472 changes took effect</title></rect>
+<text x="821.4" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2026</text>
+<text x="821.4" y="182.9" font-size="11" font-weight="600" text-anchor="middle" fill="#1f2328">472 in 2026</text>
+<text x="40.5" y="368.5" font-size="11.5" fill="#59636e">942 changes dated by their in-force day. History type: current-only chapters and session laws as printed.</text>
+<rect x="24.5" y="396.5" width="831" height="152" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="40.5" y="422.5" font-size="14" font-weight="600" fill="#1f2328">Completeness, checked against the official sources on Nov 13, 2026</text>
+<text x="40.5" y="446.5" font-size="13" fill="#1f2328">Constitution</text>
+<text x="40.5" y="462.5" font-size="11.5" fill="#59636e">held in the repository</text>
+<text x="424.0" y="450.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f883d">held</text>
+<text x="40.5" y="482.5" font-size="13" fill="#1f2328">State code</text>
+<text x="40.5" y="498.5" font-size="11.5" fill="#59636e">458 of 458 chapters</text>
+<g><title>State code: 100%</title><rect x="276.5" y="479.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="479.5" width="91.5" height="8" rx="4" fill="#1f883d"/></g>
+<text x="424.0" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">100%</text>
+<text x="40.5" y="518.5" font-size="13" fill="#1f2328">Amendment history</text>
+<text x="40.5" y="534.5" font-size="11.5" fill="#59636e">1,215 RSMo section files changed in…</text>
+<text x="424.0" y="522.5" font-size="13" font-weight="600" text-anchor="end" fill="#59636e">current text only</text>
+<text x="456.0" y="446.5" font-size="13" fill="#1f2328">Case law</text>
+<text x="456.0" y="462.5" font-size="11.5" fill="#59636e">139,451 of the 139,635 published decisions in CAP (to 2018)</text>
+<g><title>Case law: 99.9%</title><rect x="692.0" y="443.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="692.0" y="443.5" width="91.4" height="8" rx="4" fill="#1f883d"/></g>
+<text x="839.5" y="450.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">99.9%</text>
+<text x="456.0" y="482.5" font-size="13" fill="#1f2328">Local law</text>
+<text x="456.0" y="498.5" font-size="11.5" fill="#59636e">county and city ordinances</text>
+<text x="839.5" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#59636e">none held</text>
+<text x="456.0" y="518.5" font-size="13" fill="#1f2328">Verdict</text>
+<text x="456.0" y="534.5" font-size="11.5" fill="#59636e">Holds all 458 RSMo chapters that have sections on the Revisor's…</text>
+<text x="839.5" y="522.5" font-size="13" font-weight="600" text-anchor="end" fill="#59636e"></text>
+<rect x="24.5" y="562.5" width="831" height="152" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="40.5" y="588.5" font-size="14" font-weight="600" fill="#1f2328">Correctness of what is held</text>
+<text x="40.5" y="612.5" font-size="13" fill="#1f2328">Changes with an in-force date</text>
+<text x="40.5" y="628.5" font-size="11.5" fill="#59636e">share of changes</text>
+<g><title>Changes with an in-force date: 100%</title><rect x="276.5" y="609.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="609.5" width="91.5" height="8" rx="4" fill="#1f883d"/></g>
+<text x="424.0" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">100%</text>
+<text x="40.5" y="648.5" font-size="13" fill="#1f2328">Changes citing their official source</text>
+<text x="40.5" y="664.5" font-size="11.5" fill="#59636e">a Source line or link in the commit</text>
+<g><title>Changes citing their official source: 100%</title><rect x="276.5" y="645.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="645.5" width="91.5" height="8" rx="4" fill="#1f883d"/></g>
+<text x="424.0" y="652.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">100%</text>
+<text x="40.5" y="684.5" font-size="13" fill="#1f2328">Checked against the official source</text>
+<text x="40.5" y="700.5" font-size="11.5" fill="#59636e">repository says Nov 11, 2026; global-law’s monitor Nov 3, 2026</text>
+<text x="424.0" y="688.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">Nov 11, 2026</text>
+<text x="456.0" y="612.5" font-size="13" fill="#1f2328">global-law's checks</text>
+<text x="456.0" y="628.5" font-size="11.5" fill="#59636e">1 problem, 3 warnings</text>
+<text x="839.5" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#d1242f">fails</text>
+<text x="456.0" y="648.5" font-size="13" fill="#1f2328">Corpora for this state in global-law</text>
+<text x="456.0" y="664.5" font-size="11.5" fill="#59636e">state acts: 1, case law: 2</text>
+<text x="839.5" y="652.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">3</text>
+<text x="456.0" y="684.5" font-size="13" fill="#1f2328">Record runs to</text>
+<text x="456.0" y="700.5" font-size="11.5" fill="#59636e">freshness status: pending-change</text>
+<text x="839.5" y="688.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">Nov 11, 2026</text>
+<text x="24" y="736" font-size="11.5" fill="#59636e">lexifina/united-states-missouri-law at 63117d6, built 2026-11-13. Changes exclude documentation commits. Scope: 473 acts, 1687 dated versions from 1939-08-28 to 2026-11-02</text>
+</svg>
