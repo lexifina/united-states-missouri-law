@@ -15840,6 +15840,21 @@
      "units": 1
     }
    ]
+  },
+  {
+   "slug": "session-law-2012-hb-1731",
+   "short": "2012 HB 1731",
+   "title": "Missouri 2012 HB 1731 (session law as printed)",
+   "url": "https://revisor.mo.gov/main/Info.aspx?doc=2012SessionLaws.pdf#page=642",
+   "versions": [
+    {
+     "from": "2012-05-30",
+     "source_url": "https://revisor.mo.gov/main/Info.aspx?doc=2012SessionLaws.pdf#page=642",
+     "sha256": "adac61515df7db7b71198cd33e2e2b11b12455831462ba62bed0ec48df3aa72b",
+     "in_force_basis": "section A of this act shall be in full force and effect upon its passage and approval. Approved May 30, 2012",
+     "units": 1
+    }
+   ]
   }
  ]
 }
