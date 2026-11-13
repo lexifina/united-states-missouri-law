@@ -15780,6 +15780,66 @@
      "units": 1
     }
    ]
+  },
+  {
+   "slug": "session-law-2011-hb-83",
+   "short": "2011 HB 83",
+   "title": "Missouri 2011 HB 83 (session law as printed)",
+   "url": "https://revisor.mo.gov/main/Info.aspx?doc=2011SessionLaws.pdf#page=263",
+   "versions": [
+    {
+     "from": "2011-08-28",
+     "source_url": "https://revisor.mo.gov/main/Info.aspx?doc=2011SessionLaws.pdf#page=263",
+     "sha256": "94f512094da93d3d6d631788319d8a281001c8e417589d93cd7386293a60eeed",
+     "in_force_basis": "became effective ninety days thereafter on August 28, 2011 Regular session; no exceptional commencement wording in this bill.",
+     "units": 1
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2011-hb-250",
+   "short": "2011 HB 250",
+   "title": "Missouri 2011 HB 250 (session law as printed)",
+   "url": "https://revisor.mo.gov/main/Info.aspx?doc=2011SessionLaws.pdf#page=621",
+   "versions": [
+    {
+     "from": "2011-08-28",
+     "source_url": "https://revisor.mo.gov/main/Info.aspx?doc=2011SessionLaws.pdf#page=621",
+     "sha256": "94f512094da93d3d6d631788319d8a281001c8e417589d93cd7386293a60eeed",
+     "in_force_basis": "became effective ninety days thereafter on August 28, 2011 Regular session; no exceptional commencement wording in this bill.",
+     "units": 1
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2011-hb-591",
+   "short": "2011 HB 591",
+   "title": "Missouri 2011 HB 591 (session law as printed)",
+   "url": "https://revisor.mo.gov/main/Info.aspx?doc=2011SessionLaws.pdf#page=1055",
+   "versions": [
+    {
+     "from": "2011-08-28",
+     "source_url": "https://revisor.mo.gov/main/Info.aspx?doc=2011SessionLaws.pdf#page=1055",
+     "sha256": "94f512094da93d3d6d631788319d8a281001c8e417589d93cd7386293a60eeed",
+     "in_force_basis": "became effective ninety days thereafter on August 28, 2011 Regular session; no exceptional commencement wording in this bill.",
+     "units": 1
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2011-sb-356",
+   "short": "2011 SB 356",
+   "title": "Missouri 2011 SB 356 (session law as printed)",
+   "url": "https://revisor.mo.gov/main/Info.aspx?doc=2011SessionLaws.pdf#page=1481",
+   "versions": [
+    {
+     "from": "2011-07-11",
+     "source_url": "https://revisor.mo.gov/main/Info.aspx?doc=2011SessionLaws.pdf#page=1481",
+     "sha256": "94f512094da93d3d6d631788319d8a281001c8e417589d93cd7386293a60eeed",
+     "in_force_basis": "section A of this act shall be in full force and effect upon its passage and approval. Approved July 11, 2011",
+     "units": 1
+    }
+   ]
   }
  ]
 }
